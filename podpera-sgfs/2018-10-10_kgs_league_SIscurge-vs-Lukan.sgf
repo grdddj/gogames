@@ -1,0 +1,444 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[Lukan]PB[SIscurge]BR[4d]DT[2018-10-10]PC[The KGS Go Server at http://www.gokgs.com/]C[SIscurge [4d\]: peknou
+Lukan [-\]: Lukas Podpera 7d - WS Praha
+SIscurge [4d\]: Ondrej Kruml 5d Brno A
+Lukan [-\]: peknou partii :)
+]RE[W+13.50]
+;B[pd]BL[2686.805]
+;W[dp]WL[2688.87]
+;B[pq]BL[2685.767]
+;W[dd]WL[2674.926]
+;B[fc]BL[2677.881]
+;W[qc]WL[2650.198]
+;B[qd]BL[2660.115]
+;W[pc]WL[2640.508]
+;B[nc]BL[2655.163]
+;W[oc]WL[2620.24]
+;B[od]BL[2650.4]
+;W[nb]WL[2610.461]
+;B[rc]BL[2648.289]
+;W[rb]WL[2601.903]
+;B[ob]BL[2639.215]
+;W[rd]WL[2587.93]
+;B[qb]BL[2626.26]
+;W[sc]WL[2584.929]
+;B[pb]BL[2626.005]
+;W[rc]WL[2583.325]
+;B[mb]BL[2578.328]
+;W[nd]WL[2574.4]
+;B[mc]BL[2575.58]
+;W[qf]WL[2567.939]
+;B[nf]BL[2516.106]
+;W[qi]WL[2458.045]
+;B[cf]BL[2468.842]
+;W[fd]WL[2443.789]
+;B[gd]BL[2462.866]
+;W[fe]WL[2432.252]
+;B[dc]BL[2460.738]
+;W[cc]WL[2427.88]
+;B[ec]BL[2444.734]
+;W[df]WL[2420.976]
+;B[dg]BL[2412.317]
+;W[ce]WL[2401.027]
+;B[ef]BL[2354.108]
+;W[de]WL[2392.654]
+;B[cb]BL[2342.448]
+;W[cg]WL[2375.699]
+;B[dh]BL[2325.227]
+;W[ch]WL[2267.407]
+;B[ci]BL[2260.116]
+;W[di]WL[2235.315]
+;B[bf]BL[2232.288]
+;W[eg]WL[2006.95]
+;B[eh]BL[2213.077]
+;W[ei]WL[2001.141]
+;B[fh]BL[2182.973]
+;W[bi]WL[1996.411]
+;B[cj]BL[2150.718]
+;W[bg]WL[1991.185]
+;B[bj]BL[2141.769]
+;W[ah]WL[1966.307]
+;B[fi]BL[2092.089]
+;W[dk]WL[1917.038]
+;B[ek]BL[1994.026]
+;W[dj]WL[1912.904]
+;B[dl]BL[1992.752]
+;W[ck]WL[1910.966]
+;B[el]BL[1985.598]C[SIscurge [4d\]: muze mi radit pulca? O:-)
+Lukan [-\]: lol
+SIscurge [4d\]: jenom zdibicek ;-)
+Lukan [-\]: zapomen ^^
+]
+;W[fq]WL[1765.796]
+;B[cp]BL[1944.544]
+;W[cq]WL[1719.086]
+;B[co]BL[1921.047]
+;W[bq]WL[1677.068]
+;B[ep]BL[1887.098]
+;W[dq]WL[1650.877]
+;B[ge]BL[1790.932]
+;W[ff]WL[1571.178]
+;B[gf]BL[1770.144]
+;W[fg]WL[1568.134]
+;B[gg]BL[1758.236]
+;W[mg]WL[1542.924]
+;B[pf]BL[1706.176]
+;W[qg]WL[1492.126]
+;B[nh]BL[1576.394]
+;W[mh]WL[1420.183]
+;B[mi]BL[1539.677]
+;W[ng]WL[1412.812]
+;B[og]BL[1532.471]
+;W[li]WL[1258.159]
+;B[ni]BL[1422.435]
+;W[kh]WL[1197.624]
+;B[ph]BL[1364.95]
+;W[rj]WL[1182.865]
+;B[lk]BL[1362.58]
+;W[mf]WL[1176.175]
+;B[lj]BL[1326.453]
+;W[ne]WL[1146.813]
+;B[of]BL[1297.417]
+;W[ji]WL[1134.644]
+;B[kj]BL[1224.691]C[SIscurge [4d\]: pastva pro oci :)
+Lukan [-\]: ^^
+]
+;W[hi]WL[1049.806]
+;B[bk]BL[1070.24]
+;W[cl]WL[920.723]
+;B[bl]BL[980.592]
+;W[cm]WL[917.555]
+;B[bm]BL[975.552]
+;W[cn]WL[910.372]
+;B[do]BL[974.094]
+;W[bn]WL[898.16]
+;B[bo]BL[964.642]
+;W[am]WL[895.584]
+;B[ij]BL[886.275]
+;W[hj]WL[849.202]
+;B[ej]BL[845.651]
+;W[aj]WL[841.672]
+;B[ik]BL[827.686]
+;W[gh]WL[827.348]
+;B[fj]BL[814.849]
+;W[kd]WL[804.428]
+;B[jg]BL[741.571]
+;W[jf]WL[755.578]
+;B[ig]BL[696.357]
+;W[kg]WL[726.51]
+;B[md]BL[632.331]
+;W[me]WL[715.725]
+;B[id]BL[570.957]
+;W[lb]WL[506.685]
+;B[na]BL[178.406]
+;W[jd]WL[440.365]
+;B[jb]BL[60.827]
+;W[ki]WL[313.601]
+;B[hq]BL[51.313]
+;W[jq]WL[243.821]
+;B[ip]BL[5.143]
+;W[mq]WL[192.349]
+;B[er]BL[30]OB[3]
+;W[eq]WL[188.714]
+;B[fr]BL[30]OB[3]
+;W[dr]WL[161.104]
+;B[gr]BL[30]OB[3]
+;W[ap]WL[122.54]
+;B[ao]BL[30]OB[3]
+;W[bs]WL[118.823]C[Bouillon [3d\]: b should definitely have made the exchange a5 a6  before playing e10, when it was sente
+]
+;B[qk]BL[30]OB[3]
+;W[ko]WL[108.687]
+;B[lp]BL[30]OB[3]
+;W[lq]WL[102.28]
+;B[kp]BL[30]OB[3]
+;W[jp]WL[100.373]
+;B[jo]BL[30]OB[3]
+;W[io]WL[89.559]
+;B[jn]BL[30]OB[3]
+;W[kq]WL[83.109]
+;B[lo]BL[30]OB[3]
+;W[ho]WL[42.13]
+;B[gp]BL[30]OB[3]
+;W[ln]WL[30]OW[3]
+;B[kn]BL[30]OB[3]
+;W[mn]WL[30]OW[3]
+;B[dn]BL[30]OB[2]C[wade [6d\]: a5 a10 in that case... wouldnt help...
+]
+;W[ak]WL[30]OW[3]
+;B[mp]BL[30]OB[2]
+;W[np]WL[30]OW[3]
+;B[nq]BL[30]OB[2]
+;W[nr]WL[30]OW[3]
+;B[oq]BL[30]OB[2]
+;W[mo]WL[30]OW[3]
+;B[ko]BL[30]OB[2]
+;W[ir]WL[30]OW[3]
+;B[qm]BL[30]OB[2]
+;W[hp]WL[30]OW[3]
+;B[gq]BL[30]OB[2]
+;W[iq]WL[30]OW[3]
+;B[go]BL[30]OB[2]
+;W[im]WL[30]OW[3]
+;B[kl]BL[30]OB[2]
+;W[qn]WL[30]OW[3]
+;B[qp]BL[30]OB[2]
+;W[rm]WL[30]OW[3]
+;B[rl]BL[30]OB[2]
+;W[pm]WL[30]OW[3]
+;B[ql]BL[30]OB[2]
+;W[qo]WL[30]OW[3]
+;B[rp]BL[30]OB[1]
+;W[ol]WL[30]OW[3]
+;B[pj]BL[30]OB[1]
+;W[nk]WL[30]OW[2]
+;B[nj]BL[30]OB[1]
+;W[oo]WL[30]OW[2]
+;B[dm]BL[30]OB[1]
+;W[al]WL[30]OW[2]
+;B[nm]BL[30]OB[1]
+;W[lm]WL[30]OW[2]
+;B[km]BL[30]OB[1]
+;W[mk]WL[30]OW[2]
+;B[mj]BL[30]OB[1]
+;W[po]WL[30]OW[2]
+;B[ml]BL[30]OB[1]
+;W[ll]WL[30]OW[2]
+;B[bc]BL[30]OB[1]
+;W[be]WL[30]OW[2]
+;B[om]BL[30]OB[1]
+;W[pl]WL[30]OW[2]C[SImasakrzz: p2
+]
+;B[or]BL[30]OB[1]
+;W[ms]WL[30]OW[2]
+;B[qh]BL[30]OB[1]
+;W[rh]WL[30]OW[2]
+;B[ii]BL[30]OB[1]
+;W[gm]WL[30]OW[2]
+;B[hl]BL[30]OB[1]
+;W[hm]WL[30]OW[2]
+;B[ie]BL[30]OB[1]
+;W[je]WL[30]OW[2]
+;B[lc]BL[30]OB[1]
+;W[jc]WL[30]OW[2]
+;B[ib]BL[30]OB[1]
+;W[pi]WL[30]OW[2]
+;B[nl]BL[30]OB[1]
+;W[ok]WL[30]OW[2]
+;B[oj]BL[30]OB[1]
+;W[ro]WL[30]OW[2]
+;B[op]BL[30]OB[1]
+;W[no]WL[30]OW[2]
+;B[sm]BL[30]OB[1]C[sprouts [2d\]: Illegal
+]
+;W[sp]WL[30]OW[2]
+;B[sq]BL[30]OB[1]
+;W[so]WL[30]OW[2]C[SImasakrzz: SE rulez, neuron network
+SImasakrzz: č+41,5
+]
+;B[rr]BL[30]OB[1]
+;W[mm]WL[30]OW[2]C[LeonD [3k\]: BRNOOOOOOOOO!!!
+sprouts [2d\]: SE update?
+Laman [2d\]: Scurge going strong
+Tristar [-\]: Master!!!
+]
+;B[ra]BL[30]OB[1]C[Koubic [?\]: kolik to je?
+SImasakrzz: yeeees
+]
+;W[re]WL[30]OW[2]C[SIeracle [?\]: Defer clan has arrived :D
+tymak [2d\]: zatim 2:1 pro APWS
+Koubic [?\]: ok, dik
+Tristar [-\]: brzo 2:2? :P
+]
+;B[jh]BL[30]OB[1]
+;W[gl]WL[30]OW[2]
+;B[gk]BL[30]OB[1]
+;W[il]WL[30]OW[2]
+;B[hk]BL[30]OB[1]C[sprouts [2d\]: Lukan was 7d
+]
+;W[fp]WL[30]OW[2]
+;B[fo]BL[30]OB[1]
+;W[eo]WL[30]OW[2]
+;B[fn]BL[30]OB[1]C[Koubic [?\]: skoda, mel jsem pripraveny forek, kdyby to bylo 3:0
+]
+;W[bd]WL[30]OW[2]C[SImasakrzz: f*ck off ;)
+sprouts [2d\]: Lol Skoda is a word in your language
+]
+;B[ks]BL[30]OB[1]
+;W[js]WL[30]OW[2]
+;B[os]BL[30]OB[1]C[tymak [2d\]: yep, we have awesome words
+]
+;W[kr]WL[30]OW[2]
+;B[rn]BL[30]OB[1]
+;W[ac]WL[30]OW[2]
+;B[bb]BL[30]OB[1]C[Bouillon [3d\]: close game, but it seems w has a slight lead
+]
+;W[ab]WL[30]OW[2]
+;B[pk]BL[30]OB[1]C[sprouts [2d\]: It is Czech?
+]
+;W[pn]WL[30]OW[2]C[Tristar [-\]: yes
+tymak [2d\]: i was expecting B18, when w went for safer A17, he might fell ahead
+]
+;B[ns]BL[30]OB[1]
+;W[mr]WL[30]OW[2]C[sprouts [2d\]: I see
+]
+;B[sk]BL[30]OB[1]C[SImasakrzz: skodenka n2
+]
+;W[sj]WL[30]OW[2]C[sprouts [2d\]: I was in Liberec. Nice beer
+LeonD [3k\]: :D
+SImasakrzz: thumbs up :D
+]
+;B[hs]BL[30]OB[1]
+;W[ba]WL[30]OW[2]
+;B[ca]BL[30]OB[1]C[hanedecris [3k\]: I wonder if it can be something else than a word
+]
+;W[ic]WL[30]OW[2]
+;B[hc]BL[30]OB[1]
+;W[if]WL[30]OW[2]
+;B[hf]BL[30]OB[1]
+;W[ld]WL[30]OW[2]C[sprouts [2d\]: I was referring to the car brand
+]
+;B[bp]BL[30]OB[1]
+;W[aq]WL[30]OW[2]C[sprouts [2d\]: Probably means fast or something
+]
+;B[is]BL[30]OB[1]C[Tristar [-\]: :D
+]
+;W[ls]WL[30]OW[2]C[Laman [2d\]: as a word it means "a pity" or "too bad"
+]
+;B[kc]BL[30]OB[1]C[hanedecris [3k\]: isn't the car brand a word too?
+sprouts [2d\]: Lol
+LeonD [3k\]: almost
+]
+;W[hr]WL[30]OW[2]
+;B[gs]BL[30]OB[1]C[sprouts [2d\]: That bad marketing
+]
+;W[jk]WL[30]OW[2]
+;B[jj]BL[30]OB[1]
+;W[jl]WL[30]OW[2]
+;B[kk]BL[30]OB[1]
+;W[es]WL[30]OW[2]
+;B[in]BL[30]OB[1]
+;W[hn]WL[30]OW[2]
+;B[cd]BL[30]OB[1]
+;W[ed]WL[30]OW[2]
+;B[fl]BL[30]OB[1]
+;W[cc]WL[30]OW[2]C[Jara [3k\]: It is name of the first owner
+]
+;B[sn]BL[30]OB[1]
+;W[on]WL[30]OW[2]
+;B[cd]BL[30]OB[1]
+;W[rk]WL[30]OW[2]
+;B[sl]BL[30]OB[1]
+;W[cc]WL[30]OW[2]
+;B[ds]BL[30]OB[1]
+;W[cs]WL[30]OW[2]
+;B[cd]BL[30]OB[1]C[sprouts [2d\]: Who calls his son "a pity"? That's tough life already
+Laman [2d\]: surname
+]
+;W[hd]WL[30]OW[2]
+;B[he]BL[30]OB[1]
+;W[cc]WL[30]OW[2]
+;B[rg]BL[30]OB[1]
+;W[ri]WL[30]OW[2]C[sprouts [2d\]: And then create a global car manufacturer. Fate, in your face
+]
+;B[cd]BL[30]OB[1]
+;W[oe]WL[30]OW[2]
+;B[pe]BL[30]OB[1]
+;W[cc]WL[30]OW[2]C[tymak [2d\]: hundred year ago it could have also some good meaning...who knows
+]
+;B[br]BL[30]OB[1]
+;W[ar]WL[30]OW[2]C[SImasakrzz: @tymak nfw
+]
+;B[cd]BL[30]OB[1]
+;W[hg]WL[30]OW[2]
+;B[hh]BL[30]OB[1]
+;W[cc]WL[30]OW[2]
+;B[le]BL[30]OB[1]
+;W[lf]WL[30]OW[2]
+;B[cd]BL[30]OB[1]
+;W[rq]WL[30]OW[2]
+;B[qq]BL[30]OB[1]
+;W[cc]WL[30]OW[2]
+;B[ke]BL[30]OB[1]
+;W[kf]WL[30]OW[2]
+;B[cd]BL[30]OB[1]
+;W[sr]WL[30]OW[2]
+;B[ss]BL[30]OB[1]
+;W[cc]WL[30]OW[2]
+;B[ad]BL[30]OB[1]
+;W[ae]WL[30]OW[2]
+;B[cd]BL[30]OB[1]
+;W[qa]WL[30]OW[2]
+;B[pa]BL[30]OB[1]
+;W[cc]WL[30]OW[2]
+;B[pp]BL[30]OB[1]
+;W[nn]WL[30]OW[2]
+;B[cd]BL[30]OB[1]
+;W[rs]WL[30]OW[2]
+;B[qs]BL[30]OB[1]
+;W[cc]WL[30]OW[2]
+;B[nl]BL[30]OB[1]
+;W[nm]WL[30]OW[2]
+;B[cd]BL[30]OB[1]
+;W[ad]WL[30]OW[2]
+;B[cc]BL[30]OB[1]
+;W[aa]WL[30]OW[2]
+;B[en]BL[30]OB[1]
+;W[fm]WL[30]OW[2]
+;B[ep]BL[30]OB[1]C[Laman [2d\]: etymology: From Old High German scado ... “damage, harm”
+]
+;W[rf]WL[30]OW[2]
+;B[eo]BL[30]OB[1]
+;W[ds]WL[30]OW[2]
+;B[]BL[30]OB[1]
+;W[ip]WL[30]OW[2]
+;B[oh]BL[30]OB[1]
+;W[sb]WL[30]OW[2]
+;B[qa]BL[30]OB[1]
+;W[qe]WL[30]OW[2]
+;B[pg]BL[30]OB[1]
+;W[qj]WL[30]OW[2]C[SIscurge [4d\]: japonsky ne?
+]
+;B[oi]BL[30]OB[1]C[sprouts [2d\]: Ah, Schaden
+Lukan [-\]: a jo
+]
+;W[]WL[30]OW[2]C[sprouts [2d\]: Probably
+]
+;B[]BL[30]OB[1]TW[sd][ee][ke][le][se][af][bf][cf][ef][sf][ag][lg][rg][sg][bh][lh][sh][ai][ci][si][bj][cj][bk][bl][ml][nl][bm][om][br][cr][jr][lr][as][ks]TB[da][ea][fa][ga][ha][ia][ja][ka][la][ma][oa][db][eb][fb][gb][hb][kb][lb][nb][gc][hd][hg][gh][ih][gi][hi][gj][hj][fk][rm][rq][pr][qr][sr][ps][rs]C[Lukan [-\]: diky
+SIscurge [4d\]: dik
+sprouts [2d\]: Like Farzeugschaden
+Lukan [-\]: hej nez si sel do byoyomi tak jsi hral fakt exaktne
+sprouts [2d\]: It's broken car. Lol
+Lukan [-\]: jsem byl docela rozstreleny
+SIscurge [4d\]: no jo
+SIscurge [4d\]: to jo
+SIscurge [4d\]: :) 
+Lukan [-\]: musel jsem vsude prezit
+SIscurge [4d\]: ne jenom prezit :D
+Lukan [-\]: coz nebylo moc korektni ^^
+SIscurge [4d\]: jsi mi rozbil to vlevo uplne zanic
+SIscurge [4d\]: a pak jsi udleal vpravo 8 bodu :D
+Lukan [-\]: jj ^^
+Lukan [-\]: ale urcite jsi to mohl hrat i jednodusseji, jak to zavrit
+Lukan [-\]: v dobe H3 etc
+SIscurge [4d\]: no urco
+SIscurge [4d\]: ten strihl vlevo nahore byl prehlid ve fuseki?
+Lukan [-\]: jaky strih?
+SIscurge [4d\]: d11
+Lukan [-\]: jakoze overplay?
+Lukan [-\]: mozna nebylo nutne no
+Lukan [-\]: jsi to dobre obetoval pak, jsem nevidel
+SIscurge [4d\]: tak od te doby to pak bylo zle za tebe ne?
+SIscurge [4d\]: jenom vyber 
+SIscurge [4d\]: a pohoda
+Lukan [-\]: asi jj
+Lukan [-\]: podle me jsem to nezahral vylozene blbe, ale ty hodne exaktne
+SIscurge [4d\]: :D
+SIscurge [4d\]: no nevim
+Lukan [-\]: ^^
+Lukan [-\]: uvidime co rekne Leela zitra
+SIscurge [4d\]: uz pujdu diky cg :)
+Lukan [-\]: diky :)
+Lukan [-\]: mej se!
+])

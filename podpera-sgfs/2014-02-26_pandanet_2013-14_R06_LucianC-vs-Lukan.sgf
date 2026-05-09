@@ -1,0 +1,370 @@
+(;
+GM[1]EV[Internet Go Server game: Lukan vs LucianC]
+US[Brought to you by IGS PANDANET]
+CoPyright[
+  Copyright (c) PANDANET Inc. 2014
+  Permission to reproduce this game is given, provided proper credit is given.
+  No warrantee, implied or explicit, is understood.
+  Use of this game is an understanding and agreement of this notice.
+]
+GN[Lukan-LucianC(B) IGS]RE[W+6.5]
+PW[Lukan]WR[5d?]NW[33]
+PB[LucianC]BR[5d ]NB[33]
+PC[IGS:  igs.joyjoy.net 6969]DT[2014-02-26]
+SZ[19]TM[3600]KM[6.500000]LT[]
+RR[Normal]
+C[
+ Lukan 5d?: have a nice game!
+ LucianC 5d : 19 Have a good game
+]
+;B[pd]BL[3589]
+;W[dd]WL[3588]
+;B[pp]BL[3587]
+;W[dq]WL[3583]
+;B[cn]BL[3585]
+;W[cp]WL[3553]
+;B[dj]BL[3584]
+;W[ch]WL[3503]
+;B[en]BL[3576]
+;W[dm]WL[3494]
+;B[dn]BL[3575]
+;W[gq]WL[3491]
+;B[cf]BL[3561]
+;W[fc]WL[3312]
+;B[bj]BL[3268]
+;W[ck]WL[3207]
+;B[cj]BL[3256]
+;W[df]WL[3193]
+;B[ce]BL[3205]
+;W[cd]WL[3188]
+;B[de]BL[3204]
+;W[ee]WL[3176]
+;B[dg]BL[3203]
+;W[ef]WL[3171]
+;B[cg]BL[3201]
+;W[nc]WL[3138]
+;B[qf]BL[3195]
+;W[kd]WL[3109]
+;B[eg]BL[3033]
+;W[qn]WL[2995]
+;B[qk]BL[3028]
+;W[np]WL[2903]
+;B[pn]BL[3002]
+;W[qq]WL[2881]
+;B[pq]BL[2955]
+;W[pm]WL[2876]
+;B[on]BL[2952]
+;W[qp]WL[2872]
+;B[qm]BL[2951]
+;W[qo]WL[2869]
+;B[po]BL[2950]
+;W[rm]WL[2864]
+;B[ql]BL[2949]
+;W[pg]WL[2669]
+;B[nd]BL[2732]
+;W[md]WL[2573]
+;B[ne]BL[2730]
+;W[oc]WL[2528]
+;B[me]BL[2723]
+;W[pc]WL[2476]
+;B[ld]BL[2721]
+;W[mc]WL[2470]
+;B[le]BL[2718]
+;W[lc]WL[2416]
+;B[mj]BL[2527]
+;W[qd]WL[2387]
+;B[pf]BL[2525]
+;W[jf]WL[2144]
+;B[jq]BL[2509]
+;W[kp]WL[2070]
+;B[jp]BL[2505]
+;W[kn]WL[1977]
+;B[jo]BL[2498]
+;W[nn]WL[1889]
+;B[nm]BL[2300]
+;W[mm]WL[1881]
+;B[mn]BL[2244]
+;W[ln]WL[1822]
+;B[no]BL[2242]
+;W[mo]WL[1817]
+;B[nn]BL[2233]
+;W[im]WL[1669]
+;B[gp]BL[1980]
+;W[fp]WL[1559]
+;B[fo]BL[1978]
+;W[hp]WL[1550]
+;B[go]BL[1977]
+;W[ho]WL[1388]
+;B[hq]BL[1926]
+;W[iq]WL[1257]
+;B[hr]BL[1925]
+;W[gr]WL[1215]
+;B[ir]BL[1912]
+;W[hn]WL[1208]
+;B[mq]BL[1910]
+;W[kk]WL[1115]
+;B[bo]BL[1884]
+;W[bp]WL[1094]
+;B[ml]BL[1815]
+;W[ik]WL[1062]
+;B[hf]BL[1804]
+;W[li]WL[989]
+;B[mi]BL[1793]
+;W[lh]WL[955]
+;B[mh]BL[1763]
+;W[fk]WL[861]
+;B[ff]BL[1715]
+;W[fe]WL[854]
+;B[gf]BL[1714]
+;W[dk]WL[796]
+;B[fq]BL[1702]
+;W[fr]WL[789]
+;B[ep]BL[1697]
+;W[eq]WL[784]
+;B[ap]BL[1689]
+;W[aq]WL[780]
+;B[ao]BL[1686]
+;W[br]WL[772]
+;B[bk]BL[1421]
+;W[re]WL[739]
+;B[rf]BL[1365]
+;W[sf]WL[733]
+;B[sg]BL[1364]
+;W[se]WL[732]
+;B[rg]BL[1351]
+;W[id]WL[688]
+;B[pr]BL[1344]
+;W[qr]WL[684]
+;B[bd]BL[1319]
+;W[bc]WL[677]
+;B[be]BL[1317]
+;W[rl]WL[640]
+;B[rk]BL[1315]
+;W[cb]WL[614]
+;B[qs]BL[1289]
+;W[rs]WL[597]
+;B[ps]BL[1281]
+;W[sr]WL[595]
+;B[hd]BL[1277]
+;W[hc]WL[592]
+;B[ie]BL[1217]
+;W[je]WL[568]
+;B[ic]BL[1215]
+;W[jd]WL[559]
+;B[gc]BL[1214]
+;W[hb]WL[557]
+;B[gb]BL[924]
+;W[gd]WL[441]
+;B[ge]BL[919]
+;W[he]WL[437]
+;B[qc]BL[918]
+;W[rc]WL[328]
+;B[hd]BL[916]
+;W[fd]WL[317]
+;B[ib]BL[914]
+;W[he]WL[309]
+;B[qb]BL[868]
+;W[rb]WL[304]
+;B[hd]BL[867]
+;W[lq]WL[267]C[
+ weaker 3d?: whats the score? i came lately probably
+ Laman 13k : this is first game, the others are just starting
+ weaker 3d?: so they played fastly
+ Laman 13k : they started earlier. see their times
+]
+;B[lr]BL[644]
+;W[he]WL[255]C[
+ Laman 13k : but Jan Hora is still not here, that worries me
+ weaker 3d?: is he captain?
+ exitek6 5k?: no
+]
+;B[jn]BL[494]C[
+ exitek6 5k?: Vladim Danek I think
+ Laman 13k : i dont think so. and he plays 3rd board. but still, the match should have started 20 mins ago
+ exitek6 5k?: But Cornel is also missing, wright?
+ Laman 13k : Cornel and Mano both online
+ weaker 3d?: no i saw him
+ exitek6 5k?: ok, but game isn´t in progress?
+ exitek6 5k?: or, because i dont see it
+ Laman 13k : right, they haven't started yet
+ exitek6 5k?: you know why?
+ Laman 13k : no idea really
+]
+;W[if]WL[50]C[
+ Laman 13k : but Jan Hora is online, finally
+]
+;B[km]BL[449]C[
+ exitek6 5k?: probably connection problem
+ exitek6 5k?: no idea, how Lukan want save this group
+]
+;W[fh]WL[556]C[
+ Dexihno1 5k?: he had no more ko threats, so unfortunately he had to let that group go :/
+ weaker 3d?: maybe he wants not
+]
+;B[fg]BL[286]
+;W[hh]WL[554]
+;B[gk]BL[284]C[
+ weaker 3d?: all are playing...)
+]
+;W[fl]WL[404]C[
+ exitek6 5k?: it´s look for black or am I wrong?
+ JanHora 6d?: you are wrong, white is fine
+ exitek6 5k?: ok thanks :)
+]
+;B[gm]BL[118]
+;W[gj]WL[376]
+;B[hm]BL[114]
+;W[in]WL[368]
+;B[hk]BL[109]
+;W[hj]WL[366]C[
+ Laman 13k : any observers who are not Czech? :)
+]
+;B[ej]BL[478]C[
+ Dexihno1 5k?: actually.. is there a way how to find out who is observing the game?
+ Laman 13k : depends on client i think
+]
+;W[fj]WL[317]C[
+ exitek6 5k?: GoPanda shows only number of observers
+ exitek6 5k?: I guess
+ Laman 13k : w+ about 5
+]
+;B[qe]BL[369]
+;W[rd]WL[312]C[
+ Laman 13k : for the spectators, glgo offers a list and i see only Czechs and Romanian team
+ Asmodean 13k+: not really :)
+]
+;B[kg]BL[307]
+;W[lg]WL[295]
+;B[kf]BL[305]
+;W[fm]WL[281]
+;B[cl]BL[200]
+;W[gn]WL[273]
+;B[lj]BL[191]
+;W[kj]WL[270]
+;B[jh]BL[190]
+;W[ji]WL[262]
+;B[dl]BL[186]
+;W[mg]WL[251]
+;B[ng]BL[185]
+;W[ei]WL[238]
+;B[di]BL[183]
+;W[lk]WL[211]
+;B[mk]BL[171]
+;W[jm]WL[196]
+;B[lm]BL[163]
+;W[od]WL[186]
+;B[oe]BL[149]
+;W[ek]WL[136]
+;B[gs]BL[140]
+;W[fp]WL[128]
+;B[rn]BL[138]
+;W[ro]WL[126]
+;B[fq]BL[137]
+;W[er]WL[122]
+;B[eh]BL[134]
+;W[em]WL[96]
+;B[fi]BL[117]
+;W[cm]WL[94]
+;B[bm]BL[116]
+;W[ip]WL[60]
+;B[gh]BL[109]
+;W[fs]WL[553]
+;B[ih]BL[53]
+;W[ii]WL[541]
+;B[jr]BL[34]
+;W[hs]WL[538]
+;B[hg]BL[29]
+;W[ll]WL[474]
+;B[ac]BL[9]
+;W[ab]WL[472]
+;B[sl]BL[8]
+;W[sn]WL[471]
+;B[ad]BL[463]
+;W[kl]WL[469]
+;B[mm]BL[462]
+;W[mf]WL[468]
+;B[nf]BL[461]
+;W[do]WL[455]
+;B[co]BL[453]
+;W[dp]WL[452]
+;B[eo]BL[422]
+;W[hi]WL[445]
+;B[is]BL[418]
+;W[sm]WL[439]
+;B[sk]BL[416]
+;W[gs]WL[430]
+;B[pe]BL[406]
+;W[fp]WL[427]
+;B[ba]BL[275]
+;W[bb]WL[424]
+;B[fq]BL[274]
+;W[bl]WL[419]
+;B[al]BL[273]
+;W[fp]WL[418]
+;B[bq]BL[250]
+;W[cq]WL[412]
+;B[fq]BL[249]
+;W[el]WL[411]
+;B[bl]BL[248]
+;W[fp]WL[411]
+;B[ar]BL[248]
+;W[as]WL[410]
+;B[fq]BL[248]
+;W[ki]WL[388]
+;B[fp]BL[246]
+;W[ig]WL[386]
+;B[fn]BL[237]
+;W[jg]WL[383]
+;B[kh]BL[236]
+;W[ke]WL[382]
+;B[lf]BL[236]
+;W[gi]WL[599]
+;B[io]BL[234]
+;W[tt]WL[595]
+;B[tt]BL[212]
+;W[tt]WL[595]C[
+ Lukan 5d?: Lukan dead @ H9
+ Lukan 5d?: Lukan dead @ C12
+ Lukan 5d?: Lukan dead @ H7
+ Lukan 5d?: Lukan dead @ J17
+ Lukan 5d?: Lukan dead @ G18
+ Lukan 5d?: Lukan dead @ B19
+ LucianC 5d : LucianC dead @ M6
+ Lukan 5d?: Lukan dead @ R18
+ LucianC 5d : LucianC dead @ N5
+ LucianC 5d : LucianC dead @ O4
+ Lukan 5d?: Lukan dead @ Q13
+ LucianC 5d : LucianC dead @ M3
+ Lukan 5d?: Lukan dead @ Q7
+ LucianC 5d : LucianC dead @ L4
+ LucianC done
+];
+
+TW[ar][aa][bs][bq][ba][cs][cr][cc][ca][ds][dr][dc][db][da][es][ed][ec][eb]
+[ea][fb][fa][gm][gl][gk][gc][gb][ga][hm][hl][hk][hd][ha][il][ij][ie][ic]
+[ib][ia][jl][jk][jj][jc][jb][ja][kc][kb][ka][lb][la][mb][ma][nb][na][ob]
+[oa][pb][pa][qc][qb][qa][rr][rq][rp][rn][ra][ss][sq][sp][so][sd][sc][sb]
+[sa]
+
+TB[an][am][ak][aj][ai][ah][ag][af][ae][bn][bi][bh][bg][bf][ci][ch][dh][ei]
+[fh][gg][js][ks][kr][kq][kp][ko][kn][ls][lq][lp][lo][ln][ms][mr][mp][mo]
+[ns][nr][nq][np][nl][nk][nj][ni][nh][os][or][oq][op][oo][om][ol][ok][oj]
+[oi][oh][og][of][pm][pl][pk][pj][pi][ph][pg][qj][qi][qh][qg][rj][ri][rh]
+[sj][si][sh]
+
+OS[AsaphC][Asmodean][betterlife][borav5][breakfast]
+[Cornel][Costy][CPop][crocus][deemendoz]
+[Dexihno1][donkey][dreammaker][durimar][elias]
+[exitek6][flashback][Gigolo][gisa][goydos]
+[gvs][hamete][Hidoshito][hogweed][hvk]
+[Hwater][ivoszz][JanHora][jirka][joncek]
+[Jurjen64][KisedalHig][kos88][kunnchann][Laman]
+[Lentilka][LeT][lordik][manocska][Marley]
+[MicaelSWE][mienai][miira42][mstkigo][mystyle]
+[nidza92][Nilatarion][Nogravity][notevenbad][OferZivo]
+[Ottoovs][Paris][puerhista][Pugovka][rr176]
+[shimamura][Shved][siskin][SlepyKrtek][SlowThinkr]
+[suzumaru][szpulas11][Thinker][weaker][Welvang]
+[Werfeus][Wuwei][Yose]
+
+)

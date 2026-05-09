@@ -1,0 +1,368 @@
+(;
+GM[1]EV[Internet Go Server game: Lukan vs Welvang]
+US[Brought to you by IGS PANDANET]
+CoPyright[
+ Copyright (c) PANDANET Inc. 2011
+ Permission to reproduce this game is given, provided proper credit is given.
+ No warrantee, implied or explicit, is understood.
+ Use of this game is an understanding and agreement of this notice.
+]
+GN[Lukan-Welvang(B) IGS]RE[W+11.5]
+PW[Lukan]WR[5d?]NW[33]
+PB[Welvang]BR[5d?]NB[33]
+PC[IGS:  igs.joyjoy.net 6969]DT[2011-12-07]
+SZ[19]TM[3600]KM[6.500000]LT[]
+RR[Normal]
+C[
+ Lukan 5d?: have a nice game!
+]
+;B[qd]BL[3592]C[
+ Welvang 5d?: thanks you too
+]
+;W[dc]WL[3590]
+;B[pp]BL[3566]
+;W[dp]WL[3574]
+;B[nc]BL[3559]
+;W[qn]WL[3546]
+;B[nq]BL[3540]
+;W[rp]WL[3528]
+;B[qm]BL[3498]
+;W[pm]WL[3511]
+;B[ql]BL[3496]
+;W[pn]WL[3510]
+;B[qq]BL[3485]
+;W[pk]WL[3508]
+;B[rn]BL[3292]
+;W[ro]WL[3501]
+;B[qj]BL[3286]
+;W[pj]WL[3496]
+;B[qi]BL[3254]
+;W[qk]WL[3494]
+;B[rk]BL[3247]
+;W[rj]WL[3493]C[
+ Palko 5d?: Nice joseki :)
+]
+;B[rl]BL[3115]
+;W[ri]WL[3490]C[
+ Laman 13k : this joseki looks like it can't end well for both
+ Sur 11k+: black looks dead to me
+ Laman 13k : it is complicated. black can try to capture S10 or S5
+ Sur 11k+: white has more liberties
+]
+;B[qh]BL[2474]
+;W[rh]WL[3479]
+;B[qg]BL[2471]C[
+ Palko 5d?: good for white
+]
+;W[rg]WL[3287]
+;B[rf]BL[2469]
+;W[qf]WL[2997]
+;B[pf]BL[2463]
+;W[sf]WL[2937]
+;B[re]BL[2442]C[
+ Fiktik 5k?: why R14, doesn't it make black thick?
+ LeT 2d : there must be some magic in the move
+ Palko 5d?: If w wanted to play t14, could play it without r14 exchange, that exchange is bad for him
+ Fiktik 5k?: thanks ... he has to go back to T7 anyway, right?
+ Fiktik 5k?: ... or something
+ Laman 13k : i am not even sure what's the status of the two edge groups
+ LeT 2d : b can t9
+ LeT 2d : and win the semeai imho
+ Fiktik 5k?: isn't it just plain liberty fight after w t7 b t9? 4 vs. 4 and white's turn
+]
+;W[sn]WL[2389]C[
+ Palko 5d?: B wins the semeai, can be a hopeless ko for w :)
+ LeT 2d : oops its whites turn, sorry :-)
+]
+;B[sj]BL[2408]C[
+ Fiktik 5k?: oh, right, the eye, I forgot :)
+]
+;W[rm]WL[2380]C[
+ Palko 5d?: But the result should be good for white
+]
+;B[si]BL[2389]
+;W[pl]WL[2377]
+;B[sg]BL[2373]
+;W[lq]WL[2376]
+;B[rq]BL[2337]
+;W[nr]WL[2374]
+;B[mr]BL[2326]
+;W[mq]WL[2373]
+;B[or]BL[2312]
+;W[np]WL[2372]
+;B[ns]BL[2286]
+;W[oq]WL[2371]
+;B[nr]BL[2286]
+;W[fp]WL[2356]
+;B[de]BL[2256]
+;W[dh]WL[2336]
+;B[gd]BL[2242]
+;W[ee]WL[2305]
+;B[ef]BL[2236]
+;W[fe]WL[2300]
+;B[dd]BL[2214]
+;W[fc]WL[2274]
+;B[cc]BL[2206]
+;W[ec]WL[2273]
+;B[ff]BL[2200]
+;W[ge]WL[2271]
+;B[bd]BL[2199]
+;W[jc]WL[2260]
+;B[dk]BL[2135]
+;W[cm]WL[2205]
+;B[cl]BL[2053]
+;W[dm]WL[2203]
+;B[ei]BL[2051]
+;W[cj]WL[2179]
+;B[dj]BL[1908]
+;W[bl]WL[2059]
+;B[bk]BL[1762]
+;W[ck]WL[2058]
+;B[ci]BL[1762]
+;W[bj]WL[2045]
+;B[bi]BL[1761]
+;W[dl]WL[2043]
+;B[di]BL[1761]
+;W[mc]WL[1964]
+;B[md]BL[1735]C[
+ scurge10 4d?: Brno go club things e15 is totally wrong direction?
+]
+;W[lc]WL[1815]
+;B[nb]BL[1733]
+;W[jq]WL[1811]
+;B[eq]BL[1523]
+;W[dq]WL[1779]
+;B[iq]BL[1461]
+;W[jp]WL[1604]
+;B[dr]BL[1413]
+;W[cr]WL[1597]
+;B[jr]BL[1361]
+;W[kr]WL[1594]
+;B[hr]BL[1360]
+;W[gq]WL[1533]
+;B[fr]BL[600]
+;W[gr]WL[1479]
+;B[cq]BL[597]
+;W[cp]WL[1398]
+;B[bq]BL[549]
+;W[br]WL[1392]
+;B[ep]BL[548]
+;W[eo]WL[1378]
+;B[fo]BL[543]
+;W[fq]WL[1358]
+;B[er]BL[522]
+;W[fs]WL[1291]
+;B[en]BL[510]
+;W[do]WL[1289]
+;B[go]BL[508]
+;W[hp]WL[1259]
+;B[ho]BL[333]C[
+ LeT 2d : w?s corner now 45 pts
+ miao 6d?: what is left side?
+]
+;W[ip]WL[1253]
+;B[fl]BL[314]C[
+ miao 6d?: super new joseki?
+]
+;W[jm]WL[1133]C[
+ scurge10 4d?: what a powerful invasion :)
+]
+;B[op]BL[297]
+;W[no]WL[1126]
+;B[id]BL[278]
+;W[jd]WL[1065]C[
+ miao 6d?: haha
+ miao 6d?: tanguy is propably too nervous
+]
+;B[if]BL[180]C[
+ miao 6d?: lukas is also not bad
+ miao 6d?: he showed impressive results lately
+]
+;W[hd]WL[946]
+;B[ie]BL[122]
+;W[ic]WL[939]
+;B[jk]BL[107]C[
+ miao 6d?: motoki :)
+ Palko 5d?: :)
+]
+;W[gf]WL[892]
+;B[gg]BL[583]
+;W[hg]WL[883]
+;B[hf]BL[469]
+;W[hh]WL[808]
+;B[gh]BL[464]
+;W[gi]WL[790]
+;B[fi]BL[458]
+;W[jg]WL[777]
+;B[ke]BL[261]
+;W[ji]WL[715]
+;B[kf]BL[235]
+;W[gl]WL[601]
+;B[gk]BL[190]
+;W[hk]WL[594]
+;B[hl]BL[180]
+;W[il]WL[590]
+;B[gm]BL[177]
+;W[ik]WL[588]
+;B[mi]BL[130]
+;W[lh]WL[556]
+;B[nh]BL[115]
+;W[mg]WL[504]
+;B[ne]BL[92]
+;W[mk]WL[407]
+;B[lj]BL[91]
+;W[kl]WL[391]
+;B[lk]BL[87]
+;W[ll]WL[389]
+;B[oo]BL[87]
+;W[on]WL[374]
+;B[ls]BL[76]
+;W[ks]WL[344]
+;B[jj]BL[75]
+;W[ii]WL[341]
+;B[gj]BL[70]
+;W[hi]WL[337]
+;B[la]BL[47]
+;W[ld]WL[324]
+;B[le]BL[40]
+;W[ka]WL[312]
+;B[ma]BL[28]
+;W[kb]WL[309]
+;B[db]BL[27]
+;W[eb]WL[303]
+;B[cb]BL[27]
+;W[mf]WL[269]
+;B[me]BL[26]
+;W[og]WL[264]
+;B[oh]BL[13]
+;W[of]WL[262]
+;B[pe]BL[589]
+;W[oe]WL[255]
+;B[od]BL[588]
+;W[ai]WL[171]
+;B[ah]BL[585]
+;W[aj]WL[166]
+;B[bh]BL[450]
+;W[nj]WL[131]
+;B[kd]BL[392]
+;W[gc]WL[113]
+;B[kc]BL[390]
+;W[lb]WL[112]
+;B[mb]BL[387]
+;W[jb]WL[110]C[
+ Laman 13k : w ahead?
+]
+;B[in]BL[330]
+;W[im]WL[99]
+;B[jn]BL[326]
+;W[kn]WL[94]C[
+ LeT 2d : 15-20 points?
+]
+;B[sp]BL[316]C[
+ Laman 13k : yeah, i forgot some dead black stones
+]
+;W[hm]WL[41]C[
+ Laman 13k : looks pretty good then
+]
+;B[jo]BL[283]
+;W[ko]WL[24]
+;B[hn]BL[269]
+;W[el]WL[7]
+;B[ek]BL[265]C[
+ Shirasagi 13k?: :o)
+]
+;W[em]WL[600]
+;B[fm]BL[257]
+;W[sl]WL[591]
+;B[sh]BL[253]
+;W[qp]WL[576]
+;B[gp]BL[240]
+;W[hq]WL[557]
+;B[dn]BL[199]
+;W[cn]WL[554]
+;B[fn]BL[199]
+;W[po]WL[552]
+;B[pq]BL[198]
+;W[da]WL[514]
+;B[ca]BL[184]
+;W[ea]WL[513]
+;B[oi]BL[157]
+;W[oj]WL[509]
+;B[kg]BL[145]
+;W[kh]WL[501]
+;B[ig]BL[140]
+;W[lr]WL[491]
+;B[jl]BL[123]
+;W[gl]WL[468]
+;B[ms]BL[100]
+;W[hl]WL[452]
+;B[he]BL[581]
+;W[fd]WL[449]
+;B[pi]BL[563]
+;W[mj]WL[443]
+;B[li]BL[561]
+;W[mh]WL[443]
+;B[ni]BL[559]
+;W[kk]WL[442]
+;B[kj]BL[558]
+;W[pg]WL[442]
+;B[sq]BL[555]
+;W[so]WL[441]
+;B[sk]BL[555]
+;W[sm]WL[441]
+;B[jf]BL[552]
+;W[jh]WL[440]
+;B[ij]BL[546]
+;W[hj]WL[439]
+;B[ng]BL[546]
+;W[nf]WL[439]
+;B[nd]BL[542]
+;W[km]WL[438]
+;B[ed]BL[534]
+;W[ih]WL[435]
+;B[lg]BL[532]
+;W[lf]WL[599]
+;B[je]BL[532]
+;W[ki]WL[599]
+;B[ph]BL[531]
+;W[io]WL[598]
+;B[tt]BL[509]
+;W[tt]WL[596]
+;B[tt]BL[509]C[
+ Welvang 5d?: Welvang dead @ D12
+ Welvang 5d?: Welvang dead @ R14
+ Lukan 5d?: Lukan dead @ B9
+ Welvang 5d?: Welvang dead @ J3
+ Lukan 5d?: Lukan dead @ H2
+ Welvang 5d?: Welvang dead @ E3
+ Lukan 5d?: Lukan dead @ B3
+ Welvang 5d?: Welvang dead @ K2
+ Lukan 5d?: Lukan dead @ T14
+ Welvang done
+];
+
+TW[as][ar][aq][ap][ao][an][am][al][ak][bs][bq][bp][bo][bn][bm][bk][cs][cq]
+[co][cl][ds][dr][es][er][eq][ep][fr][fb][fa][gs][gd][gb][ga][hs][hr][hc]
+[hb][ha][is][ir][iq][ib][ia][js][jr][ja][kq][kp][lp][lo][ln][lm][mp][mo]
+[mn][mm][ml][nn][nm][nl][nk][om][ol][ok][qo][rn]
+
+TB[ag][af][ae][ad][ac][ab][aa][bg][bf][be][bc][bb][ba][ch][cg][cf][ce][cd]
+[dh][dg][df][ej][eh][eg][fk][fj][fh][fg][gn][na][os][oq][oc][ob][oa][ps]
+[pr][pd][pc][pb][pa][qs][qr][qf][qe][qc][qb][qa][rs][rr][rj][ri][rh][rg]
+[rd][rc][rb][ra][ss][sr][sf][se][sd][sc][sb][sa]
+
+OS[AlesC][AndyChien][AniPo][Anryx][Antoine]
+[apaz][BenjaminP][Bishibosh][Bunchan][crocus]
+[duop][Dupaaxe][ExplO][fail][FFG]
+[FieldMouse][Fiktik][flashback][Froger][fuhsan2]
+[fulgrim][gary][golover][hermitek][ivoszz]
+[kidu24][Koubic][krabicka][Laman][Lentilka]
+[LeT][Lolian][MacArthur][miao][miira42]
+[Milos][Minske][Mirop][misstake][mpepe]
+[Nebilim][Nemesis60][Nighthawk][NMotoki][nulachier]
+[Palko][pastlink][Pig][Procyon][Sandmann]
+[scurge10][Seagal][Shirasagi][SlowThinkr][Sur]
+[Tajka][Tommyray][Toya][Veedee][warbaduk]
+[yoshiyasu][Zdzieli]
+
+)
