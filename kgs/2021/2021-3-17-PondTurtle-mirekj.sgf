@@ -1,0 +1,225 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[PondTurtle]PB[mirekj]WR[1k]DT[2021-03-17]PC[The KGS Go Server at http://www.gokgs.com/]C[PondTurtle [1k?\]: Ahoj. Přeji pěknou hru
+PondTurtle [1k?\]: Ondřej Šindler, Brno, 4 kyu
+mirekj [-\]: ahoj, jaromir javurek 3d, mustek
+mirekj [-\]: peknou hru
+]RE[B+Resign]
+;B[pd]BL[2676.158]
+;W[cq]WL[2693.534]
+;B[pq]BL[2651.13]
+;W[dc]WL[2691.104]
+;B[pk]BL[2648.099]
+;W[mp]WL[2685.921]
+;B[po]BL[2643.612]
+;W[jp]WL[2684.197]
+;B[jc]BL[2625.895]
+;W[qc]WL[2678.088]
+;B[qd]BL[2621.512]
+;W[pc]WL[2676.422]
+;B[od]BL[2570.057]
+;W[oc]WL[2671.635]
+;B[nc]BL[2568.905]
+;W[nb]WL[2670.898]
+;B[mc]BL[2566.072]
+;W[mb]WL[2666.562]
+;B[lc]BL[2560.017]
+;W[qi]WL[2664.897]
+;B[rj]BL[2547.82]
+;W[ni]WL[2606.091]
+;B[oi]BL[2522.075]
+;W[oh]WL[2598.388]
+;B[oj]BL[2511.259]
+;W[ng]WL[2589.154]
+;B[mh]BL[2506.432]
+;W[nh]WL[2587.796]
+;B[mk]BL[2502.71]
+;W[lj]WL[2579.444]
+;B[mj]BL[2481.876]
+;W[mi]WL[2577.901]
+;B[li]BL[2480.824]
+;W[lh]WL[2577.184]
+;B[ki]BL[2479.129]
+;W[ne]WL[2557.541]
+;B[nd]BL[2472.33]
+;W[lf]WL[2543.811]
+;B[kh]BL[2465.678]
+;W[mg]WL[2539.07]
+;B[jf]BL[2435.643]
+;W[ce]WL[2523.927]
+;B[hq]BL[2409.727]
+;W[jn]WL[2507.483]
+;B[dq]BL[2304.734]
+;W[cp]WL[2488.761]
+;B[dp]BL[2302.257]
+;W[do]WL[2487.299]
+;B[cr]BL[2291.336]
+;W[br]WL[2480.684]
+;B[dr]BL[2290.54]
+;W[cn]WL[2472.895]
+;B[eo]BL[2272.128]
+;W[en]WL[2471.506]
+;B[fo]BL[2271.393]
+;W[fn]WL[2470.656]
+;B[go]BL[2236.675]
+;W[gn]WL[2417.773]
+;B[io]BL[2212.381]
+;W[in]WL[2413.353]
+;B[jo]BL[2202.925]
+;W[ko]WL[2410.41]
+;B[hn]BL[2191.848]
+;W[hm]WL[2404.251]
+;B[ho]BL[2191.136]
+;W[km]WL[2390.804]
+;B[dj]BL[2117.242]
+;W[dh]WL[2381.255]
+;B[dm]BL[2086.031]
+;W[dn]WL[2379.864]
+;B[cm]BL[2085.238]
+;W[bn]WL[2368.105]
+;B[fl]BL[2082.376]
+;W[hk]WL[2360.373]
+;B[fj]BL[2074.886]
+;W[hi]WL[2347.006]
+;B[ch]BL[2036.509]
+;W[cg]WL[2331.805]
+;B[ci]BL[2034.186]
+;W[bg]WL[2312.727]
+;B[eh]BL[2027.35]
+;W[eg]WL[2308.403]
+;B[fh]BL[2026.391]
+;W[qm]WL[2306.505]
+;B[on]BL[2008.162]
+;W[qp]WL[2299.388]
+;B[qo]BL[2000.477]
+;W[ro]WL[2297.575]
+;B[qq]BL[1985.519]
+;W[rq]WL[2295.091]
+;B[pp]BL[1967.752]
+;W[rp]WL[2293.642]
+;B[rr]BL[1966.669]
+;W[rl]WL[2238.931]
+;B[rk]BL[1957.977]
+;W[sn]WL[2228.941]
+;B[qn]BL[1940.013]
+;W[ol]WL[2178.566]
+;B[pl]BL[1912.028]
+;W[kg]WL[2163.91]
+;B[jg]BL[1908.978]
+;W[jh]WL[2163.165]
+;B[kf]BL[1904.692]
+;W[kj]WL[2148.835]
+;B[lg]BL[1898.872]
+;W[nj]WL[2134.206]
+;B[nk]BL[1896.717]
+;W[kg]WL[2131.135]
+;B[ji]BL[1894.348]
+;W[ih]WL[2129.112]
+;B[lg]BL[1892.182]
+;W[ok]WL[2122.406]
+;B[nl]BL[1817.549]
+;W[kg]WL[2119.814]
+;B[jj]BL[1785.708]
+;W[ll]WL[2108.932]
+;B[ln]BL[1684.005]
+;W[mn]WL[2089.687]
+;B[lg]BL[1620.07]
+;W[om]WL[2055.421]
+;B[pm]BL[1607.459]
+;W[kg]WL[2051.869]
+;B[im]BL[1532.287]
+;W[kn]WL[1920.011]
+;B[nm]BL[1490.177]
+;W[lg]WL[1910.302]
+;B[hl]BL[1475.641]
+;W[jk]WL[1888.606]
+;B[gm]BL[1461.076]
+;W[bm]WL[1885.105]
+;B[bl]BL[1457.892]
+;W[gc]WL[1799.126]
+;B[bs]BL[1454.906]
+;W[ar]WL[1787.31]
+;B[kk]BL[1399.568]
+;W[lk]WL[1783.511]
+;B[ik]BL[1397.816]
+;W[jl]WL[1778.181]
+;B[ij]BL[1391.726]
+;W[hf]WL[1743.894]C[PondTurtle [1k?\]: to bylo dobry
+mirekj [-\]: :)
+]
+;B[qg]BL[1348.944]
+;W[ke]WL[1740.25]
+;B[je]BL[1346.043]
+;W[kd]WL[1738.958]
+;B[jd]BL[1341.642]
+;W[me]WL[1733.374]
+;B[lb]BL[1308.643]
+;W[kc]WL[1729.491]
+;B[kb]BL[1304.92]
+;W[ib]WL[1727.228]
+;B[jb]BL[1304.072]
+;W[qh]WL[1720.956]
+;B[pg]BL[1274.76]
+;W[ph]WL[1702.155]
+;B[of]BL[1267.919]
+;W[oe]WL[1652.355]
+;B[nf]BL[1188.642]
+;W[pe]WL[1648.949]
+;B[re]BL[1184.979]
+;W[rc]WL[1634.169]
+;B[rh]BL[1155.063]
+;W[pf]WL[1601.539]
+;B[og]BL[1152.638]
+;W[rf]WL[1600.706]
+;B[rg]BL[1137.369]
+;W[qe]WL[1561.661]
+;B[rd]BL[1132.81]C[PondTurtle [1k?\]: díky za hru
+PondTurtle [1k?\]: nechat te sebrat P9 byla pekna hovadina
+mirekj [-\]: diky
+mirekj [-\]: masakr
+PondTurtle [1k?\]: mel jsem ti tam tim natazenim odpovedet hned a tu hrozbu si odpustit
+PondTurtle [1k?\]: je to vrabec v hrsti a ne malej
+mirekj [-\]: jo asi jsem to ko v centru nemel dopustit...
+PondTurtle [1k?\]: ta invaze napravo taky byla prehnana asi
+mirekj [-\]: to urcite
+PondTurtle [1k?\]: ale nejake aji tam bylo a nechtelo se mi to nechat lezet uplne
+PondTurtle [1k?\]: ale vlastne jsem nevedel co jinyho
+kono [2d?\]: proc bily vzdal?
+PondTurtle [1k?\]: protoze chcipnul?
+mirekj [-\]: no ale ta tva skupina kolem N13 byla slaba, takze ta invaze vpravo s tim moc nefungovala
+kono [2d?\]: cerny taky chcipnul
+PondTurtle [1k?\]: verny je spojeny
+mirekj [-\]: kde?
+PondTurtle [1k?\]: cerny
+kono [2d?\]: skupina o9
+kono [2d?\]: a porad je tam to ko
+mirekj [-\]: ted je ziva a to se pocita :)
+mirekj [-\]: co jaky ko?
+PondTurtle [1k?\]: co
+PondTurtle [1k?\]: O9 je zivy jak jen skupina v go ziva byt muze
+kono [2d?\]: ko na L13
+PondTurtle [1k?\]: https://online-go.com/game/32084946
+PondTurtle [1k?\]: ukaz prosim
+mirekj [-\]: asi dane nevidis aktualbi pozici na desce...
+kono [2d?\]: :)
+kono [2d?\]: asi ne
+PondTurtle [1k?\]: no
+PondTurtle [1k?\]: na to atari jsem mel zahrat P7 a proste ho branit
+PondTurtle [1k?\]: i podle AI by to bylo naprosto vyrovnane
+mirekj [-\]: jo urcite se ta hra dalo hrat
+kono [2d?\]: ja jsem skoncil po tahu q7, myslel jsem ze bily zahraje o7
+kono [2d?\]: a tu pozici jsem komentoval
+PondTurtle [1k?\]: kdyz tak to klidne nasdilej na tom OGS
+PondTurtle [1k?\]: tady delat review je za trest
+kono [2d?\]: ok
+kono [2d?\]: musim najit svuj login
+mirekj [-\]: koukam ze v zahajeni jsi dost vedl, pak chyba byla O14
+PondTurtle [1k?\]: podle robota to bylo vyrovnany
+PondTurtle [1k?\]: ale je pravda ze mi zahajeni vyhovovalo
+PondTurtle [1k?\]: vysoka cina se hned tak uz nevidi
+PondTurtle [1k?\]: hral jsem proti tomu snad potreti v zivote :-)
+PondTurtle [1k?\]: kdyz jsme chcipal napravo tak uz to stejne bylo ztraceny
+PondTurtle [1k?\]: cernemu hru vyhral tah P6 ke kteremu ho bily uplne debilne pustil :-D
+PondTurtle [1k?\]: do te doby to byla pekna hra bych rekl za obe strany i s tim mrtvym overplayem napravo dole
+kono [2d?\]: muzu to okomtovat tady? nedari se mi zalogovat na ogs
+])

@@ -1,0 +1,209 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[kono]PB[HonzaV]DT[2020-03-04]PC[The KGS Go Server at http://www.gokgs.com/]RE[B+Time]
+;B[pd]BL[2695.944]C[kono [?\]: peknou hru
+kono [?\]: ja jsem kono, byvaly 3D, Mustek A
+HonzaV [?\]: Ahoj, Honza Vráblík Můstek B
+HonzaV [?\]: Pěknou hru
+kono [?\]: mam vyhrat nebo prohrat? nestihl jsem zjistit, co nasi kapitani domluvili
+]
+;W[dp]WL[2604.558]C[HonzaV [?\]: hele asi jak chceš :D
+]
+;B[pp]BL[2664.576]C[kono [?\]: jsme z jednoho klubu, nevim ktery tym potrebuje vic body
+]
+;W[dc]WL[2551.526]
+;B[de]BL[2655.582]
+;W[fd]WL[2482.298]C[HonzaV [?\]: nevim co Vláďa vymyslel
+]
+;B[cc]BL[2608.487]
+;W[cb]WL[2431.393]
+;B[cd]BL[2602.886]
+;W[dh]WL[2405.774]
+;B[ff]BL[2591.958]
+;W[eb]WL[2360.06]
+;B[dj]BL[2585.943]
+;W[fh]WL[2284.146]
+;B[cn]BL[2543.852]
+;W[gf]WL[2224.525]
+;B[ge]BL[2534.435]
+;W[ef]WL[2209.381]
+;B[ee]BL[2502.847]
+;W[fe]WL[2202.968]
+;B[fg]BL[2496.278]
+;W[gg]WL[2176.876]
+;B[eg]BL[2480.418]
+;W[dg]WL[2174.256]
+;B[fc]BL[2473.451]
+;W[ed]WL[1882.208]
+;B[gc]BL[2447.198]
+;W[eh]WL[1875.4]
+;B[gd]BL[2429.697]
+;W[jd]WL[1825.143]
+;B[je]BL[2326.864]
+;W[ke]WL[1810.861]
+;B[kd]BL[2299.569]
+;W[jc]WL[1738.164]
+;B[kc]BL[2290.618]
+;W[kb]WL[1717.109]
+;B[lb]BL[2288.695]
+;W[ib]WL[1707.921]
+;B[hb]BL[2242.952]
+;W[lc]WL[1575.665]
+;B[ld]BL[2241.163]
+;W[mc]WL[1573.998]
+;B[mb]BL[2237.636]
+;W[nb]WL[1530.42]
+;B[nc]BL[2189.313]
+;W[md]WL[1524.892]
+;B[le]BL[2188.166]
+;W[nd]WL[1382.777]
+;B[kf]BL[2095.162]
+;W[mf]WL[1337.711]
+;B[oc]BL[2071.356]
+;W[ma]WL[1310.743]
+;B[me]BL[2041.939]
+;W[ne]WL[1307.319]
+;B[nf]BL[2039.338]
+;W[lf]WL[1244.987]
+;B[ke]BL[2035.194]
+;W[lh]WL[1215.761]
+;B[oe]BL[1994.448]
+;W[la]WL[1205.989]
+;B[ng]BL[1989.376]
+;W[mh]WL[1200.846]
+;B[jh]BL[1985.47]
+;W[ji]WL[1066.135]
+;B[ii]BL[1980.414]
+;W[ih]WL[1008.622]
+;B[ki]BL[1962.299]
+;W[jg]WL[999.389]
+;B[jj]BL[1953.335]
+;W[kg]WL[990.491]
+;B[oi]BL[1931.904]
+;W[mj]WL[973.761]
+;B[ol]BL[1913.446]
+;W[fq]WL[953.198]
+;B[en]BL[1896.158]
+;W[qj]WL[706.251]
+;B[ni]BL[1827.3]
+;W[lj]WL[608.846]
+;B[ql]BL[1816.119]
+;W[qh]WL[522.828]
+;B[qf]BL[1781.848]
+;W[pk]WL[491.339]
+;B[ok]BL[1610.213]
+;W[pl]WL[485.233]
+;B[pm]BL[1608.069]
+;W[qm]WL[482.457]
+;B[rm]BL[1517.007]
+;W[qn]WL[473.191]
+;B[qk]BL[1510.968]
+;W[pj]WL[467.416]
+;B[rn]BL[1508.225]
+;W[qo]WL[459.538]
+;B[qp]BL[1431.51]
+;W[om]WL[364.851]
+;B[pn]BL[1429.588]
+;W[po]WL[361.112]
+;B[on]BL[1427.641]
+;W[oo]WL[358.939]
+;B[nn]BL[1425.195]
+;W[ro]WL[356.922]
+;B[rj]BL[1400.974]
+;W[ri]WL[352.422]
+;B[sk]BL[1356.934]
+;W[rl]WL[346.2]
+;B[rk]BL[1354.96]
+;W[sn]WL[253.013]
+;B[hq]BL[1335.647]
+;W[bp]WL[239.765]
+;B[mq]BL[1317.326]
+;W[no]WL[229.981]
+;B[mo]BL[1313.103]
+;W[mp]WL[219.881]
+;B[mn]BL[1305.667]
+;W[nq]WL[191.743]
+;B[lp]BL[1300.843]
+;W[np]WL[188.345]
+;B[lr]BL[1295.32]
+;W[nr]WL[121.488]
+;B[gj]BL[1253.311]
+;W[hp]WL[87.25]
+;B[gq]BL[1197.007]
+;W[gp]WL[80.419]
+;B[fp]BL[1194.025]
+;W[fo]WL[30]OW[3]
+;B[ep]BL[1132.073]
+;W[eo]WL[30]OW[3]
+;B[cq]BL[1110.48]
+;W[dq]WL[30]OW[3]
+;B[cp]BL[1105.451]
+;W[co]WL[30]OW[3]
+;B[bo]BL[1104.054]
+;W[do]WL[30]OW[3]
+;B[bq]BL[1077.324]
+;W[bn]WL[30]OW[3]
+;B[ap]BL[1045.548]
+;W[kq]WL[30]OW[3]
+;B[lq]BL[1035.909]
+;W[bm]WL[30]OW[3]
+;B[dn]BL[1010.356]
+;W[dl]WL[30]OW[3]
+;B[el]BL[1001.135]
+;W[dk]WL[30]OW[3]
+;B[ej]BL[996.492]
+;W[ek]WL[30]OW[3]
+;B[fk]BL[995.185]
+;W[fl]WL[30]OW[3]
+;B[fm]BL[940.182]
+;W[gl]WL[30]OW[3]
+;B[gm]BL[931.064]
+;W[em]WL[30]OW[3]
+;B[fn]BL[924.057]
+;W[hm]WL[30]OW[3]
+;B[hn]BL[921.141]
+;W[im]WL[30]OW[3]
+;B[in]BL[917.421]
+;W[jn]WL[30]OW[3]
+;B[jo]BL[910.492]
+;W[jm]WL[30]OW[3]
+;B[io]BL[874.737]
+;W[ik]WL[30]OW[2]
+;B[gr]BL[814.189]
+;W[ip]WL[30]OW[2]
+;B[jr]BL[779.074]
+;W[dr]WL[30]OW[1]
+;B[cr]BL[748.956]C[kono [?\]: to je divny, proc jsem prohral na cas?
+kono [?\]: u me jsi cca pred 10s zahral c2
+HonzaV [?\]: tak to netušim
+kono [?\]: a pak mi to reklo ze jsem prohral na cas
+HonzaV [?\]: můžu ti nějak přidat čas?
+kono [?\]: netusim, to bych se musel zeptat lukana
+kono [?\]: ja nevim, ja nevim jak by se to resilo obecne
+HonzaV [?\]: fakt netušim. na netu moc nehraju. teda poslední dobou nehraju nikde :(
+kono [?\]: pak by mohl kazdy, kdo by prohral na cas, reklamoval spatny cas u kgs? 
+kono [?\]: zeptam se lukana
+HonzaV [?\]: ok
+HonzaV [?\]: jako je to za mě extrémě tragický
+kono [?\]: kono: jsi schopen delat rozhodciho? Lukan: no pokusim se kono: prohral jsem na cas, protoze mi kgs nejak divne odpocitaval bjojomi. V poslednim bjojomi mi cca po 10s oznamil, ze jsem prohral na cas, a vubec nepipal 10s pipani Lukan: pipani mas zaple? kono: jo, pipalo mi to prvni bjojomi Lukan: ok kono: jeste zkontoluju jestli jsem ho omylem nevypnul Lukan: dobre Lukan: kazdopadne Lukan: jedina moznost jak pokracovat ve hre je ze ji znovu prehrajete,pokud soupe souhlasi Lukan: zalozite novou a naklikate ji tam podle predchoziho sgf Lukan: nic lepsiho tu nejde vymyslet kono: ok, zeptam se ho na to. pipani mam porad zaple Lukan: ale musi souper souhlasit, striktne vzato te muze nechat prohrat na cas kono: diky
+kono [?\]: shrnuti: pokud souhlasis, muzeme prehrat partii a dohrat ji
+kono [?\]: prehrat od zacatku
+HonzaV [?\]: tak já to vzdam, to bude asi jednodušší :D
+HonzaV [?\]: stejně je to za mě tragický
+kono [?\]: ja nevim, jeste by to mohla byt sranda
+HonzaV [?\]: tak jak chceš, ale budu si to muset uložit, a přehrát podle toho, protože si to fakt nepamatuju :D
+kono [?\]: jsou tri moznosti: prohral jsem na cas, dohrajeme, vzdas
+kono [?\]: ok, hrajeme
+kono [?\]: premyslim jak to udelat s casem
+kono [?\]: potrebujeme u tebe bjojomi a u mne nikoli
+HonzaV [?\]: to je asi jedno
+kono [?\]: snad to jde nastavit u kazdeho jinak
+kono [?\]: nebo nastavime obema 13 minut a ja se pujdu 13 minut veceret
+HonzaV [?\]: klidně dáme oboum byoyomi
+HonzaV [?\]: jdu teda založit
+kono [?\]: mam to ulozene, ale snad si to pamatuju
+kono [?\]: sory chatoval jsem s vladou
+SImamutik [2d\]: dejte si jednu periodu
+SImamutik [2d\]: a kono pak Honzovi nakliká nahoře čas navíc
+SImamutik [2d\]: ve volbách - přidat 5 minut a přidat 1 minutu
+])

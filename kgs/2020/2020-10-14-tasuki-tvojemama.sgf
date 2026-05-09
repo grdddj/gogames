@@ -1,0 +1,272 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[tasuki]PB[tvojemama]DT[2020-10-14]PC[The KGS Go Server at http://www.gokgs.com/]C[tvojemama [?\]: ahoj, preju peknou hru
+tasuki [-\]: hezkou hru mámo!
+tvojemama [?\]: (tvoje mama = Pepa M, ~ 1.kyu, for the record)
+]RE[W+Resign]
+;B[pd]BL[2654.211]C[tasuki [-\]: Vít B, třídu už mi asi sebrali
+]
+;W[dp]WL[2658.884]
+;B[pq]BL[2648.328]
+;W[dd]WL[2648.332]
+;B[fq]BL[2634.265]C[SIvedem: :D
+]
+;W[qo]WL[2631.407]C[tvojemama [?\]: joa jeste jsem teda Mustek B
+tvojemama [?\]: (Lukan chtel i tym :-) )
+]
+;B[op]BL[2599.672]C[tasuki [-\]: já jsem SI!
+tasuki [-\]: Lukan toho chce
+]
+;W[cn]WL[2590.644]
+;B[ip]BL[2556.247]
+;W[qk]WL[2555.149]
+;B[cf]BL[2505.9]
+;W[fc]WL[2536.45]
+;B[cl]BL[2490.172]
+;W[dr]WL[2502.272]
+;B[di]BL[2477.042]
+;W[qc]WL[2472.32]
+;B[qd]BL[2460.715]
+;W[pc]WL[2469.188]
+;B[oc]BL[2457.33]
+;W[ob]WL[2462.591]
+;B[nc]BL[2448.554]
+;W[nb]WL[2454.447]
+;B[mc]BL[2447.29]
+;W[mb]WL[2436.762]
+;B[lc]BL[2412.114]
+;W[ph]WL[2411.176]
+;B[qm]BL[2405.028]
+;W[oo]WL[2403.23]
+;B[pl]BL[2380.461]
+;W[pk]WL[2340.548]
+;B[ol]BL[2378.182]
+;W[np]WL[2319.706]
+;B[po]BL[2364.53]
+;W[pn]WL[2316.655]
+;B[pp]BL[2363.07]
+;W[qn]WL[2315.233]
+;B[on]BL[2360.02]
+;W[no]WL[2313.614]
+;B[pm]BL[2349.97]
+;W[nn]WL[2301.247]
+;B[om]BL[2345.904]
+;W[rm]WL[2276.876]
+;B[rl]BL[2337.715]
+;W[rn]WL[2246.445]C[SIvedem: spravne SI ! 
+]
+;B[ql]BL[2138.258]
+;W[rq]WL[2229.819]
+;B[nq]BL[2120.364]
+;W[mq]WL[2170.71]
+;B[nr]BL[2117.105]
+;W[qr]WL[2064.508]
+;B[mr]BL[2109.449]
+;W[lq]WL[2060.341]
+;B[lr]BL[2107.243]
+;W[kq]WL[2056.928]
+;B[jr]BL[2078.632]
+;W[jq]WL[1964.783]
+;B[iq]BL[2008.81]
+;W[kr]WL[1952.403]
+;B[ks]BL[2007.198]
+;W[ls]WL[1951.126]
+;B[ms]BL[2005.901]
+;W[ir]WL[1948.907]
+;B[js]BL[2004.883]
+;W[hr]WL[1945.772]
+;B[gq]BL[1993.413]
+;W[pr]WL[1913.556]C[SIvedem: tady to jede pekne tvary
+]
+;B[gr]BL[1961.811]
+;W[qp]WL[1837.636]
+;B[hs]BL[1959.302]C[Mariusz [2k\]: dobri den
+Mariusz [2k\]: oh dobry vecer
+]
+;W[kn]WL[1747.446]
+;B[lo]BL[1920.884]
+;W[ko]WL[1740.558]
+;B[mm]BL[1848.796]
+;W[ln]WL[1734.335]C[Mariusz [2k\]: to si mama teda musi davat pozor na to r7 
+]
+;B[nj]BL[1793.443]
+;W[rk]WL[1730.116]
+;B[sl]BL[1778.83]
+;W[qf]WL[1696.869]
+;B[rd]BL[1770.365]
+;W[rc]WL[1675.376]
+;B[nh]BL[1702.583]
+;W[oe]WL[1651.507]
+;B[od]BL[1690.174]
+;W[me]WL[1544.316]
+;B[pf]BL[1669.491]
+;W[pe]WL[1528.615]
+;B[qg]BL[1647.551]
+;W[of]WL[1495.792]
+;B[pg]BL[1553.642]
+;W[og]WL[1492.239]
+;B[rg]BL[1491.942]
+;W[oh]WL[1484.841]
+;B[qi]BL[1473.326]
+;W[oj]WL[1383.662]
+;B[ni]BL[1405.829]
+;W[ri]WL[1316.296]
+;B[qh]BL[1377.113]
+;W[qj]WL[1240.708]
+;B[pi]BL[1362.494]
+;W[oi]WL[1238.091]
+;B[ke]BL[1310.131]
+;W[kf]WL[1214.164]
+;B[lf]BL[1285.441]
+;W[le]WL[1206.834]
+;B[lg]BL[1281.657]
+;W[kd]WL[1198.614]
+;B[je]BL[1275.109]C[Mariusz [2k\]: to czerny toszku zvoral :(
+]
+;W[qe]WL[1186.735]C[Mariusz [2k\]: można że go teda tasuki zabije
+Mariusz [2k\]: muze nekdo skomentovat?
+]
+;B[ld]BL[1185.542]C[Mariusz [2k\]: proć ne s15?
+Mariusz [2k\]: m16 asi hyba
+]
+;W[rf]WL[1112.845]
+;B[ic]BL[1150.207]
+;W[kl]WL[1093.969]
+;B[lk]BL[1062.673]
+;W[kk]WL[1083.166]
+;B[cc]BL[1054.456]
+;W[cd]WL[1077.408]
+;B[bd]BL[1041.776]
+;W[be]WL[1074.893]
+;B[bc]BL[1040.215]
+;W[ce]WL[1062.717]C[Mariusz [2k\]: ted vypada że tasuki muże zabić j4
+]
+;B[eb]BL[1037.996]
+;W[ec]WL[1060.433]
+;B[fb]BL[1035.205]
+;W[gb]WL[1056.554]C[Mariusz [2k\]: zabić = zavraźdit si myslim
+]
+;B[dc]BL[973.119]
+;W[fa]WL[1035.788]
+;B[da]BL[970.528]
+;W[gd]WL[1031.808]
+;B[ee]BL[966.295]
+;W[ed]WL[1025.924]
+;B[fe]BL[959.881]
+;W[df]WL[1000.772]
+;B[cg]BL[947.709]
+;W[ge]WL[966.295]
+;B[hc]BL[944.617]
+;W[ff]WL[953.004]
+;B[gc]BL[933.414]
+;W[dg]WL[938.807]
+;B[dh]BL[918.144]C[Mariusz [2k\]: prominte tady se muże komentowat hry?
+]
+;W[jf]WL[902.42]
+;B[fg]BL[912.798]
+;W[ie]WL[887.844]
+;B[ef]BL[877.308]
+;W[jd]WL[857.675]C[Mariusz [2k\]: no ted to mama je w prdeli
+]
+;B[fd]BL[848.44]
+;W[ki]WL[769.845]
+;B[li]BL[841.093]C[Mariusz [2k\]: no :)
+]
+;W[lj]WL[736.139]
+;B[mj]BL[838.518]
+;W[kj]WL[735.221]
+;B[kh]BL[831.666]
+;W[jh]WL[732.251]
+;B[ll]BL[821.299]
+;W[eg]WL[706.312]
+;B[gf]BL[818.299]
+;W[de]WL[704.01]
+;B[ff]BL[816.477]
+;W[eh]WL[702.9]
+;B[he]BL[810.222]
+;W[ei]WL[696.716]
+;B[dj]BL[806.468]
+;W[ej]WL[655.478]
+;B[gi]BL[802.168]
+;W[dk]WL[648.816]
+;B[ck]BL[773.409]
+;W[gj]WL[589.341]
+;B[jm]BL[757.125]
+;W[km]WL[585.325]
+;B[hj]BL[744.4]
+;W[hi]WL[563.11]
+;B[gh]BL[725.33]
+;W[gk]WL[553.944]
+;B[ii]BL[721.154]
+;W[hk]WL[549.269]
+;B[ij]BL[718.503]
+;W[ik]WL[526.698]
+;B[hm]BL[696.745]
+;W[kg]WL[505.799]C[mamutik [4d\]: L18 není úplně malý (za oba)
+]
+;B[lh]BL[681.925]
+;W[jb]WL[482.252]
+;B[ji]BL[640.037]
+;W[ih]WL[454.516]
+;B[hh]BL[631.383]C[Mariusz [2k\]: k11 dame vsehno bile je na zivu
+]
+;W[dl]WL[421.542]
+;B[dm]BL[617.166]
+;W[em]WL[413.619]C[Mariusz [2k\]: cezary kamaradi nie chcą ze mną gadać :)
+]
+;B[cm]BL[610.153]
+;W[dn]WL[409.571]
+;B[el]BL[590.8]
+;W[ek]WL[404.932]
+;B[fl]BL[588.979]
+;W[in]WL[391.69]
+;B[im]BL[578.864]
+;W[fm]WL[382.232]
+;B[gl]BL[576.377]
+;W[gm]WL[378.39]C[Mariusz [2k\]: k4 śmierdzi trupem
+Mariusz [2k\]: j4 sorki
+cezary [4d\]: hehe
+cezary [4d\]: widze wlasnie
+]
+;B[lb]BL[344.423]C[cezary [4d\]: mowisz w jakims dziwnym jezyku
+cezary [4d\]: to sie boja odzywac :P
+]
+;W[kb]WL[364.483]C[cezary [4d\]: to jest smieszne ze vitek zdolal oszukac wszystkich ze jest czechem
+Mariusz [2k\]: nie no bo my w czeskim pokoju jesteśmy staram się
+]
+;B[ma]BL[325.772]C[Mariusz [2k\]: no coś w tym jest
+cezary [4d\]: a w ogole duzo twoich znajomych sie przeprowadzilo na wschodnia granice ?
+]
+;W[qb]WL[351.791]C[cezary [4d\]: bo z tego co pamietma to sluzba graniczna
+cezary [4d\]: bo ja znam duzo ludzi ze slaska, ktorzy sie przeprowadzili do bialegostoku
+cezary [4d\]: po wejsciu do unii :)
+Mariusz [2k\]: a kto by tam na wschodnią granicęszedł
+cezary [4d\]: zastanawiam sie jak to wyglada po drugiej stronie
+Mariusz [2k\]: ale to młodzi ja już stary jestem
+Mariusz [2k\]: starzy poszli na emeryturke
+Mariusz [2k\]: tak jak ja
+cezary [4d\]: ah
+]
+;B[sd]BL[269.534]
+;W[sf]WL[340.179]
+;B[na]BL[231.467]C[Mariusz [2k\]: to był taki myk rządu zagroźili że obetną emeryture bo likwidowali przejścia jak do unii weszliśmy no i sami ich pozbawiliśmy problemu odchodząc
+]
+;W[oa]WL[327.312]C[cezary [4d\]: :D
+Mariusz [2k\]: tasuki to killer
+cezary [4d\]: no ta gra to w ogole nie po tasukowemu
+tasuki [-\]: díky
+Mariusz [2k\]: brawo tasui wypiję za to
+cezary [4d\]: dziki tasuki
+tasuki [-\]: koukám že tu máme Polskou invazi
+Mariusz [2k\]: tasuki*
+tvojemama [?\]: diky za hru!
+tasuki [-\]: vítáme v Čechách
+tvojemama [?\]: :-)
+cezary [4d\]: vitame vitame
+Mariusz [2k\]: ja mam rad czechy
+cezary [4d\]: impressive number of people damn
+tvojemama [?\]: dzinkujem bardzo za koment
+Mariusz [2k\]: byl si tvrdy mamo
+cezary [4d\]: czech invasion on kgs :p
+tvojemama [?\]: :-)
+])

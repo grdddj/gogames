@@ -1,0 +1,227 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[InDoubt]PB[tvojemama]WR[3d]DT[2020-11-04]PC[The KGS Go Server at http://www.gokgs.com/]C[tvojemama [?\]: supr
+InDoubt [3d\]: Tak jeste jednou peknou hru :)
+tvojemama [?\]: Josef Moudrik, 1kyu, Mustek
+InDoubt [3d\]: Martin Šmérek 2-kyu - So-Imba S
+tvojemama [?\]: tobe taky!
+]RE[W+Resign]
+;B[pd]BL[2678.217]
+;W[dc]WL[2694.144]C[tvojemama [?\]: Mustek B teda asi :-)
+]
+;B[pp]BL[2668.21]C[tvojemama [?\]: jsem uspaval deti a uplne jsem na to zapomnel
+]
+;W[dp]WL[2680.672]
+;B[de]BL[2663.3]C[InDoubt [3d\]: V klidu, chapu :)
+]
+;W[ce]WL[2663.894]
+;B[cf]BL[2659.969]
+;W[cd]WL[2662.184]
+;B[dg]BL[2654.197]
+;W[fc]WL[2659.091]
+;B[ck]BL[2651.56]
+;W[nq]WL[2655.009]
+;B[pn]BL[2638.749]
+;W[pr]WL[2649.396]
+;B[fq]BL[2617.375]
+;W[eq]WL[2640.281]
+;B[fp]BL[2614.55]
+;W[cn]WL[2636.554]
+;B[jq]BL[2611.266]
+;W[qq]WL[2634.22]
+;B[nc]BL[2594.449]
+;W[qk]WL[2607.797]
+;B[qh]BL[2529.519]
+;W[rn]WL[2574.185]
+;B[ro]BL[2512.172]
+;W[qo]WL[2489.465]
+;B[qn]BL[2496.871]
+;W[rp]WL[2461.314]
+;B[rm]BL[2494.156]
+;W[so]WL[2458.907]
+;B[ql]BL[2491.868]
+;W[ok]WL[2451.779]
+;B[mn]BL[2477.087]
+;W[mk]WL[2429.384]
+;B[nh]BL[2456.302]
+;W[qd]WL[2403.08]
+;B[qc]BL[2449.373]
+;W[rc]WL[2303.02]
+;B[qe]BL[2417.918]
+;W[kk]WL[2165.419]
+;B[rk]BL[2387.759]
+;W[qj]WL[2152.329]
+;B[rj]BL[2383.18]
+;W[ph]WL[2143.867]
+;B[pg]BL[2374.609]
+;W[qi]WL[2141.437]
+;B[rh]BL[2364.786]
+;W[oh]WL[2098.963]
+;B[og]BL[2360.539]
+;W[ng]WL[2095.64]
+;B[oi]BL[2349.135]
+;W[pi]WL[2077.204]
+;B[mh]BL[2326.136]
+;W[mg]WL[2065.499]
+;B[lh]BL[2251.081]
+;W[lg]WL[2061.426]
+;B[kh]BL[2241.565]
+;W[kg]WL[2049.007]
+;B[jh]BL[2238.486]
+;W[if]WL[2042.926]
+;B[hh]BL[2199.845]
+;W[ln]WL[2015.688]
+;B[ed]BL[2154.621]
+;W[gc]WL[1951.911]
+;B[he]BL[2139.391]
+;W[lc]WL[1932.845]
+;B[jc]BL[2119.432]
+;W[id]WL[1891.34]
+;B[ic]BL[2111.269]
+;W[hd]WL[1863.411]
+;B[hc]BL[2109.075]
+;W[ge]WL[1748.128]
+;B[lb]BL[1957.485]
+;W[mb]WL[1648.072]
+;B[mc]BL[1915.903]
+;W[kb]WL[1636.467]
+;B[ld]BL[1913.872]
+;W[kc]WL[1613.74]
+;B[kd]BL[1901.74]
+;W[jd]WL[1578.246]
+;B[ec]BL[1897.912]
+;W[eb]WL[1534.077]
+;B[jg]BL[1862.86]
+;W[jf]WL[1501.225]
+;B[jn]BL[1666.402]
+;W[mm]WL[1428.647]
+;B[mo]BL[1649.232]
+;W[nm]WL[1415.144]
+;B[mq]BL[1644.64]
+;W[mr]WL[1406.489]
+;B[lq]BL[1618.656]
+;W[en]WL[1386.344]
+;B[co]BL[1604.17]
+;W[do]WL[1357.382]
+;B[bn]BL[1601.111]
+;W[bo]WL[1348.497]
+;B[bm]BL[1597.774]
+;W[cm]WL[1343.848]
+;B[bl]BL[1569.182]
+;W[ko]WL[1325.848]
+;B[cq]BL[1553.832]
+;W[cp]WL[1303.991]
+;B[er]BL[1541.45]
+;W[dq]WL[1272.981]
+;B[dr]BL[1537.208]
+;W[cr]WL[1271.113]
+;B[jo]BL[1514.375]
+;W[ds]WL[1264.423]
+;B[oj]BL[1497.924]
+;W[nj]WL[1238.561]
+;B[ni]BL[1494.705]
+;W[pl]WL[1232.616]
+;B[ll]BL[1432.599]
+;W[kl]WL[1213.972]
+;B[lm]BL[1431.131]
+;W[km]WL[1211.486]
+;B[kn]BL[1429.307]
+;W[lk]WL[1206.577]
+;B[lo]BL[1427.394]
+;W[ml]WL[1205.078]C[SIscurge [6d\]: ugh
+SIscurge [6d\]: to nebyla trefa do cerneho to posledni atari
+]
+;B[om]BL[1379.013]
+;W[ol]WL[1189.203]
+;B[hk]BL[1335.471]
+;W[on]WL[1172.057]
+;B[np]BL[1241.628]
+;W[po]WL[1101.363]
+;B[el]BL[1131.029]
+;W[ef]WL[1083.812]
+;B[df]BL[1126.818]
+;W[fh]WL[1054.224]
+;B[gg]BL[1098.763]
+;W[ff]WL[895.152]
+;B[fg]BL[1091.747]
+;W[eg]WL[891.918]
+;B[eh]BL[1088.697]
+;W[me]WL[889.638]
+;B[db]BL[990.717]
+;W[cb]WL[882.7]
+;B[gf]BL[977.343]
+;W[fe]WL[873.607]
+;B[md]BL[956.745]
+;W[nb]WL[845.565]
+;B[ob]BL[953.065]
+;W[pb]WL[814.949]
+;B[oc]BL[932.953]
+;W[qb]WL[782.341]C[SIscurge [6d\]: o19 neprijemne
+]
+;B[oa]BL[860.569]
+;W[pc]WL[704.55]
+;B[la]BL[841.079]
+;W[jb]WL[691.671]
+;B[rd]BL[784.706]
+;W[re]WL[636.812]
+;B[qc]BL[782.917]C[SIscurge [6d\]: m19 velka chyba ne?
+SIscurge [6d\]: nemohl na k18?
+SIscurge [6d\]: e12
+]
+;W[ra]WL[594.018]C[SIscurge [6d\]: neee
+SIscurge [6d\]: :D drama
+]
+;B[pa]BL[756.437]
+;W[qd]WL[587.32]
+;B[fb]BL[689.485]
+;W[da]WL[560.631]
+;B[qc]BL[687.437]
+;W[dh]WL[558.277]
+;B[ei]BL[675.052]
+;W[qd]WL[554.191]C[SIscurge [6d\]: s ko hrozbama kolem c12  by melo byt dobre za bileho
+]
+;B[fd]BL[625.337]
+;W[gd]WL[535.809]
+;B[qc]BL[617.534]
+;W[ch]WL[530.692]
+;B[qd]BL[451.297]
+;W[bg]WL[513.361]C[mamutik [4d?\]: jejejejej
+]
+;B[bf]BL[357.896]
+;W[be]WL[457.731]
+;B[af]BL[346.516]
+;W[bh]WL[408.622]
+;B[oo]BL[316.02]C[mamutik [4d?\]: nějak se nám to sype
+]
+;W[qm]WL[368.756]
+;B[rl]BL[231.267]
+;W[pm]WL[362.886]
+;B[bi]BL[204.01]
+;W[ag]WL[325.518]C[SIscurge [6d\]: gg :)
+InDoubt [3d\]: Diky moc za hru.
+tvojemama [?\]:  diky za hru
+tvojemama [?\]: tvl
+tvojemama [?\]: to ko jsem teda fakt hrat nemel
+mamutik [4d?\]: škoda, to se dalo úplně v pohodě hrát dál
+tvojemama [?\]: ted?
+InDoubt [3d\]: No mel jsem stesti, s tim kiksem na zacatku...
+mamutik [4d?\]: jj
+tvojemama [?\]: myslis tu skupinu P9 ?
+tvojemama [?\]: mamutiku to nechapu, vzyt jsem chycenej a nic nemam
+mamutik [4d?\]: objedeš a spojíš na f2 a přijde mi to celkem vyrovanné
+InDoubt [3d\]: Myslim, ze bily vede max o 10 bodu.
+tvojemama [?\]: hmmmm
+tvojemama [?\]: ja jsem si rikal, ze potom vrsku je to o moc
+tvojemama [?\]: hhh
+mamutik [4d?\]: ale odpovědět na c12 bylo určitě větší než vzít to ko
+InDoubt [3d\]: ... ale mozna to spatne pocitam :)
+tvojemama [?\]: no, jenze kdyz vezme ko, tak mi nejspis chcipne nahore vsechno
+tvojemama [?\]: jsem si rikal
+tvojemama [?\]: to jsem se bal
+tvojemama [?\]: hh
+InDoubt [3d\]: Kazdopadne diky za hru!
+tvojemama [?\]: no, nevadi!
+tvojemama [?\]: dekuji!
+tvojemama [?\]: ahoj!
+InDoubt [3d\]: Cau.
+])

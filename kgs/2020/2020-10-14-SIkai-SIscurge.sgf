@@ -1,0 +1,184 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[SIkai]PB[SIscurge]BR[6d]DT[2020-10-14]PC[The KGS Go Server at http://www.gokgs.com/]C[SIscurge [6d\]: peknou hru!
+]RE[B+Resign]
+;B[pd]BL[2693.409]C[SIkai [?\]: Peknou hru
+SIkai [?\]: !
+SIscurge [6d\]: Ondrej Kruml So-Imba S
+SIkai [?\]: Jan Sebela 3d Brno
+]
+;W[dp]WL[2677.562]
+;B[pq]BL[2671.964]
+;W[dd]WL[2668.806]
+;B[fq]BL[2639.923]
+;W[qo]WL[2657.441]
+;B[op]BL[2631.061]
+;W[hq]WL[2607.671]C[fido [-\]: Pulco, ty mas zkusenosti s prenosy. Mohl bys to trosku komentovat? :)
+SIvedem: zdarec pulciku, nedelej ze koukas na dohrano ;)
+]
+;B[fo]BL[2456.1]
+;W[dn]WL[2575.601]
+;B[fm]BL[2428.397]
+;W[kq]WL[2519.609]
+;B[dl]BL[2418.074]
+;W[cl]WL[2479.734]
+;B[ck]BL[2399.685]
+;W[cm]WL[2477.331]
+;B[dk]BL[2395.806]
+;W[qf]WL[2401.401]C[scurge [4d?\]: Pulca se prestehoval k fotbalu a jen sleduje a nekomentuje. Sorry. :)
+]
+;B[cq]BL[2319.069]
+;W[dq]WL[2377.126]
+;B[dr]BL[2315.61]C[fido [-\]: :(
+]
+;W[er]WL[2300.48]
+;B[cr]BL[2310.976]
+;W[fp]WL[2098.827]
+;B[gp]BL[2169.601]
+;W[fr]WL[2032.395]
+;B[bo]BL[2138.615]
+;W[gq]WL[1986.597]
+;B[ep]BL[2112.43]
+;W[hp]WL[1871.625]
+;B[fc]BL[2033.703]
+;W[cf]WL[1839.342]
+;B[dc]BL[2018.781]
+;W[cc]WL[1832.81]
+;B[cb]BL[2016.177]
+;W[ec]WL[1781.232]
+;B[db]BL[2012.712]
+;W[ed]WL[1729.338]
+;B[eb]BL[2009.626]
+;W[bc]WL[1724.509]
+;B[hc]BL[1984.622]
+;W[nc]WL[1704.168]
+;B[pf]BL[1870.943]
+;W[pg]WL[1694.444]
+;B[of]BL[1849.219]
+;W[qd]WL[1679.128]
+;B[qc]BL[1845.827]
+;W[qe]WL[1677.332]
+;B[nd]BL[1790.214]
+;W[pe]WL[1646.521]
+;B[od]BL[1775.641]
+;W[rc]WL[1642.342]
+;B[pb]BL[1774.83]
+;W[qb]WL[1640.271]
+;B[pc]BL[1774.1]
+;W[rb]WL[1637.399]C[SIvedem: vzdyt se nic nehraje, sleduje zaznamy nebo co
+SIvedem: :/
+]
+;B[pn]BL[1706.219]
+;W[qn]WL[1532.264]
+;B[pm]BL[1605.715]
+;W[qm]WL[1384.017]
+;B[pl]BL[1580.112]
+;W[qk]WL[1378.204]
+;B[oj]BL[1541.273]
+;W[id]WL[1297.046]
+;B[qj]BL[1458.1]
+;W[pk]WL[1212.194]
+;B[ok]BL[1452.656]
+;W[rk]WL[1190.812]C[scurge [4d?\]: Skotsko - CR :P
+]
+;B[hd]BL[1415.366]
+;W[ie]WL[1170.277]
+;B[gf]BL[1379.623]
+;W[lc]WL[1159.501]
+;B[jb]BL[1327.345]
+;W[le]WL[1145.214]
+;B[nh]BL[1226.745]
+;W[oe]WL[1087.213]
+;B[ne]BL[1220.611]
+;W[lg]WL[984.237]
+;B[nf]BL[1147.474]
+;W[jc]WL[942.967]
+;B[kb]BL[1143.964]
+;W[li]WL[910.814]
+;B[ch]BL[1079.099]
+;W[bh]WL[844.293]
+;B[bg]BL[1060.106]
+;W[cg]WL[839.114]
+;B[bi]BL[1059.189]
+;W[dh]WL[835.89]
+;B[ah]BL[1055.722]
+;W[ci]WL[819.387]
+;B[bh]BL[1024.553]
+;W[bf]WL[801.072]
+;B[rp]BL[1002.385]
+;W[qp]WL[773.518]
+;B[qq]BL[994.811]
+;W[ro]WL[757.422]
+;B[eo]BL[930.579]
+;W[eq]WL[669.052]
+;B[cn]BL[904.603]
+;W[do]WL[618.052]
+;B[dm]BL[897.71]
+;W[en]WL[550.724]
+;B[fn]BL[868.93]
+;W[em]WL[492.042]
+;B[fl]BL[843.358]
+;W[el]WL[459.7]
+;B[ek]BL[821.272]
+;W[fk]WL[452.024]
+;B[gk]BL[814.934]
+;W[fj]WL[450.584]
+;B[gj]BL[810.763]
+;W[fi]WL[424.087]
+;B[gi]BL[799.684]
+;W[gh]WL[335.251]
+;B[hh]BL[790.301]
+;W[fh]WL[330.704]
+;B[hg]BL[767.356]
+;W[nl]WL[260.939]
+;B[mk]BL[656.08]
+;W[lk]WL[162.019]
+;B[ll]BL[629.619]
+;W[ml]WL[122.06]
+;B[mj]BL[618.879]
+;W[kk]WL[97.004]
+;B[lm]BL[596.72]
+;W[hi]WL[69.883]
+;B[hl]BL[587.329]
+;W[kl]WL[50.312]
+;B[ln]BL[507.141]
+;W[hj]WL[7.034]
+;B[jn]BL[475.302]
+;W[im]WL[30]OW[3]
+;B[ik]BL[455.758]
+;W[jj]WL[30]OW[3]
+;B[in]BL[451.282]
+;W[hn]WL[30]OW[3]
+;B[hm]BL[441.45]
+;W[km]WL[30]OW[3]
+;B[kn]BL[420.216]
+;W[il]WL[30]OW[3]
+;B[hk]BL[356.173]
+;W[go]WL[30]OW[3]
+;B[jm]BL[346.102]
+;W[jh]WL[30]OW[3]
+;B[jl]BL[306.601]C[SIkai [?\]: Diyk
+SIscurge [6d\]: diky za hru
+SIscurge [6d\]: asi bylo relativne tesne?
+SIscurge [6d\]: ale to ze jsem mohl odstrihnout ty dva vlevo bylo fajn za me
+SIkai [?\]: jo, asi jsem to mel na zacatku pokryt trochu jinak
+SIkai [?\]: misto H4
+SIscurge [6d\]: ja jsem cekal ze zahrajes rovnou d2, misto c8
+SIscurge [6d\]: jo h4 bylo asi moc 
+SIkai [?\]: mel jsem no
+SIscurge [6d\]: ale i pak to nemuselo byt nak o moc
+SIscurge [6d\]: to j16 bylo neprijemne
+SIscurge [6d\]: jsem nevedel vubec jak zautocit
+SIkai [?\]: asi ani nemusis utocit
+SIkai [?\]: nakonec to stacilo nechat cekat lepsi prilezitost
+SIscurge [6d\]:  mozna jo
+SIscurge [6d\]: ale dost me trapilo f16 az jednou prijde
+SIscurge [6d\]: ted to projizdim v katago a jo pry docela vyrovnane porad :)
+SIkai [?\]: aha :D
+SIkai [?\]: sem pak zpanikaril
+SIscurge [6d\]: az potom jak jsi me strihal pres e7 e8 tak se ti to pokazilo
+SIkai [?\]: jj
+SIscurge [6d\]: ja jsem doufal, ze te donutim k nejakemu predcasnemu all inu :D
+SIkai [?\]: to uz jsem nemyslel racionalne
+SIkai [?\]: ty strich byl spatne
+])

@@ -1,0 +1,405 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[5x30 byo-yomi]
+PW[krabicka]PB[Lukan]BR[7d]DT[2020-04-01]PC[The KGS Go Server at http://www.gokgs.com/]C[Lukan [7d\]: peknou partii!
+krabicka [?\]: pěknou
+Lukan [7d\]: Lukas Podpera 7d, APWS
+]RE[B+Resign]
+;B[pd]BL[2682.643]
+;W[dc]WL[2698.173]
+;B[pq]BL[2676.274]
+;W[cq]WL[2694.674]
+;B[ce]BL[2669.279]
+;W[ed]WL[2661.222]
+;B[nc]BL[2631.723]
+;W[qo]WL[2642.48]
+;B[qp]BL[2627.308]
+;W[po]WL[2637.415]
+;B[nq]BL[2625.352]
+;W[re]WL[2580.49]
+;B[rd]BL[2601.64]
+;W[qe]WL[2558.306]
+;B[qd]BL[2590.934]
+;W[qi]WL[2554.587]
+;B[ch]BL[2565.083]
+;W[cd]WL[2529.398]
+;B[de]BL[2520.332]
+;W[dn]WL[2416.294]
+;B[ep]BL[2477.007]
+;W[dp]WL[2318.97]
+;B[gc]BL[2417.778]
+;W[bd]WL[2271.228]
+;B[ge]BL[2331.79]
+;W[ee]WL[2180.366]
+;B[fg]BL[2281.439]
+;W[cj]WL[2137.675]
+;B[dj]BL[2231.742]
+;W[ck]WL[2099.77]
+;B[qk]BL[2147.587]
+;W[qm]WL[2064.986]
+;B[pg]BL[2113.96]
+;W[oi]WL[2020.523]
+;B[rg]BL[2080.58]
+;W[eg]WL[1957.399]
+;B[eh]BL[2063.589]
+;W[ff]WL[1955.363]
+;B[dg]BL[2053.102]
+;W[ef]WL[1951.924]
+;B[dk]BL[2034.73]
+;W[dl]WL[1920.989]
+;B[cl]BL[1890.629]
+;W[bl]WL[1917.456]
+;B[cm]BL[1888.549]C[elsky: Zdar, to je nějaký turnaj?
+]
+;W[bm]WL[1878.01]
+;B[dq]BL[1827.214]
+;W[el]WL[1830.705]
+;B[cr]BL[1794.631]
+;W[cp]WL[1787.475]
+;B[er]BL[1787.683]
+;W[jd]WL[1737.651]C[Comments1 [-\]: So who is the mysterious krabicka?
+Shamash [?\]: who knows...
+Comments1 [-\]: He playes ok
+Shamash [?\]: Corona league player ?
+Comments1 [-\]: So he should be someone I know.
+]
+;B[ie]BL[1715.316]C[Shamash [?\]: You kniw all the strong players ahah
+Comments1 [-\]: In Europe, pretty much.
+elsky: Current czech Nr.2
+Hellhuman [-\]: Strong players is.. 4d egf+? 6d egf+?
+]
+;W[md]WL[1676.278]C[Comments1 [-\]: 5d egf+, i'd say.
+Shamash [?\]: not many 6d + in europe
+Hellhuman [-\]: arent there like.. at least 20?
+Comments1 [-\]: but surely all 6d+ I think I have met or played with or have seen play.
+]
+;B[je]BL[1672.242]C[Comments1 [-\]: Yes at least, incl. all the Europros
+Shamash [?\]: And asians
+]
+;W[of]WL[1632.315]C[Hellhuman [-\]: ah, including the friends coming from east asia living here, there are even more yeah
+Comments1 [-\]: You mean the Koreans and Chinese. I think there's just 1 strong Japanese.
+Comments1 [-\]: p13 resist!
+Shamash [?\]: what about F12 ? Looks so annoying
+]
+;B[og]BL[1589.351]C[Comments1 [-\]: f12 e11 g13 g10 and B will survive
+]
+;W[mf]WL[1601.046]C[Shamash [?\]: yeah, i'm too clean with my go, need to learn to endure and play big moves away ^^
+]
+;B[ng]BL[1542.534]C[Comments1 [-\]: if o13 probably W will play p16 ?
+Comments1 [-\]: o16 is also OK and more solid
+Burpee [4d\]: p16
+]
+;W[mc]WL[1543.618]C[Comments1 [-\]: Maybe o16 p16 n17 ...
+Shamash [?\]: W has too many floating groups, when black will move R9 stone
+Comments1 [-\]: OK...
+Comments1 [-\]: W tries n17 o18 and then p16 
+]
+;B[kd]BL[1492.897]C[Comments1 [-\]: So B resists
+Comments1 [-\]: W can live locally with p17 or o18 and l17 
+]
+;W[oc]WL[1395.83]
+;B[od]BL[1393.085]C[Comments1 [-\]: B can so two things, basically. p16 o16 o18 p18 q18 n18 q17 o19 l18 
+Comments1 [-\]: o16 p18 o18 q18 l17 is too good for W I think
+]
+;W[nd]WL[1306.804]C[Comments1 [-\]: B can also play l18 first
+]
+;B[kb]BL[1348.463]C[Comments1 [-\]: or play q18 but that seems slow
+Comments1 [-\]: l18 threatens o18 p18 n18 
+Comments1 [-\]: If W plays q18 r18 and what then?
+]
+;W[mg]WL[1255.083]C[Comments1 [-\]: o14 is ok for B
+]
+;B[mh]BL[1315.76]C[Comments1 [-\]: I don;t understand n13 - W can just live locally, but trying to get out weakens W p11 stones
+]
+;W[qf]WL[1164.342]
+;B[pf]BL[1299.633]C[Comments1 [-\]: I expected this
+Comments1 [-\]: But now W will be thin everywhere
+Comments1 [-\]: r13 r12 s12 q12 s11 q11 that is good for B
+]
+;W[lh]WL[1124.6]
+;B[mi]BL[1269.463]
+;W[ke]WL[1103.93]C[Comments1 [-\]: interesting order. Ideally B wants to play n11 at m11 but if he does W r13 r12 q12 s12 o12 n11 q15 and B dies.
+]
+;B[kc]BL[1211.4]
+;W[qg]WL[1100.653]C[Comments1 [-\]: l17 is good enough
+]
+;B[qh]BL[1202.603]
+;W[rh]WL[1099.52]
+;B[ph]BL[1200.115]
+;W[ri]WL[1096.213]
+;B[pi]BL[1184.19]
+;W[pj]WL[1085.697]C[Comments1 [-\]: q11 is too nice, probably. better at r8 or would that be an overplay?
+Comments1 [-\]: But lukan does not like to attack.
+Shinichi56 [-\]: r14 hum
+Comments1 [-\]: I like r8 
+Comments1 [-\]: yes, hum
+]
+;B[qj]BL[1084.896]
+;W[sg]WL[1081.499]C[Comments1 [-\]: ??
+Comments1 [-\]: q9 would be better
+]
+;B[nf]BL[1030.944]C[Comments1 [-\]: I can't read out all variatoions But w q9 r8 q8 s7 s6 q7 r6 s10 t13 t11 s14 and B has a problem
+]
+;W[pb]WL[1016.601]C[Comments1 [-\]: If r18, W o18 lives 100%
+Comments1 [-\]: B o18 n18 r18 is therefore better...
+Comments1 [-\]: But B wants to play q9 ASAP
+]
+;B[pk]BL[939.911]
+;W[oj]WL[1013.521]
+;B[ok]BL[935.327]
+;W[nj]WL[998.016]C[Comments1 [-\]: B is thick now and r7 is very thin
+Comments1 [-\]: m9 kills
+Comments1 [-\]: but there are risks, like a ladder
+]
+;B[lk]BL[875.322]C[Comments1 [-\]: n10 m10 m11 o12 o8 o9 n9 n8 m8 n7 l9 is the ladder 
+Comments1 [-\]: which does not run for W
+Comments1 [-\]: But what if he plays f12 first?
+]
+;W[fh]WL[908.636]C[Comments1 [-\]: if B e11 , W can play the ladder
+]
+;B[ei]BL[776.96]C[Comments1 [-\]: oh oh
+]
+;W[gg]WL[886.375]C[Comments1 [-\]: n10 m10 m11 o12 o8 
+Comments1 [-\]: g13 was not necessary...
+]
+;B[ci]BL[742.308]
+;W[mj]WL[869.858]C[Comments1 [-\]: W gets another chance
+Comments1 [-\]: Hmmm, b is a little in trouble. 
+]
+;B[li]BL[642.726]
+;W[lj]WL[864.056]
+;B[kj]BL[638.507]
+;W[nl]WL[850.183]C[Comments1 [-\]: m10 could be a problem - it looked natural but...
+Comments1 [-\]: Nah, it's ok
+Comments1 [-\]: B now wants to play o18 n18 r18 
+]
+;B[kh]BL[562.719]C[Comments1 [-\]: o18 makes 100% life...
+Comments1 [-\]: come on, don't be shy.
+Comments1 [-\]: Of course W wants to play n8 
+Comments1 [-\]: or m8 
+Comments1 [-\]: But W will die I think...
+]
+;W[nb]WL[676.296]C[Comments1 [-\]: good boy
+]
+;B[nk]BL[546.063]
+;W[mk]WL[673.184]
+;B[ml]BL[544.874]
+;W[ll]WL[672.008]
+;B[mm]BL[543.878]
+;W[kk]WL[671.301]
+;B[om]BL[541.259]C[Comments1 [-\]: B has little choice but to sac one stone
+]
+;W[np]WL[654.349]C[Comments1 [-\]: k10 is huge but also s4 s3 o4 is good
+]
+;B[mq]BL[524.301]C[Comments1 [-\]: I think W may have to play s4...
+Comments1 [-\]: but anyway. W o6 o7 m5 vaguely gets out.
+Comments1 [-\]: But what about not exchanging o6 o7 ?
+]
+;W[rp]WL[580.415]
+;B[rq]BL[521.422]C[Comments1 [-\]: what about just n4 
+]
+;W[pp]WL[577.028]
+;B[qq]BL[519.292]C[Comments1 [-\]: m5 ?
+Comments1 [-\]: m5 m7 l7 is really macho
+]
+;W[mp]WL[478.414]
+;B[lm]BL[504.451]
+;W[jj]WL[458.446]
+;B[ki]BL[492.964]C[Comments1 [-\]: l7 l6 m6 is interesting
+]
+;W[km]WL[420.798]C[Comments1 [-\]: the moment of truth
+]
+;B[kn]BL[474.664]C[Comments1 [-\]: you can do it
+]
+;W[ln]WL[404.7]C[Comments1 [-\]: hehehe
+]
+;B[mn]BL[464.529]C[Hellhuman [-\]: you like blood huh?
+]
+;W[lo]WL[397.675]
+;B[jm]BL[462.138]
+;W[kl]WL[392.188]
+;B[rj]BL[459.523]C[Comments1 [-\]: Nah, i know what razor blades can do.
+Comments1 [-\]: B can make two eyes now
+]
+;W[se]WL[352.29]C[Comments1 [-\]: s14 s8 
+]
+;B[rl]BL[447.373]C[Comments1 [-\]: B is alive
+Comments1 [-\]: W s6 or s7 is not sente because B t10 is sente.
+Comments1 [-\]: So W needs to get out now - how?
+Comments1 [-\]: m3 is maybe the most usual approach
+]
+;W[jn]WL[252.458]
+;B[ko]BL[443.375]
+;W[kp]WL[251.269]
+;B[jo]BL[441.969]
+;W[jp]WL[247.477]
+;B[io]BL[438.445]C[Comments1 [-\]: hmmmmm
+]
+;W[ip]WL[244.317]C[Comments1 [-\]: W asks interesting questions
+]
+;B[ho]BL[397.078]
+;W[hp]WL[198.951]C[Comments1 [-\]: Is it Pal Balogh?
+]
+;B[lq]BL[383.213]
+;W[lp]WL[193.455]
+;B[go]BL[378.421]
+;W[fq]WL[186.488]C[Shamash [?\]: Hiw to know ?
+Comments1 [-\]: f3 e3 f4 f5 e5 looks too much, probably
+Comments1 [-\]: Well, Pal is strong and speaks that language.
+Comments1 [-\]: He is pretty crazy, but he is strong.
+Shamash [?\]: Hum if W survive, what did black gained ?
+]
+;B[eq]BL[275.466]C[Burpee [4d\]: how crazy is j9?
+Comments1 [-\]: How so? He got a nice game with a worthy opponent. What else do you want from life?
+]
+;W[fp]WL[143.772]C[Comments1 [-\]: Of course j9 is the next threat.
+]
+;B[fo]BL[269.667]
+;W[eo]WL[131.599]
+;B[gp]BL[266.603]C[Comments1 [-\]: if e5 e6 d5 g4 g3 h3 
+]
+;W[gq]WL[119.06]C[Comments1 [-\]: squeezy baby
+]
+;B[hq]BL[258.724]
+;W[hr]WL[114.113]
+;B[gr]BL[256.588]
+;W[iq]WL[111.081]
+;B[fr]BL[255.406]
+;W[hq]WL[98.449]
+;B[en]BL[247.188]
+;W[do]WL[94.151]C[Comments1 [-\]: and the B just plays j9 and waits for an opportunity to kill with k2 
+]
+;B[gl]BL[204.964]C[Comments1 [-\]: so B g8 makes miai of killing and killing
+Comments1 [-\]: B k9 k8 j9 or k2 
+Shamash [?\]: so brutal
+Comments1 [-\]: Yup, right to the heart of the matter.
+Shamash [?\]: love it
+Comments1 [-\]: yes yes. 1 slip and you are history.
+]
+;W[il]WL[0.196]C[Comments1 [-\]: So W may just resign at this point.... oops, not yet
+]
+;B[gj]BL[161.924]
+;W[gm]WL[30]OW[5]C[Comments1 [-\]: Even w k2 just not guarantee life
+]
+;B[fm]BL[134.443]
+;W[fl]WL[30]OW[5]
+;B[hl]BL[127.086]
+;W[hj]WL[30]OW[5]
+;B[im]BL[96.762]C[Comments1 [-\]: b2, B1 and l3 might be more interesting as it involves 
+Comments1 [-\]: a trick...
+]
+;W[kr]WL[30]OW[4]
+;B[kq]BL[90.638]
+;W[jr]WL[30]OW[4]
+;B[is]BL[73.915]C[Comments1 [-\]: anyway...b2 now
+]
+;W[hs]WL[30]OW[4]C[Comments1 [-\]: ouch
+Shamash [?\]: k9 not working ?
+Comments1 [-\]: because next time W plays b2, B will play d1 
+]
+;B[bq]BL[10.994]C[Comments1 [-\]: b3 us unncessary
+]
+;W[rn]WL[30]OW[4]C[Comments1 [-\]: of course k9 is enough
+Aliquid [4d\]: k8 was needed first
+]
+;B[gi]BL[30]OB[5]C[Comments1 [-\]: but why not kill everything?
+Shamash [?\]: oh
+Veedee [-\]: without b3, W g1
+Shamash [?\]: Ambitions of strong dan players...
+]
+;W[hi]WL[30]OW[3]C[Comments1 [-\]: k8 g9 j12 ?
+]
+;B[hh]BL[30]OB[5]C[Comments1 [-\]: W is thinking if B k9 j9 k8 h7 m9 g9 
+]
+;W[ih]WL[30]OW[3]
+;B[gk]BL[30]OB[5]C[Comments1 [-\]: that is enough for B to live for the rest of his life.
+Comments1 [-\]: but hw wants more...
+]
+;W[hg]WL[30]OW[3]C[Comments1 [-\]: ok you twisted my arm!
+]
+;B[jk]BL[30]OB[5]C[Shamash [?\]: AH FINNALLY
+Comments1 [-\]: ok, resignation....
+]
+;W[or]WL[30]OW[3]C[Shamash [?\]: Oh
+]
+;B[oq]BL[30]OB[5]C[Comments1 [-\]: this is a standard shape 
+]
+;W[ls]WL[30]OW[3]C[Shamash [?\]: yes indeed
+Comments1 [-\]: o1 o2 n2 n1 q2 p1 q1 o1 t4 t5 t3 
+]
+;B[nr]BL[30]OB[5]C[SIscurge [5d\]: perhaps not for lukan
+]
+;W[ns]WL[30]OW[3]
+;B[pr]BL[30]OB[5]
+;W[os]WL[30]OW[3]
+;B[ps]BL[30]OB[5]
+;W[ms]WL[30]OW[3]C[Comments1 [-\]: or o2 o1 p1 n1 n2 m2 n1 l1 k1 q1 l1 t4 s5 t3 
+]
+;B[sp]BL[30]OB[5]
+;W[so]WL[30]OW[3]
+;B[ro]BL[30]OB[5]C[Comments1 [-\]: I write all those coordinates, but it's difficult to read them for you guys....
+Shamash [?\]: ahah
+Comments1 [-\]: anyway B can always jus connect at t3 and live.
+]
+;W[nn]WL[30]OW[3]
+;B[nm]BL[30]OB[5]
+;W[rp]WL[30]OW[3]
+;B[sq]BL[30]OB[5]C[Comments1 [-\]: and W dies again....
+yugen [1k\]: true
+Shamash [?\]: yeah
+Comments1 [-\]: a double tragedy. Tale of Two Deaths
+Shamash [?\]: Strong Lukan
+]
+;W[op]WL[30]OW[1]C[Comments1 [-\]: finito
+Shamash [?\]: I would never let all my up territory be destroyed like he did
+]
+;B[on]BL[30]OB[5]
+;W[pn]WL[30]OW[1]C[Comments1 [-\]: q6 --- oh ko
+]
+;B[rm]BL[30]OB[5]
+;W[pm]WL[30]OW[1]
+;B[ro]BL[30]OB[5]
+;W[lr]WL[30]OW[1]C[Shamash [?\]: even ko is too much to support from W
+]
+;B[js]BL[30]OB[5]
+;W[rp]WL[30]OW[1]
+;B[si]BL[30]OB[5]
+;W[rf]WL[30]OW[1]
+;B[ro]BL[30]OB[5]
+;W[br]WL[30]OW[1]
+;B[bs]BL[30]OB[5]
+;W[rp]WL[30]OW[1]
+;B[sj]BL[30]OB[5]C[Comments1 [-\]: yes...
+]
+;W[sh]WL[30]OW[1]
+;B[ro]BL[30]OB[5]C[Comments1 [-\]: W is on his last time count
+]
+;W[ar]WL[30]OW[1]C[Comments1 [-\]: a2 
+Shamash [?\]: last breaths too
+]
+;B[aq]BL[30]OB[5]
+;W[rp]WL[30]OW[1]
+;B[bi]BL[30]OB[5]C[Shamash [?\]: b10
+Shamash [?\]: oh
+Comments1 [-\]: pain and more pain
+Lukan [7d\]: diky 
+krabicka [?\]: dík
+Comments1 [-\]: To become stronger, you have to build up immunity against pain.
+Backins [1k\]: Pěkně!
+Comments1 [-\]: That is the lesson
+Shamash [?\]: yeah
+Shamash [?\]: so you need to suffer a lot before ? =p
+SIrulezz: Comments psycho
+krabicka [?\]: asi střed moc veliký co, i kdybych se nezabil
+Comments1 [-\]: nice game, guys
+Lukan [7d\]: jj nejspis jo
+Lukan [7d\]: ale bylo to celou dobu neprehledne
+Lukan [7d\]: jsi me prevezl s temi schody ^^
+Lukan [7d\]: na ty jsem zapomnel
+krabicka [?\]: jo ale ten horejsek se mi nepovedl vubec
+krabicka [?\]: sem nic neziskal 
+Lukan [7d\]: jj, hodnekrat jsi tam musel zahrat a ani jsi nebyl zivy
+Lukan [7d\]: ale nervozni jsem byl, bodu jsem moc nemel :)
+krabicka [?\]: no ja taky ne
+Comments1 [-\]: Unlike the Polish, these guys seem to have enough vowels.
+Lukan [7d\]: tak jak to vypada? 2:2 asi?
+])

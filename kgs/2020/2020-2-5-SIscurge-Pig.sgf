@@ -1,0 +1,178 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[SIscurge]PB[Pig]WR[5d]DT[2020-02-05]PC[The KGS Go Server at http://www.gokgs.com/]C[SIscurge [5d\]: tak peknou :\]
+Pig [?\]: tak toho hlidace pozdravuj :)
+Pig [?\]: peknou hru
+Pig [?\]: Jakub Mírka, Plzeň, 3d
+]RE[W+Resign]
+;B[pd]BL[2652.416]C[SIscurge [5d\]: Ondra Krumlu 5d
+]
+;W[dc]WL[2687.875]
+;B[pp]BL[2638.882]
+;W[dp]WL[2645.575]
+;B[fq]BL[2588.84]
+;W[dn]WL[2612.169]
+;B[jp]BL[2578.461]
+;W[qn]WL[2581.465]
+;B[np]BL[2546.132]
+;W[oo]WL[2541.506]
+;B[op]BL[2537.691]
+;W[rp]WL[2508.547]
+;B[rq]BL[2458.865]
+;W[qq]WL[2481.015]
+;B[qp]BL[2410.947]
+;W[rr]WL[2469.896]
+;B[ro]BL[2408.49]
+;W[sq]WL[2468.237]
+;B[rn]BL[2401.397]
+;W[ql]WL[2450.765]
+;B[pn]BL[2371.362]
+;W[qi]WL[2434.925]
+;B[qg]BL[2366.656]
+;W[cf]WL[2347.412]C[murkhach [3k?\]: jak moc je velke R5 ?
+]
+;B[cl]BL[2329.082]
+;W[dr]WL[2292.394]
+;B[eo]BL[2309.129]
+;W[do]WL[2281.722]
+;B[el]BL[2277.441]
+;W[nc]WL[2261.609]
+;B[og]BL[2215.329]
+;W[qc]WL[2134.381]
+;B[pc]BL[2208.642]
+;W[qd]WL[2131.485]
+;B[qb]BL[2198.524]
+;W[qf]WL[2124.627]
+;B[pf]BL[2003.324]
+;W[qe]WL[2108.375]
+;B[rf]BL[1911.95]
+;W[re]WL[2063.035]
+;B[rh]BL[1871.641]
+;W[sf]WL[2038.551]
+;B[rg]BL[1863.619]
+;W[rb]WL[2025.667]
+;B[pb]BL[1832.535]
+;W[pe]WL[2014.453]
+;B[oe]BL[1829.332]
+;W[od]WL[2013.242]
+;B[ra]BL[1821.518]
+;W[sc]WL[1932.864]
+;B[sd]BL[1710.319]
+;W[ph]WL[1799.256]
+;B[pg]BL[1698.668]
+;W[ne]WL[1773.982]
+;B[of]BL[1695.022]
+;W[oc]WL[1760.648]
+;B[sb]BL[1686.275]
+;W[sa]WL[1753.975]
+;B[nb]BL[1552.8]
+;W[qa]WL[1727.756]
+;B[ob]BL[1549.524]
+;W[mc]WL[1726.219]
+;B[mb]BL[1548.707]
+;W[lc]WL[1724.055]
+;B[lb]BL[1526.135]C[SIkachnak [?\]: Kuba night crawler :)
+]
+;W[jc]WL[1642.195]
+;B[kb]BL[1507.555]
+;W[kc]WL[1617.708]
+;B[pa]BL[1501.473]
+;W[ra]WL[1573.258]
+;B[jb]BL[1482.075]
+;W[ic]WL[1569.929]
+;B[lg]BL[1476.427]
+;W[pm]WL[1553.865]
+;B[rm]BL[1447.722]
+;W[nm]WL[1542.833]
+;B[qm]BL[1403.873]
+;W[pl]WL[1538.29]
+;B[pr]BL[1389.408]
+;W[qr]WL[1509.046]
+;B[nk]BL[1309.203]
+;W[lm]WL[1483.325]
+;B[mn]BL[1290.019]
+;W[mm]WL[1475.764]
+;B[on]BL[1287.492]
+;W[nn]WL[1468.31]
+;B[po]BL[1268.454]
+;W[ni]WL[1407.951]
+;B[lk]BL[1202.702]
+;W[mg]WL[1332.341]
+;B[nh]BL[1057.681]
+;W[mh]WL[1329.868]
+;B[oi]BL[1055.494]
+;W[oj]WL[1301.206]
+;B[nj]BL[1046.103]
+;W[mi]WL[1296.327]
+;B[pj]BL[1021.845]
+;W[ok]WL[1275.525]
+;B[ol]BL[966.776]
+;W[pk]WL[1256.847]
+;B[om]BL[960.902]
+;W[oh]WL[1142.663]
+;B[rl]BL[945.501]
+;W[pi]WL[1140.373]
+;B[jk]BL[817.565]
+;W[rk]WL[1123.983]
+;B[gc]BL[687.851]
+;W[hk]WL[1106.5]
+;B[il]BL[678.654]
+;W[fm]WL[1045.835]
+;B[en]BL[669.095]
+;W[em]WL[1042.996]
+;B[dm]BL[668.268]
+;W[go]WL[947.711]
+;B[fp]BL[660.12]
+;W[fl]WL[923.776]
+;B[hp]BL[588.308]
+;W[ek]WL[918.075]
+;B[dl]BL[531.112]
+;W[cj]WL[791.187]
+;B[dj]BL[518.006]
+;W[dk]WL[787.571]
+;B[ck]BL[517.174]
+;W[bj]WL[763.072]
+;B[bk]BL[276.095]
+;W[fk]WL[654.678]
+;B[cn]BL[245.761]
+;W[bm]WL[651.664]
+;B[bn]BL[173.486]
+;W[bp]WL[631.229]
+;B[bo]BL[102.679]
+;W[cq]WL[599.293]
+;B[am]BL[67.544]
+;W[ao]WL[594.503]
+;B[ak]BL[61.42]
+;W[bl]WL[581.031]C[SIscurge [5d\]: diky za hru
+Pig [?\]:  diky
+Pig [?\]: tohle uz bylo zoufalstvi
+SIscurge [5d\]: hodne cool, zes odmitl podpojit ty kameny vlevo
+Pig [?\]: ale v tom rohu nahore jsem se strasne prehledl
+SIscurge [5d\]: jo to tak vypadalo :(
+SIscurge [5d\]: jinak ten muj skok na san san byl asi moc
+Pig [?\]: ja si neuvedomil, ze na q19 uplne normalne spojis :)
+SIscurge [5d\]: nejvic me prekvapilo g17, jsem myslel ze budes blokovat ten stred
+SIscurge [5d\]: jo jasne :)
+Pig [?\]: takze t16 nejspis blbost
+Pig [?\]: hmm, to uz nebylo nic moc
+Pig [?\]: pote, co byly sezrany ty my sutry
+SIscurge [5d\]: jj t16 vypadao jako skoro pass
+Pig [?\]: uz jsem citil, ze stojim blbe, tak jsem trosku zaponorkoval :)
+SIscurge [5d\]: stejne by tam to ko bylo
+SIscurge [5d\]: hehe
+SIscurge [5d\]: ale jo diky za hru :)
+SIscurge [5d\]: jdu sledovat ostatni kluky
+Pig [?\]: no, ale to ko by bylo podstatne lepsi
+SIscurge [5d\]: jo
+SIscurge [5d\]: tak jsem to myslel
+SIscurge [5d\]: ze to ko tam bude tak jako tak, takze ten tvuj tah je fakt skoro pass :( urco mohlo byt o kotel  lepsi
+Pig [?\]: nicmene, kdyz to bylo takto, tajk jsem mel hrozit jinde
+SIscurge [5d\]: jj
+SIscurge [5d\]: d3
+Pig [?\]: jj
+SIscurge [5d\]: jsem nevedel jestli pustim
+Pig [?\]: no nic, ale bavilo me to, slusna rezba :)
+Pig [?\]: tak zatim
+SIscurge [5d\]: jj me tez :)
+SIscurge [5d\]: ciao
+])

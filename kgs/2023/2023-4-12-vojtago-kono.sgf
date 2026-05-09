@@ -1,0 +1,223 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[vojtago]PB[kono]DT[2023-04-12]PC[The KGS Go Server at http://www.gokgs.com/]C[vojtago [?\]: Vojtech Vasa, So Imba O, 1k
+kono [?\]: barvy jako 2. deska, tak snad to maji dobre
+vojtago [?\]: peknou hru
+vojtago [?\]: jj mame
+kono [?\]: peknou hru preji
+]RE[B+Time]
+;B[qd]BL[2668.426]
+;W[dp]WL[2696.133]C[kono [?\]: kono, 3D, Mustek A, 4. deska
+]
+;B[qp]BL[2641.411]
+;W[dc]WL[2672.73]
+;B[nq]BL[2620.812]
+;W[od]WL[2662.08]
+;B[ce]BL[2535.876]
+;W[cn]WL[2641.48]
+;B[ld]BL[2479.139]
+;W[of]WL[2631.262]
+;B[qf]BL[2466.659]
+;W[qc]WL[2628.551]
+;B[rc]BL[2461.237]
+;W[pc]WL[2626.506]
+;B[rb]BL[2422.508]
+;W[ed]WL[2614.311]
+;B[id]BL[2399.343]
+;W[ch]WL[2565.327]
+;B[df]BL[2384.32]
+;W[cd]WL[2499.086]
+;B[fe]BL[2275.905]
+;W[gc]WL[2426.73]
+;B[gd]BL[2234.081]
+;W[hc]WL[2414.448]
+;B[hd]BL[2224.121]
+;W[dk]WL[2369.872]
+;B[ph]BL[2211.409]
+;W[me]WL[2320.304]
+;B[le]BL[2198.55]
+;W[mf]WL[2310.272]
+;B[nc]BL[2078.812]
+;W[lf]WL[2264.627]
+;B[ic]BL[2048.921]
+;W[ni]WL[2171.222]
+;B[oj]BL[2015.146]
+;W[nj]WL[2141.095]
+;B[ok]BL[2009.935]
+;W[nk]WL[2090.79]
+;B[ol]BL[1991.656]
+;W[iq]WL[2026.835]
+;B[fc]BL[1945.016]
+;W[fb]WL[2019.475]
+;B[fd]BL[1934.016]
+;W[gb]WL[1971.48]
+;B[kq]BL[1874.374]
+;W[fq]WL[1940.381]
+;B[mm]BL[1848.528]
+;W[ko]WL[1852.741]
+;B[jp]BL[1838.205]
+;W[ip]WL[1736.848]
+;B[jo]BL[1834.633]
+;W[km]WL[1720.841]
+;B[ll]BL[1806.493]
+;W[kl]WL[1658.755]
+;B[lk]BL[1802.867]
+;W[mn]WL[1636.931]
+;B[nn]BL[1781.618]
+;W[mo]WL[1633.065]
+;B[no]BL[1711.772]
+;W[lm]WL[1609.32]
+;B[nl]BL[1698.601]
+;W[hn]WL[1580.832]
+;B[nd]BL[1458.317]
+;W[oh]WL[1557.41]
+;B[pg]BL[1433.41]
+;W[oi]WL[1493.936]
+;B[pi]BL[1379.457]
+;W[md]WL[1303.538]
+;B[mc]BL[1376.12]
+;W[ne]WL[1264.479]
+;B[pe]BL[1359.295]
+;W[oe]WL[1248.921]
+;B[kh]BL[1189.302]
+;W[li]WL[1075.901]
+;B[ki]BL[1158.958]
+;W[lj]WL[1072.379]
+;B[kk]BL[1153.752]
+;W[kj]WL[1067.772]
+;B[jj]BL[1073.053]
+;W[jk]WL[986.138]
+;B[ij]BL[1058.856]
+;W[je]WL[971.844]
+;B[kc]BL[1045.307]
+;W[jn]WL[930.526]
+;B[kf]BL[897.196]
+;W[mk]WL[875.821]
+;B[ml]BL[893.221]
+;W[gj]WL[720.074]C[Veedee [-\]: bily ozil lehce v tempu. Predtim dostal tah k pokryti k6. hral docela vtipne
+]
+;B[ei]BL[847.746]
+;W[di]WL[659.142]C[Veedee [-\]: C mel hrat k9 misto k10. kdyz bily vyleze na k10, cerny zajme j7
+]
+;B[ek]BL[826.706]
+;W[ej]WL[638.182]
+;B[fj]BL[824.005]
+;W[dj]WL[635.612]
+;B[fk]BL[809.785]
+;W[fi]WL[523.176]C[Veedee [-\]: bily mohl f11 misto e10
+]
+;B[gk]BL[623.992]
+;W[fg]WL[465.958]
+;B[ec]BL[577.059]
+;W[eb]WL[450.583]
+;B[eh]BL[543.506]
+;W[eg]WL[428.54]
+;B[fh]BL[539.161]C[vojtago [?\]: minutku simon mi vylil fernet na notebook
+kono [?\]: da se pridat cas?
+kono [?\]: jak to pauznout?
+vojtago [?\]: nemusis, imho muj problem
+kono [?\]: muj problem taky nechci abys prohral kvuli tomu
+kono [?\]: uz jsem to nasel
+vojtago [?\]: touchapad jede budu susit za behu
+kono [?\]: pridal jsem 3 minuty zatim
+vojtago [?\]: diky
+kono [?\]: myslim, ze jsi byl na 7 minutach, tak v klidku dosus
+]
+;W[dg]WL[284.598]C[vojtago [?\]: ready
+SImasakrzz [?\]: yes
+]
+;B[en]BL[480.862]
+;W[kr]WL[296.818]C[kono [?\]: (vratil jsem to na tech 7)
+]
+;B[lq]BL[469.766]
+;W[bd]WL[217.029]
+;B[cm]BL[448.622]
+;W[dm]WL[199.907]
+;B[dn]BL[444.018]
+;W[cl]WL[193.281]
+;B[co]BL[436.264]
+;W[bm]WL[173.288]C[SImasakrzz [?\]: fajn ze jede notas, fernet lepi fest
+]
+;B[cp]BL[393.602]
+;W[bo]WL[162.188]
+;B[dq]BL[361.35]
+;W[ep]WL[141.805]
+;B[fr]BL[214.972]
+;W[eq]WL[124.531]
+;B[er]BL[189.037]
+;W[cq]WL[118.918]
+;B[dr]BL[181.039]
+;W[do]WL[87.386]
+;B[hr]BL[154.194]
+;W[ir]WL[57.306]
+;B[cr]BL[142.708]
+;W[bq]WL[54.154]
+;B[gq]BL[110.406]
+;W[gp]WL[34.498]
+;B[br]BL[57.269]
+;W[ar]WL[21.993]
+;B[hs]BL[21.901]
+;W[hg]WL[30]OW[2]
+;B[gh]BL[30]OB[3]
+;W[gg]WL[30]OW[2]
+;B[bf]BL[30]OB[3]
+;W[lr]WL[30]OW[2]
+;B[mr]BL[30]OB[3]
+;W[em]WL[30]OW[2]
+;B[ah]BL[30]OB[3]
+;W[bg]WL[30]OW[2]
+;B[ag]BL[30]OB[3]
+;W[bi]WL[30]OW[2]
+;B[io]BL[30]OB[3]
+;W[hq]WL[30]OW[2]
+;B[gr]BL[30]OB[3]
+;W[ho]WL[30]OW[2]
+;B[ih]BL[30]OB[3]
+;W[ib]WL[30]OW[2]
+;B[jb]BL[30]OB[3]
+;W[if]WL[30]OW[2]
+;B[ig]BL[30]OB[3]
+;W[hf]WL[30]OW[2]
+;B[ob]BL[30]OB[3]
+;W[qb]WL[30]OW[2]
+;B[ra]BL[30]OB[3]C[SImasakrzz [?\]: ko vlevo co
+]
+;W[de]WL[30]OW[1]
+;B[ee]BL[30]OB[3]
+;W[dd]WL[30]OW[1]
+;B[ef]BL[30]OB[3]
+;W[cf]WL[30]OW[1]
+;B[cg]BL[30]OB[3]
+;W[dh]WL[30]OW[1]
+;B[bh]BL[30]OB[3]
+;W[be]WL[30]OW[1]
+;B[cf]BL[30]OB[3]
+;W[mp]WL[30]OW[1]
+;B[mq]BL[30]OB[3]C[vojtago [?\]: 3k ms ping gg
+vojtago [?\]: diky xa hru
+vojtago [?\]: za
+kono [?\]: jsi mel rict, mohli jsme s tim casem neco delat
+kono [?\]: dekuju
+vojtago [?\]: kazdy tah odezva nekolik sekund, s tim nic neudelas
+kono [?\]: s tema ocima v tempu jsi me pekne vyskolil :)
+vojtago [?\]: myslis tu skupinu nahore?
+kono [?\]: ano, tu v centru
+vojtago [?\]: i tak jsem na tom byl spatne
+kono [?\]: ty mas desku otocenou jako ja? skupina vrpavo nahore?
+vojtago [?\]: kdybych neozil v sente tak asi vzdam
+vojtago [?\]: jj
+vojtago [?\]: na kgs maji oba stejnou perspektivu
+kono [?\]: je to 3:1 pro nas?
+vojtago [?\]: netusim jak hrali ostatni
+vojtago [?\]: kazdopadne se uvidime ve finale
+kono [?\]: flashback prohral
+tvojemama [?\]: 4;0
+tvojemama [?\]: myslim
+vojtago [?\]: jj pisa zkusene taky na cas co jsem slysel
+kono [?\]: chces to probrat?
+tvojemama [?\]: pisovi tam vyskocilo okynko ze omino se vzdal :-D
+vojtago [?\]: xd
+tvojemama [?\]: a to mu bloklo klienta
+vojtago [?\]: jak chces, pokud mas co k tomu rict
+kono [?\]: ja mam vzdycky co rict, otazka je jestli je to pravda
+])

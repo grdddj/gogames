@@ -1,0 +1,148 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[Pig]PB[krabicka]BR[2d]DT[2023-10-11]PC[The KGS Go Server at http://www.gokgs.com/]C[Pig [?\]: ahoj, peknou hru
+krabicka [2d?\]: Čau, pěknou partii
+]RE[B+Resign]
+;B[qd]BL[2690.256]C[Pig [?\]: Jakub Mírka, 3d, Plzeň
+]
+;W[dd]WL[2688.114]
+;B[pq]BL[2687.042]C[krabicka [2d?\]: Jan Prokop 6d SO IMBA O
+Pig [?\]: sorry, organizacni problemy, ale uz je to ok :)
+krabicka [2d?\]: np
+]
+;W[dq]WL[2453.657]
+;B[nd]BL[2682.55]
+;W[po]WL[2433.234]
+;B[qm]BL[2657.704]
+;W[on]WL[2431.024]
+;B[om]BL[2634.824]
+;W[nm]WL[2410.885]
+;B[pm]BL[2617.372]
+;W[qp]WL[2299.945]
+;B[mq]BL[2590.387]
+;W[mn]WL[2267.833]
+;B[no]BL[2579.833]
+;W[nn]WL[2256.802]
+;B[qq]BL[2568.461]
+;W[oj]WL[2238.807]
+;B[qj]BL[2546.202]
+;W[mj]WL[2216.423]
+;B[ph]BL[2536.167]
+;W[kq]WL[2214.361]
+;B[do]BL[2532.535]
+;W[fp]WL[2211.984]
+;B[cq]BL[2527.059]
+;W[cr]WL[2150.074]
+;B[cp]BL[2514.965]
+;W[en]WL[2139.135]
+;B[dm]BL[2454.573]
+;W[ck]WL[2121.631]
+;B[eq]BL[2442.734]
+;W[er]WL[2045.532]
+;B[fq]BL[2360.26]
+;W[ep]WL[2008.717]
+;B[dp]BL[2336.928]
+;W[dr]WL[2006.807]
+;B[gq]BL[2266.434]
+;W[bq]WL[1999.397]
+;B[bp]BL[2263.905]
+;W[aq]WL[1998.493]
+;B[dk]BL[2176.2]
+;W[dj]WL[1991.742]
+;B[cj]BL[2120.506]
+;W[cl]WL[1962.29]
+;B[dl]BL[2093.656]
+;W[ci]WL[1960.5]
+;B[bj]BL[2089.706]
+;W[bi]WL[1959.825]
+;B[ej]BL[2077.65]
+;W[di]WL[1958.865]
+;B[cm]BL[2046.944]
+;W[gp]WL[1957.633]
+;B[bl]BL[2015.295]
+;W[jc]WL[1853.905]
+;B[hq]BL[1892.995]
+;W[hp]WL[1825.221]
+;B[iq]BL[1890.969]
+;W[ip]WL[1814.413]
+;B[jq]BL[1889.529]
+;W[kp]WL[1778.938]
+;B[jp]BL[1871.057]
+;W[jo]WL[1775.793]
+;B[kr]BL[1869.921]
+;W[lr]WL[1774.054]
+;B[js]BL[1829.437]
+;W[lq]WL[1766.235]
+;B[fr]BL[1808.62]
+;W[ls]WL[1641.294]
+;B[hs]BL[1778.44]
+;W[rq]WL[1619.876]
+;B[rr]BL[1752.085]
+;W[rp]WL[1614.597]
+;B[pp]BL[1748.853]
+;W[sr]WL[1601.995]
+;B[qs]BL[1703.866]
+;W[pn]WL[1596.342]
+;B[rn]BL[1691.248]
+;W[qn]WL[1587.575]
+;B[or]BL[1628.804]
+;W[nq]WL[1483.481]
+;B[nr]BL[1539.082]
+;W[mr]WL[1479.226]
+;B[pr]BL[1317.489]
+;W[ec]WL[1430.914]
+;B[cf]BL[1305.054]
+;W[dg]WL[1337.451]
+;B[id]BL[1117.481]
+;W[ic]WL[1274.805]
+;B[gd]BL[1109.326]
+;W[ie]WL[1230.376]
+;B[he]BL[1081.084]
+;W[jd]WL[1223.969]
+;B[if]BL[1011.849]
+;W[hd]WL[1220.498]
+;B[je]BL[976.994]
+;W[ge]WL[1196.623]
+;B[id]BL[975.591]
+;W[hc]WL[1195.92]
+;B[gf]BL[803.497]
+;W[fe]WL[1192.785]
+;B[cc]BL[802.177]
+;W[cd]WL[1131.199]
+;B[bd]BL[797.606]
+;W[bb]WL[1101.058]
+;B[ef]BL[527.671]
+;W[df]WL[1051.575]
+;B[ee]BL[512.854]
+;W[fd]WL[1048.36]
+;B[bc]BL[505.652]
+;W[cb]WL[884.872]
+;B[de]BL[368.006]
+;W[ff]WL[861.925]
+;B[dc]BL[266.631]
+;W[db]WL[672.058]
+;B[eg]BL[222.314]
+;W[eh]WL[650.262]
+;B[fg]BL[211.411]C[krabicka [2d?\]: dík
+Pig [?\]: diky
+krabicka [2d?\]: sem nebyl na tom dobře
+Pig [?\]: no, ted jsem to v tom rohu zdupal
+Pig [?\]: asi jsem mel hrat ko, ale chtel jsem bez nej
+krabicka [2d?\]: to trochu jo no, stačilo napohodu jakkoli
+Pig [?\]: ale neprijde mi, ze bych stal predtim nejak kralovsky, mozna vyrovnane
+krabicka [2d?\]: tak ten roh vpravo dole sem pokazil
+Pig [?\]: takze jsem to radsi brousil dal :)
+Pig [?\]: mohl jsi z toho vyjit lip?
+Pig [?\]: bez ko?
+Pig [?\]: jestli jo, tak by to pro mne bylo hodne blby
+krabicka [2d?\]: tipuju že jo, kdybych zahrál na T2
+krabicka [2d?\]: místo Q4 - by mi snad neuteklo
+Pig [?\]: kazdopadne ten peep e15 ti vysel pekne, ja jsem jako vedel, na co tim miris, ale nejak jsem mel vlci mlhu a myslel jsem, ze to stejne zmaknu :)
+Pig [?\]: resp. e14, e15
+krabicka [2d?\]: jasně no
+Pig [?\]: no, nic Jirka nam to hodi do grafiku
+Pig [?\]: diky za hru, byl to dobry boj a bavilo me to :)
+krabicka [2d?\]: díky
+krabicka [2d?\]:  taky
+Pig [?\]: mej se
+])

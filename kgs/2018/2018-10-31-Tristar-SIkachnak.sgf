@@ -1,0 +1,231 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[Tristar]PB[SIkachnak]DT[2018-10-31]PC[The KGS Go Server at http://www.gokgs.com/]C[SIkachnak [?\]: Ondrej Kachyna Brno
+Tristar [-\]: Tristan Defer 1D - BRNO! B
+SIkachnak [?\]: *Brno !
+SIkachnak [?\]: Brno А
+SIkachnak [?\]: pěknou hru :D
+]RE[W+Time]
+;B[pd]BL[2668.243]C[Tristar [-\]: pěknou hru :)
+]
+;W[dc]WL[2672.274]
+;B[pp]BL[2660.955]C[scurge [?\]: kachnaaa jedem
+]
+;W[cp]WL[2664.366]
+;B[ce]BL[2644.11]
+;W[ed]WL[2586.747]
+;B[eq]BL[2597.181]
+;W[do]WL[2507.899]
+;B[ci]BL[2553.706]
+;W[ck]WL[2268.261]
+;B[mc]BL[2521.866]
+;W[cd]WL[2204.4]
+;B[de]BL[2509.204]
+;W[fp]WL[2193.897]
+;B[gq]BL[2502.295]
+;W[fq]WL[2114.171]
+;B[fr]BL[2477.889]
+;W[er]WL[2099.32]
+;B[dr]BL[2457.463]
+;W[gr]WL[2091.85]
+;B[es]BL[2453.266]
+;W[hq]WL[2089.445]
+;B[ep]BL[2395.59]
+;W[gp]WL[2065.128]
+;B[eo]BL[2346.986]
+;W[cr]WL[2047.78]
+;B[em]BL[2288.767]
+;W[dn]WL[2031.931]
+;B[en]BL[2270.76]
+;W[dl]WL[2016.847]
+;B[jq]BL[2147.55]
+;W[jp]WL[1928.08]
+;B[kp]BL[2091.141]
+;W[jo]WL[1900.317]
+;B[kq]BL[2011.761]
+;W[gl]WL[1891.614]C[scurge [?\]: Kill With Power
+]
+;B[gm]BL[1722.728]
+;W[hl]WL[1820.372]
+;B[hm]BL[1629.815]
+;W[im]WL[1719.668]
+;B[fl]BL[1516.345]
+;W[fk]WL[1714.792]
+;B[in]BL[1495.963]C[Lukan [-\]: Die Die!
+Zleon [2k\]: BRNO B!
+]
+;W[jm]WL[1473.061]
+;B[ip]BL[1413.971]
+;W[io]WL[1189.843]
+;B[ho]BL[1398.105]
+;W[hp]WL[1169.169]
+;B[jn]BL[1320.691]
+;W[ko]WL[1149.935]
+;B[kn]BL[1301.112]
+;W[lo]WL[1148.067]
+;B[iq]BL[1288.009]
+;W[ir]WL[1141.888]
+;B[mq]BL[1215.665]
+;W[jr]WL[1103.024]
+;B[kr]BL[1136.155]
+;W[gs]WL[1051.643]
+;B[ln]BL[1035.11]
+;W[cg]WL[950.195]
+;B[dg]BL[1028.783]
+;W[ch]WL[916.841]
+;B[dh]BL[1017.247]
+;W[bi]WL[912.827]
+;B[ee]BL[986.554]
+;W[fd]WL[899.355]
+;B[gh]BL[866.693]
+;W[ik]WL[844.926]
+;B[di]BL[807.605]
+;W[cj]WL[825.897]
+;B[pj]BL[688.621]
+;W[qd]WL[804.69]
+;B[qc]BL[674.98]
+;W[qe]WL[725.326]
+;B[rc]BL[602.525]
+;W[qi]WL[665.073]
+;B[qj]BL[590.928]
+;W[rj]WL[649.936]
+;B[rk]BL[581.528]
+;W[ri]WL[595.268]
+;B[pe]BL[526.912]
+;W[rl]WL[552.704]
+;B[ql]BL[404.904]
+;W[sk]WL[537.707]
+;B[rm]BL[402.846]
+;W[qk]WL[518.221]
+;B[pk]BL[366.561]
+;W[qm]WL[510.825]
+;B[rk]BL[365.069]
+;W[hn]WL[508.511]
+;B[gn]BL[343.926]
+;W[qk]WL[505.704]
+;B[js]BL[255.974]
+;W[is]WL[464.32]
+;B[rk]BL[253.859]
+;W[go]WL[454.88]
+;B[hn]BL[147.595]
+;W[qk]WL[450.007]
+;B[dm]BL[113.05]
+;W[cm]WL[397.204]
+;B[rk]BL[109.002]
+;W[fg]WL[230.073]
+;B[sl]BL[24.419]
+;W[fh]WL[223.847]
+;B[fi]BL[9.448]
+;W[gi]WL[202.615]
+;B[ek]BL[30]OB[2]
+;W[el]WL[200.002]
+;B[fm]BL[30]OB[2]
+;W[fj]WL[197.514]
+;B[gf]BL[30]OB[2]
+;W[ff]WL[178.858]
+;B[ei]BL[30]OB[2]
+;W[hi]WL[163.177]
+;B[fe]BL[30]OB[2]
+;W[gg]WL[122.105]
+;B[dk]BL[30]OB[2]
+;W[cl]WL[118.824]
+;B[gd]BL[30]OB[2]
+;W[hf]WL[114.818]
+;B[ge]BL[30]OB[2]
+;W[id]WL[107.24]C[scurge [?\]: kachna udelal T jako tristan
+]
+;B[ie]BL[30]OB[2]
+;W[he]WL[100.241]
+;B[hd]BL[30]OB[2]
+;W[jd]WL[87.626]
+;B[gb]BL[30]OB[1]
+;W[eb]WL[47.186]
+;B[bd]BL[30]OB[1]
+;W[bc]WL[44.543]
+;B[dd]BL[30]OB[1]
+;W[cc]WL[41.22]
+;B[ic]BL[30]OB[1]
+;W[jc]WL[36.391]
+;B[ib]BL[30]OB[1]
+;W[jb]WL[30.842]
+;B[fc]BL[30]OB[1]
+;W[ec]WL[28.686]
+;B[fb]BL[30]OB[1]
+;W[hc]WL[24.662]
+;B[hb]BL[30]OB[1]
+;W[fa]WL[22.651]
+;B[bf]BL[30]OB[1]
+;W[ad]WL[30]OW[3]
+;B[ae]BL[30]OB[1]
+;W[be]WL[30]OW[3]
+;B[hg]BL[30]OB[1]
+;W[if]WL[30]OW[3]
+;B[bd]BL[30]OB[1]
+;W[ac]WL[30]OW[2]
+;B[cf]BL[30]OB[1]
+;W[bg]WL[30]OW[2]
+;B[ga]BL[30]OB[1]
+;W[ea]WL[30]OW[2]
+;B[je]BL[30]OB[1]
+;W[ke]WL[30]OW[2]
+;B[jf]BL[30]OB[1]
+;W[ig]WL[30]OW[2]
+;B[kf]BL[30]OB[1]
+;W[le]WL[30]OW[2]
+;B[lf]BL[30]OB[1]
+;W[me]WL[30]OW[2]
+;B[mf]BL[30]OB[1]
+;W[ne]WL[30]OW[2]
+;B[nf]BL[30]OB[1]
+;W[oe]WL[30]OW[2]
+;B[of]BL[30]OB[1]
+;W[nc]WL[30]OW[2]
+;B[nb]BL[30]OB[1]
+;W[oc]WL[30]OW[2]
+;B[lb]BL[30]OB[1]
+;W[pf]WL[30]OW[2]
+;B[pc]BL[30]OB[1]
+;W[ob]WL[30]OW[2]C[Pig [?\]: co se stalo?
+]
+;B[kd]BL[30]OB[1]
+;W[lc]WL[30]OW[2]
+;B[kb]BL[30]OB[1]C[Pig [?\]: uz dobry, chvili mi to ukazovalo, ze ma Kachna 0 casu
+scurge [?\]: kachne to spadlo
+]
+;W[kc]WL[30]OW[2]C[ophi [4k?\]: mi taky
+]
+;B[ja]BL[30]OB[1]
+;W[ld]WL[30]OW[2]
+;B[od]BL[30]OB[1]
+;W[ka]WL[30]OW[2]C[scurge [?\]: hej kachna zahral pred 10 sekundy
+SIAudun [5k\]: Gratuluju!!!!
+Laman [2d\]: jej
+scurge [?\]: pred 30ti
+scurge [?\]: omg :D
+Tristar [-\]: ?
+Tristar [-\]: seklo se mu to?
+scurge [?\]: jo on zahral hned
+scurge [?\]: aji to videl u sebe na kompu ze zahral
+Tristar [-\]: reset?
+SIAudun [5k\]: Máme ještě šanci na remízu!
+tomason [4k?\]: asi budu muset objednat rychlejší net ...
+scurge [?\]: to nevim jestli jde
+scurge [?\]: ne nam tu net vsem bezi dobre
+scurge [?\]: jenom kachne na starem kompu
+Tristar [-\]: jde ňák resetovat čas?
+tomason [4k?\]: :))
+scurge [?\]: muselo by se to cely naklikat od znova, to je asi blbost
+SIkachnak [?\]: asi bychom to museli nabouchat od znovu
+scurge [?\]: ted jde pokracovat v partii, ale bez casu
+Laman [2d\]: běžte za Lukanem, ale podle mě je po všem
+scurge [?\]: jestli chces tak to muzete dohrat bez casu
+ophi [4k?\]: Alespoň důvod ke koupi nového kompu.
+Laman [2d\]: haha, teď Hezi
+scurge [?\]: kachna bude muset odpovedet do 30s
+scurge [?\]: ale ty muzes premyslet dyl
+scurge [?\]: aby to bylo ferovejsi
+ophi [4k?\]: co to jsou za nové pravidla?
+Pig [?\]: jj, Hezi taky, nic naplat, zamoznejsi tymy s lepsim vybavenim maji vyhodu, tak to ve sportu chodi vsude
+scurge [?\]: a tak aji na turnaji, kdyz prohrajes kvuli tomu, ze selzou hodiny, tak se restartuje cas
+scurge [?\]: tady kachna zahral za vterinu po bilem tahu, talze tp je obdobna situace
+])

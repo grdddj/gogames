@@ -1,0 +1,245 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[Lukan]PB[mamolo]BR[5d]DT[2019-01-09]PC[The KGS Go Server at http://www.gokgs.com/]C[Lukan [-\]: peknou partii!
+mamolo [5d\]: pěknou hru
+Lukan [-\]: Lukas Podpera - WS Praha
+]RE[W+Time]
+;B[qd]BL[2690.499]
+;W[dp]WL[2677.142]C[Pig [?\]: a uz je tu slagr 4. kola :)
+]
+;B[dd]BL[2666.334]
+;W[qp]WL[2648.215]
+;B[oq]BL[2654.565]C[tymak [1d?\]: na to, ze jde o slagr, tak divacky zatim zadna slava
+]
+;W[kq]WL[2597.827]
+;B[qq]BL[2623.753]
+;W[rq]WL[2588.011]
+;B[pp]BL[2619.585]
+;W[qr]WL[2533.963]
+;B[qo]BL[2615.365]
+;W[pq]WL[2531.443]
+;B[rp]BL[2557.728]
+;W[qq]WL[2526.948]
+;B[po]BL[2556.491]C[Pig [?\]: zacali pozdeji, uz se to schazi :)
+]
+;W[or]WL[2486.356]
+;B[nq]BL[2553.206]
+;W[oc]WL[2446.939]
+;B[pf]BL[2537.658]
+;W[cc]WL[2439.026]
+;B[dc]BL[2532.437]
+;W[cd]WL[2435.72]
+;B[de]BL[2528.33]
+;W[bf]WL[2425.248]
+;B[pc]BL[2523.188]
+;W[kc]WL[2291.357]
+;B[ic]BL[2475.72]
+;W[od]WL[2223.966]
+;B[cq]BL[2452.873]
+;W[dq]WL[2205.332]
+;B[cp]BL[2442.626]
+;W[co]WL[2191.988]
+;B[bo]BL[2440.188]
+;W[bn]WL[2188.777]
+;B[cn]BL[2407.734]
+;W[do]WL[2165.59]
+;B[bm]BL[2372.47]
+;W[bp]WL[2160.925]
+;B[an]BL[2370.539]
+;W[bq]WL[2159.93]
+;B[cb]BL[2368.775]
+;W[bb]WL[2158.029]
+;B[be]BL[2366.94]
+;W[db]WL[2144.518]
+;B[ce]BL[2335.648]
+;W[eb]WL[2140.315]
+;B[dn]BL[2298.192]
+;W[fd]WL[2063.845]
+;B[eo]BL[2258.42]
+;W[cr]WL[1983.233]
+;B[ff]BL[2242.969]
+;W[hd]WL[1947.143]
+;B[id]BL[2230.886]
+;W[he]WL[1921.577]
+;B[ie]BL[2142.601]
+;W[hg]WL[1898.88]
+;B[if]BL[2110.456]
+;W[hf]WL[1880.27]
+;B[le]BL[2063.117]
+;W[mf]WL[1798.525]
+;B[me]BL[2033.76]
+;W[of]WL[1789.943]
+;B[mc]BL[2012.361]
+;W[pg]WL[1709.01]
+;B[pe]BL[1985.042]
+;W[oe]WL[1699.869]
+;B[og]BL[1981.697]
+;W[qg]WL[1657.33]
+;B[ob]BL[1935.991]
+;W[pd]WL[1639.909]
+;B[qb]BL[1840.125]
+;W[qe]WL[1635.279]
+;B[gb]BL[1826.731]
+;W[fh]WL[1606.313]
+;B[dh]BL[1802.85]
+;W[fj]WL[1519.565]
+;B[dj]BL[1756.598]
+;W[pl]WL[1355.619]
+;B[nr]BL[1706.858]
+;W[no]WL[1244.574]
+;B[rn]BL[1662.419]
+;W[os]WL[1224.2]
+;B[qk]BL[1630.502]
+;W[ko]WL[1177.925]
+;B[lp]BL[1545.4]
+;W[kp]WL[1159.367]
+;B[nn]BL[1537.126]
+;W[ql]WL[987.649]
+;B[rl]BL[1517.798]
+;W[pk]WL[946.905]
+;B[qj]BL[1509.347]
+;W[rm]WL[930.37]
+;B[qm]BL[1445.627]
+;W[rk]WL[894.178]
+;B[sm]BL[1415.397]
+;W[rj]WL[891.271]
+;B[mn]BL[1358.478]
+;W[en]WL[841.04]
+;B[hn]BL[1053.239]
+;W[hp]WL[798.98]
+;B[gp]BL[967.215]
+;W[gq]WL[743.153]
+;B[go]BL[927.058]
+;W[fn]WL[724.491]
+;B[hq]BL[899.752]
+;W[ip]WL[701.173]
+;B[fq]BL[869.23]
+;W[gr]WL[697.172]
+;B[fk]BL[840.529]
+;W[gk]WL[635.111]C[rubicon [2d\]: hello my czech friends, what tournament/round is this?
+]
+;B[fl]BL[779.495]
+;W[gm]WL[623.764]
+;B[rs]BL[678.144]
+;W[qs]WL[588.408]
+;B[pi]BL[512.606]
+;W[ri]WL[575.545]
+;B[im]BL[481.282]
+;W[gl]WL[560.773]C[ttonndaa [1k?\]: Hi, this is Czech online team league, 4th round, Lukas Podpera 7d (white, APWS) vs. Jan Hora 6d (black, Prague Go Club).
+]
+;B[fc]BL[437.366]
+;W[jl]WL[431.467]
+;B[ca]BL[369.48]
+;W[ac]WL[389.07]
+;B[kn]BL[296.667]
+;W[jn]WL[327.465]
+;B[jm]BL[271.321]
+;W[km]WL[316.13]
+;B[il]BL[270.093]
+;W[ln]WL[281.493]
+;B[ij]BL[213.255]
+;W[jk]WL[242.564]
+;B[ik]BL[192.539]
+;W[hi]WL[217.904]
+;B[fp]BL[168.98]
+;W[fr]WL[211.295]
+;B[ii]BL[147.409]
+;W[dm]WL[179.252]
+;B[dl]BL[103.926]
+;W[cm]WL[165.562]
+;B[bn]BL[99.295]
+;W[cl]WL[157.936]
+;B[ck]BL[95.077]
+;W[el]WL[92.991]
+;B[ek]BL[85.464]
+;W[dk]WL[86.56]
+;B[bl]BL[71.59]
+;W[cj]WL[64.23]
+;B[dl]BL[69.917]
+;W[gn]WL[53.421]
+;B[em]BL[30]OB[3]
+;W[in]WL[43.902]
+;B[ih]BL[30]OB[2]
+;W[hh]WL[33.066]
+;B[oi]BL[30]OB[2]
+;W[mk]WL[30]OW[3]
+;B[mj]BL[30]OB[2]
+;W[nj]WL[30]OW[3]
+;B[ni]BL[30]OB[2]
+;W[lj]WL[30]OW[3]
+;B[oj]BL[30]OB[2]
+;W[mi]WL[30]OW[3]
+;B[ok]BL[30]OB[2]
+;W[ig]WL[30]OW[3]
+;B[kl]BL[30]OB[2]
+;W[ll]WL[30]OW[3]
+;B[jh]BL[30]OB[1]
+;W[jg]WL[30]OW[3]
+;B[lh]BL[30]OB[1]
+;W[kg]WL[30]OW[3]
+;B[li]BL[30]OB[1]
+;W[ke]WL[30]OW[3]C[Lukan [-\]: diky
+mamolo [5d\]: to mi nak divne laglo ..
+mamolo [5d\]: ale asi to je jedno ...
+Lukan [-\]: ale tak asi uz je to celkem hotovy, ne?
+Lukan [-\]: misto P18 jen sestup?
+mamolo [5d\]: nekecej
+mamolo [5d\]: haha
+Lukan [-\]: pak asi vyrovnany boj?
+mamolo [5d\]: to tezko
+mamolo [5d\]: i po tom vzeti to bylo vyrovnany
+Lukan [-\]: po tom vzeti fakt ne
+mamolo [5d\]: takze pred tim to muselo byt hodne dobry
+Lukan [-\]: tak mel bych dve skupiny o ktery se musim starat, ale zase jinde jsem si myslel, ze jsem celkove trosku ziskal
+mamolo [5d\]: mozna jo
+mamolo [5d\]: ja sem celou dobu nevidel to kosumi :(
+mamolo [5d\]: v rohu
+Lukan [-\]: ktery?
+Lukan [-\]: jo a17
+Lukan [-\]: aha
+mamolo [5d\]: takze sem myslel ze Te muzu v tempu rozdelit ...
+Lukan [-\]: no to by pak byl velky rozdil no
+Lukan [-\]: diky tomu jsem mohl tam dole bojovat celkem suse
+mamolo [5d\]: tak aspon ko sem si tam moh nechat ..
+Lukan [-\]: jinak bych te asi nikdy nestrihl E6 ^^ 
+Lukan [-\]: jaky ko?
+Lukan [-\]: jo tohle ko
+Lukan [-\]: B17->A18
+Lukan [-\]: ale to je dost riskantni
+mamolo [5d\]: pobavils me ale s d18
+mamolo [5d\]: uz sem s tim dopredu pocital
+Lukan [-\]: proc ? :)
+Lukan [-\]: haha
+mamolo [5d\]: a neverim ze je to dobry  tah
+mamolo [5d\]: je mi jasny ze Tobe se to libilo ..
+Lukan [-\]: je to mozny, nebyl jsem si jisty
+Lukan [-\]: ale vyhovoval mi
+mamolo [5d\]: to N14 je divny myslim
+Lukan [-\]: jsem nevedel co hrat :)
+Lukan [-\]: prislo mi to cool
+mamolo [5d\]: kdyz Ti tam skocim na N17 tak je to neprijemny pro Tebe ..
+Lukan [-\]: no to jsem cekal ze udelas rovnou
+mamolo [5d\]: jako kdy?
+Lukan [-\]: bud uz misto M15 a nebo po nem
+mamolo [5d\]: tak to vubec
+mamolo [5d\]: potom r15 je fakt spatny
+mamolo [5d\]: a ta keima to jeste zhorsila, kdyz nema pokracovani
+Lukan [-\]: o tom jsem vubec neuvazoval
+Lukan [-\]: jaka keima?
+mamolo [5d\]: hmm, tak to ta partie skoncila brzo
+mamolo [5d\]: G18
+Lukan [-\]: jj, jsem cekal ze pujdes ve velkem zavrit vlevo
+Lukan [-\]: ambicizone
+mamolo [5d\]: jeste smi dal malou sanci H4+F6
+mamolo [5d\]: ale nesedlo ..
+Lukan [-\]: to si myslim ze tam jsem zahral ok
+Lukan [-\]: no projdu to s Lizou a dam vedet, jak jsme hrali ^^
+mamolo [5d\]: asi G8 namisto tupeho f8
+mamolo [5d\]: jezis marja
+Lukan [-\]: G8 vypada komplikovaneji urcite
+Lukan [-\]: tam se to muze vymknout kontrole
+mamolo [5d\]: oki
+mamolo [5d\]: tak dik za hru
+mamolo [5d\]: cus
+Lukan [-\]: diky jeste jednou! cus
+])

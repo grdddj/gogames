@@ -1,0 +1,125 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[PondTurtle]PB[velbloud]WR[2d]DT[2020-11-04]PC[The KGS Go Server at http://www.gokgs.com/]C[velbloud [-\]: Ahoj
+PondTurtle [2d?\]: Ahoj :-)
+velbloud [-\]: Pěknou hru
+PondTurtle [2d?\]: Ondřej Šindler, Brno 5 kyu
+PondTurtle [2d?\]: Taky přeji pěknou hru
+velbloud [-\]: Jan Brinda 1k, Frýdek-Místek
+]RE[B+Resign]
+;B[pd]BL[2665.388]
+;W[dp]WL[2697.699]
+;B[pq]BL[2646.96]
+;W[dd]WL[2694.74]
+;B[fq]BL[2635.476]
+;W[cn]WL[2673.321]
+;B[jp]BL[2626.506]
+;W[po]WL[2625.801]
+;B[qo]BL[2522.757]
+;W[qn]WL[2616.084]
+;B[qp]BL[2516.061]
+;W[pm]WL[2608.806]
+;B[on]BL[2491.081]
+;W[om]WL[2602.144]
+;B[rn]BL[2484.243]
+;W[oo]WL[2551.818]
+;B[rm]BL[2415.361]
+;W[qc]WL[2548.632]
+;B[pc]BL[2394.848]
+;W[qd]WL[2546.098]
+;B[qe]BL[2382.322]
+;W[re]WL[2543.772]
+;B[rf]BL[2380.814]
+;W[qf]WL[2542.258]
+;B[pe]BL[2379.748]
+;W[rg]WL[2536.226]
+;B[rd]BL[2368.577]
+;W[sf]WL[2534.483]
+;B[rc]BL[2365.88]
+;W[oq]WL[2531.786]
+;B[or]BL[2324.865]
+;W[nq]WL[2504.693]
+;B[nr]BL[2320.813]
+;W[mq]WL[2495.535]
+;B[fo]BL[2220.797]
+;W[dq]WL[2481.152]
+;B[fc]BL[2140.38]
+;W[cf]WL[2467.853]
+;B[dc]BL[2115.359]
+;W[cc]WL[2465.425]
+;B[cb]BL[2114.185]
+;W[ec]WL[2461.775]
+;B[db]BL[2110.999]
+;W[ed]WL[2461.025]
+;B[eb]BL[2103.065]
+;W[hq]WL[2458.094]
+;B[hp]BL[2086.274]
+;W[iq]WL[2450.891]
+;B[ip]BL[2078.716]
+;W[jq]WL[2450.097]
+;B[gq]BL[2033.493]
+;W[fm]WL[2403.241]
+;B[fd]BL[1991.067]
+;W[gn]WL[2389.018]
+;B[kq]BL[1914.688]
+;W[kr]WL[2386.549]
+;B[lr]BL[1892.893]
+;W[lq]WL[2346.592]
+;B[kp]BL[1888.634]
+;W[js]WL[2342.392]
+;B[mr]BL[1882.937]
+;W[gr]WL[2339.3]
+;B[ir]BL[1745.74]
+;W[fr]WL[2331.979]
+;B[hr]BL[1627.43]
+;W[jr]WL[2328.858]
+;B[er]BL[1622.77]
+;W[dr]WL[2201.386]
+;B[fs]BL[1543.224]
+;W[ff]WL[2188.965]
+;B[fh]BL[1401.25]
+;W[hf]WL[2176.281]
+;B[dh]BL[1190.93]
+;W[ei]WL[2171.141]
+;B[eh]BL[1182.287]
+;W[gg]WL[2131.174]
+;B[df]BL[1009.963]
+;W[cg]WL[2064.904]
+;B[ef]BL[952.907]
+;W[dg]WL[2049.745]
+;B[eg]BL[944.587]
+;W[ce]WL[2027.476]
+;B[ch]BL[839.684]
+;W[fe]WL[2002.032]
+;B[ee]BL[828.92]
+;W[bc]WL[2000.385]
+;B[bb]BL[670.281]
+;W[bh]WL[1997.509]
+;B[bi]BL[668.533]
+;W[ag]WL[1991.668]
+;B[cj]BL[528.462]
+;W[ab]WL[1958.431]
+;B[hc]BL[466.648]
+;W[hi]WL[1924.706]
+;B[fk]BL[352.458]
+;W[gl]WL[1831.018]
+;B[cl]BL[278.029]
+;W[dk]WL[1803.827]
+;B[ck]BL[227.616]C[PondTurtle [2d?\]: nebudu to dál zkoušet šmelit
+PondTurtle [2d?\]: děkuji za hru
+velbloud [-\]: Díky za hru
+velbloud [-\]: myslíš že to nezabiješ?
+PondTurtle [2d?\]: Ani omylem
+PondTurtle [2d?\]: ten tvar je moc zdravej
+velbloud [-\]: ještě to není úplně jisté
+velbloud [-\]: ok
+velbloud [-\]: no asi to nějak nakonec přežije :/
+PondTurtle [2d?\]: ale možná se pletu
+PondTurtle [2d?\]: Měl jsem z té hry špatný pocit co jsem zjistil že jsem ještě ke všemu bílý :-D
+velbloud [-\]: projdem to od začátku?
+PondTurtle [2d?\]: jasně, můžeme jinde?
+PondTurtle [2d?\]: KGS je strašně clunky
+velbloud [-\]: hmm, kde?
+PondTurtle [2d?\]: https://online-go.com/review/558417
+velbloud [-\]: ok
+])

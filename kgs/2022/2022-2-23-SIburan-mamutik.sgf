@@ -1,0 +1,192 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[SIburan]PB[mamutik]WR[2d]DT[2022-02-23]PC[The KGS Go Server at http://www.gokgs.com/]C[SIburan [2d?\]: Ahooj, peknou hru!
+mamutik [?\]: pěknou partii!
+mamutik [?\]: Jitka Bártová 3-dan, Můstek B
+SIburan [2d?\]: Simon Zeckarias, S0 imBa¨
+]RE[B+Time]
+;B[pd]BL[2663.711]
+;W[dp]WL[2696.594]
+;B[pq]BL[2660.693]C[SIburan [2d?\]: 5 minut budu mimo, musim neco zaridit jeste
+mamutik [?\]: jasný, to jsme mohli začít klidně o chvilku později
+mamutik [?\]: klidně odejdi, ať Ti neběží čas
+]
+;W[dc]WL[2370.46]
+;B[nc]BL[2640.853]
+;W[qn]WL[2345.666]C[mamutik [?\]: haha, hraju asi moc často 13x13 :D
+]
+;B[ce]BL[2628.607]C[SIburan [2d?\]: Skoda, ze ne 9x9 :D
+]
+;W[ci]WL[2329.243]C[mamutik [?\]: to už je na mě moc abstraktní ;)
+]
+;B[cq]BL[2611.035]
+;W[cp]WL[2301.668]
+;B[dq]BL[2602.886]
+;W[eq]WL[2298.875]
+;B[er]BL[2597.059]
+;W[fq]WL[2291.633]
+;B[fr]BL[2587.419]
+;W[gq]WL[2286.746]
+;B[gr]BL[2584.958]
+;W[bq]WL[2280.724]
+;B[br]BL[2581.389]
+;W[bp]WL[2278.225]
+;B[hq]BL[2537.355]
+;W[hp]WL[2209.857]
+;B[ip]BL[2534.381]
+;W[ho]WL[2200.118]
+;B[io]BL[2513.184]
+;W[iq]WL[2193.289]
+;B[hr]BL[2505.997]
+;W[in]WL[2181.865]
+;B[jn]BL[2492.535]
+;W[hn]WL[2173.132]
+;B[jm]BL[2471.092]
+;W[op]WL[2139.271]
+;B[pp]BL[2420.944]
+;W[on]WL[2084.03]
+;B[oo]BL[2414.672]
+;W[no]WL[2079.308]
+;B[po]BL[2413]
+;W[pn]WL[2076.148]
+;B[nn]BL[2408.072]
+;W[mo]WL[2045.294]
+;B[mn]BL[2398.16]
+;W[ln]WL[2043.266]
+;B[lm]BL[2392.54]
+;W[jo]WL[2036.947]
+;B[jp]BL[2389.753]
+;W[ko]WL[1993.591]C[SImasakrzz [?\]: bily tam nezdechne coz? ;)
+]
+;B[kn]BL[2171.114]
+;W[lo]WL[1655.87]
+;B[jq]BL[2158.203]
+;W[mm]WL[1652.726]
+;B[nm]BL[2150.834]
+;W[ml]WL[1651.571]
+;B[nl]BL[2096.369]
+;W[ll]WL[1642.618]
+;B[nk]BL[2060.474]
+;W[il]WL[1545.627]
+;B[ql]BL[2043.713]
+;W[jl]WL[1507.653]
+;B[ee]BL[1985.681]C[SImasakrzz [?\]: fandime tomu kdo ma v profil obrazku vic piv
+]
+;W[fc]WL[1436.201]
+;B[ge]BL[1891.208]
+;W[rl]WL[1417.359]
+;B[rk]BL[1880.758]
+;W[qk]WL[1391.563]
+;B[pl]BL[1871.656]
+;W[rj]WL[1360.124]
+;B[rm]BL[1870.096]
+;W[sk]WL[1355.939]
+;B[rn]BL[1868.026]
+;W[hc]WL[1331.766]
+;B[ei]BL[1744.94]C[SIscurge [5d\]: :D
+SIscurge [5d\]: to na prave dolni stranve vypada dobre za bileho
+]
+;W[dk]WL[1258.18]
+;B[qi]BL[1567.188]
+;W[qh]WL[1210.932]
+;B[rh]BL[1462.251]
+;W[ri]WL[1188.555]
+;B[qg]BL[1454.889]
+;W[ph]WL[1186.026]
+;B[rf]BL[1446.974]
+;W[pi]WL[1168.098]
+;B[kc]BL[1379.499]
+;W[pc]WL[877.508]
+;B[oc]BL[1171.748]
+;W[qd]WL[761.707]
+;B[qe]BL[1126.806]
+;W[ie]WL[475.202]
+;B[ch]BL[1075.81]
+;W[bh]WL[396.435]
+;B[bi]BL[1029.338]
+;W[bj]WL[307.57]
+;B[di]BL[1023.973]
+;W[cj]WL[300.596]
+;B[bg]BL[1005.473]
+;W[ai]WL[275.457]
+;B[fk]BL[898.611]
+;W[fj]WL[270.206]
+;B[ej]BL[887.451]
+;W[ek]WL[259.445]
+;B[gj]BL[682.615]
+;W[fi]WL[167.105]
+;B[gi]BL[678.613]
+;W[fh]WL[164.997]
+;B[gh]BL[672.855]
+;W[gk]WL[130.23]
+;B[fl]BL[666.635]
+;W[fg]WL[129.303]
+;B[gg]BL[236.477]C[SIscurge [5d\]: f14 f15 d13 
+]
+;W[ff]WL[2.069]
+;B[gf]BL[33.319]
+;W[dg]WL[30]OW[3]
+;B[cc]BL[30]OB[3]
+;W[cb]WL[30]OW[2]
+;B[dd]BL[30]OB[3]
+;W[ec]WL[30]OW[2]
+;B[fe]BL[30]OB[3]
+;W[pe]WL[30]OW[2]
+;B[od]BL[30]OB[3]
+;W[rc]WL[30]OW[2]
+;B[eg]BL[30]OB[3]C[SImasakrzz [?\]: ops
+SImasakrzz [?\]: snad se to vyplati
+]
+;W[re]WL[30]OW[2]
+;B[qf]BL[30]OB[3]C[SImasakrzz [?\]: asi spis ne
+]
+;W[of]WL[30]OW[2]
+;B[og]BL[30]OB[3]
+;W[nf]WL[30]OW[2]
+;B[ng]BL[30]OB[3]
+;W[mf]WL[30]OW[2]
+;B[pg]BL[30]OB[3]
+;W[pb]WL[30]OW[2]
+;B[se]BL[30]OB[3]
+;W[rd]WL[30]OW[2]
+;B[ke]BL[30]OB[3]
+;W[ni]WL[30]OW[2]
+;B[mg]BL[30]OB[3]
+;W[lf]WL[30]OW[2]
+;B[mi]BL[30]OB[3]
+;W[pk]WL[30]OW[1]
+;B[jg]BL[30]OB[3]
+;W[kh]WL[30]OW[1]
+;B[kg]BL[30]OB[3]
+;W[lg]WL[30]OW[1]
+;B[lh]BL[30]OB[3]
+;W[kf]WL[30]OW[1]
+;B[jf]BL[30]OB[3]C[SIscurge [5d\]: klasicky prubeh, saimon skvele v prvni puli :D
+]
+;W[je]WL[30]OW[1]
+;B[le]BL[30]OB[3]C[SIburan [2d?\]: Dik
+mamutik [?\]: uf, děkuju
+mamutik [?\]: to se to nějak strašně rychle zvrhlo
+SIburan [2d?\]: Jn, jsem to posral klasiky
+mamutik [?\]: kouknem na to?
+SIburan [2d?\]: Nn¨
+SImasakrzz [?\]: :D
+SIburan [2d?\]: Ale rad si nekdy zahraju zas¨
+mamutik [?\]: oki
+mamutik [?\]: tak děkuju!
+SImasakrzz [?\]: gg
+SIburan [2d?\]: Rad si nekdy zahraju zas s tebou!
+SIburan [2d?\]: Sachy :D
+mamutik [?\]: <3
+SIscurge [5d\]: :D
+mamutik [?\]: jsem pro
+SIburan [2d?\]: Konecne zabavna hra go
+SIburan [2d?\]: brutal masakr
+mamutik [?\]: no byla to trochu nuda, tak jsem tam nechala plavat alespoň tu jednu skupinu vlevo
+mamutik [?\]: a když jsem se jí pak snažila pomoct, jen jsem jí uškodila :D
+SIburan [2d?\]: Ano, nuda, to mame radi
+SIburan [2d?\]: Jdu na cigo, mej se a pozdravuj Nyoshi
+SIburan [2d?\]: a kontusovku
+mamutik [?\]: haha
+mamutik [?\]: taky, pusu těm dvěma Tvým holkám!
+])

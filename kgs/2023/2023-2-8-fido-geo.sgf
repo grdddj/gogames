@@ -1,0 +1,357 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[fido]PB[geo]DT[2023-02-08]PC[The KGS Go Server at http://www.gokgs.com/]C[fido [-\]: Ahoj, pěknou hru
+geo [-\]: ahoj, pěknou hru
+fido [-\]: Ondřej Fidrmuc, Scurge Team
+geo [-\]: Jiri Georgiev 2d Plzen
+]RE[W+Resign]
+;B[qd]BL[2666.225]
+;W[dp]WL[2685.211]
+;B[pq]BL[2661.295]
+;W[dc]WL[2682.498]
+;B[de]BL[2625.743]C[SIscurge [4d\]: el clasico
+]
+;W[ce]WL[2615.264]
+;B[cf]BL[2613.593]
+;W[be]WL[2609.132]
+;B[dd]BL[2596.828]
+;W[cc]WL[2602.235]
+;B[df]BL[2587.477]
+;W[fc]WL[2572.735]
+;B[cn]BL[2555.937]
+;W[cj]WL[2464.732]
+;B[ej]BL[2473.295]
+;W[ch]WL[2344.854]
+;B[eh]BL[2430.157]
+;W[ek]WL[2199.766]
+;B[dk]BL[2262.417]
+;W[dj]WL[2195.088]
+;B[ck]BL[2222.806]
+;W[ei]WL[2165.335]
+;B[fj]BL[2214.862]
+;W[fi]WL[2164.288]
+;B[bj]BL[2064.134]
+;W[dh]WL[2096.638]
+;B[gj]BL[1987.978]
+;W[el]WL[2063.014]
+;B[gh]BL[1897.499]
+;W[gi]WL[1976.837]
+;B[hi]BL[1890.428]
+;W[hj]WL[1903.568]
+;B[di]BL[1862.105]
+;W[ci]WL[1902.067]
+;B[fh]BL[1860.877]
+;W[di]WL[1901.227]
+;B[gk]BL[1825.397]
+;W[hk]WL[1800.417]
+;B[gl]BL[1811.479]
+;W[hl]WL[1764.653]
+;B[gm]BL[1761.06]
+;W[hh]WL[1737.559]
+;B[ii]BL[1748.129]
+;W[ih]WL[1736.071]
+;B[jh]BL[1599.114]
+;W[ji]WL[1693.059]
+;B[ij]BL[1577.631]
+;W[gg]WL[1295.558]
+;B[ff]BL[1510.521]
+;W[ki]WL[1053.323]
+;B[jk]BL[1355.856]
+;W[jl]WL[1036.793]
+;B[hm]BL[1198.634]
+;W[il]WL[977.502]
+;B[kk]BL[1190.853]
+;W[kl]WL[965.872]
+;B[lk]BL[1181.612]
+;W[bg]WL[921.236]
+;B[bi]BL[1133.809]
+;W[bf]WL[837.224]
+;B[hf]BL[947.176]
+;W[if]WL[736.586]
+;B[ie]BL[758.091]
+;W[jg]WL[660.714]
+;B[hg]BL[542.383]
+;W[ig]WL[603.463]
+;B[he]BL[447.602]
+;W[kh]WL[548.3]
+;B[kf]BL[428.085]
+;W[ni]WL[506.777]
+;B[ll]BL[347.103]
+;W[kn]WL[396.613]
+;B[lm]BL[317.092]
+;W[dm]WL[366.151]
+;B[cm]BL[267.579]
+;W[dn]WL[317.121]C[Pig [4d?\]: Fido pekne tlaci na pilu :)
+SIscurge [4d\]: to bude jeste sranda hra
+]
+;B[io]BL[205.787]
+;W[in]WL[300.985]C[Pig [4d?\]: jj, vypada hodne nadejne
+]
+;B[ho]BL[139.876]
+;W[jo]WL[292.155]C[Pig [4d?\]: jak hrali ostatni?
+]
+;B[ep]BL[18.987]C[SIscurge [4d\]: myslim, ze jsme vyhrali vse
+]
+;W[co]WL[273.417]C[Zleon [?\]: jj
+Pig [4d?\]: diky
+]
+;B[eo]BL[6.747]C[Pig [4d?\]: aj, ted zase tlaci geo
+Pig [4d?\]: tihle borci jsou pekne ostri :)
+]
+;W[do]WL[236.476]
+;B[bo]BL[30]OB[3]
+;W[bp]WL[187.79]
+;B[bn]BL[30]OB[3]C[SIscurge [4d\]: zkusene spojeni, prives byl imho mrtvej
+]
+;W[eq]WL[103.116]
+;B[fq]BL[30]OB[3]
+;W[dr]WL[30]OW[3]C[Pig [4d?\]: 89. tah a oba v byoyomi
+]
+;B[fr]BL[30]OB[3]
+;W[bl]WL[30]OW[3]
+;B[bk]BL[30]OB[3]
+;W[ao]WL[30]OW[3]
+;B[bh]BL[30]OB[3]
+;W[cg]WL[30]OW[3]
+;B[al]BL[30]OB[3]
+;W[jq]WL[30]OW[3]
+;B[hq]BL[30]OB[3]
+;W[fn]WL[30]OW[3]
+;B[go]BL[30]OB[3]C[SIscurge [4d\]: to tak maj tihle dva vzdycky
+]
+;W[ir]WL[30]OW[3]
+;B[cq]BL[30]OB[3]
+;W[dq]WL[30]OW[2]
+;B[bq]BL[30]OB[3]
+;W[cp]WL[30]OW[1]C[SIscurge [4d\]: omg proc mi to s tou posledni periodou fido vzdyckz dela :D tady neni milion moznosti ne?
+]
+;B[hr]BL[30]OB[2]
+;W[fo]WL[30]OW[1]
+;B[fp]BL[30]OB[2]
+;W[am]WL[30]OW[1]
+;B[ak]BL[30]OB[2]
+;W[ds]WL[30]OW[1]
+;B[km]BL[30]OB[2]
+;W[im]WL[30]OW[1]
+;B[iq]BL[30]OB[2]
+;W[jr]WL[30]OW[1]
+;B[jp]BL[30]OB[2]
+;W[kp]WL[30]OW[1]
+;B[ip]BL[30]OB[2]
+;W[mo]WL[30]OW[1]
+;B[lq]BL[30]OB[2]
+;W[lp]WL[30]OW[1]
+;B[mq]BL[30]OB[2]
+;W[kq]WL[30]OW[1]
+;B[hs]BL[30]OB[2]
+;W[np]WL[30]OW[1]
+;B[nq]BL[30]OB[2]C[SIscurge [4d\]: q4 neprijemne
+]
+;W[nm]WL[30]OW[1]
+;B[nk]BL[30]OB[2]
+;W[pm]WL[30]OW[1]
+;B[mi]BL[30]OB[2]
+;W[mh]WL[30]OW[1]
+;B[li]BL[30]OB[2]
+;W[lh]WL[30]OW[1]
+;B[nh]BL[30]OB[2]
+;W[nj]WL[30]OW[1]C[Pig [4d?\]: mne se libi, jak si to temer veprostred sekli kazdej na tri skupiny a ty se ted paprskovite roztekaji za neustaleho boje ke stranam :)
+]
+;B[mj]BL[30]OB[2]
+;W[je]WL[30]OW[1]C[SIscurge [4d\]: jj a neustale se snazi generovat dalsi skupinky :D
+Pig [4d?\]: :DD
+]
+;B[jf]BL[30]OB[2]C[Pig [4d?\]: a dalsi :D
+]
+;W[mf]WL[30]OW[1]C[SIscurge [4d\]: bylo to d1 potreba kdyz bylo a4 sente?
+]
+;B[ke]BL[30]OB[2]C[SIscurge [4d\]: hahaha
+SIscurge [4d\]: mohl vzit do schodu, ale generujeme dalsi grupy :-D
+]
+;W[jd]WL[30]OW[1]C[SIscurge [4d\]: grupy*
+]
+;B[kd]BL[30]OB[2]C[Pig [4d?\]: :D jj, to by uplne zkazilo hru
+]
+;W[ic]WL[30]OW[1]C[SIscurge [4d\]: :D
+SIscurge [4d\]: ale pridje mi, ze si bily trosku zahrava
+]
+;B[ng]BL[30]OB[2]
+;W[lf]WL[30]OW[1]
+;B[kg]BL[30]OB[2]
+;W[jh]WL[30]OW[1]C[Pig [4d?\]: mne prijde, ze si zahravaji oba
+Pig [4d?\]: proto je to tak zajimave .)
+]
+;B[oj]BL[30]OB[2]
+;W[md]WL[30]OW[1]C[Pig [4d?\]: ajajaj, tak preci jen schody, cerny psychicky nevydrzel
+]
+;B[kc]BL[30]OB[2]
+;W[hc]WL[30]OW[1]C[SIscurge [4d\]: prave mel dat attari z druhe strany aspon
+]
+;B[mc]BL[30]OB[2]C[SIscurge [4d\]: ale e13 zije?
+Pig [4d?\]: jasne, pres k12 :)
+]
+;W[od]WL[30]OW[1]
+;B[nc]BL[30]OB[2]C[Pig [4d?\]: skupinu k12¨
+SIscurge [4d\]: ja myslel tak, ze kdyz da e13 tak zije, takze tam musi bily jeste zahrat
+]
+;W[of]WL[30]OW[1]
+;B[pg]BL[30]OB[2]C[Pig [4d?\]: pockat, to mne ani nenapadlo, ze by tam bily uz ani nemusel hrat :)
+SIscurge [4d\]: :-D
+]
+;W[oc]WL[30]OW[1]C[SIscurge [4d\]: snad fido premysli jako ty :D
+]
+;B[gd]BL[30]OB[2]
+;W[fd]WL[30]OW[1]
+;B[gc]BL[30]OB[2]
+;W[gb]WL[30]OW[1]C[Pig [4d?\]: mne by spis zajimalo, co bude s tou grupou c. 6
+]
+;B[fe]BL[30]OB[2]C[SIscurge [4d\]: o.O
+SIscurge [4d\]: tam neco jde za bileho?
+tomason [2k?\]: Která je šestka? L17?
+]
+;W[hd]WL[30]OW[1]C[Pig [4d?\]: jj, ta vznikla posledni :)
+]
+;B[ge]BL[30]OB[2]
+;W[ec]WL[30]OW[1]C[SIscurge [4d\]: hehe
+SIscurge [4d\]: slo f18, ale prazdnaky v brne frci
+]
+;B[dg]BL[30]OB[2]
+;W[qe]WL[30]OW[1]C[Pig [4d?\]: toto je zlinska hokejka
+Pig [4d?\]: velka zlinska hokejka
+]
+;B[ib]BL[30]OB[2]
+;W[hb]WL[30]OW[1]C[SIscurge [4d\]: wah
+]
+;B[jc]BL[30]OB[2]C[SIscurge [4d\]: ted to ziskalo naky bod za fida, zkusene
+]
+;W[id]WL[30]OW[1]C[SIscurge [4d\]: hrozne se mi libi, jak se oba tak super snazi
+Pig [4d?\]: cislo 6 zije!
+SIscurge [4d\]: vzdycky na posledni skorovterinu hrajou
+]
+;B[pe]BL[30]OB[2]C[tomason [2k?\]: tak hraješ ty vždycky
+SIscurge [4d\]: cerny chce nejak aktivovat o15
+Pig [4d?\]: tak ne, radeji se jde ozivat cislo 7 :)
+SIscurge [4d\]: kez by
+]
+;W[pf]WL[30]OW[1]
+;B[ne]BL[30]OB[2]C[SIscurge [4d\]: ale ted nejso svobody :O
+]
+;W[nf]WL[30]OW[1]
+;B[qf]BL[30]OB[2]
+;W[re]WL[30]OW[1]C[Pig [4d?\]: ohle je super hra, strasne me to bavi
+SIscurge [4d\]: hehe :)
+SIscurge [4d\]: cela tahle liga je skvela :D
+]
+;B[oe]BL[30]OB[2]C[Pig [4d?\]: jj
+]
+;W[nd]WL[30]OW[1]
+;B[pd]BL[30]OB[2]C[Pig [4d?\]: jako obdivuju gea, ja uz bych se davno rozsypal
+]
+;W[ld]WL[30]OW[1]C[SIscurge [4d\]: doufam, ze jeste prijde utok na n5
+]
+;B[qg]BL[30]OB[2]C[Pig [4d?\]: stoprocentne
+]
+;W[rd]WL[30]OW[1]C[Pig [4d?\]: musime kompenzovat ztraty nahore
+SIscurge [4d\]: ouch
+]
+;B[ob]BL[30]OB[2]
+;W[pb]WL[30]OW[1]C[SIscurge [4d\]: vetsi nez jsme si mysleli :(
+Pig [4d?\]: s17 slo, ne?
+]
+;B[oa]BL[30]OB[2]
+;W[lc]WL[30]OW[1]C[SIscurge [4d\]: ajo asi jo
+]
+;B[lb]BL[30]OB[2]
+;W[kb]WL[30]OW[1]
+;B[jb]BL[30]OB[2]
+;W[mb]WL[30]OW[1]
+;B[ka]BL[30]OB[2]
+;W[nb]WL[30]OW[1]
+;B[ia]BL[30]OB[2]C[Pig [4d?\]: ted mel prijit ten utok
+SIscurge [4d\]: imho kdyz by se do toho fido jeste oprel, tak by nas dotahl
+]
+;W[ap]WL[30]OW[1]C[SIscurge [4d\]: jj fido zkusene nechal ozit v gote a muze pojistit
+]
+;B[cl]BL[30]OB[2]
+;W[po]WL[30]OW[1]C[Pig [4d?\]: konec
+]
+;B[ln]BL[30]OB[2]
+;W[mp]WL[30]OW[1]C[Pig [4d?\]: ovsem sest zivych cernych skupin si zaslouzi respekt
+]
+;B[qp]BL[30]OB[2]C[SIscurge [4d\]: jeste jde zkusit c2
+SIscurge [4d\]: :D
+]
+;W[qk]WL[30]OW[1]C[Pig [4d?\]: c2? to by mne take nenapadlo :)
+]
+;B[qj]BL[30]OB[2]C[SIscurge [4d\]: no ale nejde, staci vital, ale c1 relativne prirozeny selze
+]
+;W[rj]WL[30]OW[1]C[SIscurge [4d\]: ale samo na tehle urovni nestoji za zkousku
+Pig [4d?\]: b1 taky jde, ne?
+]
+;B[pk]BL[30]OB[2]C[SIscurge [4d\]: jj
+Pig [4d?\]: dokonce je to hezci
+]
+;W[ql]WL[30]OW[1]C[Zleon [?\]: jak muze byt neco hezciho nez prazdnak? :D
+]
+;B[qi]BL[30]OB[2]C[SIscurge [4d\]: :------D
+Pig [4d?\]: :DD to je asi otazka osobniho vkusu
+]
+;W[ro]WL[30]OW[1]
+;B[rp]BL[30]OB[2]
+;W[qo]WL[30]OW[1]
+;B[op]BL[30]OB[2]
+;W[oo]WL[30]OW[1]
+;B[rf]BL[30]OB[2]
+;W[rc]WL[30]OW[1]
+;B[bs]BL[30]OB[2]C[tomason [2k?\]: už je tam :)
+]
+;W[br]WL[30]OW[1]
+;B[ri]BL[30]OB[2]
+;W[sp]WL[30]OW[1]C[SIscurge [4d\]: haha vtipny, ze zkusil ten plzenskej styl
+Pig [4d?\]: jo, takhle, ja nemyslel za cerneho b1, ja myslel b1 jako odpoved bileho na c2
+]
+;B[sq]BL[30]OB[2]
+;W[so]WL[30]OW[1]
+;B[rq]BL[30]OB[2]C[SIscurge [4d\]: ajo geo spatne pochopil :D
+]
+;W[lr]WL[30]OW[1]
+;B[mr]BL[30]OB[2]
+;W[ms]WL[30]OW[1]C[Zleon [?\]: :DD
+Pig [4d?\]: mne bylo hlavne divny, proc se Leon tak zastaval toho prazdnaku, kdyz jsem ho nerusil :))
+]
+;B[ns]BL[30]OB[2]
+;W[ls]WL[30]OW[1]C[fido [-\]: Děkuji za hru
+geo [-\]: díky za hru
+fido [-\]: To bylo něco teda :)
+fido [-\]: Pěkná partie
+Pig [4d?\]: skvele chlapci, za mne to byla partie kola
+geo [-\]: njn
+geo [-\]: :)
+geo [-\]: myslim ze jsem to ztratil vpravo nahore..
+geo [-\]: ..nebo uz driv?
+fido [-\]: Já vůbec netuším :) Možná vlevo dole spíš
+SIscurge [4d\]: ggs! jeste jednou :D
+fido [-\]: Jsem zvědavý na katago
+fido [-\]: Fakt nevím..
+Zleon [?\]: gg!
+fido [-\]: Půjdu spát. Ještě jednou děkuji a měj se fajn!
+geo [-\]: jj díky, dobrý to bylo, akorát plzeňskej styl opět nevyhrál :))
+geo [-\]: dík dobrou
+Pig [4d?\]: bohuzel ani na jedne desce :)
+Pig [4d?\]: geo, prijde zejtra do klubu, jestli muzes
+SIscurge [4d\]: prazdanaci ve forme
+SIscurge [4d\]: mej se pigu ciao vsichni
+geo [-\]: zkusim ale neslibuju
+Pig [4d?\]: ja dorazim na 90 %
+geo [-\]: jeste uvidim
+geo [-\]: ok
+Pig [4d?\]: tak dobrou
+geo [-\]: dobrou
+Pig [4d?\]: a jestli bys zvladnul analyzy na mail, tak by to bylo super
+geo [-\]: ok, to asi muzu slibit ;)
+Pig [4d?\]: ja jsem docela zvedav, jestli jsem hral s Vitkem blbe celou dobu, anebo az od cca 50. tahu :)
+Pig [4d?\]: diky
+geo [-\]: nz
+Pig [4d?\]: tak dobros
+geo [-\]: dobrou
+])

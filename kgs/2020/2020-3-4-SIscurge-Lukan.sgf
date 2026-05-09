@@ -1,0 +1,259 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[SIscurge]PB[Lukan]WR[5d]BR[8d]DT[2020-03-04]PC[The KGS Go Server at http://www.gokgs.com/]C[SIscurge [5d\]: tak kgsko doporucovalo tri handikepy
+Lukan [8d\]: Lukas Podpera 7d, Weiqi Club Praha
+SIscurge [5d\]: to je budu muset rychle vyvest z omylu
+Lukan [8d\]: haha
+SIscurge [5d\]: peknou hru, Ondra Kruml5d
+Lukan [8d\]: peknou partii!
+Lukan [8d\]: :)
+]RE[B+Time]
+;B[qc]BL[2664.938]
+;W[dc]WL[2690.679]
+;B[pq]BL[2658.884]
+;W[dq]WL[2686.493]
+;B[ce]BL[2654.549]
+;W[cd]WL[2618.573]
+;B[de]BL[2644.587]
+;W[fc]WL[2617.283]
+;B[co]BL[2625.225]
+;W[dl]WL[2519.383]
+;B[ep]BL[2561.787]
+;W[dp]WL[2516.221]
+;B[do]BL[2556.337]
+;W[eo]WL[2515.68]
+;B[dm]BL[2554.739]
+;W[cl]WL[2499.935]
+;B[eq]BL[2267.471]
+;W[er]WL[2488.546]
+;B[dr]BL[2182.482]
+;W[cr]WL[2436.917]
+;B[ds]BL[2165.188]
+;W[bp]WL[2321.455]
+;B[fr]BL[2144.635]
+;W[bo]WL[2304.078]
+;B[em]BL[2062.43]
+;W[fo]WL[2276.174]
+;B[gp]BL[2047.892]
+;W[go]WL[2250.682]
+;B[hp]BL[2036.619]
+;W[cm]WL[2243.578]
+;B[ho]BL[2013.135]
+;W[gm]WL[2225.229]
+;B[hm]BL[1903.084]
+;W[hl]WL[2157.526]
+;B[gn]BL[1879.673]
+;W[fn]WL[2151.173]
+;B[hn]BL[1874.575]
+;W[fm]WL[2148.167]
+;B[il]BL[1872.418]
+;W[hk]WL[2134.362]
+;B[ik]BL[1852.291]
+;W[hj]WL[2118.28]
+;B[ch]BL[1648.152]
+;W[po]WL[2079.827]
+;B[oo]BL[1543.251]
+;W[on]WL[2051.467]
+;B[no]BL[1464.266]
+;W[pp]WL[2020.395]
+;B[oq]BL[1450.191]
+;W[pk]WL[1943.685]
+;B[qq]BL[1434.101]
+;W[nn]WL[1831.923]
+;B[mn]BL[1427.811]
+;W[nl]WL[1821.94]
+;B[pn]BL[1394.635]
+;W[pm]WL[1681.755]
+;B[qn]BL[1382.066]
+;W[qm]WL[1680.07]
+;B[ro]BL[1369.484]
+;W[rn]WL[1619.5]
+;B[qo]BL[1365.498]
+;W[qe]WL[1471.083]C[nerub [1d?\]: bottom is already 50 pts, w only has 1 corner and 4 stones
+]
+;B[oc]BL[1212.673]
+;W[dg]WL[1426.392]
+;B[cg]BL[1201.077]
+;W[km]WL[1257.576]
+;B[ml]BL[1162.607]
+;W[kk]WL[1225.207]
+;B[nk]BL[1131.7]
+;W[mm]WL[1110.977]
+;B[lm]BL[1111.765]
+;W[nm]WL[1109.226]
+;B[ln]BL[1081.855]
+;W[ll]WL[1094.332]
+;B[mk]BL[1078.863]
+;W[kn]WL[1087.997]
+;B[kp]BL[1054.052]
+;W[jp]WL[1039.001]C[Mewingstar [1d\]: l10 
+]
+;B[jo]BL[894.934]
+;W[fp]WL[890.823]
+;B[fq]BL[867.586]
+;W[mo]WL[833.854]
+;B[lo]BL[861.247]
+;W[mp]WL[832.811]
+;B[np]BL[840.291]
+;W[ko]WL[808.468]
+;B[lp]BL[832.538]
+;W[gq]WL[755.425]C[SImedvidek [2d?\]: magic
+]
+;B[hq]BL[775.2]
+;W[jq]WL[658.152]
+;B[mq]BL[733.944]
+;W[io]WL[525.004]
+;B[jn]BL[685.574]
+;W[jm]WL[490.872]
+;B[in]BL[679.25]
+;W[im]WL[489.393]C[Lukan [8d\]: hm, hodne imba
+Mewingstar [1d\]: lol
+SIscurge [5d\]: nebyl jsem ochotny obetovat c1
+SIscurge [5d\]: :D
+Lukan [8d\]: chapu ^^
+rsgk [?\]: Doesn't m8 just work?
+rsgk [?\]: L8
+Solomon [1d\]: he can get the 4 bottom left
+jimmy [1d\]: yeah
+Solomon [1d\]: I feel it's rather equivalent
+Earnest [2k\]: k9?
+]
+;B[kl]BL[415.206]
+;W[gr]WL[480.274]
+;B[hr]BL[379.649]
+;W[fs]WL[477.134]
+;B[pi]BL[372.141]
+;W[oi]WL[219.677]
+;B[pj]BL[332.461]
+;W[oj]WL[192.139]
+;B[ok]BL[320.328]
+;W[qk]WL[179.088]
+;B[oh]BL[244.663]
+;W[ni]WL[81.707]
+;B[ph]BL[213.496]
+;W[ol]WL[4.75]
+;B[lk]BL[138.702]
+;W[rc]WL[30]OW[3]
+;B[rb]BL[105.977]
+;W[oe]WL[30]OW[3]
+;B[mg]BL[64.009]C[Lukan [8d\]: ty jo, nova verze kgska odpocitava byoyomi jako na tygemu, hodne cool
+]
+;W[me]WL[30]OW[3]C[SIscurge [5d\]: co to znamena?
+SIscurge [5d\]: ty vidis cas na mysi?
+Lukan [8d\]: ten seconds, one, two, three, four... atd :)
+SIscurge [5d\]: ajo ja to mam bez zvuku :D
+]
+;B[kf]BL[30]OB[3]
+;W[mc]WL[30]OW[2]
+;B[kd]BL[30]OB[3]
+;W[pb]WL[30]OW[2]
+;B[pc]BL[30]OB[2]
+;W[rd]WL[30]OW[2]
+;B[ob]BL[30]OB[2]
+;W[lg]WL[30]OW[1]
+;B[lf]BL[30]OB[2]
+;W[mf]WL[30]OW[1]
+;B[ng]BL[30]OB[2]
+;W[sb]WL[30]OW[1]
+;B[mb]BL[30]OB[2]
+;W[lb]WL[30]OW[1]
+;B[ma]BL[30]OB[2]
+;W[lc]WL[30]OW[1]
+;B[pf]BL[30]OB[2]
+;W[pe]WL[30]OW[1]
+;B[nc]BL[30]OB[2]
+;W[ra]WL[30]OW[1]
+;B[qb]BL[30]OB[2]
+;W[ic]WL[30]OW[1]
+;B[id]BL[30]OB[2]
+;W[hc]WL[30]OW[1]
+;B[jh]BL[30]OB[2]
+;W[ji]WL[30]OW[1]
+;B[ki]BL[30]OB[2]
+;W[ii]WL[30]OW[1]
+;B[be]BL[30]OB[2]
+;W[bi]WL[30]OW[1]
+;B[bc]BL[30]OB[2]
+;W[bb]WL[30]OW[1]
+;B[cc]BL[30]OB[2]
+;W[cb]WL[30]OW[1]
+;B[dd]BL[30]OB[2]
+;W[ac]WL[30]OW[1]
+;B[bd]BL[30]OB[2]
+;W[ec]WL[30]OW[1]
+;B[ci]BL[30]OB[2]
+;W[bj]WL[30]OW[1]
+;B[ej]BL[30]OB[2]
+;W[kj]WL[30]OW[1]
+;B[li]BL[30]OB[2]
+;W[jg]WL[30]OW[1]
+;B[kg]BL[30]OB[2]
+;W[ih]WL[30]OW[1]
+;B[jb]BL[30]OB[2]
+;W[jc]WL[30]OW[1]
+;B[la]BL[30]OB[2]
+;W[kh]WL[30]OW[1]
+;B[lh]BL[30]OB[2]
+;W[qg]WL[30]OW[1]
+;B[rh]BL[30]OB[2]
+;W[rg]WL[30]OW[1]
+;B[rj]BL[30]OB[2]
+;W[rl]WL[30]OW[1]
+;B[kc]BL[30]OB[2]C[SIscurge [5d\]: diky
+Lukan [8d\]: diky!
+SIscurge [5d\]: jsem nak nevidel q6
+SIscurge [5d\]: ale asi jsem stejne mel hrat jinak tam dole
+Lukan [8d\]: no kdybys misto o6 a skoku zahral nejake pokryti
+Lukan [8d\]: S4 nebo tak neco
+Lukan [8d\]: tak imho ok za tebe
+SIscurge [5d\]: jj ja jsem to nak planoval
+Lukan [8d\]: rikal jsem si ze ten levy dolni roh byl fer
+SIscurge [5d\]: ale asi jsem mel misto q5 p9
+SIscurge [5d\]: asi cca jo
+Lukan [8d\]: pockej, co? :D
+Lukan [8d\]: misto Q5, P9?
+SIscurge [5d\]: p5 :
+SIscurge [5d\]: :D
+Lukan [8d\]: aha, jo to je mozny :)
+Lukan [8d\]: dava smysl
+Lukan [8d\]: vic doleva
+SIscurge [5d\]: ja zase myslel, ze to bude male to tvoj
+SIscurge [5d\]: e
+SIscurge [5d\]: klasicka moje chyba
+Lukan [8d\]: ^^
+SIscurge [5d\]: jakoze po tom levem dolnim mi to prislo, ze flow tahu sel spis za mnou
+SIscurge [5d\]: ale potom strihu q6 asi dcl konec 
+Lukan [8d\]: Q6 je severe
+Lukan [8d\]: no vlevo dole jsem nebyl schopny presne ohodnit
+Lukan [8d\]: ale rikal jsem si 70/30 max pro jednu stranu
+Lukan [8d\]: tak jsem to neresil :)
+SIscurge [5d\]: jj tak nak no
+Lukan [8d\]: C8 me prekvapilo
+SIscurge [5d\]: :D
+Lukan [8d\]: jsem se tesil njak jsem utekl z komplikaci
+SIscurge [5d\]: to chapu
+Lukan [8d\]: a ono ne
+Lukan [8d\]: C8 je asi nekorektni, ale nevedel jsem jak potrestat, pokud to vubec jde potrestat
+SIscurge [5d\]: jj :D tomu jsem se pochechtaval :D zes chtel bezpecne
+SIscurge [5d\]: ale stejne budes muset resit
+Lukan [8d\]: od ted uz nehraju ani E4
+SIscurge [5d\]: ja to hral na zkousku minulej ctvrtek s ominem v klubu
+Lukan [8d\]: pred dvema tydny proti Tanguymu jsem jen dvoubodve skocil
+Lukan [8d\]: aha
+SIscurge [5d\]: a vypadalo to ze to je cca v pohode
+Lukan [8d\]: asi jo
+Lukan [8d\]: nenasel jsem nic likvidacniho
+Lukan [8d\]: premyslel jsem 10 minut a nic jhsem nevymyslel
+SIscurge [5d\]: ja jsem si rikal
+SIscurge [5d\]: ze na b4jsi melb5
+SIscurge [5d\]: ale nevim
+Lukan [8d\]: hmhm
+Lukan [8d\]: o tom jsem neuvazoval, mi prislo moc drze
+SIscurge [5d\]: takhle to bylo docela ok :)
+Lukan [8d\]: ja si ale taky nestezoval ^^
+SIscurge [5d\]: jj
+SIscurge [5d\]: tak tasuki nam zachranil cest
+SIscurge [5d\]: gg mej se :)
+Lukan [8d\]: :)
+Lukan [8d\]: jj cus taky :)
+])

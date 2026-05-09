@@ -1,0 +1,158 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[SIscurge]PB[Cuki]WR[3d]DT[2019-04-03]PC[The KGS Go Server at http://www.gokgs.com/]C[SIscurge [3d\]: peknou hru!
+Cuki [-\]: Petr Valášek, 3D, Frýdek-Místek
+Cuki [-\]: přeji hezkou partii
+SIscurge [3d\]: Ondra Kruml 5d Brno A
+]RE[W+Time]
+;B[pd]BL[2628.103]
+;W[dp]WL[2687.055]
+;B[pq]BL[2623.98]
+;W[dd]WL[2619.294]
+;B[qk]BL[2620.002]
+;W[nc]WL[2613.912]
+;B[pf]BL[2613.598]
+;W[oe]WL[2606.788]
+;B[pe]BL[2600.173]
+;W[pb]WL[2604.869]
+;B[ne]BL[2549.004]
+;W[ld]WL[2566.539]
+;B[jp]BL[2539.398]
+;W[pp]WL[2553.849]
+;B[qp]BL[2522.417]
+;W[oq]WL[2512.022]
+;B[po]BL[2495.863]
+;W[op]WL[2485.212]
+;B[qq]BL[2492.719]
+;W[oo]WL[2483.117]
+;B[pn]BL[2489.836]
+;W[on]WL[2473.032]
+;B[mo]BL[2450.551]
+;W[om]WL[2432.553]
+;B[pl]BL[2435.638]
+;W[ol]WL[2426.002]
+;B[ok]BL[2429.149]
+;W[nk]WL[2424.946]
+;B[oj]BL[2423.363]
+;W[ml]WL[2398.906]
+;B[fq]BL[2405.663]
+;W[cn]WL[2373.508]
+;B[dq]BL[2377.405]
+;W[cq]WL[2367.712]
+;B[cr]BL[2372.576]
+;W[eq]WL[2356.956]
+;B[dr]BL[2368.734]
+;W[er]WL[2354.869]
+;B[ep]BL[2349.664]
+;W[fr]WL[2352.697]
+;B[cp]BL[2166.222]
+;W[do]WL[2348.485]
+;B[bp]BL[2164.537]
+;W[gq]WL[2344.647]
+;B[km]BL[2096.438]
+;W[nj]WL[2242.786]
+;B[oi]BL[1948.884]
+;W[df]WL[2225.027]
+;B[fp]BL[1928.633]
+;W[gp]WL[2206.51]
+;B[en]BL[1923.34]
+;W[cl]WL[2203.155]
+;B[gn]BL[1821.139]
+;W[go]WL[2188.828]
+;B[fn]BL[1793.278]
+;W[io]WL[1946.903]
+;B[dl]BL[1439.905]
+;W[ck]WL[1921.708]
+;B[hn]BL[943.168]
+;W[jo]WL[1874.417]
+;B[jq]BL[874.278]
+;W[hr]WL[1811.106]
+;B[ko]BL[861.047]
+;W[jm]WL[1800.203]
+;B[jl]BL[763.293]
+;W[im]WL[1756.992]
+;B[kk]BL[404.713]
+;W[il]WL[1735.336]
+;B[gk]BL[276.635]
+;W[ij]WL[1716.566]
+;B[gi]BL[214.718]
+;W[lq]WL[1691.33]
+;B[mq]BL[146.423]
+;W[mr]WL[1614.295]
+;B[lp]BL[140.001]
+;W[kq]WL[1612.208]
+;B[kp]BL[66.614]
+;W[di]WL[1506.498]
+;B[hh]BL[30]OB[3]
+;W[ih]WL[1437.265]
+;B[ig]BL[30]OB[3]
+;W[jh]WL[1397.641]
+;B[lr]BL[30]OB[3]
+;W[kr]WL[1391.899]
+;B[nr]BL[30]OB[3]
+;W[ls]WL[1390.444]
+;B[nq]BL[30]OB[3]
+;W[or]WL[1358.381]
+;B[os]BL[30]OB[2]
+;W[jr]WL[1354.902]
+;B[pr]BL[30]OB[2]
+;W[hg]WL[1308.374]
+;B[li]BL[30]OB[1]
+;W[ns]WL[1288.292]
+;B[ms]BL[30]OB[1]
+;W[jk]WL[1285.486]
+;B[kl]BL[30]OB[1]
+;W[ns]WL[1284.382]
+;B[jj]BL[30]OB[1]
+;W[ik]WL[1279.038]
+;B[ms]BL[30]OB[1]
+;W[hf]WL[1255.204]
+;B[lr]BL[30]OB[1]
+;W[ec]WL[1250.967]
+;B[ji]BL[30]OB[1]
+;W[ii]WL[1163.196]
+;B[ei]BL[30]OB[1]
+;W[ej]WL[1141.975]
+;B[fj]BL[30]OB[1]
+;W[ek]WL[1131.818]
+;B[dh]BL[30]OB[1]
+;W[ci]WL[1113.937]
+;B[fh]BL[30]OB[1]
+;W[eg]WL[1094.589]
+;B[eh]BL[30]OB[1]
+;W[el]WL[1089.408]
+;B[ch]BL[30]OB[1]
+;W[bi]WL[1083.095]
+;B[kd]BL[30]OB[1]
+;W[kj]WL[1007.198]
+;B[ki]BL[30]OB[1]
+;W[ke]WL[928.959]
+;B[fg]BL[30]OB[1]
+;W[ge]WL[892.837]C[Cuki [-\]: dekuji za partii
+SIscurge [3d\]: diky za hr
+SIscurge [3d\]: u
+SIscurge [3d\]: prekvapilo me h6
+SIscurge [3d\]: to kosumi neslo?
+SIscurge [3d\]: k6
+Cuki [-\]: nejak se mi nelibilo
+SIscurge [3d\]: toho jsem se bal, protoze ten peep 2 sente mi najednou delal mrtvou skupinu
+SIscurge [3d\]: peep h2*
+Cuki [-\]: dlouho jsem se v te pozici matlal :)
+Cuki [-\]: nechtel jsem resit G6 skupinu po bily H6
+SIscurge [3d\]: hmm
+SIscurge [3d\]: Ale stejne mi ten tvuj vyjezdl prisel dobry
+SIscurge [3d\]: d14 asi byla chyba, mel jsem to pokryt
+Cuki [-\]: napadla me ta kombinace H6 + K3 jako zajimava :)
+SIscurge [3d\]: hehe :) 
+Cuki [-\]: na to jak jsem cekal totalne nevyhodny crapy boj v tom centru za me ..
+Cuki [-\]: tak nakonec to jeste zajimave tam bylo
+Cuki [-\]: snad :)
+SIscurge [3d\]: jj 
+SIscurge [3d\]: ve frydku vsichni hrajete cinu? :D
+Cuki [-\]: nevidim to tady nikoho v klubu hrat
+SIscurge [3d\]: aha, mi prislo, ze jsem videl casto na turnaji
+Cuki [-\]: aha
+SIscurge [3d\]: aji ada se mnou hrala onehda
+Cuki [-\]: ani se to nejak neucime na lekcich
+Cuki [-\]: mel jsi odhad po pripadnych furikawari jak to stoji<
+])

@@ -1,0 +1,331 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[Zuzka]PB[vajnstejn]DT[2023-11-15]PC[The KGS Go Server at http://www.gokgs.com/]C[Zuzka [?\]: Peknú hru!
+vajnstejn [?\]: Michal Bujak, 3k. Praha Můstek B
+Zuzka [?\]: Zuzana Králiková, 1k, Bratislava Pesimisti 
+vajnstejn [?\]: hezkou hru i tobě
+]RE[W+Resign]
+;B[pd]BL[2659.587]
+;W[dp]WL[2696.484]
+;B[pq]BL[2657.48]
+;W[dc]WL[2692.094]
+;B[ce]BL[2654.286]
+;W[cd]WL[2688.66]
+;B[de]BL[2652.52]
+;W[fc]WL[2683.264]
+;B[cn]BL[2636.981]
+;W[cl]WL[2664.912]
+;B[cq]BL[2627.646]
+;W[cp]WL[2541.792]
+;B[dq]BL[2616.597]
+;W[ep]WL[2521.665]
+;B[bp]BL[2614.076]
+;W[bo]WL[2518.345]
+;B[bq]BL[2613.232]
+;W[bn]WL[2515.391]
+;B[fq]BL[2611.501]
+;W[ci]WL[2495.883]
+;B[fp]BL[2600.482]
+;W[fo]WL[2473.301]
+;B[go]BL[2598.633]
+;W[fn]WL[2437.647]
+;B[gn]BL[2595.783]
+;W[gp]WL[2305.262]
+;B[eq]BL[2487.375]
+;W[co]WL[2242.925]
+;B[hp]BL[2442.288]
+;W[po]WL[2179.749]
+;B[qo]BL[2393.457]
+;W[qn]WL[2171.835]
+;B[qp]BL[2392.464]
+;W[pn]WL[2169.794]
+;B[nq]BL[2391.306]
+;W[qf]WL[2167.722]
+;B[qh]BL[2375.212]
+;W[nd]WL[2158.363]
+;B[pf]BL[2370.355]
+;W[qc]WL[2152.63]
+;B[qe]BL[2354.873]
+;W[pc]WL[2146.704]
+;B[qk]BL[2344.388]
+;W[op]WL[2109.336]
+;B[oq]BL[2326.315]
+;W[ok]WL[2104.969]
+;B[rl]BL[2253.265]
+;W[lo]WL[2075.728]
+;B[mo]BL[2232.299]
+;W[mn]WL[2018.79]
+;B[no]BL[2207.273]
+;W[ln]WL[1976.641]
+;B[om]BL[1863.175]
+;W[fe]WL[1924.059]
+;B[nl]BL[1817.212]
+;W[lk]WL[1892.693]
+;B[mj]BL[1742.261]
+;W[gm]WL[1831.554]
+;B[fm]BL[1731.55]
+;W[hm]WL[1767.654]
+;B[em]BL[1694.183]
+;W[ho]WL[1741.872]
+;B[gq]BL[1676.254]
+;W[hn]WL[1737.506]
+;B[gp]BL[1662.533]
+;W[dn]WL[1727.603]
+;B[fk]BL[1609.769]
+;W[hk]WL[1640.88]
+;B[fi]BL[1578.841]
+;W[eh]WL[1625.031]
+;B[ff]BL[1367.272]
+;W[ef]WL[1603.015]
+;B[ee]BL[1359.263]
+;W[fg]WL[1596.388]
+;B[fd]BL[1255.316]
+;W[gf]WL[1580.227]
+;B[ed]BL[1241.1]
+;W[gb]WL[1520.803]
+;B[ec]BL[1157.388]
+;W[eb]WL[1484.616]
+;B[gc]BL[1155.861]
+;W[fb]WL[1480.551]
+;B[gd]BL[1137.257]
+;W[ic]WL[1468.939]
+;B[id]BL[1132.81]
+;W[jc]WL[1439.803]
+;B[hj]BL[1118.425]
+;W[ij]WL[1433.634]
+;B[ii]BL[1052.451]
+;W[jj]WL[1386.96]
+;B[jd]BL[971.663]
+;W[kd]WL[1312.339]
+;B[ke]BL[915.163]C[to1al [?\]: dve skupiny, top bude tezke
+]
+;W[je]WL[1264.787]
+;B[ie]BL[875.454]
+;W[jf]WL[1244.993]
+;B[kc]BL[840.436]
+;W[ld]WL[1237.079]C[to1al [?\]: h17 driv?
+]
+;B[hc]BL[799.239]C[Met [2d?\]: Ty F7 kameny se měly nechat jako lehký. Nešlo aby žily ty a D15 zároveň. Tyhle problémy byly jasný od chvíle kdy se s nima rozjel.
+to1al [?\]: tjn
+]
+;W[hb]WL[1140.068]C[to1al [?\]: ale mohl tam zkusit na miste ozit
+]
+;B[if]BL[774.772]
+;W[hi]WL[1051.314]C[to1al [?\]: vlacek?
+]
+;B[jg]BL[674.464]
+;W[kf]WL[1021.047]
+;B[kg]BL[664.463]
+;W[lf]WL[1013.728]
+;B[hh]BL[617.486]
+;W[gj]WL[1005.261]
+;B[gh]BL[543.211]
+;W[ji]WL[866.519]C[to1al [?\]: dobry tah
+kovarex [2d\]: To vypada jako sance ne?
+to1al [?\]: tak to nevidim
+kovarex [2d\]: Cerny se spoji, a uz muze odhazovat jen ten malej kousek
+Met [2d?\]: Jo, to spojení je big success
+kovarex [2d\]: Prijde mi, ze cernej byl v obrovskym prusvihu, ale bilej byl trochu netrpelivej, ted to vypada skoro hratelne
+]
+;B[ge]BL[292.625]C[to1al [?\]: michal to tak nevidi
+to1al [?\]: na tento tah mel cas
+]
+;W[ih]WL[717.609]C[kovarex [2d\]: Ano, to spojeni je vpodstate tempo na tlaceni do stredu, ted uz ztraci hodne
+to1al [?\]: konec?
+]
+;B[hf]BL[227.631]C[kovarex [2d\]: Aha, to1al je Jaroslav Kotowski, ahoj
+]
+;W[ig]WL[684.438]C[to1al [?\]: ahoj
+to1al [?\]: gratulace k vyhre
+]
+;B[bd]BL[138.606]
+;W[bc]WL[662.15]
+;B[bf]BL[112.047]C[kovarex [2d\]: Jo, diky, a proc nehrajes?
+]
+;W[hg]WL[629.559]C[to1al [?\]: michal je silnejsi nez ja
+kovarex [2d\]: No, podle ratingu ne
+]
+;B[od]BL[30]OB[3]C[to1al [?\]: v klubu me porazi
+Met [2d?\]: To se stává, to ještě nemusí být silnější.
+]
+;W[oc]WL[544.518]
+;B[ne]BL[30]OB[3]C[to1al [?\]: on ted hraje, ja se pomalu dostavam do formy
+]
+;W[me]WL[515.085]C[to1al [?\]: a co to znamena jineho ? :D
+]
+;B[ac]BL[30]OB[3]C[Met [2d?\]: To atari bych si asi dal...
+Met [2d?\]: za bílýho
+Met [2d?\]: Může to znamenat, že akorát s nim ti to nejde. Ale každopdádně bysme se mohli nějak prostřídat.
+]
+;W[lp]WL[351.344]
+;B[mq]BL[30]OB[3]
+;W[qg]WL[283.712]
+;B[re]BL[30]OB[3]
+;W[ab]WL[253.346]
+;B[ad]BL[30]OB[3]
+;W[pg]WL[221.739]
+;B[nf]BL[30]OB[3]
+;W[og]WL[178.802]C[to1al [?\]: urcite
+]
+;B[nc]BL[30]OB[2]
+;W[md]WL[174.826]
+;B[lg]BL[30]OB[2]C[kovarex [2d\]: No, ted bych nechtel byt bily a premyslet jak to neposrat :)
+]
+;W[nb]WL[95.859]
+;B[mf]BL[30]OB[2]
+;W[le]WL[82.168]C[kovarex [2d\]: To je dalsi moznost pro Michala tyjo
+]
+;B[mh]BL[30]OB[2]
+;W[of]WL[62.813]
+;B[oe]BL[30]OB[2]C[Met [2d?\]: Ano, nenechal se nachytat
+]
+;W[pe]WL[16.139]
+;B[qd]BL[30]OB[2]
+;W[ae]WL[30]OW[3]C[to1al [?\]: kazdopadne nas hrajicich zas tak moc neni
+]
+;B[be]BL[30]OB[2]C[kovarex [2d\]: Vzeti toho ko je silena lokalni ztrata
+Met [2d?\]: jj, a kničemu.
+]
+;W[ng]WL[30]OW[3]
+;B[mg]BL[30]OB[2]C[kovarex [2d\]: No tyjo, tohle by mohl vyhrat
+]
+;W[nk]WL[30]OW[3]
+;B[mk]BL[30]OB[2]
+;W[ni]WL[30]OW[3]C[Met [2d?\]: Ještě tam bílej může zabojovat
+]
+;B[mi]BL[30]OB[2]C[kovarex [2d\]: Ano, ale zrovna pocitani neni michalova slaba stranka 
+kovarex [2d\]: Btw, jednou jsem s nim prohral na kempu hru do ratingu
+]
+;W[rh]WL[30]OW[3]C[to1al [?\]: ja taky
+]
+;B[qi]BL[30]OB[2]C[Met [2d?\]: Tak teď už ne.. to chtělo clampnout.
+to1al [?\]: hral diky me prvni prohre cely den
+]
+;W[ml]WL[30]OW[3]C[kovarex [2d\]: Pokud to udrzi tak gg
+to1al [?\]: protoze ten turnaj pak vyhral
+kovarex [2d\]: pravda
+]
+;B[mm]BL[30]OB[2]
+;W[ll]WL[30]OW[3]
+;B[nm]BL[30]OB[2]C[Met [2d?\]: Mno, teď už se zase bojom
+]
+;W[he]WL[30]OW[3]C[Met [2d?\]: bojim
+]
+;B[hd]BL[30]OB[2]C[to1al [?\]: to uz da
+]
+;W[pl]WL[30]OW[3]C[Met [2d?\]: Hmm tohle asi funguje ne?
+Met [2d?\]: Ale černý by mohl zas cutnout na p11
+]
+;B[nn]BL[30]OB[1]
+;W[ql]WL[30]OW[3]
+;B[rm]BL[30]OB[1]C[Met [2d?\]: No, nevypadá to úplně dobře.
+]
+;W[rn]WL[30]OW[3]
+;B[pk]BL[30]OB[1]C[kovarex [2d\]: Prusvih
+]
+;W[ol]WL[30]OW[3]C[Met [2d?\]: To p11 pořád funguje ne
+kovarex [2d\]: Ta partie je teda hodnedivacky zajimava, to se musi uznat :)
+]
+;B[ri]BL[30]OB[1]
+;W[rg]WL[30]OW[3]
+;B[oi]BL[30]OB[1]C[Met [2d?\]: Tam se měla bílá spíš spojit a být spokojená s tim prostředkem sežranym
+]
+;W[nj]WL[30]OW[2]
+;B[pi]BL[30]OB[1]C[Met [2d?\]: Cooo
+kovarex [2d\]: what?
+]
+;W[nh]WL[30]OW[2]C[kovarex [2d\]: To je missclick ne?
+]
+;B[rc]BL[30]OB[1]C[kovarex [2d\]: -50 bodu
+Met [2d?\]: byoyomi missbrain
+Met [2d?\]: Stane se :)
+]
+;W[np]WL[30]OW[2]
+;B[mp]BL[30]OB[1]
+;W[sj]WL[30]OW[2]
+;B[rj]BL[30]OB[1]
+;W[rb]WL[30]OW[2]C[kovarex [2d\]: A ted to znova otoci
+]
+;B[sb]BL[30]OB[1]
+;W[ra]WL[30]OW[2]C[Met [2d?\]: Když si ta bílá ještě ubírá svobody, jako to o4
+]
+;B[sd]BL[30]OB[1]C[Met [2d?\]: Ale od oka snad musí mít o dost víc
+]
+;W[lj]WL[30]OW[2]
+;B[lm]BL[30]OB[1]
+;W[li]WL[30]OW[2]C[kovarex [2d\]: No, to bych ignoroval
+Met [2d?\]: Takovej psychologickej tah
+kovarex [2d\]: a ubiral svobody
+kovarex [2d\]: jj
+Borisho [?\]: ako asi mozes aj bloknut 
+]
+;B[jn]BL[30]OB[1]
+;W[jo]WL[30]OW[2]C[kovarex [2d\]: Mozna, ale kdyz nemas cas pocitat a je to semai o celou hru, tak bych proste ubral svobodu
+]
+;B[kn]BL[30]OB[1]
+;W[jp]WL[30]OW[2]
+;B[io]BL[30]OB[1]
+;W[in]WL[30]OW[2]C[Met [2d?\]: Nedělaj si to jednoduchý
+]
+;B[ip]BL[30]OB[1]
+;W[km]WL[30]OW[2]
+;B[jm]BL[30]OB[1]
+;W[kl]WL[30]OW[2]
+;B[lq]BL[30]OB[1]
+;W[jq]WL[30]OW[2]C[kovarex [2d\]: To uz je asi fakt konec
+]
+;B[jr]BL[30]OB[1]
+;W[jl]WL[30]OW[2]C[Met [2d?\]: Ale tak má černý morální vítězství, že se může dole spoijt. Nebo vpravo ožít...
+]
+;B[sf]BL[30]OB[1]
+;W[rf]WL[30]OW[2]
+;B[ro]BL[30]OB[1]
+;W[qb]WL[30]OW[2]C[Met [2d?\]: Jéje, tak to sestoupení je zadarmo
+]
+;B[sn]BL[30]OB[1]
+;W[sg]WL[30]OW[2]
+;B[se]BL[30]OB[1]
+;W[sa]WL[30]OW[2]
+;B[kb]BL[30]OB[1]
+;W[ib]WL[30]OW[2]C[kovarex [2d\]: Kolikakroky ko to je?
+Met [2d?\]: Měla spojit to první ko místo T19
+]
+;B[bi]BL[30]OB[1]
+;W[bj]WL[30]OW[2]
+;B[ch]BL[30]OB[1]
+;W[di]WL[30]OW[2]
+;B[dh]BL[30]OB[1]
+;W[ei]WL[30]OW[2]
+;B[aj]BL[30]OB[1]
+;W[kh]WL[30]OW[2]
+;B[bk]BL[30]OB[1]
+;W[cj]WL[30]OW[2]
+;B[ck]BL[30]OB[1]C[to1al [?\]: :D
+]
+;W[bh]WL[30]OW[2]
+;B[ah]BL[30]OB[1]
+;W[ai]WL[30]OW[2]
+;B[kp]BL[30]OB[1]
+;W[ko]WL[30]OW[2]
+;B[bi]BL[30]OB[1]C[Met [2d?\]: To je taktika. Kdy si skoro zabije tu skupinu vlevo nahoře, tak bude mít hodně ko hrozeb.
+]
+;W[dk]WL[30]OW[2]
+;B[dl]BL[30]OB[1]
+;W[bl]WL[30]OW[2]
+;B[mc]BL[30]OB[1]
+;W[lc]WL[30]OW[2]
+;B[cm]BL[30]OB[1]
+;W[bm]WL[30]OW[2]C[to1al [?\]: uz te hre asi nerozumim
+]
+;B[iq]BL[30]OB[1]
+;W[im]WL[30]OW[2]C[Borisho [?\]: snažil sa ešte vytrikovať atari na E5
+vajnstejn [?\]: díky za hru
+Zuzka [?\]: Ďakujem za partiu
+to1al [?\]: pekna hra!
+kovarex [2d\]: To byla rezba teda!
+Zuzka [?\]: perfektná
+Zuzka [?\]: s časom mám vždy problém
+vajnstejn [?\]: hrál jsem blbě
+Zuzka [?\]: ani nie, na začiatku si ma vytrikoval asi
+Zuzka [?\]: v tom 1. joseki
+])

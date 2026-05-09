@@ -1,0 +1,156 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[Wulfiii]PB[Jna]BR[5k]DT[2021-03-17]PC[The KGS Go Server at http://www.gokgs.com/]C[Wulfiii [?\]: pěknou hru
+Jna [5k?\]: Jana Hricova, PromoGo
+Wulfiii [?\]: Tereza Vlčková, 8kyu, So-Imba?!
+Jna [5k?\]: pěknou hru :D
+]RE[B+Resign]
+;B[pd]BL[2670.158]
+;W[dp]WL[2684.47]
+;B[qq]BL[2666.944]C[SIscurge [5d\]: jana se terce smeje do obliceje co to :D
+]
+;W[cd]WL[2670.29]
+;B[cq]BL[2656.58]
+;W[cp]WL[2659.711]
+;B[dq]BL[2654.689]
+;W[eq]WL[2646.552]
+;B[er]BL[2647.668]
+;W[fq]WL[2642.404]
+;B[fr]BL[2645.555]
+;W[gq]WL[2638.636]
+;B[gr]BL[2644.066]
+;W[hq]WL[2632.156]
+;B[ec]BL[2634.288]
+;W[dg]WL[2554.596]
+;B[cc]BL[2585.949]
+;W[bc]WL[2541.975]
+;B[dd]BL[2583.922]
+;W[ce]WL[2522.057]
+;B[cb]BL[2580.824]
+;W[nc]WL[2506.194]
+;B[qf]BL[2538.055]
+;W[kc]WL[2489.586]
+;B[oc]BL[2530.566]
+;W[nd]WL[2486.033]
+;B[ic]BL[2528.755]
+;W[pp]WL[2333.168]
+;B[pq]BL[2518.294]
+;W[np]WL[2325.809]
+;B[po]BL[2464.075]
+;W[op]WL[2152.488]
+;B[qp]BL[2458.653]
+;W[om]WL[2134.389]
+;B[ck]BL[2407.177]
+;W[ci]WL[2083.217]
+;B[cn]BL[2401.178]
+;W[bp]WL[2049.063]
+;B[bq]BL[2314.342]
+;W[dm]WL[1981.345]
+;B[cm]BL[2306.356]
+;W[dk]WL[1909.018]
+;B[dn]BL[2299.832]
+;W[qm]WL[1838.812]
+;B[qn]BL[2288.462]
+;W[qh]WL[1712.263]
+;B[eo]BL[2279.262]
+;W[ep]WL[1708.726]
+;B[em]BL[2274.199]
+;W[dl]WL[1687.249]
+;B[cj]BL[2231.093]
+;W[dj]WL[1648.244]
+;B[bi]BL[2226.578]
+;W[ch]WL[1611.487]
+;B[cl]BL[2185.454]
+;W[og]WL[1591.226]
+;B[nb]BL[2180.388]
+;W[mb]WL[1581.876]
+;B[ob]BL[2177.656]
+;W[gc]WL[1465.742]
+;B[hd]BL[2168.172]
+;W[fd]WL[1459.312]C[SIscurge [5d\]: terka bojuje
+]
+;B[bb]BL[2062.642]
+;W[ff]WL[1354.587]
+;B[kd]BL[1940.803]
+;W[lc]WL[1309.49]
+;B[jd]BL[1918.987]
+;W[hb]WL[1263.401]C[SIscurge [5d\]: juchu utok
+]
+;B[kg]BL[1722.153]
+;W[ie]WL[1216.633]
+;B[ge]BL[1604.166]C[SIscurge [5d\]: imb
+SIscurge [5d\]: imba
+]
+;W[ig]WL[1068.365]
+;B[id]BL[1512.78]
+;W[fe]WL[1030.663]
+;B[jf]BL[1426.496]C[SIscurge [5d\]: klobouk
+]
+;W[lf]WL[962.85]
+;B[if]BL[1414.02]
+;W[ki]WL[906.1]
+;B[lg]BL[1406.411]
+;W[mi]WL[876.828]
+;B[hg]BL[1400.359]
+;W[ih]WL[874.568]
+;B[hh]BL[1398.795]
+;W[gk]WL[802.587]
+;B[ii]BL[1393.827]
+;W[jh]WL[800.53]
+;B[hj]BL[1310.124]
+;W[gi]WL[745.273]
+;B[hi]BL[1306.14]
+;W[gf]WL[691.913]
+;B[hf]BL[1261.49]
+;W[jk]WL[633.108]
+;B[hk]BL[1081.165]
+;W[gl]WL[628.023]
+;B[hl]BL[1051.55]
+;W[gm]WL[603.55]
+;B[jl]BL[1031.212]C[SIscurge [5d\]: pome tengen
+SIscurge [5d\]: k10 spojovacka tvaru
+]
+;W[kk]WL[585.895]
+;B[in]BL[962.199]
+;W[hm]WL[571.82]
+;B[im]BL[950.871]
+;W[ko]WL[548.027]
+;B[lm]BL[848.271]C[SIscurge [5d\]: a6
+SIscurge [5d\]: ?
+]
+;W[kn]WL[397.505]
+;B[go]BL[831.729]
+;W[ho]WL[371.191]
+;B[hn]BL[813.885]
+;W[gn]WL[366.963]
+;B[fn]BL[811.853]C[SIscurge [5d\]: sance terka
+]
+;W[io]WL[340.946]
+;B[gj]BL[658.549]
+;W[fk]WL[332.739]C[SIscurge [5d\]: wooo terka to nasla
+SIscurge [5d\]: a skoro jde zabit na leve strane nebo vpravo dole
+SIscurge [5d\]: mozna mozna
+]
+;B[kl]BL[501.512]
+;W[lk]WL[298.96]
+;B[fj]BL[468.624]
+;W[fh]WL[238.95]
+;B[di]BL[387.124]
+;W[ei]WL[176.44]
+;B[ek]BL[383.226]C[SIscurge [5d\]: to nasla jana dobre
+SIscurge [5d\]: asi chtelo day pojistit a pak zkust tu levou no, ale tezke asi
+krabicka [?\]: :'(
+Jna [5k?\]: děkuji za hru
+Wulfiii [?\]: díky za hru! :)
+Jna [5k?\]: bylo to hodně těžké
+SIscurge [5d\]: nakonec se smeje terka, takze vyhra
+Wulfiii [?\]: :D
+SIscurge [5d\]: :P :D gg
+Jna [5k?\]: "D
+Jna [5k?\]: :D
+krabicka [?\]: :''''''''''''''''''''''(((((((((((((((((((((
+Jna [5k?\]: Terka mně dusila hodně dobře :D
+Wulfiii [?\]: ale nakonec se vždycky cestička našla :D
+Wulfiii [?\]: tak jo dobrá hra, díky, dobrou noc :)
+Jna [5k?\]: dobrou noc
+])

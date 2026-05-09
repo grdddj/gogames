@@ -1,0 +1,241 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[SIscurge]PB[Lukan]WR[5d]BR[7d]DT[2021-11-10]PC[The KGS Go Server at http://www.gokgs.com/]C[Lukan [7d\]: peknou partii!
+SIscurge [5d\]: peknou!
+Lukan [7d\]: Lukas Podpera, 7d, Weiqi Club Prague
+SIscurge [5d\]: Ondrej Kruml 6d So-Imba All Stars
+]RE[B+Resign]
+;B[pd]BL[2674.387]
+;W[dp]WL[2683.45]
+;B[pq]BL[2669.673]
+;W[dd]WL[2676.119]
+;B[nc]BL[2663.306]
+;W[qo]WL[2658.845]
+;B[np]BL[2656.712]
+;W[qk]WL[2641.623]
+;B[cq]BL[2629.887]
+;W[dq]WL[2607.756]
+;B[cp]BL[2608.563]
+;W[do]WL[2605.984]
+;B[bn]BL[2605.839]
+;W[lq]WL[2604.283]
+;B[qp]BL[2557.192]
+;W[po]WL[2601.009]
+;B[mq]BL[2555.489]
+;W[lp]WL[2599.99]
+;B[nn]BL[2554.247]
+;W[ip]WL[2553.132]
+;B[qi]BL[2542.834]
+;W[ok]WL[2512.246]
+;B[fc]BL[2465.692]
+;W[cf]WL[2453.372]
+;B[oi]BL[2416.463]
+;W[md]WL[2413.76]
+;B[nd]BL[2328.921]
+;W[mf]WL[2405.04]
+;B[jd]BL[2294.854]
+;W[hc]WL[2265.884]
+;B[hd]BL[2243.599]
+;W[id]WL[2259.697]
+;B[ie]BL[2134.645]
+;W[ic]WL[2256.497]
+;B[gd]BL[2116.022]
+;W[jc]WL[2243.74]
+;B[kd]BL[2105.837]
+;W[lc]WL[2015.05]
+;B[me]BL[1944.758]
+;W[le]WL[2011.49]
+;B[ld]BL[1940.775]
+;W[mc]WL[1778.504]
+;B[ne]BL[1938.6]
+;W[he]WL[1702.403]
+;B[jf]BL[1853.453]
+;W[nb]WL[1475.95]
+;B[ob]BL[1846.717]
+;W[hf]WL[1474.589]
+;B[ff]BL[1732.19]
+;W[ec]WL[1391.248]
+;B[eb]BL[1392.486]
+;W[db]WL[1343.092]
+;B[ed]BL[1370.45]
+;W[dc]WL[1339.721]
+;B[fh]BL[1342.823]
+;W[hh]WL[1250.175]
+;B[jg]BL[1291.407]
+;W[ee]WL[1119.262]
+;B[fe]BL[1235.785]
+;W[mb]WL[992.915]
+;B[gj]BL[1118.853]
+;W[hj]WL[970.809]
+;B[hk]BL[1114.497]
+;W[ij]WL[967.016]
+;B[gk]BL[1108.123]
+;W[jk]WL[942.676]
+;B[mj]BL[996.867]
+;W[li]WL[908.284]
+;B[lf]BL[977.934]
+;W[lg]WL[872.936]
+;B[ke]BL[972.347]
+;W[ni]WL[871.398]
+;B[oj]BL[927.704]
+;W[nj]WL[841.25]
+;B[nk]BL[921.165]
+;W[nh]WL[829.777]
+;B[nl]BL[866.016]
+;W[pk]WL[745.287]
+;B[oh]BL[826.126]
+;W[og]WL[733.271]
+;B[pg]BL[821.037]
+;W[om]WL[662.338]
+;B[nm]BL[801.541]
+;W[lk]WL[656.35]
+;B[rj]BL[709.442]
+;W[rk]WL[643.583]
+;B[ro]BL[689.68]
+;W[rn]WL[527.067]
+;B[rp]BL[686.659]C[Lukan [7d\]: tak ja se odpojim na chvili, jak jsem avizoval, budu zpatky co nejdriv
+SIscurge [5d\]: jj no
+SIscurge [5d\]: prob
+Lukan [7d\]: dik
+]
+;W[qm]WL[444.41]C[Lukan [7d\]: tak jsem zpet, promin za prodlevu
+]
+;B[gc]BL[624.399]C[SIscurge [5d\]: cajk
+]
+;W[pb]WL[353.414]
+;B[oa]BL[612.116]
+;W[gb]WL[305.292]
+;B[fb]BL[606.08]
+;W[ha]WL[233.156]
+;B[cm]BL[478.073]
+;W[dm]WL[174.269]
+;B[dl]BL[474.115]
+;W[el]WL[149.309]
+;B[dk]BL[464.569]
+;W[cn]WL[106.701]
+;B[bm]BL[454.026]
+;W[rh]WL[4.076]C[SImasakrzz [2d?\]: wow
+]
+;B[ji]BL[345.305]
+;W[pc]WL[30]OW[3]
+;B[oc]BL[340.188]
+;W[pf]WL[30]OW[3]
+;B[of]BL[322.859]
+;W[qf]WL[30]OW[3]
+;B[ng]BL[311.088]
+;W[qd]WL[30]OW[3]
+;B[jm]BL[288.932]
+;W[lm]WL[30]OW[3]
+;B[ln]BL[264.757]
+;W[km]WL[30]OW[3]
+;B[kn]BL[254.784]
+;W[jn]WL[30]OW[3]
+;B[im]BL[162.581]
+;W[mo]WL[30]OW[3]
+;B[mn]BL[112.736]
+;W[in]WL[30]OW[3]C[krabicka [?\]: se chvíli nedívám a nějak se přebarvil ten horní pravý roh :D
+krabicka [?\]: aůe střed za to asi padnul
+]
+;B[hn]BL[30]OB[3]
+;W[no]WL[30]OW[3]C[XioLyTu [2k\]: ak nie, biely je na tom lepšie :)
+]
+;B[hp]BL[30]OB[3]
+;W[hm]WL[30]OW[3]
+;B[il]BL[30]OB[3]
+;W[ho]WL[30]OW[3]C[krabicka [?\]: tady šance na posrání je no ;)
+]
+;B[lj]BL[30]OB[3]
+;W[kj]WL[30]OW[3]
+;B[mk]BL[30]OB[3]C[tvojemama [?\]: myslis sance to posrat, nebo sance na to se z toho posrat
+tvojemama [?\]: :-D
+]
+;W[ki]WL[30]OW[3]C[krabicka [?\]: :D
+krabicka [?\]: asi kočko normální no
+]
+;B[ll]BL[30]OB[3]
+;W[kl]WL[30]OW[3]
+;B[kk]BL[30]OB[3]C[tvojemama [?\]: bez toho ko je to kaputo?
+tvojemama [?\]: kdyz scurge prohraje ko
+KS [?\]: k8 ?
+tvojemama [?\]: sem slepej uplne, nvm
+]
+;W[jl]WL[30]OW[2]
+;B[kh]BL[30]OB[3]C[SImasakrzz [2d?\]: tak sme spalili 2 periodky...
+]
+;W[mi]WL[30]OW[1]
+;B[jj]BL[30]OB[3]
+;W[ik]WL[30]OW[1]
+;B[hl]BL[30]OB[3]
+;W[lk]WL[30]OW[1]
+;B[gm]BL[30]OB[3]C[tvojemama [?\]: tvl to je intenzivni
+]
+;W[ml]WL[30]OW[1]
+;B[go]BL[30]OB[3]C[tvojemama [?\]: k4 ?
+murkhach [?\]: jj
+]
+;W[io]WL[30]OW[1]
+;B[iq]BL[30]OB[3]C[XioLyTu [2k\]: žeby veľký trade a d3 umrie?
+]
+;W[jp]WL[30]OW[1]C[XioLyTu [2k\]: seems so o.o
+]
+;B[gq]BL[30]OB[3]
+;W[fq]WL[30]OW[1]C[Wulfiii [?\]: lol scurge si to nemyslí
+czgoplayer [4k\]: co je s tou středovou skupinkou?
+tvojemama [?\]: ma peepy :-D
+]
+;B[er]BL[30]OB[3]C[SImasakrzz [2d?\]: pipy sou pro tvojimamu
+XioLyTu [2k\]: Lukan si to očividne myslí :) 
+]
+;W[pa]WL[30]OW[1]C[tvojemama [?\]: scurge asi taky
+tvojemama [?\]: hh
+SImasakrzz [2d?\]: :)
+]
+;B[kc]BL[30]OB[3]
+;W[kb]WL[30]OW[1]C[XioLyTu [2k\]:  zdá sa, že celkom získal
+]
+;B[qc]BL[30]OB[3]
+;W[qb]WL[30]OW[1]
+;B[ma]BL[30]OB[3]
+;W[ib]WL[30]OW[1]C[XioLyTu [2k\]: bolestivá redukcia o.O
+]
+;B[qe]BL[30]OB[3]
+;W[rd]WL[30]OW[1]C[SImasakrzz [2d?\]: lol
+]
+;B[pe]BL[30]OB[3]
+;W[rf]WL[30]OW[1]
+;B[re]BL[30]OB[3]C[XioLyTu [2k\]: wut? o.O
+]
+;W[rc]WL[30]OW[1]
+;B[ch]BL[30]OB[3]C[SImasakrzz [2d?\]: :/
+tvojemama [?\]: co?
+]
+;W[bg]WL[30]OW[1]
+;B[bh]BL[30]OB[3]
+;W[ri]WL[30]OW[1]C[nerub [?\]: b leading a lot
+XioLyTu [2k\]: čierny +++
+]
+;B[qj]BL[30]OB[3]
+;W[qh]WL[30]OW[1]
+;B[lh]BL[30]OB[3]
+;W[lr]WL[30]OW[1]
+;B[jr]BL[30]OB[3]
+;W[nr]WL[30]OW[1]
+;B[or]BL[30]OB[3]C[SIscurge [5d\]: diky
+Lukan [7d\]: diky!
+Comments1 [-\]: This exchange in the center was too much.
+Lukan [7d\]: no festival jako vzdy samozrejme :)
+czgoplayer [4k\]: gratuluji!
+SIscurge [5d\]: nahore to moc nevyslo
+Lukan [7d\]: diky honzo
+XioLyTu [2k\]: gg
+Lukan [7d\]: jakoze uplne na zacatku nahore?
+SIscurge [5d\]: jj
+Lukan [7d\]: nebyl jsem uplne spokojeny
+Lukan [7d\]: spatny tvar...
+SIscurge [5d\]: bylo asi zle dost za me
+SIscurge [5d\]: nemohls me zabit btw? :D
+SIscurge [5d\]: nakonci
+Lukan [7d\]: mozna jsem byl prilis perfekcionisticky :)
+Lukan [7d\]: nevychazelo mi to
+Lukan [7d\]: ale checkoval jsem
+])

@@ -1,0 +1,316 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[fido]PB[decros]BR[3d]DT[2021-04-14]PC[The KGS Go Server at http://www.gokgs.com/]C[decros [3d\]: ahoj
+]RE[W+19.50]
+;B[pp]BL[2695.565]C[decros [3d\]: pěknou hru
+decros [3d\]: Michal Nemčok 1d, F-M
+]
+;W[dd]WL[2691.437]
+;B[dp]BL[2692.748]C[fido [-\]: Ahoj, pěknou hru
+fido [-\]: Ondřej Fidrmuc, So Imba Scurge Team
+]
+;W[qd]WL[2666.566]
+;B[od]BL[2688.998]
+;W[oc]WL[2651.25]
+;B[nc]BL[2685.573]
+;W[pc]WL[2650.418]
+;B[nd]BL[2684.184]
+;W[qf]WL[2631.323]
+;B[jd]BL[2617.758]
+;W[cn]WL[2614.125]
+;B[fq]BL[2604.735]
+;W[cp]WL[2600.165]
+;B[cq]BL[2602.995]
+;W[bq]WL[2597.503]
+;B[co]BL[2583.617]
+;W[bp]WL[2595.088]
+;B[do]BL[2573.07]
+;W[bo]WL[2580.552]
+;B[cr]BL[2569.005]
+;W[cl]WL[2568.577]
+;B[cc]BL[2564.999]
+;W[dc]WL[2492.43]
+;B[cd]BL[2563.425]
+;W[ce]WL[2491.173]
+;B[be]BL[2560.661]
+;W[bf]WL[2489.67]
+;B[cf]BL[2558.903]
+;W[de]WL[2488.532]
+;B[bg]BL[2558.06]
+;W[bd]WL[2486.379]
+;B[af]BL[2556.812]
+;W[bc]WL[2485.365]
+;B[qn]BL[2506.488]
+;W[ch]WL[2460.301]
+;B[cb]BL[2478.908]
+;W[bb]WL[2456.601]
+;B[df]BL[2438.347]
+;W[ef]WL[2413.997]
+;B[eg]BL[2421.97]
+;W[ff]WL[2363.256]
+;B[dh]BL[2344.45]
+;W[hc]WL[2204.933]C[SImedvidek [?\]:  Scurge Team - to jsou ti horsi :) 
+]
+;B[hd]BL[2210.172]
+;W[ic]WL[1690.714]
+;B[jc]BL[2106.031]
+;W[id]WL[1685.728]
+;B[ie]BL[2103.436]
+;W[je]WL[1632.652]
+;B[he]BL[2026.772]
+;W[gc]WL[1500.264]
+;B[hg]BL[1918.519]
+;W[ke]WL[1425.105]
+;B[ld]BL[1899.137]
+;W[le]WL[1391.979]
+;B[kd]BL[1766.882]
+;W[fg]WL[1370.321]
+;B[ci]BL[1647.079]
+;W[eh]WL[1339.852]
+;B[dg]BL[1629.363]
+;W[nf]WL[1251.532]
+;B[me]BL[1370.687]
+;W[mf]WL[1248.782]
+;B[kg]BL[1282.47]
+;W[ne]WL[1183.711]
+;B[md]BL[1275.746]
+;W[lf]WL[1173.226]
+;B[jb]BL[1215.01]
+;W[kq]WL[1121.822]
+;B[mq]BL[1123.993]
+;W[hq]WL[1118.092]
+;B[qg]BL[1060.123]C[SImasakrzz [1d\]: jj
+]
+;W[pf]WL[1059.324]
+;B[pj]BL[1009.451]
+;W[pq]WL[820.999]
+;B[qq]BL[880.707]C[SIscurge [5d\]: ted jsem zvedavy na fido skill
+]
+;W[oq]WL[748.635]
+;B[op]BL[799.437]
+;W[nq]WL[655.737]
+;B[mp]BL[784.415]
+;W[np]WL[282.144]
+;B[no]BL[782.886]
+;W[mr]WL[241.655]
+;B[lr]BL[780.334]
+;W[nr]WL[166.63]
+;B[lq]BL[755.857]
+;W[kr]WL[60.683]
+;B[ls]BL[703.103]C[SIscurge [5d\]: r4
+SIscurge [5d\]: hmm r4 q2? 
+]
+;W[mo]WL[30]OW[3]
+;B[lo]BL[601.692]
+;W[mn]WL[30]OW[3]
+;B[nn]BL[500.898]
+;W[kp]WL[30]OW[2]
+;B[lp]BL[487.611]
+;W[qr]WL[30]OW[2]
+;B[rp]BL[442.838]
+;W[rr]WL[30]OW[2]
+;B[mm]BL[345.58]
+;W[ln]WL[30]OW[2]
+;B[ko]BL[342.665]
+;W[lm]WL[30]OW[2]
+;B[ll]BL[299.965]
+;W[jn]WL[30]OW[2]
+;B[jo]BL[292.644]
+;W[ml]WL[30]OW[2]
+;B[nm]BL[278.853]
+;W[ho]WL[30]OW[1]
+;B[iq]BL[226.194]
+;W[ir]WL[30]OW[1]
+;B[ip]BL[212.972]
+;W[hp]WL[30]OW[1]C[Kohana [2d\]: to vypada dobre za Michala! do toho :)
+]
+;B[kn]BL[170.28]
+;W[km]WL[30]OW[1]
+;B[jm]BL[168.314]
+;W[kl]WL[30]OW[1]C[SIscurge [5d\]: :X
+]
+;B[in]BL[137.853]
+;W[gr]WL[30]OW[1]
+;B[fr]BL[108.759]
+;W[gn]WL[30]OW[1]
+;B[hl]BL[78.386]
+;W[gl]WL[30]OW[1]
+;B[gk]BL[61.333]
+;W[fl]WL[30]OW[1]
+;B[lk]BL[41.265]
+;W[kk]WL[30]OW[1]
+;B[kj]BL[33.232]
+;W[br]WL[30]OW[1]C[SIscurge [5d\]: rozumne
+]
+;B[cs]BL[30]OB[3]C[SIscurge [5d\]: f5f5f5f5
+]
+;W[lj]WL[30]OW[1]
+;B[mk]BL[30]OB[3]
+;W[mj]WL[30]OW[1]
+;B[nk]BL[30]OB[3]
+;W[ki]WL[30]OW[1]
+;B[jj]BL[30]OB[3]
+;W[ji]WL[30]OW[1]
+;B[hi]BL[30]OB[2]
+;W[ij]WL[30]OW[1]
+;B[jk]BL[30]OB[2]
+;W[ii]WL[30]OW[1]
+;B[fo]BL[30]OB[2]C[SIscurge [5d\]: aaarhghghgklnam,na
+Kohana [2d\]: juhuuu
+Kohana [2d\]: :D
+]
+;W[hk]WL[30]OW[1]C[SIscurge [5d\]: to je dobre
+]
+;B[ei]BL[30]OB[2]
+;W[fh]WL[30]OW[1]
+;B[gj]BL[30]OB[2]
+;W[gi]WL[30]OW[1]
+;B[hj]BL[30]OB[2]
+;W[ik]WL[30]OW[1]
+;B[jl]BL[30]OB[2]
+;W[fj]WL[30]OW[1]C[SIscurge [5d\]: yes
+SIscurge [5d\]: fido hraje dobre, ale ten cas me desi
+]
+;B[fi]BL[30]OB[2]
+;W[gh]WL[30]OW[1]
+;B[fk]BL[30]OB[2]
+;W[ej]WL[30]OW[1]
+;B[ek]BL[30]OB[2]C[Kohana [2d\]: O.o 
+SIscurge [5d\]: oj jsem myslel, ze budem squeezovat
+]
+;W[en]WL[30]OW[1]
+;B[dj]BL[30]OB[2]
+;W[hh]WL[30]OW[1]
+;B[fs]BL[30]OB[2]C[SIscurge [5d\]: to je skoda toho squeezu
+]
+;W[qi]WL[30]OW[1]C[Lukan [8d\]: K6
+Lukan [8d\]: a bily ma problem
+Lukan [8d\]: F6*
+Lukan [8d\]: pardon
+]
+;B[qj]BL[30]OB[2]
+;W[pi]WL[30]OW[1]
+;B[oi]BL[30]OB[2]
+;W[rj]WL[30]OW[1]
+;B[rk]BL[30]OB[2]
+;W[ri]WL[30]OW[1]
+;B[oj]BL[30]OB[2]
+;W[eo]WL[30]OW[1]
+;B[ep]BL[30]OB[2]
+;W[nb]WL[30]OW[1]
+;B[mb]BL[30]OB[2]C[Lukan [8d\]: stale to tam stoji... :)
+SIscurge [5d\]: ajaj
+]
+;W[dn]WL[30]OW[1]
+;B[ob]BL[30]OB[2]
+;W[pa]WL[30]OW[1]C[SIscurge [5d\]: dobree
+]
+;B[ga]BL[30]OB[2]
+;W[fb]WL[30]OW[1]
+;B[fa]BL[30]OB[2]C[SIscurge [5d\]: pusobi, ze staci dohrat
+]
+;W[db]WL[30]OW[1]
+;B[sj]BL[30]OB[2]
+;W[si]WL[30]OW[1]
+;B[sk]BL[30]OB[2]
+;W[oh]WL[30]OW[1]
+;B[nh]BL[30]OB[2]
+;W[og]WL[30]OW[1]
+;B[mi]BL[30]OB[1]
+;W[lh]WL[30]OW[1]
+;B[bk]BL[30]OB[1]C[SIscurge [5d\]: ten cas me zabiji :D
+]
+;W[bl]WL[30]OW[1]
+;B[na]BL[30]OB[1]
+;W[rq]WL[30]OW[1]
+;B[qp]BL[30]OB[1]
+;W[sp]WL[30]OW[1]
+;B[so]BL[30]OB[1]
+;W[sq]WL[30]OW[1]
+;B[ro]BL[30]OB[1]
+;W[bj]WL[30]OW[1]
+;B[ck]BL[30]OB[1]
+;W[ak]WL[30]OW[1]
+;B[bi]BL[30]OB[1]
+;W[ea]WL[30]OW[1]
+;B[ha]BL[30]OB[1]
+;W[li]WL[30]OW[1]
+;B[ms]BL[30]OB[1]
+;W[ns]WL[30]OW[1]
+;B[pb]BL[30]OB[1]
+;W[qb]WL[30]OW[1]
+;B[pd]BL[30]OB[1]
+;W[qc]WL[30]OW[1]
+;B[fn]BL[30]OB[1]
+;W[fm]WL[30]OW[1]C[Pig [?\]: ma ta partie nejaky postupovy vyznam? :)
+murkhach [6k?\]: škoda že KGS neumí fischera 
+Tristar [?\]: má
+]
+;B[hm]BL[30]OB[1]
+;W[gm]WL[30]OW[1]C[Pig [?\]: hmm, tak to pockame :)
+]
+;B[jr]BL[30]OB[1]C[SIscurge [5d\]: jak hrala plzen?
+]
+;W[js]WL[30]OW[1]
+;B[jq]BL[30]OB[1]C[Lukan [8d\]: kanarek
+Lukan [8d\]: dostala
+SIscurge [5d\]: :(
+]
+;W[ks]WL[30]OW[1]
+;B[jp]BL[30]OB[1]
+;W[is]WL[30]OW[1]
+;B[gs]BL[30]OB[1]
+;W[hr]WL[30]OW[1]C[Pig [?\]: bohuzel WS ma prilis uzky kadr
+]
+;B[bs]BL[30]OB[1]C[Pig [?\]: nebyli schopni celit nasim nahradnikum hraci odpovidajici kvality
+Pig [?\]: :)
+]
+;W[go]WL[30]OW[1]C[tomason [2k\]: když se zaplní A1 tak už to půjde zabít?
+]
+;B[fp]BL[30]OB[1]C[murkhach [6k?\]: no a to nemá WS zásoby rýžového vína  ... ;-) to by mohlo fungovat  jako handicap
+SIscurge [5d\]: d8
+SIscurge [5d\]: beton pome
+]
+;W[dl]WL[30]OW[1]C[SIscurge [5d\]: ♥
+]
+;B[el]BL[30]OB[1]
+;W[em]WL[30]OW[1]
+;B[mh]BL[30]OB[1]
+;W[mg]WL[30]OW[1]
+;B[ib]BL[30]OB[1]
+;W[hb]WL[30]OW[1]
+;B[ar]BL[30]OB[1]
+;W[aq]WL[30]OW[1]
+;B[cj]BL[30]OB[1]
+;W[aj]WL[30]OW[1]
+;B[ai]BL[30]OB[1]
+;W[al]WL[30]OW[1]
+;B[ad]BL[30]OB[1]
+;W[ac]WL[30]OW[1]
+;B[ae]BL[30]OB[1]
+;W[il]WL[30]OW[1]
+;B[hn]BL[30]OB[1]
+;W[pe]WL[30]OW[1]
+;B[oa]BL[30]OB[1]
+;W[qa]WL[30]OW[1]
+;B[ia]BL[30]OB[1]
+;W[gb]WL[30]OW[1]C[SIscurge [5d\]: jsem rad, ze jsem nadraftoval Fida :)
+]
+;B[dr]BL[30]OB[1]
+;W[oe]WL[30]OW[1]C[Lukan [8d\]: ale teda i s nim postup tak tak ^^
+]
+;B[as]BL[30]OB[1]C[Lukan [8d\]: ale pristi rok vas all-star tym, bojim boji
+Lukan [8d\]: m
+Pig [?\]: vy jste draftovali? to je dobry :)
+murkhach [6k?\]: tak h6 bylo tak 2body -
+]
+;W[]WL[30]OW[1]
+;B[]BL[30]OB[1]TW[aa][ba][ca][da][ra][sa][ab][cb][eb][rb][sb][cc][ec][fc][rc][sc][cd][ed][fd][gd][hd][rd][sd][ee][fe][ge][he][ie][qe][re][se][gf][hf][if][jf][kf][of][rf][sf][gg][hg][ig][jg][kg][lg][pg][qg][rg][sg][ih][jh][kh][ph][qh][rh][sh][am][bm][cm][dm][an][bn][ao][ap][or][pr][sr][os][ps][qs][rs][ss]TB[ja][ka][la][ma][kb][lb][nb][kc][lc][mc][bf][ag][cg][ah][bh][ch][di][ej][fj][kk][ok][pk][qk][kl][ml][nl][ol][pl][ql][rl][sl][km][lm][om][pm][qm][rm][sm][jn][ln][mn][on][pn][rn][sn][mo][oo][po][qo][dq][eq][er][ds][es]C[decros [3d\]: gg, díky
+fido [-\]: Díky za hru
+tomason [2k\]: pěkně Fido
+SIscurge [5d\]: (~^^)~~(^^~)
+SIscurge [5d\]: emotivni hra :D
+decros [3d\]: jo? :D
+SIscurge [5d\]: to vis
+SIscurge [5d\]: ten boj dole a pak ten cas.. :D
+])

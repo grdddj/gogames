@@ -1,0 +1,223 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[2700]OT[3x30 byo-yomi]
+PW[Lukan]PB[Kohana]WR[7d]DT[2020-01-08]PC[The KGS Go Server at http://www.gokgs.com/]C[Kohana [?\]: Pěknou partii :)
+Lukan [7d\]: peknou hru:)
+]RE[W+Resign]
+;B[pd]BL[2652.257]C[Kohana [?\]: Adriana Tomšů, 1D - Frýdek-Místek
+Lukan [7d\]: Lukáš Podpěra, 7D - APWS
+]
+;W[dc]WL[2624.481]
+;B[qp]BL[2588.305]
+;W[cq]WL[2576.748]
+;B[np]BL[2579.287]
+;W[qc]WL[2568.88]
+;B[qd]BL[2538.119]
+;W[pc]WL[2562.842]
+;B[nc]BL[2529.901]
+;W[oc]WL[2559.481]
+;B[od]BL[2527.065]
+;W[nb]WL[2554.801]
+;B[mc]BL[2523.886]
+;W[mb]WL[2551.492]
+;B[lc]BL[2516.189]
+;W[pj]WL[2529.054]
+;B[ql]BL[2452.541]
+;W[pg]WL[2488.357]
+;B[ng]BL[2400.569]
+;W[nj]WL[2351.447]
+;B[fq]BL[2334.643]
+;W[do]WL[2321.597]
+;B[cf]BL[2279.922]
+;W[cd]WL[2311.893]
+;B[ci]BL[2276.116]
+;W[lq]WL[2204.432]
+;B[iq]BL[2247.495]
+;W[pp]WL[2192.75]
+;B[pq]BL[2170.593]
+;W[oq]WL[2179.832]
+;B[op]BL[2103.848]
+;W[po]WL[2176.388]
+;B[qq]BL[2075.382]
+;W[nq]WL[2171.94]
+;B[mp]BL[2059.425]
+;W[lp]WL[2167.462]
+;B[nn]BL[2023.83]
+;W[kr]WL[2137.853]C[Comments1 [-\]: W is aiming at q7 and the combi of g3 g2 h2 h3 g4 
+]
+;B[ok]BL[1936.709]
+;W[oj]WL[2132.053]
+;B[cm]BL[1922.269]C[Comments1 [-\]: p9 leaves very bad aji.
+]
+;W[cn]WL[2128.584]
+;B[dm]BL[1919.395]
+;W[fo]WL[2124.082]C[Comments1 [-\]: d3 is probably good now
+]
+;B[fc]BL[1887.992]
+;W[ee]WL[2095.016]C[Comments1 [-\]: f17 is too aggressive and leaves behind too many weaknesses.
+]
+;B[lb]BL[1864.901]
+;W[gd]WL[2086.582]C[Comments1 [-\]: m18 is much too small.
+]
+;B[gc]BL[1777.599]
+;W[hd]WL[2083.916]
+;B[hc]BL[1765.65]
+;W[id]WL[2081.111]C[Comments1 [-\]: W will now strengthen his center position and start attacking j3 group and later run away with q5 
+Comments1 [-\]: e.g. it is not clear to me what B plans to do after W r5.
+]
+;B[jc]BL[1718.603]C[Comments1 [-\]: In addition, o10 group has become much stronger.
+]
+;W[pm]WL[1995.666]
+;B[nl]BL[1648.955]C[Comments1 [-\]: In place of p9 p10, a much better idea would have been p11 p10 p8 
+]
+;W[om]WL[1976.313]C[Comments1 [-\]: B has no move, really.
+Comments1 [-\]: Maybe B should play o7 q9 s6 
+]
+;B[qn]BL[1522.781]
+;W[oo]WL[1959.732]
+;B[nm]BL[1466.485]C[Comments1 [-\]: r6 looks dubious. If r6 at r5, W will probably still play at p5. Next r7 would make nice shape.
+]
+;W[pk]WL[1954.548]
+;B[rk]BL[1444.714]
+;W[nk]WL[1932.691]C[Comments1 [-\]: s9 looks like madness
+luliCU [3k\]: why is it talk so much
+Comments1 [-\]: s9 at r7 takes a liberty that might prove quite vital.
+luliCU [3k\]: can you turn it off
+Comments1 [-\]: Yes, you can.
+luliCU [3k\]: off
+]
+;B[ln]BL[1353.344]C[Comments1 [-\]: m6 looks like the vital point, but B has two weak groups now.
+]
+;W[jo]WL[1907.476]C[luliCU [3k\]: ohp
+Comments1 [-\]: m9 looks about right
+luliCU [3k\]: naughty
+]
+;B[dr]BL[1305.431]
+;W[cr]WL[1903.01]
+;B[dq]BL[1293.751]
+;W[dp]WL[1898.688]C[Comments1 [-\]: Lukan is notorious for not being very good at attacking (in general) but B is too weak everywhere.
+]
+;B[hp]BL[1231.77]
+;W[ho]WL[1894.056]
+;B[jr]BL[1204.65]C[Comments1 [-\]: Even now, I am not sure if B is alive unconditionally.
+Comments1 [-\]: e.g. how should B answer W h2 ?
+Comments1 [-\]: But maybe g4 g3 j4 h3 k3 is good enough
+r0n1n [?\]: first move that comes to my mind is l3 
+]
+;W[km]WL[1811.225]
+;B[ll]BL[1179.206]
+;W[kj]WL[1802.523]C[Comments1 [-\]: L3 for B?
+]
+;B[pr]BL[1166.91]
+;W[mq]WL[1798.691]C[Comments1 [-\]: Yes, that way W gets l4 for free, which weakens B's center group even more
+]
+;B[lj]BL[1139.655]
+;W[li]WL[1794.887]
+;B[kk]BL[1129.415]
+;W[mj]WL[1762.323]C[Comments1 [-\]: n10 m9 k10 looks good enough
+]
+;B[lk]BL[1092.164]
+;W[jj]WL[1759.248]
+;B[jk]BL[1088.07]
+;W[ij]WL[1755.548]
+;B[hl]BL[1071.707]
+;W[gj]WL[1749.005]
+;B[fl]BL[1068.321]
+;W[gp]WL[1744.263]C[Comments1 [-\]: These "good enough" moves are both Lukan's strong and weak points, at the same time.
+]
+;B[gq]BL[1061.479]
+;W[ip]WL[1734.232]
+;B[hq]BL[1058.184]
+;W[jq]WL[1731.32]
+;B[is]BL[1050.394]
+;W[ej]WL[1694.203]
+;B[dk]BL[1046.393]
+;W[dh]WL[1689.149]C[Comments1 [-\]: e.g. if W had played the sequence g4 through k3 earlier with the same result, k10 should have been at k9 
+]
+;B[ch]BL[1043.945]
+;W[dg]WL[1686.317]
+;B[jf]BL[1029.782]C[Comments1 [-\]: k14 is weird
+]
+;W[jd]WL[1672.649]C[Comments1 [-\]: W k16 is sente, so...
+]
+;B[lf]BL[977.306]C[Comments1 [-\]: ouch...
+]
+;W[kg]WL[1662.466]
+;B[kf]BL[973.843]
+;W[ic]WL[1659.849]
+;B[ib]BL[971.647]
+;W[jb]WL[1656.966]
+;B[ja]BL[965.878]
+;W[kc]WL[1654.51]
+;B[kb]BL[960.282]
+;W[ds]WL[1641.906]
+;B[er]BL[955.567]C[Comments1 [-\]: Hmmm, I think this is from B's new program "no point left behind"
+]
+;W[ld]WL[1590.734]
+;B[jc]BL[943.557]
+;W[kd]WL[1588.233]
+;B[me]BL[937.86]
+;W[hg]WL[1533.663]
+;B[rd]BL[934.189]
+;W[rc]WL[1531.543]
+;B[sc]BL[931.554]
+;W[sb]WL[1528.748]
+;B[sd]BL[929.449]
+;W[ra]WL[1526.438]
+;B[qh]BL[920.428]
+;W[ph]WL[1508.348]
+;B[rg]BL[912.543]
+;W[qi]WL[1496.895]
+;B[ri]BL[907.73]
+;W[qg]WL[1494.917]
+;B[rh]BL[904.996]
+;W[qm]WL[1487.265]
+;B[rm]BL[902.417]
+;W[qo]WL[1485.439]
+;B[ro]BL[897.712]
+;W[bn]WL[1476.644]
+;B[bm]BL[895.358]
+;W[am]WL[1474.914]
+;B[al]BL[892.906]
+;W[an]WL[1472.119]
+;B[bk]BL[890.654]
+;W[be]WL[1456.156]
+;B[bf]BL[886.959]
+;W[eb]WL[1431.785]
+;B[ol]BL[882.975]
+;W[pl]WL[1429.009]
+;B[fb]BL[880.392]
+;W[qk]WL[1426.397]
+;B[rl]BL[876.35]
+;W[jg]WL[1423.887]
+;B[if]BL[869.976]
+;W[ig]WL[1420.257]
+;B[ma]BL[867.131]
+;W[ob]WL[1418.211]
+;B[ce]BL[864.353]
+;W[bd]WL[1415.989]
+;B[ec]BL[861.653]
+;W[db]WL[1413.333]
+;B[hf]BL[858.829]
+;W[gf]WL[1411.098]
+;B[qf]BL[840.251]
+;W[af]WL[1395.943]
+;B[bg]BL[837.036]
+;W[or]WL[1391.359]
+;B[pf]BL[832.99]
+;W[lo]WL[1373.476]
+;B[mn]BL[823.059]
+;W[kn]WL[1369.913]
+;B[il]BL[804.893]
+;W[mh]WL[1342.758]
+;B[es]BL[791.046]
+;W[cs]WL[1340.776]
+;B[nh]BL[782.168]
+;W[dj]WL[1333.725]
+;B[cj]BL[779.393]
+;W[mg]WL[1324.488]
+;B[mf]BL[776.522]
+;W[og]WL[1321.119]
+;B[of]BL[774.203]
+;W[ep]WL[1307.015]C[Kohana [?\]: dekujuuuuuuuu
+Lukan [7d\]: diky:)
+])
