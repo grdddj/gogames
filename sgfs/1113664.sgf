@@ -1,0 +1,591 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[European Championship Round 5 Board 3]
+PC[https://online-go.com/review/1113664]
+PB[Thomas Debarre]
+PW[Valerii Krushelnytskyi]
+BR[7d]
+WR[6d]
+OT[Error: time control missing]
+RE[?]
+SZ[19]
+KM[7.5]
+RU[Chinese]
+
+;B[dp]
+;W[pd]
+;B[cd]
+;W[ec]
+;B[qp]
+;W[de]
+;B[ce]
+;W[df]
+;B[bg]
+;W[oq]
+;B[pq]
+;W[op]
+;B[qn]
+;W[fq]
+;B[hq]
+;W[fo]
+;B[cn]
+;W[ip]
+;B[hp]
+;W[ho]
+;B[iq]
+;W[jp]
+;B[jq]
+;W[kp]
+;B[lq]
+;W[lp]
+;B[mq]
+;W[mp]
+;B[go]
+;W[gn]
+;B[gp]
+;W[hn]
+;B[fp]
+;W[qf]
+;B[jc]
+;W[lc]
+;B[gc]
+;W[ge]
+;B[je]
+;W[jg]C[
+
+-- chat --
+awaytoplay: p7 goes a bit against balance
+]
+(;B[om]C[
+
+-- chat --
+awaytoplay: K13 is typical valerii. he always wants to attack, no matter what the situation looks like
+awaytoplay: M15 to pseudo defend the top would have been normal
+]
+;W[kd]
+;B[jd]
+;W[kf]
+;B[hf]
+;W[he]
+;B[if]
+;W[hh]
+;B[gh]C[
+
+-- chat --
+jvandenbusken: you need to consider the ancient j4 joseki choice on the bottom, he needs to make use of that influence now
+]
+;W[gi]C[
+
+-- chat --
+awaytoplay: but you dont use influence by raising 4 walls to surround the center on your own
+awaytoplay: the prize for surrounding the center. From move 0: D4 Q16 C16 E17 R4 D15 C15 D14 B13 P3 Q3 P4 R6 F3 H3 F5 C6 J4 H4 H5 J3 K4 K3 L4 M3 M4 N3 N4 G5 G6 G4 H6 F4 R14 K17 M17 G17 G15 K15 K13 P7 L16 K16 L14 H14 H15 J14 H12 G12 G11 
+awaytoplay: black really wants this
+]
+;B[gg]
+;W[fi]
+;B[eh]
+(;W[fh]
+;B[fg]
+;W[eg]
+;B[dh]C[
+
+-- chat --
+awaytoplay: black probably can afford to die because there are so many cutting points on the outside. From move 0: D4 Q16 C16 E17 R4 D15 C15 D14 B13 P3 Q3 P4 R6 F3 H3 F5 C6 J4 H4 H5 J3 K4 K3 L4 M3 M4 N3 N4 G5 G6 G4 H6 F4 R14 K17 M17 G17 G15 K15 K13 P7 L16 K16 L14 H14 H15 J14 H12 G12 G11 G13 F11 E12 F12 F13 E13 D12 
+awaytoplay: but if white dies then the game is over
+]
+)(;W[of]C[
+
+-- chat --
+tristtan: 1. From move 0: D4 Q16 C16 E17 R4 D15 C15 D14 B13 P3 Q3 P4 R6 F3 H3 F5 C6 J4 H4 H5 J3 K4 K3 L4 M3 M4 N3 N4 G5 G6 G4 H6 F4 R14 K17 M17 G17 G15 K15 K13 P7 L16 K16 L14 H14 H15 J14 H12 G12 G11 G13 F11 E12 P14 
+]
+)(;W[dh]
+;B[ei]C[
+
+-- chat --
+awaytoplay: not many people would allow this shape. From move 0: D4 Q16 C16 E17 R4 D15 C15 D14 B13 P3 Q3 P4 R6 F3 H3 F5 C6 J4 H4 H5 J3 K4 K3 L4 M3 M4 N3 N4 G5 G6 G4 H6 F4 R14 K17 M17 G17 G15 K15 K13 P7 L16 K16 L14 H14 H15 J14 H12 G12 G11 G13 F11 E12 D12 E11 
+ArsenLapin1: saving this position as an example of what shapes not to do, for students
+Animiral: I want to have the thought process that allows one to play p7
+]
+;W[ej]
+;B[di]C[
+
+-- chat --
+Zaphodian: W is weirding B out, I think
+]
+;W[fh]
+;B[fg]
+;W[eg]
+;B[ci]
+;W[hb]
+;B[hc]
+;W[gb]
+;B[ib]
+;W[fc]
+;B[fe]
+;W[ff]
+;B[gf]
+;W[fd]
+;B[ef]
+;W[dg]
+(;B[dc]
+;W[db]
+;B[cb]
+;W[kb]
+;B[kc]
+;W[ld]
+(;B[lb]
+;W[mb]
+;B[gd]
+(;W[eb]
+;B[ha]
+;W[ga]
+;B[ia]
+;W[ca]
+;B[da]
+;W[ea]
+;B[bb]
+;W[ic]
+;B[id]
+;W[jb]
+;B[ba]C[
+
+-- chat --
+awaytoplay: k14 looks like a vital point in the capturing race
+]
+;W[jf]
+;B[dd]
+;W[ee]
+;B[ff]
+;W[ed]
+;B[ch]
+;W[la]
+;B[cf]
+;W[ja]
+;B[ic]
+;W[ig]
+;B[fb]
+;W[fa]
+;B[ie]
+;W[ke]
+;B[cg]
+;W[hg]C[
+
+-- chat --
+Zaphodian: This is going to be a huge semeai that is gonna be decided on one liberty, I think
+Zaphodian: White wins this one.. From move 0: D4 Q16 C16 E17 R4 D15 C15 D14 B13 P3 Q3 P4 R6 F3 H3 F5 C6 J4 H4 H5 J3 K4 K3 L4 M3 M4 N3 N4 G5 G6 G4 H6 F4 R14 K17 M17 G17 G15 K15 K13 P7 L16 K16 L14 H14 H15 J14 H12 G12 G11 G13 F11 E12 D12 E11 E10 D11 F12 F13 E13 C11 H18 H17 G18 J18 F17 F15 F14 G14 F16 E14 D13 D17 D18 C18 L18 L17 M16 M18 N18 G16 E18 H19 G19 J19 C19 D19 E19 B18 J17 J16 K18 B19 K14 D16 E15 F14 E16 C12 M19 C14 K19 J17 J13 F18 F19 J15 L15 C13 H13 
+]
+)(;W[ca]C[
+
+-- chat --
+Zaphodian: So in my two variations W C19 was a key move 
+]
+(;B[eb]
+;W[ea]
+;B[da]
+(;W[ee]
+;B[fb]
+;W[ff]
+;B[ga]
+;W[dd]
+;B[hi]C[
+
+-- chat --
+Zaphodian: compromise. From move 0: D4 Q16 C16 E17 R4 D15 C15 D14 B13 P3 Q3 P4 R6 F3 H3 F5 C6 J4 H4 H5 J3 K4 K3 L4 M3 M4 N3 N4 G5 G6 G4 H6 F4 R14 K17 M17 G17 G15 K15 K13 P7 L16 K16 L14 H14 H15 J14 H12 G12 G11 G13 F11 E12 D12 E11 E10 D11 F12 F13 E13 C11 H18 H17 G18 J18 F17 F15 F14 G14 F16 E14 D13 D17 D18 C18 L18 L17 M16 M18 N18 G16 C19 E18 E19 D19 E15 F18 F14 G19 D16 H11 
+]
+)(;W[hd]
+;B[ic]
+;W[db]
+;B[hi]
+;W[fb]
+;B[hj]
+;W[gk]
+;B[ih]C[
+
+-- chat --
+Zaphodian: another compromise. From move 0: D4 Q16 C16 E17 R4 D15 C15 D14 B13 P3 Q3 P4 R6 F3 H3 F5 C6 J4 H4 H5 J3 K4 K3 L4 M3 M4 N3 N4 G5 G6 G4 H6 F4 R14 K17 M17 G17 G15 K15 K13 P7 L16 K16 L14 H14 H15 J14 H12 G12 G11 G13 F11 E12 D12 E11 E10 D11 F12 F13 E13 C11 H18 H17 G18 J18 F17 F15 F14 G14 F16 E14 D13 D17 D18 C18 L18 L17 M16 M18 N18 G16 C19 E18 E19 D19 H16 J17 D18 H11 F18 H10 G9 J12 
+]
+))(;B[ba]C[
+
+-- chat --
+Zaphodian: I think blocking at B19 looks best
+]
+(;W[ea]
+;B[da]
+;W[ee]
+;B[ff]
+;W[ca]
+;B[fb]
+;W[bb]
+;B[da]
+;W[hd]
+;B[ic]
+;W[ca]
+;B[cc]
+;W[fa]
+;B[ha]
+;W[eb]
+;B[da]C[
+
+-- chat --
+Zaphodian: better prospects for B. From move 0: D4 Q16 C16 E17 R4 D15 C15 D14 B13 P3 Q3 P4 R6 F3 H3 F5 C6 J4 H4 H5 J3 K4 K3 L4 M3 M4 N3 N4 G5 G6 G4 H6 F4 R14 K17 M17 G17 G15 K15 K13 P7 L16 K16 L14 H14 H15 J14 H12 G12 G11 G13 F11 E12 D12 E11 E10 D11 F12 F13 E13 C11 H18 H17 G18 J18 F17 F15 F14 G14 F16 E14 D13 D17 D18 C18 L18 L17 M16 M18 N18 G16 C19 B19 E19 D19 E15 F14 C19 F18 B18 D19 H16 J17 C19 C17 F19 H19 E18 D19 
+]
+)(;W[eb]
+;B[fa]
+;W[ea]
+;B[da]
+;W[ee]
+;B[ff]
+;W[ca]
+;B[ha]
+;W[fb]
+;B[ia]
+;W[ga]
+;B[da]
+;W[jb]
+;B[ca]
+;W[ic]
+;B[id]
+;W[jf]
+;B[dd]
+;W[ed]
+;B[cf]
+;W[la]
+;B[cg]
+;W[ja]
+;B[ic]
+;W[ig]
+;B[ch]C[
+
+-- chat --
+Zaphodian: Black wins. From move 0: D4 Q16 C16 E17 R4 D15 C15 D14 B13 P3 Q3 P4 R6 F3 H3 F5 C6 J4 H4 H5 J3 K4 K3 L4 M3 M4 N3 N4 G5 G6 G4 H6 F4 R14 K17 M17 G17 G15 K15 K13 P7 L16 K16 L14 H14 H15 J14 H12 G12 G11 G13 F11 E12 D12 E11 E10 D11 F12 F13 E13 C11 H18 H17 G18 J18 F17 F15 F14 G14 F16 E14 D13 D17 D18 C18 L18 L17 M16 M18 N18 G16 C19 B19 E18 F19 E19 D19 E15 F14 C19 H19 F18 J19 G19 D19 K18 C19 J17 J16 K14 D16 E16 C14 M19 C13 K19 J17 J13 C12 
+]
+))(;B[ed]C[
+
+-- chat --
+ofer.zivony: Seems like b will win this. From move 0: D4 Q16 C16 E17 R4 D15 C15 D14 B13 P3 Q3 P4 R6 F3 H3 F5 C6 J4 H4 H5 J3 K4 K3 L4 M3 M4 N3 N4 G5 G6 G4 H6 F4 R14 K17 M17 G17 G15 K15 K13 P7 L16 K16 L14 H14 H15 J14 H12 G12 G11 G13 F11 E12 D12 E11 E10 D11 F12 F13 E13 C11 H18 H17 G18 J18 F17 F15 F14 G14 F16 E14 D13 D17 D18 C18 L18 L17 M16 M18 N18 G16 C19 E16 
+ofer.zivony: Oops... Didn't intend to share a variation 
+ofer.zivony: Anyway I tried some variation where w goes for a compromise and lives in the corner in sente (giving up most of the current stones) and se still showed b+20
+Zaphodian: I think E16 was a mistake
+]
+;W[ee]
+;B[ff]
+;W[dd]
+;B[cc]
+;W[bb]
+;B[bc]C[
+
+-- chat --
+Mrrr: sad end for white
+Mrrr: but i have to say i liked his double boshi 
+]
+;W[ic]
+;B[id]
+;W[jb]
+;B[ha]
+(;W[ga]C[
+
+-- chat --
+ofer.zivony: Compromise!
+ofer.zivony: F18 now should be good enough
+ofer.zivony: B was just seeking life. No need to overdo it
+]
+(;B[fb]
+;W[ia]
+;B[eb]
+(;W[ic]
+;B[ed]C[
+
+-- chat --
+ofer.zivony: Compromise.... From move 0: D4 Q16 C16 E17 R4 D15 C15 D14 B13 P3 Q3 P4 R6 F3 H3 F5 C6 J4 H4 H5 J3 K4 K3 L4 M3 M4 N3 N4 G5 G6 G4 H6 F4 R14 K17 M17 G17 G15 K15 K13 P7 L16 K16 L14 H14 H15 J14 H12 G12 G11 G13 F11 E12 D12 E11 E10 D11 F12 F13 E13 C11 H18 H17 G18 J18 F17 F15 F14 G14 F16 E14 D13 D17 D18 C18 L18 L17 M16 M18 N18 G16 C19 E16 E15 F14 D16 C17 B18 B17 J17 J16 K18 H19 G19 F18 J19 E18 J17 E16 
+]
+)(;W[ed]
+;B[da]
+;W[ic]
+;B[hd]
+;W[pk]C[
+
+-- chat --
+Zaphodian: B is ahead by enough to win
+]
+;B[nl]
+;W[nj]
+;B[no]
+;W[np]
+;B[qk]
+;W[qj]
+;B[ql]
+;W[ml]
+;B[mm]
+;W[ll]
+;B[lm]
+;W[km]
+;B[oj]
+;W[oi]
+;B[nk]
+;W[mj]
+;B[fj]
+;W[hj]
+;B[mk]
+;W[lk]
+;B[ii]
+;W[hi]
+;B[pi]
+;W[pj]
+;B[ok]
+;W[ph]
+;B[ni]
+;W[qi]
+;B[lj]
+;W[mi]
+;B[li]
+;W[mh]
+;B[kl]
+;W[kk]
+;B[jl]
+;W[jk]
+;B[ik]
+;W[il]
+;B[jm]
+;W[im]
+;B[jn]
+;W[ij]
+;B[kn]
+;W[in]
+;B[ek]
+;W[cp]
+;B[co]
+;W[dq]
+;B[ep]
+;W[cq]C[
+
+-- chat --
+Zaphodian: B might have just thrown the game
+Zaphodian: *might just have*
+snowman: Winning a won game...
+Zaphodian: No, B was winning by a lot and now it's suddenly even I think
+]
+;B[er]
+;W[eq]
+;B[fr]
+;W[dr]
+;B[gr]
+;W[bo]
+;B[bn]
+;W[ap]
+;B[pr]
+;W[or]C[
+
+-- chat --
+ofer.zivony: :(
+]
+;B[ib]
+;W[kq]
+;B[kr]
+;W[ic]
+;B[gk]
+;W[hk]
+;B[ib]
+;W[po]
+;B[qo]
+;W[ic]
+;B[oh]
+;W[nh]C[
+
+-- chat --
+ofer.zivony: Pretty big ko
+JeansebL: wow, b didn't take back after playing a threat?
+]
+(;B[br]
+(;W[an]
+)(;W[bq]
+;B[an]
+;W[ao]
+;B[ib]
+;W[em]
+;B[dm]
+;W[ic]
+;B[ds]
+;W[cs]
+;B[ib]
+;W[fa]
+;B[db]
+;W[ic]
+;B[es]
+;W[ar]
+;B[ib]
+;W[el]
+;B[dl]
+;W[ic]
+;B[bs]
+;W[cr]
+;B[ib]
+;W[ls]
+;B[lr]
+;W[ic]
+;B[rj]C[
+
+-- chat --
+tonyhalik: what's the time situation?
+]
+;W[ps]
+;B[qs]
+;W[ns]
+;B[ib]
+;W[qr]
+;B[os]
+;W[dk]
+;B[dj]
+;W[ps]
+;B[si]
+;W[rs]
+;B[sg]C[
+
+-- chat --
+EGF3: The time situation will never be revealed. Black (Thomas Debarre) wins by resignation
+Prisme: Yeah Thomas :D 
+au-delà: Yeah gg
+💖 KoBa 💖: ohh gg!
+]
+))(;B[an]C[
+
+-- chat --
+JeansebL: yeah, when b wins it, no need to take D13
+]
+;W[bq]
+)))(;B[ia]
+;W[eb]
+;B[da]
+;W[ea]
+;B[ab]
+;W[jf]
+;B[cf]
+;W[la]
+;B[ch]
+;W[ig]
+;B[cg]
+;W[ed]
+;B[fb]
+;W[fa]
+;B[ba]
+;W[ja]
+;B[ic]
+;W[hg]
+;B[ie]
+;W[ke]C[
+
+-- chat --
+Zaphodian: White wins this . From move 0: D4 Q16 C16 E17 R4 D15 C15 D14 B13 P3 Q3 P4 R6 F3 H3 F5 C6 J4 H4 H5 J3 K4 K3 L4 M3 M4 N3 N4 G5 G6 G4 H6 F4 R14 K17 M17 G17 G15 K15 K13 P7 L16 K16 L14 H14 H15 J14 H12 G12 G11 G13 F11 E12 D12 E11 E10 D11 F12 F13 E13 C11 H18 H17 G18 J18 F17 F15 F14 G14 F16 E14 D13 D17 D18 C18 L18 L17 M16 M18 N18 G16 C19 E16 E15 F14 D16 C17 B18 B17 J17 J16 K18 H19 G19 J19 E18 D19 E19 A18 K14 C14 M19 C12 J13 C13 E16 F18 F19 B19 K19 J17 H13 J15 L15 
+Zaphodian: White wins again. From move 0: D4 Q16 C16 E17 R4 D15 C15 D14 B13 P3 Q3 P4 R6 F3 H3 F5 C6 J4 H4 H5 J3 K4 K3 L4 M3 M4 N3 N4 G5 G6 G4 H6 F4 R14 K17 M17 G17 G15 K15 K13 P7 L16 K16 L14 H14 H15 J14 H12 G12 G11 G13 F11 E12 D12 E11 E10 D11 F12 F13 E13 C11 H18 H17 G18 J18 F17 F15 F14 G14 F16 E14 D13 D17 D18 C18 L18 L17 M16 M18 N18 G16 C19 E16 E15 F14 D16 C17 B18 B17 J17 J16 K18 H19 G19 J19 E18 D19 E19 A18 K14 C14 M19 C12 J13 C13 E16 F18 F19 B19 K19 J17 H13 J15 L15 
+]
+)(;B[ja]
+;W[la]
+;B[fb]
+;W[ia]
+;B[eb]
+;W[ic]
+;B[ed]C[
+
+-- chat --
+Zaphodian: F18 is the only possibility now
+]
+))(;W[fb]
+;B[ea]
+;W[da]
+;B[ab]
+;W[la]
+;B[ba]
+;W[eb]
+(;B[ga]
+;W[fa]
+;B[ia]
+;W[ja]
+;B[ic]
+;W[jf]
+;B[cf]
+;W[ig]
+;B[cg]
+;W[hg]
+;B[ie]
+;W[ke]C[
+
+-- chat --
+eranbear: Zophodian if black waits with B19 to the end of the variation doesn't he win the race?
+]
+;B[hd]
+;W[ge]C[
+
+-- chat --
+Zaphodian: White wins this way. From move 0: D4 Q16 C16 E17 R4 D15 C15 D14 B13 P3 Q3 P4 R6 F3 H3 F5 C6 J4 H4 H5 J3 K4 K3 L4 M3 M4 N3 N4 G5 G6 G4 H6 F4 R14 K17 M17 G17 G15 K15 K13 P7 L16 K16 L14 H14 H15 J14 H12 G12 G11 G13 F11 E12 D12 E11 E10 D11 F12 F13 E13 C11 H18 H17 G18 J18 F17 F15 F14 G14 F16 E14 D13 D17 D18 C18 L18 L17 M16 M18 N18 G16 C19 E16 E15 F14 D16 C17 B18 B17 J17 J16 K18 H19 F18 E19 D19 A18 M19 B19 E18 G19 F19 J19 K19 J17 K14 C14 J13 C13 H13 J15 L15 H16 G15 
+]
+)(;B[jf]
+;W[ga]
+;B[ia]
+;W[ja]
+;B[ic]
+;W[ig]
+;B[ch]
+;W[ke]
+;B[cg]
+;W[hg]
+;B[cf]C[
+
+-- chat --
+ofer.zivony: G19 was wrong in your variation, I think. From move 0: D4 Q16 C16 E17 R4 D15 C15 D14 B13 P3 Q3 P4 R6 F3 H3 F5 C6 J4 H4 H5 J3 K4 K3 L4 M3 M4 N3 N4 G5 G6 G4 H6 F4 R14 K17 M17 G17 G15 K15 K13 P7 L16 K16 L14 H14 H15 J14 H12 G12 G11 G13 F11 E12 D12 E11 E10 D11 F12 F13 E13 C11 H18 H17 G18 J18 F17 F15 F14 G14 F16 E14 D13 D17 D18 C18 L18 L17 M16 M18 N18 G16 C19 E16 E15 F14 D16 C17 B18 B17 J17 J16 K18 H19 F18 E19 D19 A18 M19 B19 E18 K14 G19 J19 K19 J17 J13 C12 L15 C13 H13 C14 
+]
+)))))(;B[gd]
+;W[ee]
+;B[ff]
+;W[eb]
+;B[jb]
+;W[hd]
+;B[ic]
+;W[lb]
+;B[fa]
+;W[jf]
+;B[ed]
+;W[dd]
+;B[cc]
+;W[ga]
+;B[ia]
+;W[ig]
+;B[da]
+;W[ea]
+;B[ca]
+;W[ka]
+;B[cf]
+;W[hg]
+;B[ie]
+;W[ke]
+;B[ch]
+;W[fb]
+;B[cg]
+;W[ed]C[
+
+-- chat --
+Zaphodian: Black wins this one by 2 moves.. From move 0: D4 Q16 C16 E17 R4 D15 C15 D14 B13 P3 Q3 P4 R6 F3 H3 F5 C6 J4 H4 H5 J3 K4 K3 L4 M3 M4 N3 N4 G5 G6 G4 H6 F4 R14 K17 M17 G17 G15 K15 K13 P7 L16 K16 L14 H14 H15 J14 H12 G12 G11 G13 F11 E12 D12 E11 E10 D11 F12 F13 E13 C11 H18 H17 G18 J18 F17 F15 F14 G14 F16 E14 D13 D17 D18 C18 L18 L17 M16 G16 E15 F14 E18 K18 H16 J17 M18 F19 K14 E16 D16 C17 G19 J19 J13 D19 E19 C19 L19 C14 H13 J15 L15 C12 F18 C13 E16 
+]
+))(;B[db]
+;W[ee]
+;B[ff]
+;W[dc]
+;B[cc]
+;W[eb]
+;B[dd]
+;W[cb]
+;B[ed]
+;W[ok]
+;B[bb]
+;W[da]
+;B[hi]C[
+
+-- chat --
+Hokutose: 2. From move 0: D4 Q16 C16 E17 R4 D15 C15 D14 B13 P3 Q3 P4 R6 F3 H3 F5 C6 J4 H4 H5 J3 K4 K3 L4 M3 M4 N3 N4 G5 G6 G4 H6 F4 R14 K17 M17 G17 G15 K15 K13 P7 L16 K16 L14 H14 H15 J14 H12 G12 G11 G13 F11 E12 D12 E11 E10 D11 F12 F13 E13 C11 H18 H17 G18 J18 F17 F15 F14 G14 F16 E14 D13 D18 E15 F14 D17 C17 E18 D16 C18 E16 P9 B18 D19 H11 
+]
+)))(;B[nb]C[
+
+-- chat --
+awaytoplay: at this top formation, as soon as white puts pressure on the group black usually invades immediately. From move 0: D4 Q16 C16 E17 R4 D15 C15 D14 B13 P3 Q3 P4 R6 F3 H3 F5 C6 J4 H4 H5 J3 K4 K3 L4 M3 M4 N3 N4 G5 G6 G4 H6 F4 R14 K17 M17 G17 G15 K15 K13 O18 
+awaytoplay: and white has to choose between going all in or letting black live
+]
+))

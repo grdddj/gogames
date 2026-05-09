@@ -1,0 +1,1982 @@
+{
+  "summary": {
+    "ogs_id_match": 0,
+    "ogs_known": 43,
+    "content_match": 0,
+    "fuzzy_match": 14,
+    "unique": 197,
+    "empty": 0
+  },
+  "unique": [
+    {
+      "folder": "ProQual2014",
+      "fname": "Blomback-Burzo.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2014/Blomback-Burzo.sgf",
+      "pb": "Fredrik Blomback",
+      "pw": "Cornel Burzo",
+      "dt": "2014-05-23",
+      "gn": "",
+      "moves": 306
+    },
+    {
+      "folder": "ProQual2014",
+      "fname": "Burzo-Lisy.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2014/Burzo-Lisy.sgf",
+      "pb": "Lisy",
+      "pw": "Burzo",
+      "dt": "",
+      "gn": "",
+      "moves": 326
+    },
+    {
+      "folder": "ProQual2014",
+      "fname": "Debarre-Lisy.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2014/Debarre-Lisy.sgf",
+      "pb": "Pavol Lisy  1DP",
+      "pw": "Thomas Debarre  1DP",
+      "dt": "20140529 [12\\:18\\]",
+      "gn": "",
+      "moves": 197
+    },
+    {
+      "folder": "ProQual2014",
+      "fname": "Debarre-Pop.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2014/Debarre-Pop.sgf",
+      "pb": "Thomas Debarre",
+      "pw": "Cristian Pop",
+      "dt": "2014-05-23",
+      "gn": "",
+      "moves": 235
+    },
+    {
+      "folder": "ProQual2014",
+      "fname": "Hora-Surma.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2014/Hora-Surma.sgf",
+      "pb": "Surma Mateusz",
+      "pw": "Hora Jan",
+      "dt": "",
+      "gn": "",
+      "moves": 155
+    },
+    {
+      "folder": "ProQual2014",
+      "fname": "Jabarin-Blomback.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2014/Jabarin-Blomback.sgf",
+      "pb": "Blomback Fredrik",
+      "pw": "Jabarin Ali",
+      "dt": "",
+      "gn": "",
+      "moves": 230
+    },
+    {
+      "folder": "ProQual2014",
+      "fname": "Kuronen-Burzo.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2014/Kuronen-Burzo.sgf",
+      "pb": "Cornel Burzo",
+      "pw": "Juri Kuronen",
+      "dt": "",
+      "gn": "",
+      "moves": 170
+    },
+    {
+      "folder": "ProQual2014",
+      "fname": "Lisy-Simara.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2014/Lisy-Simara.sgf",
+      "pb": "Pavol Lisý",
+      "pw": "Jan Šimara",
+      "dt": "2014-05-23",
+      "gn": "",
+      "moves": 199
+    },
+    {
+      "folder": "ProQual2014",
+      "fname": "Lisy-Teuber.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2014/Lisy-Teuber.sgf",
+      "pb": "Benjamin Teuber",
+      "pw": "Pavol Lisy",
+      "dt": "",
+      "gn": "",
+      "moves": 174
+    },
+    {
+      "folder": "ProQual2014",
+      "fname": "Mero-Mitic.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2014/Mero-Mitic.sgf",
+      "pb": "Dusan Mitic",
+      "pw": "Csaba Mero",
+      "dt": "",
+      "gn": "",
+      "moves": 152
+    },
+    {
+      "folder": "ProQual2014",
+      "fname": "Mero-Podpera.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2014/Mero-Podpera.sgf",
+      "pb": "Lukas Podpera",
+      "pw": "Csaba Mero",
+      "dt": "",
+      "gn": "",
+      "moves": 231
+    },
+    {
+      "folder": "ProQual2014",
+      "fname": "Podpera-Debarre.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2014/Podpera-Debarre.sgf",
+      "pb": "Thomas Debarre",
+      "pw": "Lukas Podpera",
+      "dt": "",
+      "gn": "",
+      "moves": 273
+    },
+    {
+      "folder": "ProQual2014",
+      "fname": "Podpera-Pop.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2014/Podpera-Pop.sgf",
+      "pb": "Lukas Podpera",
+      "pw": "Cristian Pop",
+      "dt": "",
+      "gn": "",
+      "moves": 297
+    },
+    {
+      "folder": "ProQual2014",
+      "fname": "Pop-Sankin.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2014/Pop-Sankin.sgf",
+      "pb": "Sankin Timur ",
+      "pw": "Pop Christian",
+      "dt": "",
+      "gn": "",
+      "moves": 185
+    },
+    {
+      "folder": "ProQual2014",
+      "fname": "Surma-Burzo.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2014/Surma-Burzo.sgf",
+      "pb": "Cornel Burzo",
+      "pw": "Mateusz Surma",
+      "dt": "20140529 [12\\:29\\]",
+      "gn": "",
+      "moves": 137
+    },
+    {
+      "folder": "ProQual2014",
+      "fname": "Surma-Mero.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2014/Surma-Mero.sgf",
+      "pb": "Mateusz Surma",
+      "pw": "Csaba Mérő",
+      "dt": "2014-05-23",
+      "gn": "",
+      "moves": 197
+    },
+    {
+      "folder": "ProQual2014",
+      "fname": "Teuber-Surma.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2014/Teuber-Surma.sgf",
+      "pb": "Mateusz Surma",
+      "pw": "Benjamin Teuber",
+      "dt": "20140529 [17\\:14\\]",
+      "gn": "",
+      "moves": 191
+    },
+    {
+      "folder": "ProQual2015",
+      "fname": "Andrii_Kravets_vs_Ilya_Shikshin_round5_egfproquali_2015.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2015/Andrii_Kravets_vs_Ilya_Shikshin_round5_egfproquali_2015.sgf",
+      "pb": "Ilya Shikshin",
+      "pw": "Andrii Kravets",
+      "dt": "2015-03-08",
+      "gn": "Andrii Kravets - Ilya Shikshin",
+      "moves": 179
+    },
+    {
+      "folder": "ProQual2015",
+      "fname": "Artem_Kachanovskyi_vs_Cornel_Burzo_round4_egfproquali_2015.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2015/Artem_Kachanovskyi_vs_Cornel_Burzo_round4_egfproquali_2015.sgf",
+      "pb": "Cornel Burzo 6d",
+      "pw": "Artem Kachanovskyi 7d",
+      "dt": "2015-03-07",
+      "gn": "Burzo - Kachanovskyi",
+      "moves": 263
+    },
+    {
+      "folder": "ProQual2015",
+      "fname": "Artem_Kachanovskyi_vs_Ilya_Shikshin_round3_egfproquali_2015.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2015/Artem_Kachanovskyi_vs_Ilya_Shikshin_round3_egfproquali_2015.sgf",
+      "pb": "Ilya Shikshin",
+      "pw": "Artem Kachanovskyi",
+      "dt": "2015-03-07",
+      "gn": "Semifinal - board 1",
+      "moves": 269
+    },
+    {
+      "folder": "ProQual2015",
+      "fname": "CornelBurzo6d(W)vsOndrejSilt6d(B).sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2015/CornelBurzo6d(W)vsOndrejSilt6d(B).sgf",
+      "pb": "Ondrej Silt",
+      "pw": "Cornel Burzo",
+      "dt": "",
+      "gn": "",
+      "moves": 226
+    },
+    {
+      "folder": "ProQual2015",
+      "fname": "CornelBurzo6d(W)vsSankinTimur6d(B).sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2015/CornelBurzo6d(W)vsSankinTimur6d(B).sgf",
+      "pb": "Sankin Timur",
+      "pw": "Cornel Burzo",
+      "dt": "",
+      "gn": "",
+      "moves": 166
+    },
+    {
+      "folder": "ProQual2015",
+      "fname": "Cornel_Burzo_vs_Thomas_Debarre_round5_egfproquali_2015.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2015/Cornel_Burzo_vs_Thomas_Debarre_round5_egfproquali_2015.sgf",
+      "pb": "Thomas Debarre",
+      "pw": "Cornel Burzo",
+      "dt": "2015-03-08",
+      "gn": "Cornel Burzo - Thomas Debarre",
+      "moves": 310
+    },
+    {
+      "folder": "ProQual2015",
+      "fname": "Cristian_Pop_vs_Andrii_Kravets_round2_egfproquali_2015.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2015/Cristian_Pop_vs_Andrii_Kravets_round2_egfproquali_2015.sgf",
+      "pb": "Andrii Kravets",
+      "pw": "Cristian Pop",
+      "dt": "2015-03-06",
+      "gn": "",
+      "moves": 258
+    },
+    {
+      "folder": "ProQual2015",
+      "fname": "Dusan_Mitic_vs_Artem_Kachanovskyj_round1_egfproquali_2015.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2015/Dusan_Mitic_vs_Artem_Kachanovskyj_round1_egfproquali_2015.sgf",
+      "pb": "Artem Kachanovskyj",
+      "pw": "Dusan Mitic",
+      "dt": "2015-03-06",
+      "gn": "",
+      "moves": 237
+    },
+    {
+      "folder": "ProQual2015",
+      "fname": "Ilya_Shikshin_vs_Cornel_Burzo_round6_2nd_final_egfproquali_2015.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2015/Ilya_Shikshin_vs_Cornel_Burzo_round6_2nd_final_egfproquali_2015.sgf",
+      "pb": "Cornel Burzo",
+      "pw": "Ilya Shikshin",
+      "dt": "2015-03-08",
+      "gn": "Ilya Shikshin vs Cornel Burzo",
+      "moves": 253
+    },
+    {
+      "folder": "ProQual2015",
+      "fname": "Mateusz_Surma_vs_Cristian_Pop_round3_egfproquali_2015.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2015/Mateusz_Surma_vs_Cristian_Pop_round3_egfproquali_2015.sgf",
+      "pb": "Cristian Pop",
+      "pw": "Mateusz Surma",
+      "dt": "2015-03-07",
+      "gn": "Mateusz Surma - Cristian Pop",
+      "moves": 232
+    },
+    {
+      "folder": "ProQual2015",
+      "fname": "Mateusz_Surma_vs_Ilya_Shikshin_round4_1st_final_egfproquali_2015.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2015/Mateusz_Surma_vs_Ilya_Shikshin_round4_1st_final_egfproquali_2015.sgf",
+      "pb": "Ilya Shikshin",
+      "pw": "Mateusz Surma",
+      "dt": "2015-03-07",
+      "gn": "Mateusz Surma - Ilya Shikshin",
+      "moves": 296
+    },
+    {
+      "folder": "ProQual2015",
+      "fname": "Ondrej_Silt_vs_Ilya_Shikshin_round2_egfproquali_2015.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2015/Ondrej_Silt_vs_Ilya_Shikshin_round2_egfproquali_2015.sgf",
+      "pb": "Ilya Shikshin",
+      "pw": "Ondrej Silt",
+      "dt": "2015-03-06",
+      "gn": "",
+      "moves": 183
+    },
+    {
+      "folder": "ProQual2015",
+      "fname": "Ondrej_Silt_vs_Thomas_Debarre_round1_egfproquali_2015.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2015/Ondrej_Silt_vs_Thomas_Debarre_round1_egfproquali_2015.sgf",
+      "pb": "Thomas Debarre",
+      "pw": "Ondrej Silt",
+      "dt": "2015-03-06",
+      "gn": "",
+      "moves": 112
+    },
+    {
+      "folder": "ProQual2016",
+      "fname": "Andrii_Kravets_vs_Artem_Kachanovskyi.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2016/Andrii_Kravets_vs_Artem_Kachanovskyi.sgf",
+      "pb": "Artem Kachanovskyi",
+      "pw": "Andrii Kravets",
+      "dt": "2016-03-06",
+      "gn": "EGF Pro Final: Artem Kachanovskyi (B) vs Andrii Kravets (W)",
+      "moves": 289
+    },
+    {
+      "folder": "ProQual2016",
+      "fname": "Andrii_Kravets_vs_Ben_Dran-Gunazia.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2016/Andrii_Kravets_vs_Ben_Dran-Gunazia.sgf",
+      "pb": "Ben Dréan-Guénaïzia",
+      "pw": "Andrii Kravets",
+      "dt": "2016-03-06",
+      "gn": "Andrii Kravets (w) vs Ben Dréan-Guénaïzia (b)",
+      "moves": 188
+    },
+    {
+      "folder": "ProQual2016",
+      "fname": "Andrii_Kravets_vs_Thomas_Debarre.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2016/Andrii_Kravets_vs_Thomas_Debarre.sgf",
+      "pb": "Thomas Debarre",
+      "pw": "Andrii Kravets",
+      "dt": "2016-03-05",
+      "gn": "Andrii Kravets vs Thomas Debarre",
+      "moves": 291
+    },
+    {
+      "folder": "ProQual2016",
+      "fname": "Artem_Kachanovskyi_vs_Tanguy_Le_Calv.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2016/Artem_Kachanovskyi_vs_Tanguy_Le_Calv.sgf",
+      "pb": "Tanguy Le Calvé",
+      "pw": "Artem Kachanovskyi",
+      "dt": "2016-03-05",
+      "gn": "Artem Kachanovskyi (w) vs Tanguy Le Calvé (b)",
+      "moves": 300
+    },
+    {
+      "folder": "ProQual2016",
+      "fname": "Ben_Dran-Gunazia_vs_Csaba_Mero.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2016/Ben_Dran-Gunazia_vs_Csaba_Mero.sgf",
+      "pb": "Csaba Mero",
+      "pw": "Ben Dréan-Guénaïzia",
+      "dt": "2016-03-04",
+      "gn": "EGF Pro Quali: Ben Dréan-Guénaïzia (white) vs Csaba Mero (black)",
+      "moves": 271
+    },
+    {
+      "folder": "ProQual2016",
+      "fname": "Benjamin_Drean-Guenaizia_vs_Andrij_Kravec.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2016/Benjamin_Drean-Guenaizia_vs_Andrij_Kravec.sgf",
+      "pb": "Andrij Kravec",
+      "pw": "Benjamin Drean-Guenaizia",
+      "dt": "",
+      "gn": "",
+      "moves": 206
+    },
+    {
+      "folder": "ProQual2016",
+      "fname": "Cornel_Burzo_vs_Artem_Kachanovskyi.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2016/Cornel_Burzo_vs_Artem_Kachanovskyi.sgf",
+      "pb": "Artem Kachanovskyi",
+      "pw": "Cornel Burzo",
+      "dt": "2016-03-06",
+      "gn": "Cornel Burzo (W) vs Artem Kachanovskyi (B)",
+      "moves": 195
+    },
+    {
+      "folder": "ProQual2016",
+      "fname": "Cornel_Burzo_vs_Luk_Podpera.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2016/Cornel_Burzo_vs_Luk_Podpera.sgf",
+      "pb": "Lukáš Podpera",
+      "pw": "Cornel Burzo",
+      "dt": "2016-03-04",
+      "gn": "Cornel Burzo vs Lukáš Podpera",
+      "moves": 281
+    },
+    {
+      "folder": "ProQual2016",
+      "fname": "Dmitrij_Surin_vs_Andrii_Kravets.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2016/Dmitrij_Surin_vs_Andrii_Kravets.sgf",
+      "pb": "Andrii Kravets",
+      "pw": "Dmitrij Surin",
+      "dt": "2016-03-05",
+      "gn": "Dmitrij Surin vs Andrii Kravets",
+      "moves": 252
+    },
+    {
+      "folder": "ProQual2016",
+      "fname": "Grigorij_Fionin_vs_Cornel_Burzo.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2016/Grigorij_Fionin_vs_Cornel_Burzo.sgf",
+      "pb": "Cornel Burzo",
+      "pw": "Grigorij Fionin",
+      "dt": "2016-03-05",
+      "gn": "Grigorij Fionin(w) vs Cornel Burzo(b)",
+      "moves": 276
+    },
+    {
+      "folder": "ProQual2016",
+      "fname": "Jan_Hora_vs_Thomas_Debarre.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2016/Jan_Hora_vs_Thomas_Debarre.sgf",
+      "pb": "Thomas Debarre",
+      "pw": "Jan Hora",
+      "dt": "2016-03-04",
+      "gn": "EGF Pro Qualification Game 2 White: Jan Hora 6d; Black: Thomas Debarre 6d",
+      "moves": 337
+    },
+    {
+      "folder": "ProQual2016",
+      "fname": "Juri_Kuronen_vs_Tanguy_Le_Calv.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2016/Juri_Kuronen_vs_Tanguy_Le_Calv.sgf",
+      "pb": "Tanguy Le Calvé",
+      "pw": "Juri Kuronen",
+      "dt": "2016-03-05",
+      "gn": "Juri Kuronen vs Tanguy Le Calvé",
+      "moves": 161
+    },
+    {
+      "folder": "ProQual2016",
+      "fname": "Lukas_Krmer_vs_Cornel_Burzo.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2016/Lukas_Krmer_vs_Cornel_Burzo.sgf",
+      "pb": "Cornel Burzo",
+      "pw": "Lukas Krämer",
+      "dt": "2016-03-04",
+      "gn": "EGF Pro Qualification Board 1 - Lukas Krämer vs Cornel Burzo",
+      "moves": 261
+    },
+    {
+      "folder": "ProQual2016",
+      "fname": "Lukas_Podpera_vs_Viktor_Lin.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2016/Lukas_Podpera_vs_Viktor_Lin.sgf",
+      "pb": "Viktor Lin",
+      "pw": "Lukas Podpera",
+      "dt": "2016-03-05",
+      "gn": "EGF Pro Quali: Viktor Lin 6d (B) vs. Lukas Podpera (W)",
+      "moves": 283
+    },
+    {
+      "folder": "ProQual2016",
+      "fname": "Thomas_Debarre_vs_Juri_Kuronen.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2016/Thomas_Debarre_vs_Juri_Kuronen.sgf",
+      "pb": "Juri Kuronen",
+      "pw": "Thomas Debarre",
+      "dt": "2016-03-04",
+      "gn": "EGF Pro Qualification round 2; White: Thomas Debarre; Black: Juri Kuronen",
+      "moves": 178
+    },
+    {
+      "folder": "ProQual2016",
+      "fname": "Viktor_Lin_vs_Ben_Dran-Gunazia.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2016/Viktor_Lin_vs_Ben_Dran-Gunazia.sgf",
+      "pb": "Ben Dréan-Guénaïzia",
+      "pw": "Viktor Lin",
+      "dt": "2016-03-05",
+      "gn": "Viktor Lin (W) vs Ben Dréan-Guénaïzia (B)",
+      "moves": 245
+    },
+    {
+      "folder": "ProQual2016",
+      "fname": "Zhao_Pei_vs_Artem_Kachanovsky.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2016/Zhao_Pei_vs_Artem_Kachanovsky.sgf",
+      "pb": "Artem Kachanovsky",
+      "pw": "Zhao Pei",
+      "dt": "2016-03-04",
+      "gn": "EGF Pro Quali Zhao Pei vs Artem Kachanovsky",
+      "moves": 270
+    },
+    {
+      "folder": "ProQual2017",
+      "fname": "Andrii_Kravets_vs_Csaba_Mero.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2017/Andrii_Kravets_vs_Csaba_Mero.sgf",
+      "pb": "Csaba Mero",
+      "pw": "Andrii Kravets",
+      "dt": "2017-06-16",
+      "gn": "EGF Pro Qualification round 2, Csaba Mero vs. Andrii Kravets",
+      "moves": 195
+    },
+    {
+      "folder": "ProQual2017",
+      "fname": "Andrii_Kravets_vs_Jonas_Welticke.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2017/Andrii_Kravets_vs_Jonas_Welticke.sgf",
+      "pb": "Jonas Welticke",
+      "pw": "Andrii Kravets",
+      "dt": "2017-07-14",
+      "gn": "EGF pro semifinal Andrii Kravets (w) vs. Jonas Welticke (b)",
+      "moves": 270
+    },
+    {
+      "folder": "ProQual2017",
+      "fname": "Benjamin_Drean-Guenaizia_vs_Andrii_Kravets.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2017/Benjamin_Drean-Guenaizia_vs_Andrii_Kravets.sgf",
+      "pb": "Andrii Kravets",
+      "pw": "Benjamin Drean-Guenaizia",
+      "dt": "2017-06-16",
+      "gn": "EGF Pro Qualification 2017 Vienna Round 3, Kravets 6d (B) vs Drean-Guenaizia 6d (W)",
+      "moves": 266
+    },
+    {
+      "folder": "ProQual2017",
+      "fname": "Benjamin_Teuber_vs_Cristian_Pop.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2017/Benjamin_Teuber_vs_Cristian_Pop.sgf",
+      "pb": "Cristian Pop",
+      "pw": "Benjamin Teuber",
+      "dt": "2017-06-15",
+      "gn": "European Pro Qualification 2017 Vienna Round 1: Cristian Pop (B) vs. Benjamin Teuber (W)",
+      "moves": 270
+    },
+    {
+      "folder": "ProQual2017",
+      "fname": "Burzo_Cornel_vs_Frejlak_Stanislaw.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2017/Burzo_Cornel_vs_Frejlak_Stanislaw.sgf",
+      "pb": "Frejlak Stanislaw",
+      "pw": "Burzo Cornel",
+      "dt": "2017-06-15",
+      "gn": "European Pro Qualification 2017 Vienna Round 1: Stanislaw Frejlak (B) vs Cornel Burzo (W)",
+      "moves": 198
+    },
+    {
+      "folder": "ProQual2017",
+      "fname": "Cornel_Burzo_vs_Andrii_Kravets.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2017/Cornel_Burzo_vs_Andrii_Kravets.sgf",
+      "pb": "Andrii Kravets",
+      "pw": "Cornel Burzo",
+      "dt": "2017-07-13",
+      "gn": "EGF pro qualification quarterfinals Kravets 7d vs Burzo 6d",
+      "moves": 271
+    },
+    {
+      "folder": "ProQual2017",
+      "fname": "Jonas_Welticke_vs_Stanislaw_Frejlak.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2017/Jonas_Welticke_vs_Stanislaw_Frejlak.sgf",
+      "pb": "Stanislaw Frejlak",
+      "pw": "Jonas Welticke",
+      "dt": "2017-06-16",
+      "gn": "EGF Pro Qualification Vienna 2017 round 3, Jonas Welticke vs. Stanislaw Frejlak",
+      "moves": 200
+    },
+    {
+      "folder": "ProQual2017",
+      "fname": "Lukas_Kramer_vs_Csaba_Mero.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2017/Lukas_Kramer_vs_Csaba_Mero.sgf",
+      "pb": "Csaba Mero",
+      "pw": "Lukas Kramer",
+      "dt": "2017-06-15",
+      "gn": "European Pro Qualification 2017 Vienna Round 1: Csaba Mero (black) vs. Lukas Kramer (white)",
+      "moves": 267
+    },
+    {
+      "folder": "ProQual2017",
+      "fname": "Lukas_Podpera_vs_Jonas_Welticke.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2017/Lukas_Podpera_vs_Jonas_Welticke.sgf",
+      "pb": "Jonas Welticke",
+      "pw": "Lukas Podpera",
+      "dt": "2017-07-13",
+      "gn": "European Pro Qualification Jonas Welticke (b) vs. Lukas Podpera (w)",
+      "moves": 257
+    },
+    {
+      "folder": "ProQual2017",
+      "fname": "Lukas_Podpera_vs_Tanguy_Le_Calv.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2017/Lukas_Podpera_vs_Tanguy_Le_Calv.sgf",
+      "pb": "Tanguy Le Calv�",
+      "pw": "Lukas Podpera",
+      "dt": "2017-06-16",
+      "gn": "European Pro Qualification 2017 Vienna round 2, Lukas Podpera (white) vs. Tanguy Le Calv� (black)",
+      "moves": 253
+    },
+    {
+      "folder": "ProQual2017",
+      "fname": "Oscar_Vazquez_Spain_vs_Rob_van_Zeijst_the_Netherlands.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2017/Oscar_Vazquez_Spain_vs_Rob_van_Zeijst_the_Netherlands.sgf",
+      "pb": "Rob van Zeijst, the Netherlands",
+      "pw": "Oscar Vazquez, Spain",
+      "dt": "",
+      "gn": "EGF Pro Q: Vazquez(W)-van Zeijst(B)",
+      "moves": 318
+    },
+    {
+      "folder": "ProQual2017",
+      "fname": "Tanguy_le_Calve_vs_Oscar_Vazquez.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2017/Tanguy_le_Calve_vs_Oscar_Vazquez.sgf",
+      "pb": "Oscar Vazquez",
+      "pw": "Tanguy le Calve",
+      "dt": "2017-06-16",
+      "gn": "EGF Pro Qualification round 3, Oscar Vazquez (B) vs. Tanguy le Calve (W)",
+      "moves": 247
+    },
+    {
+      "folder": "ProQual2017",
+      "fname": "Viktor_Lin_vs_Andrii_Kravets.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2017/Viktor_Lin_vs_Andrii_Kravets.sgf",
+      "pb": "Andrii Kravets",
+      "pw": "Viktor Lin",
+      "dt": "2017-07-14",
+      "gn": "EGF pro final Viktor Lin (w) vs. Andrii Kravets (b)",
+      "moves": 165
+    },
+    {
+      "folder": "ProQual2017",
+      "fname": "Viktor_Lin_vs_Csaba_Mero.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2017/Viktor_Lin_vs_Csaba_Mero.sgf",
+      "pb": "Csaba Mero",
+      "pw": "Viktor Lin",
+      "dt": "2017-07-13",
+      "gn": "EGF Pro qualification quarterfinal Csaba Mero vs. Viktor Lin",
+      "moves": 311
+    },
+    {
+      "folder": "ProQual2017",
+      "fname": "Viktor_Lin_vs_Rob_van_Zeijst.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2017/Viktor_Lin_vs_Rob_van_Zeijst.sgf",
+      "pb": "Rob van Zeijst",
+      "pw": "Viktor Lin",
+      "dt": "2017-07-14",
+      "gn": "EGF Pro qualification semifinal Rob van Zeijst vs. Viktor Lin",
+      "moves": 246
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Chernykh_Anton_vs_Djepov_Sinan.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Chernykh_Anton_vs_Djepov_Sinan.sgf",
+      "pb": "Djepov Sinan",
+      "pw": "Chernykh Anton",
+      "dt": "",
+      "gn": "",
+      "moves": 188
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Cornel_Burzo_vs_Rob_van_Zeijst.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Cornel_Burzo_vs_Rob_van_Zeijst.sgf",
+      "pb": " Rob van Zeijst",
+      "pw": "Cornel Burzo",
+      "dt": "2019-05-17",
+      "gn": "5th EGF Pro Qualification 2019 R2 -- Cornel Burzo 7d (W) - Rob van Zeijst 7d (B)",
+      "moves": 262
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Cornel_Burzo_vs_Schayan_Hamrah.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Cornel_Burzo_vs_Schayan_Hamrah.sgf",
+      "pb": "Schayan Hamrah",
+      "pw": "Cornel Burzo",
+      "dt": "",
+      "gn": "",
+      "moves": 337
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Dominik_Boviz_vs_Anton_Chernykh.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Dominik_Boviz_vs_Anton_Chernykh.sgf",
+      "pb": "Anton Chernykh",
+      "pw": "Dominik Boviz",
+      "dt": "2019-05-17",
+      "gn": "EGF Pro Quali round 3 Dominik Boviz (w) vs Anton Chernykh (b)",
+      "moves": 304
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Dominik_Boviz_vs_Cornel_Burzo.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Dominik_Boviz_vs_Cornel_Burzo.sgf",
+      "pb": "Cornel Burzo",
+      "pw": "Dominik Boviz",
+      "dt": "2019-05-18",
+      "gn": "5th EGF Pro Qualification 2019 - R4 -- Cornel Burzo 7d (B) - Dominik Boviz 6d (W)",
+      "moves": 290
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Dominik_Boviz_vs_Jonas_Welticke.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Dominik_Boviz_vs_Jonas_Welticke.sgf",
+      "pb": "Jonas Welticke",
+      "pw": "Dominik Boviz",
+      "dt": "2019-05-16",
+      "gn": "EGF Pro Qualification Dominik Boviz (w) vs Jonas Welticke (b)",
+      "moves": 180
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Dominik_Boviz_vs_Tanguy_Le_Calv.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Dominik_Boviz_vs_Tanguy_Le_Calv.sgf",
+      "pb": "Tanguy Le Calvé",
+      "pw": "Dominik Boviz",
+      "dt": "2019-05-18",
+      "gn": "5th EGF Pro Qualification 2019 Semifinals -- Dominik Boviz 6d (W) - Tanguy Le Calvé 6d (B)",
+      "moves": 282
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Jonas_WELTICKE_vs_Amir_FRAGMAN.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Jonas_WELTICKE_vs_Amir_FRAGMAN.sgf",
+      "pb": "Amir FRAGMAN",
+      "pw": "Jonas WELTICKE",
+      "dt": "",
+      "gn": "",
+      "moves": 337
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Luk_Podpera_vs_Tanguy_Le_Calv.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Luk_Podpera_vs_Tanguy_Le_Calv.sgf",
+      "pb": "Tanguy Le Calvé",
+      "pw": "Lukáš Podpera",
+      "dt": "2019-05-19",
+      "gn": "5th EGF PRO Qualification 2019 - Final -- Tanguy Le Calvé 6d (B) - Lukáš Podpera 7d (W)",
+      "moves": 332
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Lukas_Podpera_7D_vs_Dominik_Boviz_6D.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Lukas_Podpera_7D_vs_Dominik_Boviz_6D.sgf",
+      "pb": "Dominik Boviz 6D",
+      "pw": "Lukas Podpera 7D",
+      "dt": "2019-05-17",
+      "gn": "2nd round EGF pro qualification Podpera 7D (W) vs Boviz 6D (B)",
+      "moves": 271
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Lukas_Podpera_7D_vs_Stanislaw_Frejlak_7D.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Lukas_Podpera_7D_vs_Stanislaw_Frejlak_7D.sgf",
+      "pb": "Stanislaw Frejlak 7D",
+      "pw": "Lukas Podpera 7D",
+      "dt": "2019-05-18",
+      "gn": "EGF Pro qualification semi final - Podpera 7D (W) vs Frejlak 7D (B)",
+      "moves": 271
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Lukas_Podpera_vs_Amir_Fragman.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Lukas_Podpera_vs_Amir_Fragman.sgf",
+      "pb": "Amir Fragman",
+      "pw": "Lukas Podpera",
+      "dt": "",
+      "gn": "",
+      "moves": 120
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Ondrej_Kruml_vs_Amir_Fragman.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Ondrej_Kruml_vs_Amir_Fragman.sgf",
+      "pb": "Amir Fragman",
+      "pw": "Ondrej Kruml",
+      "dt": "2019-05-17",
+      "gn": "EGF Pro Quali round 3 Ondrej Kruml 5d (w) vs Amir Fragman 5d (b)",
+      "moves": 303
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Oscar_Vazquez_vs_Stanislaw_Frejlak.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Oscar_Vazquez_vs_Stanislaw_Frejlak.sgf",
+      "pb": "Stanislaw Frejlak ",
+      "pw": "Oscar Vazquez",
+      "dt": "2019-05-16",
+      "gn": "5th European Pro Qualification 2019 - R1 (Oscar Vazquez 5d (W) - Stanislaw Frejlak 7d (B))",
+      "moves": 225
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Podpera_Lukas_vs_Kaymin_Viacheslav.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Podpera_Lukas_vs_Kaymin_Viacheslav.sgf",
+      "pb": "Kaymin Viacheslav ",
+      "pw": "Podpera Lukas ",
+      "dt": "2019-05-18",
+      "gn": "EGF Pro qualification round 4 - Viacheslav Kaymin 6d (B) - Lukas Podpera 7d (W)",
+      "moves": 311
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Remi_Campagnie_5D_vs_Rob_van_Zeijst_6D.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Remi_Campagnie_5D_vs_Rob_van_Zeijst_6D.sgf",
+      "pb": "Rob van Zeijst 6D",
+      "pw": "Remi Campagnie 5D",
+      "dt": "2019-05-16",
+      "gn": "1st round EGF Pro qualification:  Rémi Campagnie 5D (white) vs Rob van Zeijst 6D (black)",
+      "moves": 308
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Rmi_Campagnie_vs_Shayan_Hamrah.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Rmi_Campagnie_vs_Shayan_Hamrah.sgf",
+      "pb": "Shayan Hamrah",
+      "pw": "Rémi Campagnie",
+      "dt": "",
+      "gn": "",
+      "moves": 267
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Rob_van_Zeijst_vs_Viacheslav_Kaymin.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Rob_van_Zeijst_vs_Viacheslav_Kaymin.sgf",
+      "pb": "Viacheslav Kaymin",
+      "pw": "Rob van Zeijst",
+      "dt": "2019-05-17",
+      "gn": "5th Pro qualification 2019 - Round 3 -- Rob van Zeijst 7d (W) - Viacheslav Kaymin 5d (B)",
+      "moves": 235
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Stanislav_Frejlak_vs_Ondrej_Kruml.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Stanislav_Frejlak_vs_Ondrej_Kruml.sgf",
+      "pb": "Ondrej Kruml",
+      "pw": "Stanislav Frejlak",
+      "dt": "2019-05-18",
+      "gn": "EGF Pro Qualification round 4 Stanislav Frejlak (w) vs Ondrej Kruml (b)",
+      "moves": 284
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Stanislaw_Frejlak_vs_Tanguy_Le_Calv.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Stanislaw_Frejlak_vs_Tanguy_Le_Calv.sgf",
+      "pb": "Tanguy Le Calvé",
+      "pw": "Stanislaw Frejlak",
+      "dt": "2019-05-17",
+      "gn": "EGF Pro Quali round 2 Stanislaw Frejlak (w) vs Tanguy Le Calvé (b)",
+      "moves": 234
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Tanguy_Le_Calv_6D_vs_Rmi_Campagnie_5D.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Tanguy_Le_Calv_6D_vs_Rmi_Campagnie_5D.sgf",
+      "pb": "Rémi Campagnie 5D",
+      "pw": "Tanguy Le Calvé 6D",
+      "dt": "2019-05-17",
+      "gn": "3rd round EGF Pro Qualification LE CALVE 6D (W) VS CAMPAGNIE 5D (B)",
+      "moves": 214
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Vazquez_Oscar_vs_Kaymin_Viacheslav.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Vazquez_Oscar_vs_Kaymin_Viacheslav.sgf",
+      "pb": "Kaymin Viacheslav",
+      "pw": "Vazquez Oscar",
+      "dt": "",
+      "gn": "",
+      "moves": 187
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Viktor_Lin_vs_Ondrej_Kruml.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Viktor_Lin_vs_Ondrej_Kruml.sgf",
+      "pb": "Ondrej Kruml",
+      "pw": "Viktor Lin",
+      "dt": "2019-05-17",
+      "gn": "5th EGF Pro Qualification 2019 R2 : Ondrej Kruml 5d (B) vs Viktor Lin 6d (W)",
+      "moves": 285
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Viktor_Lin_vs_Sinan_Djepov.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Viktor_Lin_vs_Sinan_Djepov.sgf",
+      "pb": "Sinan Djepov",
+      "pw": "Viktor Lin",
+      "dt": "",
+      "gn": "",
+      "moves": 206
+    },
+    {
+      "folder": "ProQual2019",
+      "fname": "Viktor_Lin_vs_Tanguy_Le_Calv.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2019/Viktor_Lin_vs_Tanguy_Le_Calv.sgf",
+      "pb": "Tanguy Le Calvé",
+      "pw": "Viktor Lin",
+      "dt": "2019-05-18",
+      "gn": "5th EGF Pro Quali round 3 Viktor Lin 6d (w) vs Tanguy Le Calvé 6d (b)",
+      "moves": 250
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Alexandr_Muromtsev_vs_Stanislaw_Frejlak.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Alexandr_Muromtsev_vs_Stanislaw_Frejlak.sgf",
+      "pb": "Stanislaw Frejlak",
+      "pw": "Alexandr Muromtsev",
+      "dt": "2021-10-25",
+      "gn": "Pro Quali, Muromtsev  vs Frejlak (round of 16, game 1)",
+      "moves": 229
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Amir_Fragman_vs_Remi_Campagnie.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Amir_Fragman_vs_Remi_Campagnie.sgf",
+      "pb": "Remi Campagnie",
+      "pw": "Amir Fragman",
+      "dt": "2021-10-27",
+      "gn": "",
+      "moves": 125
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Amir_Fragman_vs_Rob_van_Zeijst.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Amir_Fragman_vs_Rob_van_Zeijst.sgf",
+      "pb": "Rob van Zeijst",
+      "pw": "Amir Fragman",
+      "dt": "2021-10-25",
+      "gn": "Pro Quali, Fragman vs RvZ (round of 16, game 2)",
+      "moves": 308
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Anton_Chernykh_vs_Benjamin_Dran-Gunazia.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Anton_Chernykh_vs_Benjamin_Dran-Gunazia.sgf",
+      "pb": "Benjamin Dréan-Guénaïzia",
+      "pw": "Anton Chernykh",
+      "dt": "2021-10-26",
+      "gn": "EPQ (Benjamin Dréan-Guénaïzia B - Anton Chernykh W)",
+      "moves": 282
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Anton_Chernykh_vs_Benjamin_Teuber.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Anton_Chernykh_vs_Benjamin_Teuber.sgf",
+      "pb": "Benjamin Teuber",
+      "pw": "Anton Chernykh",
+      "dt": "2021-10-25",
+      "gn": "Pro Quali, Chernykh vs Teuber (round of 16, game 2)",
+      "moves": 136
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Anton_Chernykh_vs_Stanislaw_Frejlak.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Anton_Chernykh_vs_Stanislaw_Frejlak.sgf",
+      "pb": "Stanislaw Frejlak ",
+      "pw": "Anton Chernykh",
+      "dt": "2021-10-29",
+      "gn": "EPQ (Stanislaw Frejlak B - Anton Chernykh W)",
+      "moves": 205
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Benjamin_Dran-Gunazia_vs_Lucas_Neirynck.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Benjamin_Dran-Gunazia_vs_Lucas_Neirynck.sgf",
+      "pb": "Lucas Neirynck",
+      "pw": "Benjamin Dréan-Guénaïzia",
+      "dt": "",
+      "gn": "",
+      "moves": 176
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Benjamin_Teuber_vs_Chernykh_Anton.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Benjamin_Teuber_vs_Chernykh_Anton.sgf",
+      "pb": "Chernykh Anton",
+      "pw": "Benjamin Teuber",
+      "dt": "2021-10-25",
+      "gn": "Pro Quali, Teuber vs Chernykh (round of 16, game 1)",
+      "moves": 149
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Cornel_Burzo_vs_Jonas_Welticke.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Cornel_Burzo_vs_Jonas_Welticke.sgf",
+      "pb": "Jonas Welticke",
+      "pw": "Cornel Burzo",
+      "dt": "",
+      "gn": "Pro Q",
+      "moves": 229
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Dominik_Boviz_vs_Remi_Campagnie.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Dominik_Boviz_vs_Remi_Campagnie.sgf",
+      "pb": "Remi Campagnie",
+      "pw": "Dominik Boviz",
+      "dt": "2021-10-25",
+      "gn": "",
+      "moves": 382
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Elian_Ioan_Grigoriu_vs_Luk_Podpra.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Elian_Ioan_Grigoriu_vs_Luk_Podpra.sgf",
+      "pb": "Lukáš Podpěra",
+      "pw": "Elian Ioan Grigoriu ",
+      "dt": "",
+      "gn": "",
+      "moves": 237
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Jonas_Welticke_vs_Cornel_Burzo(1).sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Jonas_Welticke_vs_Cornel_Burzo(1).sgf",
+      "pb": "Cornel Burzo",
+      "pw": "Jonas Welticke",
+      "dt": "2021-10-26",
+      "gn": "EPQ ( Cornel Burzo - Jonas Welticke)",
+      "moves": 212
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Jonas_Welticke_vs_Cornel_Burzo.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Jonas_Welticke_vs_Cornel_Burzo.sgf",
+      "pb": "Cornel Burzo",
+      "pw": "Jonas Welticke",
+      "dt": "",
+      "gn": "Pro Qualification",
+      "moves": 261
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Jonas_Welticke_vs_Luk_Podpra.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Jonas_Welticke_vs_Luk_Podpra.sgf",
+      "pb": "Lukáš Podpěra",
+      "pw": "Jonas Welticke ",
+      "dt": "",
+      "gn": "",
+      "moves": 251
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Lucas_Neirynck_vs_Benjamin_Dran-Gunazia.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Lucas_Neirynck_vs_Benjamin_Dran-Gunazia.sgf",
+      "pb": "Benjamin Dréan-Guénaïzia",
+      "pw": "Lucas Neirynck",
+      "dt": "2021-10-25",
+      "gn": "",
+      "moves": 201
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Lukas_Podpera_vs_Elian_Ioan_Grigoriu.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Lukas_Podpera_vs_Elian_Ioan_Grigoriu.sgf",
+      "pb": "Elian Ioan Grigoriu",
+      "pw": "Lukas Podpera",
+      "dt": "2021-10-25",
+      "gn": "EPQ (Elian Grigoriu B - Lukas Podpera W)",
+      "moves": 263
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Lukas_Podpera_vs_Jonas_Welticke.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Lukas_Podpera_vs_Jonas_Welticke.sgf",
+      "pb": "Jonas Welticke",
+      "pw": "Lukas Podpera",
+      "dt": "2021-10-27",
+      "gn": "EPQ (Lukas Podpera W - Jonas Welticke B)",
+      "moves": 257
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Lukas_Podpera_vs_Remi_Campagnie.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Lukas_Podpera_vs_Remi_Campagnie.sgf",
+      "pb": "Remi Campagnie",
+      "pw": "Lukas Podpera",
+      "dt": "2021-10-29",
+      "gn": "EPQ 2021 (Lukas Podpera (W) - Remi Campagnie (B)",
+      "moves": 214
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Lukas_Podpera_vs_Stanislaw_Frejlak(1).sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Lukas_Podpera_vs_Stanislaw_Frejlak(1).sgf",
+      "pb": "Stanislaw Frejlak",
+      "pw": "Lukas Podpera",
+      "dt": "2021-10-31",
+      "gn": "EPQ (Lukas Podpera W - Stanislaw Frejlak B)",
+      "moves": 147
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Lukas_Podpera_vs_Stanislaw_Frejlak.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Lukas_Podpera_vs_Stanislaw_Frejlak.sgf",
+      "pb": "Stanislaw Frejlak",
+      "pw": "Lukas Podpera",
+      "dt": "2021-10-30",
+      "gn": "EPQ (Lukas Podpera W - Stanislaw Frejlak B)",
+      "moves": 397
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Oscar_Vasquez_vs_Viacheslav_Kaymin(1).sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Oscar_Vasquez_vs_Viacheslav_Kaymin(1).sgf",
+      "pb": "Viacheslav Kaymin",
+      "pw": "Oscar Vasquez",
+      "dt": "2021-10-26",
+      "gn": "EPQ (Oscar Vasquez W - Viacheslav Kaymin B)",
+      "moves": 252
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Oscar_Vasquez_vs_Viacheslav_Kaymin.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Oscar_Vasquez_vs_Viacheslav_Kaymin.sgf",
+      "pb": "Viacheslav Kaymin",
+      "pw": "Oscar Vasquez",
+      "dt": "2021-10-26",
+      "gn": "EPQ (Oscar Vasquez W - Viacheslav Kaymin B)",
+      "moves": 260
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Remi_Campagnie_vs_Dominik_Boviz.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Remi_Campagnie_vs_Dominik_Boviz.sgf",
+      "pb": "Dominik Boviz",
+      "pw": "Remi Campagnie",
+      "dt": "2021-10-25",
+      "gn": "",
+      "moves": 303
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Remi_Campagnie_vs_Lukas_Podpera.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Remi_Campagnie_vs_Lukas_Podpera.sgf",
+      "pb": "Lukas Podpera",
+      "pw": "Remi Campagnie",
+      "dt": "2021-10-28",
+      "gn": "EPQ (Remi Campagnie W - Lukas Podpera B)",
+      "moves": 157
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Rmi_Campagnie_vs_Amir_Fragman.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Rmi_Campagnie_vs_Amir_Fragman.sgf",
+      "pb": "Amir Fragman",
+      "pw": "Rémi Campagnie",
+      "dt": "2021-10-26",
+      "gn": "EPQ 2021 Rémi Campagnie (W)- Amir Fragman (B)",
+      "moves": 254
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Stanislaw_Frejlak_vs_Alexandr_Muromtsev.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Stanislaw_Frejlak_vs_Alexandr_Muromtsev.sgf",
+      "pb": "Alexandr Muromtsev",
+      "pw": "Stanislaw Frejlak",
+      "dt": "2021-10-25",
+      "gn": "Pro Quali, Frejlak vs Muromtsev (round of 16, game 2)",
+      "moves": 208
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Stanislaw_Frejlak_vs_Anton_Chernykh.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Stanislaw_Frejlak_vs_Anton_Chernykh.sgf",
+      "pb": "Anton Chernykh",
+      "pw": "Stanislaw Frejlak",
+      "dt": "2021-10-28",
+      "gn": "EPQ Semi Final (Stanislaw Frejlak (W)- Anton Chernykh (B)",
+      "moves": 279
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Stanislaw_Frejlak_vs_Lukas_Podpera.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Stanislaw_Frejlak_vs_Lukas_Podpera.sgf",
+      "pb": "Lukas Podpera",
+      "pw": "Stanislaw Frejlak",
+      "dt": "2021-10-30",
+      "gn": "EPQ (Stanislaw Frejlak W - Lukas Podpera B)",
+      "moves": 284
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Stanislaw_Frejlak_vs_Oscar_Vasquez.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Stanislaw_Frejlak_vs_Oscar_Vasquez.sgf",
+      "pb": "Oscar Vasquez",
+      "pw": "Stanislaw Frejlak",
+      "dt": "2021-10-27",
+      "gn": "EPQ (Oscar Vasquez B - Stanislaw Frejlak W)",
+      "moves": 216
+    },
+    {
+      "folder": "ProQual2021",
+      "fname": "Viacheslav_Kaymin_vs_Oscar_Vzquez.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2021/Viacheslav_Kaymin_vs_Oscar_Vzquez.sgf",
+      "pb": "Oscar Vázquez",
+      "pw": "Viacheslav Kaymin",
+      "dt": "",
+      "gn": "",
+      "moves": 189
+    },
+    {
+      "folder": "ProQual2023",
+      "fname": "1_CornelBenjamin1.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2023/1_CornelBenjamin1.sgf",
+      "pb": "Benjamin Teuber",
+      "pw": "Cornel Burzo",
+      "dt": "2023-02-25",
+      "gn": "EGF ProQuali - Teuber (b) - Burzo (w)",
+      "moves": 134
+    },
+    {
+      "folder": "ProQual2023",
+      "fname": "1_CornelBenjamin2.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2023/1_CornelBenjamin2.sgf",
+      "pb": "Cornel Burzo",
+      "pw": "Benjamin Teuber",
+      "dt": "2023-02-26",
+      "gn": "EGF ProQuali - Burzo (b) - Teuber (w)",
+      "moves": 317
+    },
+    {
+      "folder": "ProQual2023",
+      "fname": "1_CornelBenjamin3.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2023/1_CornelBenjamin3.sgf",
+      "pb": "Cornel Burzo",
+      "pw": "Benjamin Teuber",
+      "dt": "2023-02-26",
+      "gn": "EGF ProQuali - Burzo (b) - Teuber (w)",
+      "moves": 246
+    },
+    {
+      "folder": "ProQual2023",
+      "fname": "1_JanDominik1.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2023/1_JanDominik1.sgf",
+      "pb": "Jan Prokop",
+      "pw": "Dominik Boviz",
+      "dt": "2023-02-25",
+      "gn": "EGF ProQuali - Boviz (w) - Prokop (b)",
+      "moves": 264
+    },
+    {
+      "folder": "ProQual2023",
+      "fname": "1_JanDominik2.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2023/1_JanDominik2.sgf",
+      "pb": "Dominik Boviz",
+      "pw": "Jan Prokop",
+      "dt": "2023-02-26",
+      "gn": "EGF ProQuali - Prokop (w) - Boviz (b)",
+      "moves": 189
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "10_Neirynck_Campagnie.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/10_Neirynck_Campagnie.sgf",
+      "pb": "Lucas Neirynck 6d",
+      "pw": "Rémi Campagnie 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 668227",
+      "moves": 213
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "10_Ovsiienko_Xing.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/10_Ovsiienko_Xing.sgf",
+      "pb": "Vsevolod Ovsiienko 6d",
+      "pw": "Yuze Xing 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 668230",
+      "moves": 296
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "10_Podpera_Ben0.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/10_Podpera_Ben0.sgf",
+      "pb": "Lukáš Podpěra 7d",
+      "pw": "Benjamin Drean-Guenaizia 7d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 668226",
+      "moves": 180
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "10_Teuber_Boviz.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/10_Teuber_Boviz.sgf",
+      "pb": "Benjamin Teuber 6d",
+      "pw": "Dominik Boviz 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 668229",
+      "moves": 258
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "10_Vazquez_Pankoke.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/10_Vazquez_Pankoke.sgf",
+      "pb": "Ashe Vazquez 7d",
+      "pw": "Matias Pankoke 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 668231",
+      "moves": 215
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "10_Welticke_Lin.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/10_Welticke_Lin.sgf",
+      "pb": "Jonas Welticke 6d",
+      "pw": "Viktor Lin 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 668228",
+      "moves": 202
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "11_Ben0_Vazquez.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/11_Ben0_Vazquez.sgf",
+      "pb": "Benjamin Drean-Guenaizia 7d",
+      "pw": "Ashe Vazquez 7d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 668381",
+      "moves": 286
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "11_Boviz_Ovsiienko.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/11_Boviz_Ovsiienko.sgf",
+      "pb": "Dominik Boviz 6d",
+      "pw": "Vsevolod Ovsiienko 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 668383",
+      "moves": 276
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "11_Campagnie_Welticke.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/11_Campagnie_Welticke.sgf",
+      "pb": "Rémi Campagnie 6d",
+      "pw": "Jonas Welticke 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 668386",
+      "moves": 167
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "11_Lin_Teuber.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/11_Lin_Teuber.sgf",
+      "pb": "Viktor Lin 6d",
+      "pw": "Benjamin Teuber 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 668384",
+      "moves": 199
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "11_Pankoke_Neirynck.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/11_Pankoke_Neirynck.sgf",
+      "pb": "Matias Pankoke 6d",
+      "pw": "Lucas Neirynck 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 668387",
+      "moves": 353
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "11_Xing_Podpera.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/11_Xing_Podpera.sgf",
+      "pb": "Yuze Xing 6d",
+      "pw": "Lukáš Podpěra 7d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 668382",
+      "moves": 276
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "1_Ben0_Xing.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/1_Ben0_Xing.sgf",
+      "pb": "Benjamin Drean-Guenaizia 7d",
+      "pw": "Yuze Xing 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 665659",
+      "moves": 147
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "1_Neyrinck_Vacquez.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/1_Neyrinck_Vacquez.sgf",
+      "pb": "Lucas Neirynck 6d",
+      "pw": "Ashe Vazquez 7d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 665654",
+      "moves": 352
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "1_Ovsiienko_Lin.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/1_Ovsiienko_Lin.sgf",
+      "pb": "Vsevolod Ovsiienko 6d",
+      "pw": "Viktor Lin 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 665657",
+      "moves": 169
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "1_Podpera_Boviz.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/1_Podpera_Boviz.sgf",
+      "pb": "Lukáš Podpěra 7d",
+      "pw": "Dominik Boviz 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 665658",
+      "moves": 278
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "1_Teuber_Campagnie.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/1_Teuber_Campagnie.sgf",
+      "pb": "Benjamin Teuber 6d",
+      "pw": "Rémi Campagnie 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 665656",
+      "moves": 342
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "1_Welticke_Pankoke.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/1_Welticke_Pankoke.sgf",
+      "pb": "Jonas Welticke 6d",
+      "pw": "Matias Pankoke 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 665655",
+      "moves": 277
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "2_Boviz_Ben0.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/2_Boviz_Ben0.sgf",
+      "pb": "Dominik Boviz 6d",
+      "pw": "Benjamin Drean-Guenaizia 7d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666094",
+      "moves": 246
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "2_Campagnie_Ovsiienko.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/2_Campagnie_Ovsiienko.sgf",
+      "pb": "Rémi Campagnie 6d",
+      "pw": "Vsevolod Ovsiienko 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666097",
+      "moves": 218
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "2_Lin_Podpera.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/2_Lin_Podpera.sgf",
+      "pb": "Viktor Lin 6d",
+      "pw": "Lukáš Podpěra 7d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666095",
+      "moves": 166
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "2_Neyrinck_Welticke.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/2_Neyrinck_Welticke.sgf",
+      "pb": "Lucas Neirynck 6d",
+      "pw": "Jonas Welticke 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666100",
+      "moves": 149
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "2_Pankoke_Teuber.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/2_Pankoke_Teuber.sgf",
+      "pb": "Matias Pankoke 6d",
+      "pw": "Benjamin Teuber 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666098",
+      "moves": 213
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "2_Vazquez_Xing.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/2_Vazquez_Xing.sgf",
+      "pb": "Ashe Vazquez 7d",
+      "pw": "Yuze Xing 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666093",
+      "moves": 249
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "3_Ben0_Lin.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/3_Ben0_Lin.sgf",
+      "pb": "Benjamin Drean-Guenaizia 7d",
+      "pw": "Viktor Lin 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666221",
+      "moves": 107
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "3_Oviienko_Pankoke.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/3_Oviienko_Pankoke.sgf",
+      "pb": "Vsevolod Ovsiienko 6d",
+      "pw": "Matias Pankoke 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666218",
+      "moves": 322
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "3_Podpera_Campagnie.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/3_Podpera_Campagnie.sgf",
+      "pb": "Lukáš Podpěra 7d",
+      "pw": "Rémi Campagnie 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666220",
+      "moves": 253
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "3_Teuber_Neirynck.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/3_Teuber_Neirynck.sgf",
+      "pb": "Benjamin Teuber 6d",
+      "pw": "Lucas Neirynck 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666217",
+      "moves": 291
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "3_Welticke_Vazquez.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/3_Welticke_Vazquez.sgf",
+      "pb": "Jonas Welticke 6d",
+      "pw": "Ashe Vazquez 7d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666216",
+      "moves": 243
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "3_Xing_Boviz.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/3_Xing_Boviz.sgf",
+      "pb": "Yuze Xing 6d",
+      "pw": "Dominik Boviz 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666222",
+      "moves": 202
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "4_Campagnie_Ben0.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/4_Campagnie_Ben0.sgf",
+      "pb": "Rémi Campagnie 6d",
+      "pw": "Benjamin Drean-Guenaizia 7d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666532",
+      "moves": 371
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "4_Lin_Xing.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/4_Lin_Xing.sgf",
+      "pb": "Viktor Lin 6d",
+      "pw": "Yuze Xing 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666531",
+      "moves": 118
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "4_Neirynck_Ovsiienko.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/4_Neirynck_Ovsiienko.sgf",
+      "pb": "Lucas Neirynck 6d",
+      "pw": "Vsevolod Ovsiienko 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666534",
+      "moves": 219
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "4_Pankoke_Podpera.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/4_Pankoke_Podpera.sgf",
+      "pb": "Matias Pankoke 6d",
+      "pw": "Lukáš Podpěra 7d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666533",
+      "moves": 164
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "4_Vazquez_Boviz.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/4_Vazquez_Boviz.sgf",
+      "pb": "Ashe Vazquez 7d",
+      "pw": "Dominik Boviz 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666530",
+      "moves": 288
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "4_Welticke_Teuber.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/4_Welticke_Teuber.sgf",
+      "pb": "Jonas Welticke 6d",
+      "pw": "Benjamin Teuber 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666535",
+      "moves": 254
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "5_Ben0_Pankoke.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/5_Ben0_Pankoke.sgf",
+      "pb": "Benjamin Drean-Guenaizia 7d",
+      "pw": "Matias Pankoke 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666610",
+      "moves": 241
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "5_Boviz_Lin.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/5_Boviz_Lin.sgf",
+      "pb": "Dominik Boviz 6d",
+      "pw": "Viktor Lin 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666612",
+      "moves": 247
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "5_Ovsiienko_Welticke.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/5_Ovsiienko_Welticke.sgf",
+      "pb": "Vsevolod Ovsiienko 6d",
+      "pw": "Jonas Welticke 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666608",
+      "moves": 312
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "5_Podpera_Neirynck.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/5_Podpera_Neirynck.sgf",
+      "pb": "Lukáš Podpěra 7d",
+      "pw": "Lucas Neirynck 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666609",
+      "moves": 302
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "5_Teuber_Vazquez.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/5_Teuber_Vazquez.sgf",
+      "pb": "Benjamin Teuber 6d",
+      "pw": "Ashe Vazquez 7d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666607",
+      "moves": 232
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "5_Xing_Campagnie.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/5_Xing_Campagnie.sgf",
+      "pb": "Yuze Xing 6d",
+      "pw": "Rémi Campagnie 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666611",
+      "moves": 162
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "6_Campagnie_Boviz.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/6_Campagnie_Boviz.sgf",
+      "pb": "Rémi Campagnie 6d",
+      "pw": "Dominik Boviz 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666935",
+      "moves": 232
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "6_Neirynck_Ben0.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/6_Neirynck_Ben0.sgf",
+      "pb": "Lucas Neirynck 6d",
+      "pw": "Benjamin Drean-Guenaizia 7d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666943",
+      "moves": 292
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "6_Pankoke_Xing.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/6_Pankoke_Xing.sgf",
+      "pb": "Matias Pankoke 6d",
+      "pw": "Yuze Xing 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666936",
+      "moves": 270
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "6_Teuber_Ovsiienko.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/6_Teuber_Ovsiienko.sgf",
+      "pb": "Benjamin Teuber 6d",
+      "pw": "Vsevolod Ovsiienko 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666945",
+      "moves": 218
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "6_Vazquez_Lin.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/6_Vazquez_Lin.sgf",
+      "pb": "Ashe Vazquez 7d",
+      "pw": "Viktor Lin 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666934",
+      "moves": 154
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "6_Welticke_Podpera.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/6_Welticke_Podpera.sgf",
+      "pb": "Jonas Welticke 6d",
+      "pw": "Lukas Podpera 7d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666944",
+      "moves": 279
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "7_Ben0_Welticke.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/7_Ben0_Welticke.sgf",
+      "pb": "Benjamin Drean-Guenaizia 7d",
+      "pw": "Jonas Welticke 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667045",
+      "moves": 268
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "7_Boviz_Pankoke.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/7_Boviz_Pankoke.sgf",
+      "pb": "Dominik Boviz 6d",
+      "pw": "Matias Pankoke 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667048",
+      "moves": 319
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "7_Lin_Campagnie.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/7_Lin_Campagnie.sgf",
+      "pb": "Viktor Lin 6d",
+      "pw": "Rémi Campagnie 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667049",
+      "moves": 141
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "7_Ovsiienko_Vazquez.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/7_Ovsiienko_Vazquez.sgf",
+      "pb": "Vsevolod Ovsiienko 6d",
+      "pw": "Ashe Vazquez 7d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667043",
+      "moves": 304
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "7_Podpera_Teuber.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/7_Podpera_Teuber.sgf",
+      "pb": "Lukáš Podpěra 7d",
+      "pw": "Benjamin Teuber 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667044",
+      "moves": 209
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "7_Xing_Neirynck.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/7_Xing_Neirynck.sgf",
+      "pb": "Yuze Xing 6d",
+      "pw": "Lucas Neirynck 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667046",
+      "moves": 320
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "8_Neirynck_Boviz.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/8_Neirynck_Boviz.sgf",
+      "pb": "Lucas Neirynck 6d",
+      "pw": "Dominik Boviz 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667336",
+      "moves": 253
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "8_Ovsiienko_Podpera.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/8_Ovsiienko_Podpera.sgf",
+      "pb": "Vsevolod Ovsiienko 6d",
+      "pw": "Lukáš Podpěra 7d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667339",
+      "moves": 254
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "8_Pankoke_Lin.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/8_Pankoke_Lin.sgf",
+      "pb": "Matias Pankoke 6d",
+      "pw": "Viktor Lin 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667334",
+      "moves": 148
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "8_Teuber_Ben0.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/8_Teuber_Ben0.sgf",
+      "pb": "Benjamin Teuber 6d",
+      "pw": "Benjamin Drean-Guenaizia 7d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667338",
+      "moves": 148
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "8_Vazquez_Campagnie.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/8_Vazquez_Campagnie.sgf",
+      "pb": "Ashe Vazquez 7d",
+      "pw": "Rémi Campagnie 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667333",
+      "moves": 234
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "8_Welticke_Xing.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/8_Welticke_Xing.sgf",
+      "pb": "Jonas Welticke 6d",
+      "pw": "Yuze Xing 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667337",
+      "moves": 372
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "9_Ben0_Ovsiienko.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/9_Ben0_Ovsiienko.sgf",
+      "pb": "Benjamin Drean-Guenaizia 7d",
+      "pw": "Vsevolod Ovsiienko 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667528",
+      "moves": 192
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "9_Boviz_Welticke.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/9_Boviz_Welticke.sgf",
+      "pb": "Dominik Boviz 6d",
+      "pw": "Jonas Welticke 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667530",
+      "moves": 216
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "9_Campagnie_Pankoke.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/9_Campagnie_Pankoke.sgf",
+      "pb": "Rémi Campagnie 6d",
+      "pw": "Matias Pankoke 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667532",
+      "moves": 177
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "9_Lin_Neirynck.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/9_Lin_Neirynck.sgf",
+      "pb": "Viktor Lin 6d",
+      "pw": "Lucas Neirynck 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667531",
+      "moves": 237
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "9_Podpera_Vazquez.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/9_Podpera_Vazquez.sgf",
+      "pb": "Lukáš Podpěra 7d",
+      "pw": "Ashe Vazquez 7d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667527",
+      "moves": 272
+    },
+    {
+      "folder": "ProQual2025",
+      "fname": "9_Xing_Teuber.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProQual2025/9_Xing_Teuber.sgf",
+      "pb": "Yuze Xing 6d",
+      "pw": "Benjamin Teuber 6d",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667529",
+      "moves": 340
+    },
+    {
+      "folder": "ProTour2025",
+      "fname": "Frejlak_Kachanovskyi.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProTour2025/Frejlak_Kachanovskyi.sgf",
+      "pb": "Stanislaw Frejlak 1p",
+      "pw": "Artem Kachanovskyi 3p",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 668996",
+      "moves": 210
+    },
+    {
+      "folder": "ProTour2025",
+      "fname": "Jabarin_Kravets.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProTour2025/Jabarin_Kravets.sgf",
+      "pb": "Ali Jabarin 2p",
+      "pw": "Andrii Kravets 2p",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 668233",
+      "moves": 248
+    },
+    {
+      "folder": "ProTour2025",
+      "fname": "Kachanovskyi_Simara.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProTour2025/Kachanovskyi_Simara.sgf",
+      "pb": "Artem Kachanovskyi 3p",
+      "pw": "Jan Simara 1p",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667341",
+      "moves": 174
+    },
+    {
+      "folder": "ProTour2025",
+      "fname": "Kravets_Frejlak.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProTour2025/Kravets_Frejlak.sgf",
+      "pb": "Andrii Kravets 2p",
+      "pw": "Stanislaw Frejlak 1p",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 668388",
+      "moves": 317
+    },
+    {
+      "folder": "ProTour2025",
+      "fname": "LeCalve_Frejlak.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProTour2025/LeCalve_Frejlak.sgf",
+      "pb": "Tanguy Le Calvé 1p",
+      "pw": "Stanislaw Frejlak 1p",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667533",
+      "moves": 100
+    },
+    {
+      "folder": "ProTour2025",
+      "fname": "LeCalve_Kravets.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProTour2025/LeCalve_Kravets.sgf",
+      "pb": "Tanguy Le Calvé 1p",
+      "pw": "Andrii Kravets 2p",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 666948",
+      "moves": 335
+    },
+    {
+      "folder": "ProTour2025",
+      "fname": "Li_Jabarin.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProTour2025/Li_Jabarin.sgf",
+      "pb": "Ting Li 1p",
+      "pw": "Ali Jabarin 2p",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 667050",
+      "moves": 263
+    },
+    {
+      "folder": "ProTour2025",
+      "fname": "Li_Kravets.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProTour2025/Li_Kravets.sgf",
+      "pb": "Ting Li 1p",
+      "pw": "Andrii Kravets 2p",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 669000",
+      "moves": 128
+    },
+    {
+      "folder": "ProTour2025",
+      "fname": "Simara_LeCalve.sgf",
+      "path": "/home/jirka/gogames-ogs/others/ProTour2025/Simara_LeCalve.sgf",
+      "pb": "Jan Simara  1p",
+      "pw": "Tanguy Le Calvé1p",
+      "dt": "",
+      "gn": "IZIS2OGS transcript of game 669003",
+      "moves": 140
+    }
+  ]
+}

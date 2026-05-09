@@ -1,0 +1,492 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[Czech Go Baron, game 5]
+PC[https://online-go.com/review/1001652]
+PB[Lukáš Podpěra]
+PW[Ondřej Kruml]
+BR[7d]
+WR[6d]
+OT[Error: time control missing]
+RE[?]
+SZ[19]
+KM[7.5]
+RU[AGA]
+
+;B[qd]
+;W[dc]
+;B[pq]
+;W[oc]C[
+
+-- chat --
+CZBaron1: this is the decisive game, the winner takes the title
+]
+;B[cp]
+;W[qo]C[
+
+-- chat --
+CZBaron1: Scurge won the first two games, then Lukan the other two
+CZBaron1: https://forums.online-go.com/t/czech-go-baron-title-match/46099
+]
+;B[pf]C[
+
+-- chat --
+Reesha2003: Good luck to both!
+]
+;W[lc]
+;B[op]
+;W[ql]
+;B[ce]
+;W[fd]
+;B[fq]C[
+
+-- chat --
+Cryoman: what timing are they playing with?
+LittleMikey: I'm wondering that too
+]
+;W[ch]C[
+
+-- chat --
+CZBaron1: Fischer time, 60 min + 30 s
+]
+;B[dk]
+;W[cd]
+;B[qp]
+;W[qh]
+;B[pc]
+;W[od]
+(;B[qg]
+;W[ph]C[
+
+-- chat --
+SlowYellow: was that kick at R13 wise? isn't he strengthening his opponent? (probably a stupid question, but I don't know the answer)
+]
+;B[po]C[
+
+-- chat --
+Cryoman: i don't know either, and they are far better than me
+Cryoman: i guess the safety of the corner is worth it
+Trevoke: He's strengthening the position of the corner but in a limited way because Q14 is the only active stone at the moment, and the kick sequence reinforces R8
+]
+;W[gp]C[
+
+-- chat --
+Trevoke: That gives more flexibility when it comes to responding around R5
+Trevoke: (including that tenuki)
+]
+;B[fp]
+;W[go]C[
+
+-- chat --
+Mizzle: the shape has an underlying weakness at r15. he just wanted to get sente to play a larger point. normally you would be able to jump at o14 and then attack a side that has not been reinforced with an extension, but maybe with both sides having it he feels jumping around o14 is no longer important.
+SlowYellow: although O14 still seems like a big point for both players to me
+]
+;B[hr]
+;W[jp]C[
+
+-- chat --
+Mizzle: of course.
+Trevoke: it's not that big because it doesn't take anything meaningful away from either player right now, but it will likely become big as the board develops
+Trevoke: vs W playing in this area now, where B has been developing the foundations for a framework
+Trevoke: If I were B here I would want to play at D15
+Trevoke: but that would be incommensurably greedy
+Trevoke: (I think)
+SlowYellow: isn't that creating a heavy group to attack? :D
+Mizzle: upper right still extremely vital.
+Trevoke: You mean C15 would become heavy or G4 would be hevy?
+SlowYellow: c15 + D15
+Trevoke: Maybe but C12 would be weaker
+Animiral: cue black playing exactly your move lol
+]
+;B[ip]
+;W[io]
+;B[iq]C[
+
+-- chat --
+Trevoke: And it would be creating a path towards that upper-right :D
+Cryoman: don't know why, but i'm into M14 as black
+Mizzle: I would rather e12 in that corner. maybe exchange b16.
+]
+;W[jn]C[
+
+-- chat --
+Trevoke: Okay well I don't know the value of moves mid-fight / mid-exchanges so I'm gonna learn from the giants which moves matter when
+]
+;B[ko]
+;W[jo]
+;B[hn]
+;W[ho]
+;B[en]C[
+
+-- chat --
+Cryoman: the bottom situation looks way too good for black
+]
+;W[bk]C[
+
+-- chat --
+Mizzle: I don't know about that. I would have reinforced the w group somehow. value of moves to me is difficult, I just look to where opportunities can be.
+]
+;B[dg]
+;W[dh]
+;B[eg]
+;W[eh]C[
+
+-- chat --
+Trevoke: You know what's becoming real important in the next six moves? O14 :p
+]
+;B[fg]
+;W[gi]
+;B[hg]
+;W[cm]
+;B[el]C[
+
+-- chat --
+Trevoke: (I think it's becoming clear I was wrong about that)
+]
+;W[cg]
+;B[de]
+;W[hd]
+;B[ih]
+;W[ij]
+;B[il]
+;W[fm]C[
+
+-- chat --
+CZBaron1: b 32 min, w 58 min left
+]
+;B[fn]
+;W[gn]
+;B[gm]
+;W[jl]C[
+
+-- chat --
+SlowYellow: white only used like 18 minutes for his moves? impressive!
+CZBaron1: yes, almost one move per 30s
+]
+;B[gl]C[
+
+-- chat --
+Srandom: the kick at R 13 is standard by the way
+Srandom: it helps fix the weakness at R15
+SlowYellow: thanks for explaining it :)
+]
+;W[jk]
+;B[kd]
+;W[ie]C[
+
+-- chat --
+SlowYellow: thanks for the further explanations :)
+]
+;B[kh]
+;W[kf]
+;B[ld]
+;W[mc]
+;B[lf]
+;W[pd]
+;B[qc]
+;W[lg]
+;B[kg]
+;W[ke]
+;B[le]C[
+
+-- chat --
+SlowYellow: will we finally see o14? :D
+Ranchanyu: no
+]
+;W[pe]C[
+
+-- chat --
+Tarqeq: is empty triangle out of question?
+]
+;B[qe]C[
+
+-- chat --
+Tarqeq: hm, I guess it was
+katapliksi: times?
+CZBaron1: b 20 min, w 48 min
+]
+;W[of]
+;B[nf]
+;W[pg]
+;B[qf]
+;W[mg]
+;B[og]
+;W[oe]
+;B[ng]
+;W[li]C[
+
+-- chat --
+SlowYellow: white is now attacking two weak groups - seems pretty comfortable for kruml, or is the right white group in danger?
+]
+;B[kc]C[
+
+-- chat --
+KA0S: This looks messy if white goes for a cut and after o13 stones
+mirreke: maybe black can get stronger with his weak group by attacking a white weak group
+KA0S: Oh, actually I misread something, I think white can't go for the cut 
+mirreke: I don't think that white can live locally with the top group
+mirreke: and black is ahead in territory
+CZBaron1: how does black resist the cut?
+]
+(;W[kb]
+;B[jb]C[
+
+-- chat --
+KA0S: n14 o15 n15 n16 o16 p18 o17 o12 and white can't o11
+]
+(;W[la]
+;B[ic]
+;W[pb]
+;B[qb]
+;W[nb]
+;B[pa]
+;W[md]C[
+
+-- chat --
+Ranchanyu: 1. From move 0: R16 D17 Q3 P17 C4 R5 Q14 M17 P4 R8 C15 F16 F3 C12 D9 C16 R4 R12 Q17 P16 R13 Q12 Q5 G4 F4 G5 H2 K4 J4 J5 J3 K6 L5 K5 H6 H5 E6 B9 D13 D12 E13 E12 F13 G11 H13 C7 E8 C13 D15 H16 J12 J10 J8 F7 F6 G6 G7 K8 G8 K9 L16 J15 L12 L14 M16 N17 M14 Q16 R17 M13 L13 L15 M15 Q15 R15 P14 O14 Q13 R14 N13 P13 P15 O13 M11 L17 L18 K18 M19 J17 Q18 R18 O18 Q19 N16 
+]
+)(;W[ka]
+;B[ic]C[
+
+-- chat --
+KA0S: That is if w would have gone for the cut immediately
+]
+;W[hb]
+;B[hc]
+;W[gc]
+;B[gb]C[
+
+-- chat --
+SlowYellow: black must be out of time now with 30s per move
+]
+;W[fb]
+;B[ge]
+;W[gd]C[
+
+-- chat --
+CZBaron1: b 10 min, w 29 min left
+SlowYellow: oh. thanks for the update
+KA0S: Difficult to see how black handles both groups, but perhaps trade is possible, I haven't count points to asses if that's enough
+]
+;B[ne]C[
+
+-- chat --
+Reesha2003: Should he make a bamboo? N11
+]
+;W[ob]
+;B[ni]
+;W[mi]
+;B[if]
+;W[jd]
+;B[he]
+;W[id]
+;B[nj]
+;W[pj]C[
+
+-- chat --
+Tarqeq: K17, now?
+Tarqeq: is it sente? I guess it might not be
+CZBaron1: i don't K17 is worth enough
+CZBaron1: my guess is O8
+]
+;B[mk]C[
+
+-- chat --
+KA0S: I think k17 might be just endgame. And there's still question of status of groups which is more important
+]
+;W[kj]
+;B[mm]C[
+
+-- chat --
+Tarqeq: yeah, I wasn't sure if it is a sente against N17 but it does seem doubtful
+]
+;W[fk]
+;B[fl]
+;W[ro]
+;B[km]
+;W[jm]C[
+
+-- chat --
+mirreke: I guess both players think that black f13 group is alive?
+KA0S: e10 to threaten f12 and b10 perhaps?
+Tarqeq: H14 and J13 seem like eyes
+CZBaron1: i think it is
+Tarqeq: white can try to poke out the J13 one but there is aji
+]
+;B[lq]C[
+
+-- chat --
+Tarqeq: so it shouldn't work
+]
+;W[kq]
+;B[lp]C[
+
+-- chat --
+Popz: how could white try that?
+Tarqeq: I guess they can't even
+]
+;W[gh]
+;B[gg]C[
+
+-- chat --
+Tarqeq: B10 seems like a move that can set up a working cut if white resists
+Tarqeq: or C10
+]
+;W[ej]C[
+
+-- chat --
+Tarqeq: white player seems to agree
+]
+;B[rp]
+;W[pb]
+;B[qb]
+;W[kr]C[
+
+-- chat --
+Tarqeq: does something like S7 work, maybe?
+]
+;B[be]
+;W[qn]C[
+
+-- chat --
+Tarqeq: B11 or something?
+]
+;B[dj]
+;W[bj]C[
+
+-- chat --
+KA0S: k17 starting to look fairly large
+]
+;B[bn]C[
+
+-- chat --
+Srandom: maybe b6? threatens 
+]
+;W[bm]C[
+
+-- chat --
+Srandom: dang got sniped
+]
+;B[hj]
+;W[hi]
+;B[gj]
+;W[ii]
+;B[jc]
+;W[rh]
+;B[rg]
+;W[bo]
+;B[co]
+;W[cn]
+;B[bp]
+;W[an]
+;B[nd]
+;W[mb]
+;B[lr]
+;W[bc]
+;B[ap]
+;W[sp]
+;B[sq]
+;W[so]
+;B[rq]
+;W[fe]
+;B[ff]
+;W[ls]
+;B[ms]
+;W[ks]C[
+
+-- chat --
+c.j.bloo: Before it is over, let me say a big thank you to CZbaron for relaying these games, I enjoyed it a lot!
+]
+;B[mr]
+;W[om]
+;B[on]
+;W[ol]
+;B[ll]
+;W[is]
+;B[sh]
+;W[si]
+;B[sg]
+;W[ri]
+;B[gq]
+;W[qa]
+;B[ra]
+;W[pa]
+;B[rb]
+;W[fj]
+;B[pn]
+;W[pm]
+;B[ah]C[
+
+-- chat --
+dlpigozzi: yep! big thanks for this
+]
+;W[bh]
+;B[af]C[
+
+-- chat --
+CZBaron1: you're welcome, glad to hear that. but wait until the end
+]
+;W[ai]
+;B[ee]C[
+
+-- chat --
+CZBaron1: w resigned
+AnnaNur:  Thx!
+Tarqeq: from 2:0 to 2:3, that was exciting to watch
+CZBaron1: Lukáš Podpěra retained his title
+dlpigozzi: good timing for the greetings then!
+dlpigozzi: A12 reduction kill it
+c.j.bloo: Congrats to him and thanks for the great matches to both players and organisation!
+KA0S: Thanks for scribing!
+]
+)(;W[mf]
+;B[ne]
+;W[me]
+;B[nd]
+;W[md]
+;B[jc]
+;W[la]
+;B[nc]
+;W[nb]
+;B[ob]
+;W[ki]C[
+
+-- chat --
+mirreke: KAOS: something like this?
+mirreke: resist the cut. From move 0: R16 D17 Q3 P17 C4 R5 Q14 M17 P4 R8 C15 F16 F3 C12 D9 C16 R4 R12 Q17 P16 R13 Q12 Q5 G4 F4 G5 H2 K4 J4 J5 J3 K6 L5 K5 H6 H5 E6 B9 D13 D12 E13 E12 F13 G11 H13 C7 E8 C13 D15 H16 J12 J10 J8 F7 F6 G6 G7 K8 G8 K9 L16 J15 L12 L14 M16 N17 M14 Q16 R17 M13 L13 L15 M15 Q15 R15 P14 O14 Q13 R14 N13 P13 P15 O13 M11 L17 L18 K18 N14 O15 N15 O16 N16 K17 M19 O17 O18 P18 L11 
+mirreke: resist the cut, maybe m10 instead of o11. From move 0: R16 D17 Q3 P17 C4 R5 Q14 M17 P4 R8 C15 F16 F3 C12 D9 C16 R4 R12 Q17 P16 R13 Q12 Q5 G4 F4 G5 H2 K4 J4 J5 J3 K6 L5 K5 H6 H5 E6 B9 D13 D12 E13 E12 F13 G11 H13 C7 E8 C13 D15 H16 J12 J10 J8 F7 F6 G6 G7 K8 G8 K9 L16 J15 L12 L14 M16 N17 M14 Q16 R17 M13 L13 L15 M15 Q15 R15 P14 O14 Q13 R14 N13 P13 P15 O13 M11 L17 L18 K18 N14 O15 N15 O16 N16 K17 M19 O17 O18 P18 L11 
+]
+))(;W[mf]
+;B[ne]
+;W[me]
+;B[md]
+;W[nd]
+;B[ob]
+;W[nc]
+;B[nh]C[
+
+-- chat --
+KA0S: 11. From move 0: R16 D17 Q3 P17 C4 R5 Q14 M17 P4 R8 C15 F16 F3 C12 D9 C16 R4 R12 Q17 P16 R13 Q12 Q5 G4 F4 G5 H2 K4 J4 J5 J3 K6 L5 K5 H6 H5 E6 B9 D13 D12 E13 E12 F13 G11 H13 C7 E8 C13 D15 H16 J12 J10 J8 F7 F6 G6 G7 K8 G8 K9 L16 J15 L12 L14 M16 N17 M14 Q16 R17 M13 L13 L15 M15 Q15 R15 P14 O14 Q13 R14 N13 P13 P15 O13 M11 L17 N14 O15 N15 N16 O16 P18 O17 O12 
+KA0S: I meant this, white can't really reduce b liberties straight away and w has only 3 at the top
+]
+))(;B[de]
+;W[qe]
+;B[pe]
+(;W[pd]
+;B[qc]
+;W[qf]C[
+
+-- chat --
+Srandom: e.g., this weakness. From move 0: R16 D17 Q3 P17 C4 R5 Q14 M17 P4 R8 C15 F16 F3 C12 D9 C16 R4 R12 Q17 P16 D15 R15 Q15 Q16 R17 R14 
+]
+)(;W[qf]
+;B[pd]
+;W[pg]
+;B[nf]
+;W[og]
+;B[ne]C[
+
+-- chat --
+Srandom: or something like this. From move 0: R16 D17 Q3 P17 C4 R5 Q14 M17 P4 R8 C15 F16 F3 C12 D9 C16 R4 R12 Q17 P16 D15 R15 Q15 R14 Q16 Q13 O14 P13 O15 
+]
+)))

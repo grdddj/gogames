@@ -1,0 +1,315 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[9th European Pro Championships, Round 3]
+PC[https://online-go.com/review/1648634]
+PB[Stanislaw Frejlak]
+PW[Mateusz Surma]
+BR[2p]
+WR[4p]
+OT[Error: time control missing]
+RE[W+R]
+SZ[19]
+KM[7.5]
+RU[Chinese]
+
+;B[dp]
+;W[pq]
+;B[dc]
+;W[pc]
+;B[dh]
+;W[cn]
+;B[co]
+;W[dn]
+;B[fp]
+;W[dk]
+;B[fl]C[
+
+-- chat --
+OndraKruml: what a move
+Whirly: It might be a prep
+]
+;W[dd]
+;B[ec]
+;W[cd]
+;B[cc]
+;W[bc]
+;B[bb]
+;W[be]
+;B[ac]
+;W[fe]
+;B[ej]
+;W[gn]C[
+
+-- chat --
+EGF2: This is the 3rd round of 9th European Pro Championships played in Bucharest.
+EGF2: More information: https://eurogofed.org/epc/2026.html
+EGF2: https://asociatiadornago.com/european-pro-championship-polytrade-grand-prix/
+EGF2: Time settings 45 minutes + 20 seconds increment
+]
+;B[dj]
+;W[ck]
+;B[cj]C[
+
+-- chat --
+OndraKruml: I bet on Mateusz but after f8 I would have like to be on Stas side :X but perhaps Mateusz will also show a creative move
+]
+;W[he]
+;B[hp]C[
+
+-- chat --
+Sadaharu: You don't need to be creative to win though
+]
+;W[gl]
+;B[fm]
+;W[eo]
+;B[ep]
+;W[gm]
+;B[gk]
+;W[go]
+;B[hk]
+;W[gp]
+;B[gq]
+;W[hq]
+;B[ip]
+;W[iq]
+;B[jq]
+;W[jr]
+;B[jp]
+;W[gr]
+;B[fq]
+;W[kr]
+;B[im]C[
+
+-- chat --
+OndraKruml: Id be quite afraid as w now
+]
+;W[in]
+;B[lq]C[
+
+-- chat --
+Cezary: Yeah! Super scary for white
+]
+;W[jm]
+;B[lr]
+;W[ir]
+;B[hs]
+;W[ls]C[
+
+-- chat --
+OndraKruml: j2 m1 tesuji after tesuji to cling on life
+OndraKruml: arent all of the boards stuck somehow?
+Daniug: this IZis is frustrating. I was told it depends of the internet connection
+Mbrez: They are but it will come back
+Mbrez: on the Izis server everything is fine
+EGF2: http://app.izis.cn:8080/web/#/live_detail?gameId=877471&type=2&isLand=true
+EGF2: The boards are working fine.
+OndraKruml: aha so it's the transcription to online go service thats down? Interesstinvg
+EGF2: The problem is the connection between the IZIS server and OGS, done by a special script, which is usually working well too
+OndraKruml: wow this game variation is absolutely epic :D b played n3 empty triangle
+libertycap: :D
+libertycap: unbelievable recovery
+OndraKruml: this could be the most entertaining game i've ever seen
+Daniug: this is chaos:)
+]
+(;B[ms]
+;W[ks]
+;B[nr]
+;W[is]
+;B[lo]C[
+
+-- chat --
+OndraKruml: peace. From move 0: D4 Q3 D17 Q17 D12 C6 C5 D6 F4 D9 F8 D16 E17 C16 C17 B17 B18 B15 A17 F15 E10 G6 D10 C9 C10 H15 H4 G8 F7 E5 E4 G7 G9 G5 H9 G4 G3 H3 J4 J3 K3 K2 K4 G2 F3 L2 J7 J6 M3 K7 M2 J2 H1 M1 N1 L1 O2 J1 M5 
+Whirly: White yeah but exchange f2 first
+Whirly: Without the word white*
+]
+)(;B[ks]
+;W[js]
+;B[mq]
+;W[nq]
+;B[jn]
+;W[kq]
+;B[kp]
+;W[kn]
+;B[jo]
+;W[il]
+;B[km]
+;W[jl]
+;B[nr]
+;W[lp]
+;B[np]
+;W[mo]
+;B[ln]
+;W[oq]
+;B[mp]
+;W[lo]
+;B[ko]
+;W[mn]
+;B[op]
+;W[lm]
+;B[kl]
+;W[kn]
+;B[pp]
+;W[kk]
+;B[ll]
+;W[ml]
+;B[lk]
+;W[ln]
+;B[kj]
+;W[qq]
+;B[qp]
+;W[rp]
+;B[ro]
+;W[rr]
+;B[sp]
+;W[sq]
+;B[rq]
+;W[mk]
+;B[jk]
+;W[rp]
+;B[hl]
+;W[hm]
+;B[rq]
+;W[lj]
+;B[kk]
+;W[rp]
+;B[ik]
+;W[im]
+;B[rq]
+;W[bo]
+;B[bp]
+;W[rp]
+;B[nm]
+;W[so]
+;B[mm]
+;W[ho]
+;B[sn]
+;W[ol]
+;B[sp]
+;W[do]
+;B[cp]
+;W[so]
+;B[nl]
+;W[mj]
+;B[sp]
+;W[ad]
+;B[bd]
+;W[so]
+;B[ae]
+;W[sp]
+;B[nk]
+;W[oi]
+;B[ni]
+;W[nj]
+;B[oj]
+;W[nh]
+;B[pi]
+;W[mi]
+;B[oh]
+;W[ok]
+;B[ni]
+;W[mg]
+;B[ng]
+;W[mh]
+;B[qn]
+;W[rm]
+;B[rn]
+;W[pm]
+;B[nn]
+;W[io]
+;B[pn]
+;W[no]
+;B[on]
+;W[pj]
+;B[oi]
+;W[qj]
+;B[qi]
+;W[ri]
+;B[rh]
+;W[rj]
+;B[ql]
+;W[rg]
+;B[sh]
+;W[pg]
+;B[qh]
+;W[og]
+;B[qg]
+;W[qf]
+;B[rf]
+;W[re]
+;B[sg]
+;W[pk]
+;B[qe]
+;W[qm]
+;B[sm]
+;W[rl]
+;B[sl]
+;W[sk]
+;B[si]
+;W[sj]
+;B[ms]
+;W[or]
+;B[nf]
+;W[mf]
+;B[ne]
+;W[me]
+;B[nd]
+;W[qd]
+;B[pe]
+;W[os]
+;B[je]
+;W[md]
+;B[mc]
+;W[lc]
+;B[nb]
+;W[mb]
+;B[nc]
+;W[jd]
+;B[kd]
+;W[jc]
+;B[ie]
+;W[hd]
+;B[kc]
+;W[kb]
+;B[id]
+;W[ic]
+;B[ke]
+;W[ld]
+;B[hc]
+;W[hb]
+;B[gc]
+;W[ig]C[
+
+-- chat --
+EGF2: Black resigned
+]
+;B[jg]
+;W[jh]
+;B[if]
+;W[hf]
+;B[ih]
+;W[hg]
+;B[kh]
+;W[ji]
+;B[ki]
+;W[kg]
+;B[kf]
+;W[jf]
+;B[fo]
+;W[fn]
+;B[jg]
+;W[lg]
+;B[ii]
+;W[jf]
+;B[em]
+;W[en]
+;B[jg]
+;W[le]
+;B[jj]
+;W[lf]C[
+
+-- chat --
+Laman: over?
+Daniug: incredible game :)
+]
+))

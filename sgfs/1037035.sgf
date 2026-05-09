@@ -1,0 +1,389 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[EGF ProQuali - Simara - Teuber]
+PC[https://online-go.com/review/1037035]
+PB[Simara Jan]
+PW[Teuber Benjamin]
+BR[6d]
+WR[6d]
+OT[Error: time control missing]
+RE[?]
+SZ[19]
+KM[7.5]
+RU[Chinese]
+C[
+
+-- chat --
+kukulis: hi
+daice_bot: hi，i'm a bot
+]
+;B[pp]
+;W[dd]C[
+
+-- chat --
+KrtekHonza: Go go Pisa!!
+EGF2: Stream from the tournament: https://youtu.be/xQ5CT3Afx4w
+]
+;B[dp]
+;W[pd]
+;B[qf]
+;W[nc]
+;B[qd]C[
+
+-- chat --
+Omnifyr: p16 is usual follow up of joseki afaik
+Omnifyr: ai says it is the only move
+]
+;W[qc]
+;B[rc]
+;W[qe]
+;B[rd]
+;W[pe]
+;B[re]
+;W[qb]
+;B[pf]
+;W[rg]
+;B[qh]
+;W[rh]
+;B[qj]
+;W[qg]
+;B[pc]C[
+
+-- chat --
+InDoubt: Piso, do toho!
+]
+;W[pb]
+;B[od]
+;W[oe]
+;B[ph]
+;W[nq]
+;B[pn]C[
+
+-- chat --
+OndraKruml: p16 is unusual
+]
+;W[oo]
+;B[po]
+;W[pr]C[
+
+-- chat --
+TomaLexi: How big/small is the s14 cut according to ai?
+]
+;B[qq]
+;W[kq]C[
+
+-- chat --
+Omnifyr: -10% according to leela
+]
+;B[fc]C[
+
+-- chat --
+Omnifyr: -13% it became with higher playouts
+]
+;W[cf]
+;B[dc]
+;W[cc]
+;B[cb]
+;W[ec]
+;B[db]
+;W[ed]
+;B[eb]
+;W[cn]
+;B[fq]
+;W[bc]C[
+
+-- chat --
+TomaLexi: Yeah Figured, crazy hard to judge for me
+]
+;B[hc]
+(;W[cp]C[
+
+-- chat --
+OndraKruml: Aha maybe im just confused
+]
+;B[cq]
+(;W[bq]
+;B[br]C[
+
+-- chat --
+TomaLexi: Yeah, but when is impossible to judge for me in a real game, which is why I try to avoid that joseki haha
+]
+(;W[bo]
+;B[aq]
+;W[bp]
+;B[dq]C[
+
+-- chat --
+kukulis: Omnifyr: Q13 is not good right now, because black P14 makes better use of sacrificed stones
+]
+;W[hq]C[
+
+-- chat --
+redreoicy: @omnifyr isn't that 18 pts gote
+redreoicy: t18 and t11 one point each
+]
+;B[cj]
+;W[cl]
+;B[ch]
+(;W[rf]
+;B[ne]
+(;W[oc]
+;B[of]
+;W[nd]
+;B[ri]
+;W[rb]C[
+
+-- chat --
+kukulis: I like this variation related to S14. From move 0: Q4 D16 D4 Q16 R14 O17 R16 R17 S17 R15 S16 Q15 S15 R18 Q14 S13 R12 S12 R10 R13 Q17 Q18 P16 P15 Q12 O3 Q6 P5 Q5 Q2 R3 L3 F17 C14 D17 C17 C18 E17 D18 E16 E18 C6 F3 B17 H17 C4 C3 B3 B2 B5 A3 B4 D3 H3 C10 C8 C12 S14 O15 P17 P14 O16 S11 S18 
+Omnifyr: https://www.twitch.tv/europeangofederation
+]
+)(;W[of]
+;B[pg]
+;W[ri]C[
+
+-- chat --
+redreoicy: just that your ending variation was a clear 18 point move ;)
+]
+))(;W[fd]
+;B[gd]
+;W[fb]
+;B[gc]C[
+
+-- chat --
+Omnifyr: maybe, but hard to judge how many points it exactly is cuz black gets some forcing moves outside and ko threates in the future. And if black connects s14 then black also gets a chance to play s18 in endgame @redreoicy
+]
+;W[jc]C[
+
+-- chat --
+kukulis: I c
+Omnifyr: yh thats true 
+Omnifyr: mb
+]
+(;B[bk]
+(;W[bl]
+;B[bg]C[
+
+-- chat --
+kukulis: both B9 and B13 looks big. From move 0: Q4 D16 D4 Q16 R14 O17 R16 R17 S17 R15 S16 Q15 S15 R18 Q14 S13 R12 S12 R10 R13 Q17 Q18 P16 P15 Q12 O3 Q6 P5 Q5 Q2 R3 L3 F17 C14 D17 C17 C18 E17 D18 E16 E18 C6 F3 B17 H17 C4 C3 B3 B2 B5 A3 B4 D3 H3 C10 C8 C12 F16 G16 F18 G17 K17 B9 B8 B13 
+]
+)(;W[bg]
+;B[bl]
+;W[bm]
+;B[dm]
+;W[cm]
+;B[ek]C[
+
+-- chat --
+kukulis: if white ignores B9. From move 0: Q4 D16 D4 Q16 R14 O17 R16 R17 S17 R15 S16 Q15 S15 R18 Q14 S13 R12 S12 R10 R13 Q17 Q18 P16 P15 Q12 O3 Q6 P5 Q5 Q2 R3 L3 F17 C14 D17 C17 C18 E17 D18 E16 E18 C6 F3 B17 H17 C4 C3 B3 B2 B5 A3 B4 D3 H3 C10 C8 C12 F16 G16 F18 G17 K17 B9 B13 B8 B7 D7 C7 E9 
+]
+))(;B[ri]
+;W[ge]
+;B[he]
+;W[gf]C[
+
+-- chat --
+kukulis: I think S11 played too early
+]
+;B[ej]C[
+
+-- chat --
+kukulis: but may bet it depends on player's style
+]
+;W[el]C[
+
+-- chat --
+OndraKruml: w didnt find a way to attack the two black stones so game should be bit better for black
+]
+;B[gj]
+;W[nm]C[
+
+-- chat --
+Omnifyr: ai says timing for capturing s13 stones were perfect but black was suppose to capture with either p13 or s14
+Omnifyr: sorry q13 or s14
+Omnifyr: s11 is -12%
+]
+;B[lp]C[
+
+-- chat --
+Reesha2003: Now the fun begins
+Omnifyr: i dont think black will try to attack bottom whites tho, it only asks to keep white low
+]
+;W[mq]C[
+
+-- chat --
+OndraKruml: sus
+EGF2: b 39min w 45min
+]
+;B[nn]
+;W[mn]
+;B[mo]C[
+
+-- chat --
+OndraKruml: they are spending a lot of time in last 5 moves
+EGF2: b 31min w 23min
+]
+;W[on]C[
+
+-- chat --
+OndraKruml: ha surprise move
+OndraKruml: our analytics thought w would just extend
+janbohn1978: Is loosing q2 not an Option? 
+]
+;B[no]
+;W[op]
+;B[om]C[
+
+-- chat --
+OndraKruml: b shape kinda meh
+]
+;W[ln]C[
+
+-- chat --
+OndraKruml: maybe black can just sacrifice
+]
+;B[lo]C[
+
+-- chat --
+OndraKruml: ughh :D
+Ladan: Such a shapes :o
+OndraKruml: it makes sense though b is aiming at m3 cut
+OndraKruml: its the harry potter bruise shape
+GoDave89: lol
+]
+;W[lq]C[
+
+-- chat --
+GoDave89: M3?
+]
+;B[kn]C[
+
+-- chat --
+Ladan: :D
+]
+;W[ml]C[
+
+-- chat --
+OndraKruml: harry potter move too good, no idea how to solve it. Looks good for b now
+GoDave89: dobby is freeeeeeee
+]
+;B[km]C[
+
+-- chat --
+Marta: ^_^
+Piwh: I would be very afraid to play this sequence for black, but it seems to be fine. And it starts to look good for B
+]
+;W[ol]
+;B[pm]
+;W[ll]C[
+
+-- chat --
+Kanin: K4 is sente for black
+]
+;B[jp]
+;W[jq]
+;B[oq]
+;W[np]C[
+
+-- chat --
+OndraKruml: oh black was afraid w would p2 later?
+]
+;B[jk]
+;W[ip]
+;B[lm]
+;W[li]C[
+
+-- chat --
+EGF2: b 13min w 13min
+]
+;B[jd]
+;W[kd]
+;B[je]
+;W[of]
+;B[pg]
+;W[ic]
+;B[id]
+;W[ld]
+;B[or]C[
+
+-- chat --
+OndraKruml: this move says simi believe he wont lose more than 10 points in yose :P
+]
+;W[fk]
+;B[fj]
+;W[hk]
+;B[ii]
+;W[nl]C[
+
+-- chat --
+GoDave89: O8?
+]
+;B[kl]
+;W[nh]
+;B[oj]C[
+
+-- chat --
+EGF2: b 2min w 30s  
+]
+;W[pk]C[
+
+-- chat --
+redreoicy: n11?
+]
+;B[mi]C[
+
+-- chat --
+redreoicy: oh they are listening to me
+]
+;W[mj]
+;B[mh]
+;W[ni]
+;B[nj]
+;W[ng]
+;B[lj]
+;W[mk]
+;B[lh]
+;W[ki]
+;B[kh]
+;W[pj]
+;B[oi]
+;W[gr]
+;B[fr]C[
+
+-- chat --
+Piwh: Did W resign ? 
+EGF2: B + R
+InDoubt: Nice :)
+OndraKruml: gg
+KrtekHonza: gg
+Reesha2003: gg
+Trevoke: if there's anyone who has control over the OGS banner, it still displays an ad for this game, 40 minutes after the end of the game
+joachim: It will disappear in about 14 min. It seems the game was rather quickly decided.
+]
+)))(;W[bp]
+;B[dq]
+;W[bj]C[
+
+-- chat --
+kukulis: I think its better to play B4 for white instead of B5. From move 0: Q4 D16 D4 Q16 R14 O17 R16 R17 S17 R15 S16 Q15 S15 R18 Q14 S13 R12 S12 R10 R13 Q17 Q18 P16 P15 Q12 O3 Q6 P5 Q5 Q2 R3 L3 F17 C14 D17 C17 C18 E17 D18 E16 E18 C6 F3 B17 H17 C4 C3 B3 B2 B4 D3 B10 
+]
+))(;W[rf]
+;B[ri]
+;W[rb]C[
+
+-- chat --
+kukulis: is it ok to sacrifice S16 stones ?. From move 0: Q4 D16 D4 Q16 R14 O17 R16 R17 S17 R15 S16 Q15 S15 R18 Q14 S13 R12 S12 R10 R13 Q17 Q18 P16 P15 Q12 O3 Q6 P5 Q5 Q2 R3 L3 F17 C14 D17 C17 C18 E17 D18 E16 E18 C6 F3 B17 H17 C4 C3 S14 S11 S18 
+TomaLexi: Yeah, because of the outside strength and influence 
+kukulis: at some point it will become big enough to play
+kukulis: I c :)
+]
+))(;W[rf]
+;B[ri]
+;W[rb]
+;B[pg]
+;W[sc]C[
+
+-- chat --
+Omnifyr: the x marked spaces are going to be filled, so is only 16pts gote if white playes, however black also gets outside frocing moves. From move 0: Q4 D16 D4 Q16 R14 O17 R16 R17 S17 R15 S16 Q15 S15 R18 Q14 S13 R12 S12 R10 R13 Q17 Q18 P16 P15 Q12 O3 Q6 P5 Q5 Q2 R3 L3 F17 C14 D17 C17 C18 E17 D18 E16 E18 C6 F3 B17 H17 S14 S11 S18 Q13 T17 
+]
+))

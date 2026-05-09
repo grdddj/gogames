@@ -1,0 +1,388 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[European Championship Round 5 Board 4]
+PC[https://online-go.com/review/1113663]
+PB[Andrii Kravets]
+PW[Tanguy Le Calve]
+BR[1p]
+WR[1p]
+OT[Error: time control missing]
+RE[?]
+SZ[19]
+KM[7.5]
+RU[Chinese]
+
+;B[dp]
+;W[pd]
+;B[dd]
+;W[pq]
+;B[qo]
+;W[op]
+;B[ql]
+;W[fq]
+;B[dn]
+;W[cc]
+;B[cd]
+;W[dc]
+;B[ed]
+;W[fb]
+;B[eq]
+;W[fp]
+;B[hq]
+;W[jq]
+;B[ho]
+;W[fn]
+;B[jo]
+;W[lq]
+;B[dk]
+;W[gm]
+;B[im]
+;W[gj]
+;B[er]
+;W[di]
+;B[ei]
+;W[eh]
+;B[fi]
+;W[dj]
+;B[ek]
+;W[ck]
+;B[fk]
+;W[cm]
+;B[hl]
+;W[dm]
+;B[em]C[
+
+-- chat --
+AtariAnyone: White is very confident to leave the first weak group hanging like this 
+]
+;W[bo]C[
+
+-- chat --
+NicelyManifested: Letting B become a bit overconcentrated
+Piwh: This looks like such a territory heavy game for white.
+Piwh: But I guess capturing those is pretty inefficient for black. 
+]
+;B[dh]C[
+
+-- chat --
+WhithaKyuKyu: e6 still annoying
+]
+;W[bj]
+;B[cn]
+;W[bn]
+;B[ch]C[
+
+-- chat --
+serban_mihai: E6 then take the two black stones at D6 and then take corner?
+]
+(;W[en]
+(;B[dl]
+;W[do]
+;B[cl]
+;W[co]
+;B[bl]
+;W[fr]C[
+
+-- chat --
+serban_mihai: var1. From move 0: D4 Q16 D16 Q3 R5 P4 R8 F3 D6 C17 C16 D17 E16 F18 E3 F4 H3 K3 H5 F6 K5 M3 D9 G7 J7 G10 E2 D11 E11 E12 F11 D10 E9 C9 F9 C7 H8 D7 E7 B5 D12 B10 C6 B6 C12 E6 D8 D5 C8 C5 B8 F2 
+]
+;B[bq]
+;W[cr]
+(;B[br]
+;W[cq]
+;B[cp]
+;W[bp]
+;B[dr]
+;W[ar]
+;B[aq]
+(;W[bs]C[
+
+-- chat --
+Zaphodian: exchange was possible - corner looks like Ko. From move 0: D4 Q16 D16 Q3 R5 P4 R8 F3 D6 C17 C16 D17 E16 F18 E3 F4 H3 K3 H5 F6 K5 M3 D9 G7 J7 G10 E2 D11 E11 E12 F11 D10 E9 C9 F9 C7 H8 D7 E7 B5 D12 B10 C6 B6 C12 E6 D8 D5 C8 C5 B8 F2 B3 C2 B2 C3 C4 B4 D2 A2 A3 B1 
+]
+)(;W[cs]C[
+
+-- chat --
+Animiral: w can even extend, no?. From move 0: D4 Q16 D16 Q3 R5 P4 R8 F3 D6 C17 C16 D17 E16 F18 E3 F4 H3 K3 H5 F6 K5 M3 D9 G7 J7 G10 E2 D11 E11 E12 F11 D10 E9 C9 F9 C7 H8 D7 E7 B5 D12 B10 C6 B6 C12 E6 D8 D5 C8 C5 B8 F2 B3 C2 B2 C3 C4 B4 D2 A2 A3 C1 
+]
+))(;B[cq]
+;W[dr]
+;B[ds]
+;W[br]
+(;B[ar]
+;W[cs]
+;B[es]
+;W[bs]C[
+
+-- chat --
+Zaphodian: This corner is hard to kill - this dies. From move 0: D4 Q16 D16 Q3 R5 P4 R8 F3 D6 C17 C16 D17 E16 F18 E3 F4 H3 K3 H5 F6 K5 M3 D9 G7 J7 G10 E2 D11 E11 E12 F11 D10 E9 C9 F9 C7 H8 D7 E7 B5 D12 B10 C6 B6 C12 E6 D8 D5 C8 C5 B8 F2 B3 C2 C3 D2 D1 B2 A2 C1 E1 B1 
+]
+)(;B[bs]
+;W[cs]
+;B[ar]
+;W[es]
+;B[dq]C[
+
+-- chat --
+Zaphodian: This corner is hard to kill - this is a ko again. From move 0: D4 Q16 D16 Q3 R5 P4 R8 F3 D6 C17 C16 D17 E16 F18 E3 F4 H3 K3 H5 F6 K5 M3 D9 G7 J7 G10 E2 D11 E11 E12 F11 D10 E9 C9 F9 C7 H8 D7 E7 B5 D12 B10 C6 B6 C12 E6 D8 D5 C8 C5 B8 F2 B3 C2 C3 D2 D1 B2 B1 C1 A2 E1 D3 
+]
+)))(;B[cp]
+;W[el]C[
+
+-- chat --
+Zaphodian: too easy for W. From move 0: D4 Q16 D16 Q3 R5 P4 R8 F3 D6 C17 C16 D17 E16 F18 E3 F4 H3 K3 H5 F6 K5 M3 D9 G7 J7 G10 E2 D11 E11 E12 F11 D10 E9 C9 F9 C7 H8 D7 E7 B5 D12 B10 C6 B6 C12 E6 C4 E8 
+]
+;B[fr]C[
+
+-- chat --
+serban_mihai: var2. From move 0: D4 Q16 D16 Q3 R5 P4 R8 F3 D6 C17 C16 D17 E16 F18 E3 F4 H3 K3 H5 F6 K5 M3 D9 G7 J7 G10 E2 D11 E11 E12 F11 D10 E9 C9 F9 C7 H8 D7 E7 B5 D12 B10 C6 B6 C12 E6 C4 E8 F2 
+]
+))(;W[do]
+;B[co]
+;W[cp]
+;B[en]C[
+
+-- chat --
+Talpa Iute: W C3 reduction in sente enough?
+]
+;W[cq]C[
+
+-- chat --
+FabienMA: superbe séquence pour Tanguy
+]
+;B[dl]C[
+
+-- chat --
+FabienMA: doesn't seem sente, I would play f2 here, what do you think ?
+filameur18: allez tanguy !!
+]
+;W[fr]C[
+
+-- chat --
+FabienMA: hehe
+]
+;B[eo]
+;W[hr]
+;B[cl]
+;W[bl]
+;B[bm]
+;W[am]
+;B[gc]
+;W[jd]
+;B[gb]
+;W[fc]
+;B[fd]C[
+
+-- chat --
+Talpa Iute: Is B overconcentrated or hyperconcentrated?
+]
+;W[bd]
+;B[be]
+;W[bc]
+;B[nc]C[
+
+-- chat --
+Zaphodian: thick is the word you are looking for
+]
+;W[ld]
+;B[ne]
+;W[pf]C[
+
+-- chat --
+kizuki: B is concentrating
+]
+;B[ng]
+;W[lg]
+;B[ph]C[
+
+-- chat --
+Talpa Iute: for me, B looks very thick but B's stones are not very efficient right now. M3 is settled. C3 is settled. B17 is settled. And I highly doubt that B can effectively attack M16 or Q14 to get enough points. Maybe I'm wrong. 
+]
+;W[qh]
+;B[qi]
+;W[qg]
+;B[jg]C[
+
+-- chat --
+Talpa Iute: W already gained around 35p while B doesn't have alot of cash. 
+]
+;W[jf]
+;B[if]C[
+
+-- chat --
+FabienMA: w can use the weakness at g16 to stabilize, if he can, I would say the game is over
+]
+;W[kg]
+;B[jh]
+;W[pb]
+;B[je]
+;W[ke]
+;B[kf]
+;W[lf]
+;B[li]
+;W[jf]
+;B[ie]
+;W[mc]
+;B[mo]
+;W[mp]
+;B[kp]
+;W[kq]
+;B[mb]
+;W[lb]
+;B[md]
+;W[lc]
+;B[nh]
+;W[nb]
+;B[oo]
+;W[lo]
+;B[mn]
+;W[ko]
+;B[kn]
+;W[ri]
+;B[qj]
+;W[ln]
+;B[lm]
+;W[lp]
+;B[km]
+;W[rj]
+;B[rk]
+;W[oc]
+;B[pp]
+;W[qp]
+;B[po]
+;W[rq]
+;B[np]
+;W[oq]
+;B[nq]
+;W[nr]
+;B[rp]
+;W[qq]
+;B[bi]
+;W[cm]
+;B[fo]
+;W[bf]
+;B[ae]C[
+
+-- chat --
+cesarlextrait: hi greta thunberg
+]
+;W[cg]
+;B[cf]
+;W[df]
+;B[ce]
+;W[bh]
+;B[dg]
+;W[ci]
+;B[bg]
+;W[ai]C[
+
+-- chat --
+FabienMA: how dare you !
+]
+;B[ib]
+;W[id]
+;B[hd]
+;W[ec]
+;B[ad]
+;W[ac]
+;B[ic]
+;W[pg]
+;B[oh]
+;W[dr]
+;B[ir]
+;W[iq]
+;B[gr]
+;W[hp]
+;B[hs]
+;W[gq]
+;B[go]
+;W[es]
+;B[ip]
+;W[hr]
+;B[mr]
+;W[mq]
+;B[no]
+;W[or]
+;B[hq]
+;W[eg]
+;B[cg]
+;W[hr]
+;B[rh]
+;W[rg]
+;B[hq]
+;W[ej]
+;B[fj]
+;W[hr]
+;B[fa]
+;W[ea]
+;B[hq]
+;W[pk]
+;B[qk]
+;W[hr]
+;B[sj]
+;W[sh]
+;B[hq]
+;W[kh]
+;B[ki]
+;W[gp]
+;B[dq]
+;W[cr]
+;B[fs]
+;W[gs]
+;B[ga]
+;W[hr]
+;B[da]
+;W[ca]
+;B[eb]
+;W[db]
+;B[ea]
+;W[bb]
+;B[ro]
+;W[jp]
+;B[io]
+;W[me]
+;B[oe]
+;W[nd]
+;B[sq]
+;W[sr]
+;B[sp]
+;W[jc]
+;B[rr]
+;W[qr]
+;B[jb]
+;W[rs]
+;B[kc]
+;W[kd]
+;B[kb]
+;W[mh]
+;B[mi]
+;W[ep]
+;B[pe]
+;W[qe]
+;B[do]
+;W[od]
+;B[nf]
+;W[ka]
+;B[ja]
+;W[la]
+;B[ag]
+;W[ah]
+;B[sk]
+;W[si]
+;B[kf]
+;W[mf]
+;B[jf]
+;W[mg]
+;B[lh]
+;W[og]
+;B[of]
+;W[bm]
+;B[dm]C[
+
+-- chat --
+EGF4: Black (Andrii Kravets) wins by 11.5 points
+ahops: interesting game
+NicelyManifested: looks like a ddk game now. Crazy.
+]
+))

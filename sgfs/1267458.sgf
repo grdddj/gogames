@@ -1,0 +1,272 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[IZIS2OGS transcript of game 530814]
+PC[https://online-go.com/review/1267458]
+PB[Medak Mirta, 3d]
+PW[Medak Stjepan, 4d]
+BR[3d]
+WR[4d]
+OT[Error: time control missing]
+RE[W+R]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+
+;B[cp]
+;W[qd]
+;B[oc]
+;W[pe]
+;B[dc]
+;W[pq]
+;B[fq]
+;W[de]
+;B[ch]
+;W[cc]
+;B[cb]
+;W[cd]
+;B[eb]
+;W[fe]
+;B[gd]
+;W[eh]
+;B[dj]
+;W[po]
+;B[qj]
+;W[ql]
+;B[qg]
+;W[nd]
+;B[nc]
+;W[md]
+;B[mc]
+;W[ld]
+;B[kc]
+;W[kp]C[
+
+-- chat --
+kzl: can the bottom right be invaded?
+tap1998: Sure, but you don‘t want to do that now
+kzl: that makes sense. i was curious about the high enclosure
+tap1998: Some time later q2 is a normal move, for example
+tap1998: (Albeit old fashioned)
+kzl: thanks!
+kzl: old fashioned?
+Rufus3000: A nice tournament in a beautiful scenery near Porec, Istria, Croatia is entering the second day.
+tap1998: I don‘t see it too often these days. But maybe thats also because people don‘t buid frameworks around an enclosure as much ;)
+Rufus3000: All pairings available on:
+Rufus3000: https://hgos.hr/croatianopen2024/
+Rufus3000: The standings before Round 4:
+Rufus3000: Mirta and Stjepan 3/3
+]
+;B[iq]
+;W[dp]
+;B[do]
+;W[cq]
+;B[dq]
+;W[ep]
+;B[eq]
+;W[co]
+;B[bp]
+;W[cn]
+;B[eo]C[
+
+-- chat --
+Rufus3000: Lucas Hofmann (1d), Zoran Mutabzija (now 2d, European Champion in 1969 and in 1971), Tadej Tukara (1d), Roko Crvelin (3d), 2/3
+Rufus3000: However, Zoran with 79 years is not the oldest participant.
+Rufus3000: Mladen Smud is 80, and he is playing all games on a special board for blind people.
+kzl: :(
+kzl: does w stand to gain anything from the bottom left exchange?
+]
+(;W[fp]
+;B[go]C[
+
+-- chat --
+tap1998: Ouch. From move 0: C4 R16 P17 Q15 D17 Q3 F3 D15 C12 C17 C18 C16 E18 F15 G16 E12 D10 Q5 R10 R8 R13 O16 O17 N16 N17 M16 L17 L4 J3 D4 D5 C3 D3 E4 E3 C5 B4 C6 E5 F4 G5 
+]
+)(;W[hp]C[
+
+-- chat --
+tap1998: interesting that b didn't capture instead of G4. that looks much more solid
+]
+;B[gp]
+;W[hq]
+;B[ip]
+;W[ho]
+;B[io]
+;W[hr]
+;B[hn]
+;W[jr]
+;B[ir]
+;W[is]
+;B[jn]
+;W[lo]C[
+
+-- chat --
+kzl: are the middle left black stones currently unsettled by the c6 group, or are they relatively safe?
+kzl: thanks!
+]
+(;B[gn]C[
+
+-- chat --
+tap1998: i consider them relatively safe, they have good shape and can always settle with c8 or c14. relatively speaking c6 is much weaker
+]
+)(;B[cf]
+;W[ge]
+;B[hd]
+;W[fd]
+;B[fc]
+;W[he]
+;B[id]
+;W[ph]
+;B[qh]
+;W[pj]
+;B[pi]
+;W[oi]
+;B[qi]
+;W[pk]
+;B[oh]
+;W[nh]
+;B[og]
+;W[gn]
+;B[gm]
+;W[hm]
+;B[in]
+;W[go]C[
+
+-- chat --
+kzl: i guess the forcing move at f5 is quite bad for b now
+]
+;B[hl]
+;W[im]
+;B[jl]
+;W[gl]
+;B[fm]
+;W[il]
+;B[ik]
+;W[hk]
+;B[jm]
+;W[hl]
+;B[hj]
+;W[fl]
+;B[em]
+;W[el]
+;B[dm]
+;W[ij]
+;B[jk]
+;W[gj]
+;B[hi]
+;W[gi]
+;B[ni]
+;W[dl]
+;B[oj]
+;W[ck]
+;B[cj]
+;W[bk]
+;B[eg]
+;W[dg]
+;B[dh]
+;W[fg]
+;B[ei]
+;W[ef]
+;B[bj]
+;W[bg]
+;B[cg]
+;W[bf]
+;B[ce]
+;W[be]
+;B[dd]
+;W[bb]
+;B[ba]
+;W[bc]
+;B[bh]
+;W[ag]
+;B[fj]
+;W[fi]
+;B[df]C[
+
+-- chat --
+dmedak: Black in 1st byoyomi
+dmedak: Whith has 33 minutes of the main time
+dmedak: It is 60 minutes + 3x30 seconds
+dmedak: Many events like this one: https://gogameslive.eu/
+]
+;W[ee]
+;B[bl]
+;W[cl]
+;B[eg]
+;W[fh]
+;B[fk]
+;W[gk]
+;B[ad]
+;W[ae]
+;B[bm]
+;W[cm]
+;B[ak]
+;W[bo]
+;B[hh]
+;W[ie]
+;B[kd]
+;W[ke]
+;B[le]
+;W[kf]
+;B[mf]
+;W[pc]
+;B[re]
+;W[rd]
+;B[qe]
+;W[rb]
+;B[oq]
+;W[op]
+;B[nq]
+;W[lq]
+;B[qq]
+;W[pr]
+;B[qp]
+;W[pp]
+;B[rn]
+;W[bq]
+;B[ap]
+;W[ao]
+;B[fp]
+;W[dp]
+;B[ep]
+;W[dr]
+;B[bs]
+;W[aq]
+;B[dp]
+;W[br]
+;B[cs]
+;W[as]
+;B[ar]
+;W[cr]
+;B[er]
+;W[as]
+;B[gs]
+;W[hs]
+;B[ar]
+;W[qo]
+;B[ro]
+;W[as]
+;B[kr]
+;W[jq]
+;B[ar]
+;W[rr]
+;B[pm]
+;W[as]
+;B[jp]
+;W[ds]
+;B[kq]
+;W[js]
+;B[lr]
+;W[mr]
+;B[mq]C[
+
+-- chat --
+dmedak: This is the correct flow of the game with the ko in the low left corner.
+dmedak: Last round starts in one hour (13:30 CEST).
+dmedak: The final countdown.
+dmedak: Pairings and standings on the tournament webpage:
+dmedak: https://hgos.hr/croatianopen2024/
+dmedak: The first three trophies are unique works of art.
+]
+;W[lp]
+)))

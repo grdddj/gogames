@@ -1,0 +1,483 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[European Championship R1 B3]
+PC[https://online-go.com/review/1505001]
+PB[Grosu Robert-Andrei]
+PW[Kravets Andrii]
+BR[4d]
+WR[2p]
+OT[Error: time control missing]
+RE[W+0.5]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+
+;B[pd]
+;W[dp]
+;B[dd]
+;W[pp]
+;B[fc]
+;W[bb]
+;B[cc]
+;W[bd]
+;B[bc]
+;W[be]
+;B[pk]
+;W[op]
+;B[oo]
+;W[np]
+;B[qn]
+;W[kp]
+;B[rp]
+;W[kq]
+;B[iq]
+;W[jr]
+;B[fq]
+;W[er]
+;B[fr]
+;W[go]
+;B[ep]
+;W[dq]
+;B[do]
+;W[cq]
+;B[cp]
+;W[bp]
+;B[co]
+;W[eo]
+;B[cn]
+;W[dn]
+;B[dm]
+;W[en]
+;B[em]
+;W[fm]
+;B[fl]
+;W[gm]
+;B[gl]
+;W[hm]
+;B[cl]
+;W[hl]
+;B[cj]
+;W[ch]
+;B[kd]
+;W[eh]
+;B[oc]
+;W[nc]
+;B[qe]
+;W[nd]
+;B[qf]
+;W[pe]
+;B[cd]
+;W[qc]
+;B[od]
+;W[ob]
+;B[pb]
+;W[nb]
+;B[qb]
+;W[oe]
+;B[ne]
+;W[pg]
+;B[og]
+;W[nf]
+;B[me]
+;W[oh]
+;B[qd]
+;W[ng]
+;B[lc]
+;W[jc]
+;B[jd]
+;W[lb]
+;B[kb]
+;W[kc]
+;B[jb]
+;W[ic]
+;B[ld]
+;W[gc]
+;B[mb]
+;W[fd]
+;B[ec]
+;W[ge]
+;B[ef]
+;W[cf]
+;B[gf]
+;W[hf]
+;B[gg]
+;W[ee]
+;B[df]
+;W[hg]
+;B[gh]
+;W[hh]
+;B[gi]
+;W[hi]C[
+
+-- chat --
+paulolops: edited sgf without B5. From move 0: Q16 D4 D16 Q4 F17 B18 C17 B16 B17 B15 Q9 P4 P5 O4 R6 L4 S4 L3 J3 K2 F3 E2 F2 G5 E4 D3 D5 C3 C4 B4 C5 E5 C6 D6 D7 E6 E7 F7 F8 G7 G8 H7 C8 H8 C10 C12 L16 E12 P17 O17 R15 O16 R14 Q15 C16 R17 P16 P18 Q18 O18 R18 P15 O15 Q13 P13 O14 N15 P12 R16 O13 M17 K17 K16 M18 L18 L17 K18 J17 M16 G17 N18 F16 E17 G15 E14 C14 G14 H14 G13 E15 D14 H13 G12 H12 G11 H11 
+paulolops: not sure if you can easily make it the main variation just posting it in case you can
+EGF: Thanks paulolops! I think I am on it
+]
+;B[bg]C[
+
+-- chat --
+paulolops: nice if you can delete the fake branch too it would be perfect
+paulolops: you can do that by going over the white mvoe 30 on the wrong branch and press the delete branch bin button
+paulolops: ty
+EGF: Thanks to you, looks much better!
+paulolops: no problem twitch chat is wondering if L3 is real can you confirm ?
+EGF: Yes L3 confirmed
+]
+;W[cg]
+;B[ad]C[
+
+-- chat --
+Mbrez: this game is spicy
+Mbrez: btw, Andrei beat Cornel and popic 7d lately, many good results, he's 9d fox, very promising player
+paulolops: damn young and strong
+paulolops: d a m n
+]
+;W[bh]C[
+
+-- chat --
+paulolops: is that a rude word ? okay i wont say it anymore
+]
+;B[bi]C[
+
+-- chat --
+matias.pankoke: But AI also really didn’t like his way to start the Ko 
+matias.pankoke: Yeah, strange feeling to watch from home ^^ 
+matias.pankoke: But I’ll be back :)
+]
+(;W[ff]C[
+
+-- chat --
+paulolops: isnt B11 creating the ko at F14 kind of ?
+]
+;B[fg]
+;W[eg]
+;B[fe]
+;W[ci]
+;B[bj]
+;W[ff]C[
+
+-- chat --
+Mbrez: I doubt so
+]
+(;B[gj]
+;W[de]
+;B[fe]C[
+
+-- chat --
+paulolops: nop
+paulolops: but maybe its smart
+]
+)(;B[fo]
+;W[fn]
+;B[fe]C[
+
+-- chat --
+Mbrez: you cant solve the ko in one move?
+matias.pankoke: I like the spirit, doubting European champions :) 
+Mbrez: well, Andrii can blunder
+paulolops: andrii likes to blunder id say
+]
+;W[la]C[
+
+-- chat --
+paulolops: but he also likes to come back 
+matias.pankoke: of course, I’m actually serious 
+]
+;B[ma]
+;W[ff]
+;B[eq]C[
+
+-- chat --
+Mbrez: sad you're not playing btw!
+matias.pankoke: He is trying to make the Ko less heavy. And black can’t easily play d15 to end the Ko because of Hane at G10
+]
+;W[dr]
+;B[fe]C[
+
+-- chat --
+Mbrez: but it makes it like a step ko no?
+]
+;W[gj]C[
+
+-- chat --
+paulolops: not really G10 and D15 are miai after connect ?
+matias.pankoke: He can actually connect if he ignores a threat
+Mbrez: but makes sens, thanks for explaining Matias :)
+]
+;B[ff]C[
+
+-- chat --
+paulolops: i would finish the ko here i think
+matias.pankoke: Yes it goes both ways. The Ko is softer like this for both
+]
+;W[fj]
+;B[fi]C[
+
+-- chat --
+matias.pankoke: White will live on the left but black gets H15 and J15
+]
+;W[ej]C[
+
+-- chat --
+paulolops: F11 is smart
+]
+;B[ei]
+;W[di]
+;B[dj]
+;W[dg]C[
+
+-- chat --
+paulolops: i would have just connect but black has time to cut
+]
+;B[he]
+;W[ae]
+;B[gd]C[
+
+-- chat --
+paulolops: R12 seems big after this
+paulolops: (for black)
+]
+;W[om]
+;B[pm]
+;W[nk]C[
+
+-- chat --
+matias.pankoke: Wow pretty amazing that black kept a lead up to Move 130. The next 20 Moves will probably decide the game in Andrii favor though I expect
+]
+;B[bo]
+;W[bq]
+;B[ol]
+;W[nl]
+;B[nm]
+;W[mm]
+;B[on]
+;W[mn]
+;B[lg]C[
+
+-- chat --
+matias.pankoke: No signs of it yet ^^ Maybe black will just win instead haha
+]
+;W[li]C[
+
+-- chat --
+paulolops: if andrei continue to win at this rythm he will take on shin jinseo at the end of the year x)
+]
+;B[qq]C[
+
+-- chat --
+yahel.or.3: If there are any more balls watching their games?
+]
+;W[qj]C[
+
+-- chat --
+paulolops: google translate failed you there no ?
+]
+;B[pj]
+;W[qi]
+;B[or]C[
+
+-- chat --
+yahel.or.3: YES thanks if there is another place that broadcasts the games
+]
+;W[nr]
+;B[oq]C[
+
+-- chat --
+Mbrez: that would be a big first upset to have the last wild card defeat the double champ 
+Mbrez: but seen his past results and current game, seems Robert is just clean 7d now
+]
+;W[qp]
+;B[rq]C[
+
+-- chat --
+paulolops: yep
+]
+;W[nq]C[
+
+-- chat --
+paulolops: yahelor I'm not sur I understand you search for a live stream like twitch ? or an other place like not OGS ?
+]
+;B[rk]
+;W[ac]C[
+
+-- chat --
+Mbrez: so, Andrii double champ, time for yose skills
+paulolops: there is a black aji to use at O10
+paulolops: but hard to see
+yahel.or.3: Black is strong, he was a new generation professional.
+]
+(;B[nj]
+;W[mj]
+;B[ni]
+;W[mh]
+;B[pi]
+;W[qh]
+;B[mk]C[
+
+-- chat --
+paulolops: annoying. From move 0: Q16 D4 D16 Q4 F17 B18 C17 B16 B17 B15 Q9 P4 P5 O4 R6 L4 S4 L3 J3 K2 F3 E2 F2 G5 E4 D3 D5 C3 C4 B4 C5 E5 C6 D6 D7 E6 E7 F7 F8 G7 G8 H7 C8 H8 C10 C12 L16 E12 P17 O17 R15 O16 R14 Q15 C16 R17 P16 P18 Q18 O18 R18 P15 O15 Q13 P13 O14 N15 P12 R16 O13 M17 K17 K16 M18 L18 L17 K18 J17 M16 G17 N18 F16 E17 G15 E14 C14 G14 H14 G13 E15 D14 H13 G12 H12 G11 H11 B13 C13 A16 B12 B11 F14 F13 E13 F15 C11 B10 F14 F5 F6 F15 M19 N19 F14 E3 D2 F15 G10 F14 F10 F11 E10 E11 D11 D10 D13 H15 A15 G16 P7 Q7 O9 B5 B3 P8 O8 O7 N7 P6 N6 M13 M11 R3 R10 Q10 R11 P2 O2 P3 R4 S3 O3 S9 A17 O10 N10 O11 N12 Q11 R12 N9 
+]
+)(;B[ki]
+;W[kj]
+;B[kh]
+;W[jj]
+;B[rh]
+;W[rg]
+;B[qh]
+;W[qg]
+;B[pi]
+;W[ph]
+;B[ri]C[
+
+-- chat --
+paulolops: its closeeee
+]
+;W[sd]C[
+
+-- chat --
+Mbrez: podpera won meanwhile
+]
+;B[rc]
+;W[oi]
+;B[cb]
+;W[ek]
+;B[el]
+;W[dk]
+;B[bm]
+;W[pq]
+;B[pr]
+;W[jf]
+;B[ah]
+;W[ag]
+;B[af]
+;W[bf]
+;B[kf]
+;W[lh]C[
+
+-- chat --
+Mbrez: olala so so close
+]
+;B[jg]
+;W[ie]
+;B[id]
+;W[sh]
+;B[rj]
+;W[ap]
+;B[ba]
+;W[ab]
+;B[sc]
+;W[se]
+;B[ji]
+;W[ii]
+;B[gk]
+;W[hk]C[
+
+-- chat --
+Mbrez: not sure where black can lose half a point
+]
+;B[ig]
+;W[if]
+;B[ih]C[
+
+-- chat --
+paulolops: everywhere
+paulolops: i can lose 5 pts easy here x)
+]
+;W[mg]
+;B[mf]
+;W[ck]
+;B[bk]
+;W[ao]
+;B[an]
+;W[qr]
+;B[rr]
+;W[qo]
+;B[ro]
+;W[oj]
+;B[pf]
+;W[of]
+;B[nn]
+;W[po]
+;B[pn]
+;W[je]C[
+
+-- chat --
+paulolops: ohoh
+]
+;B[ke]
+;W[ce]
+;B[de]
+;W[os]
+;B[qs]
+;W[no]C[
+
+-- chat --
+paulolops: white too many reverse sentes
+]
+;B[rd]
+;W[sg]
+;B[si]
+;W[dl]C[
+
+-- chat --
+paulolops: noooooooooooo its so sad
+]
+;B[ai]
+;W[ag]
+;B[cm]C[
+
+-- chat --
+Mbrez: ah
+]
+;W[hj]
+;B[re]
+;W[sf]
+;B[ca]
+;W[ad]
+;B[fh]C[
+
+-- chat --
+Mbrez: akh
+]
+;W[fk]C[
+
+-- chat --
+Mbrez: that would have been even more sad
+]
+;B[ps]
+;W[ns]
+;B[ok]C[
+
+-- chat --
+Mbrez: wow, well played Robert Andrei though, incredible 
+Mbrez: gg Andrii for yose skills :)
+John_C: Wow half a point
+paulolops: half pointer nooo
+matias.pankoke: ahhhh... O6 was the last losing move. He probably had so much time left
+John_C: Incredible game from Robert. I see he is now the Romanian Champion 
+matias.pankoke: really well played though :)
+Mbrez: https://www.eurogofed.org/egc/2025.html all other results
+John_C: He won all his game there including beating one pro and two 6ds  
+John_C: That is scary impressive 
+yahel.or.3: 0.5 w? 
+Noooooob: strongest 4d ever xD
+]
+)))(;W[de]
+;B[ce]C[
+
+-- chat --
+Mbrez: wait what happened, white didn't push at d15 first?
+]
+;W[ff]
+;B[fg]
+;W[eg]
+;B[br]
+;W[dg]C[
+
+-- chat --
+Mbrez: in the variation with direct ko perhaps it's worse for black to lose it than if he loses it here and just gets hurt a little
+Mbrez: something like this
+]
+))

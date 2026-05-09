@@ -1,0 +1,277 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[Paris Tournament R5 T2 Thomas Debarre 7d (w) - Chen Chongxiao (b)]
+PC[https://online-go.com/review/1675147]
+PB[Chen Chongxiao]
+PW[Thomas Debarre]
+BR[6d]
+WR[7d]
+OT[Error: time control missing]
+RE[?]
+SZ[19]
+KM[7.5]
+RU[AGA]
+
+;B[dd]C[
+
+-- chat --
+EGF2: Thomas Debarre n'est pas encore arrivé
+EGF2: Toutes les parties ont commencé sauf celle-là
+EGF2: On a mal choisi :)
+]
+;W[dp]
+;B[qd]
+;W[pp]C[
+
+-- chat --
+EGF2: C'est parti
+]
+;B[cq]
+;W[dq]
+;B[cp]
+;W[do]C[
+
+-- chat --
+EGF2: Thomas commence avec 33 minutes
+]
+;B[bn]
+;W[oc]
+;B[kc]
+;W[pe]
+;B[qe]
+;W[pf]
+;B[rg]
+;W[nq]
+;B[mc]
+;W[cc]
+;B[dc]
+;W[cd]
+;B[de]
+;W[bf]
+;B[ne]
+;W[pd]
+;B[qc]
+;W[ph]
+;B[pj]
+;W[nh]
+;B[nj]
+;W[lh]
+;B[mp]
+;W[np]
+;B[mn]
+;W[jd]
+;B[jc]
+;W[hd]
+;B[jf]
+;W[hf]
+;B[jh]
+;W[mj]
+;B[mk]
+;W[lj]
+;B[ni]
+;W[lf]C[
+
+-- chat --
+Kifra: snif. J'espère que ça ne va pas lui nuire. 
+]
+;B[je]
+;W[hh]
+;B[id]
+;W[nk]
+;B[ml]
+;W[ok]
+;B[pi]
+;W[qh]
+;B[rh]
+;W[pk]
+;B[rj]
+;W[qf]
+;B[rf]
+;W[nm]
+;B[kl]
+;W[jk]
+;B[oo]
+;W[qn]
+;B[qk]
+;W[pm]
+;B[og]
+;W[jl]
+;B[jn]
+;W[oh]C[
+
+-- chat --
+EGF2: The game is commente live on https://www.twitch.tv/europeangofederation
+]
+;B[cf]
+;W[bg]
+;B[mi]
+;W[li]
+;B[cb]
+;W[bb]
+;B[eb]
+;W[ca]
+;B[hi]
+;W[gi]
+;B[ii]
+;W[kk]
+;B[mh]
+;W[mg]
+;B[ng]
+;W[me]
+;B[nd]
+;W[nf]
+;B[of]
+;W[oe]
+;B[mf]
+;W[oj]
+;B[oi]
+;W[nf]
+;B[po]
+;W[pg]
+;B[qo]
+;W[mm]
+;B[qp]
+;W[ln]
+;B[no]
+;W[mq]
+;B[lo]
+;W[lm]
+;B[kq]
+;W[qr]
+;B[rr]
+;W[pr]
+;B[qq]
+;W[rs]
+;B[sr]
+;W[kr]
+;B[jr]
+;W[lr]
+;B[jq]
+;W[lp]
+;B[mo]
+;W[lq]
+;B[kp]
+;W[gh]
+;B[hc]
+;W[gd]
+;B[gc]
+;W[jg]
+;B[hk]
+;W[gl]
+;B[hl]
+;W[gj]
+;B[gm]
+;W[fl]
+;B[fm]
+;W[hm]
+;B[im]
+;W[hn]
+;B[go]C[
+
+-- chat --
+EGF2: Black has 3 minutes left, playing on the 30 sec increment
+]
+;W[ho]
+;B[gp]
+;W[hp]
+;B[hq]
+;W[gn]
+;B[fn]
+;W[fo]
+;B[em]
+;W[gq]
+;B[fp]
+;W[fq]
+;B[eo]
+;W[ep]
+;B[fo]
+;W[hr]
+;B[iq]
+;W[cr]
+;B[br]C[
+
+-- chat --
+EGF2: Playing on the last seconds of increment
+]
+;W[cn]
+;B[co]C[
+
+-- chat --
+EGF2: I mean white
+]
+;W[el]
+;B[dm]C[
+
+-- chat --
+EGF2: White is short on time, black still has 15 minutes
+]
+;W[dn]
+;B[bm]
+;W[hj]C[
+
+-- chat --
+EGF2: Black has been thinking for a while
+EGF2: Black 10 minutes left, White on increment
+]
+;B[dr]
+;W[er]
+;B[cs]
+;W[cm]
+;B[dl]
+;W[cl]
+;B[dk]
+;W[il]
+;B[ck]
+;W[bl]
+;B[bk]
+;W[ak]
+;B[bi]
+;W[aj]
+;B[bj]
+;W[ch]
+;B[ek]
+;W[fk]
+;B[ai]
+;W[al]
+;B[fj]
+;W[gk]
+;B[gr]
+;W[gs]
+;B[es]
+;W[bo]
+;B[bp]
+;W[dj]
+;B[ej]
+;W[ei]
+;B[fs]
+;W[fr]
+;B[ds]C[
+
+-- chat --
+balthahar: Whit can make two eyes with J1 K1 J2
+balthahar: one would be fake tho...
+]
+;W[ci]
+;B[ao]C[White resigns
+
+-- chat --
+EGF2: One liberty
+EGF2: White resigns
+Pempu: use move comments field for info
+EGF2: I don't understand 
+Pempu: there is move comments box that is persistend and wont be mixed with normalk chat
+EGF2: Ah, I see
+balthahar: it's always one liberty, isn't it hehe
+EGF2: Is the move comment box shared? I figured it was only for me
+Pempu: Paris tournament is a gem 
+balthahar: thank you, mr. EGF2, for the relay
+Pempu: its shared. 
+EGF2: You're welcome
+balthahar: keep up the great work!
+EGF2: Last round is this afternoon 1:30pm
+Pempu: One more round of this insanely strong european go 
+EGF2: Results and standing updated live : https://tournoi-de-paris.jeudego.org/#/results
+EGF2: Robin Bonjean is having hte tournament of his life
+]
+)

@@ -1,0 +1,420 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[Czech Go Baron Game 2]
+PC[https://online-go.com/review/1000897]
+PB[Lukas Podpera]
+PW[Ondrej Kruml]
+BR[7d]
+WR[6d]
+OT[Error: time control missing]
+RE[?]
+SZ[19]
+KM[7.5]
+RU[AGA]
+C[
+
+-- chat --
+CZBaron1: welcome 
+CZBaron1: Finals of Go Baron, match best of 5, game 2
+CZBaron1: Kruml leads 1-0
+Laman: more info is at https://forums.online-go.com/t/czech-go-baron-title-match/46099
+]
+;B[qc]
+;W[qp]
+;B[cd]
+;W[dq]
+;B[co]
+;W[ep]
+;B[fd]
+;W[nq]
+;B[qk]
+;W[dn]
+;B[nd]
+;W[hc]
+;B[jc]
+;W[dc]
+;B[dd]
+;W[fc]
+;B[ec]
+;W[eb]
+;B[ed]
+;W[gb]
+;B[db]C[
+
+-- chat --
+Laman: based purely on their ratings, b has a 77% chance to win any game. and being one game behind, he still has 77% to win the match
+]
+;W[da]
+;B[cb]
+;W[gd]
+;B[cm]
+;W[dl]C[
+
+-- chat --
+PanKure: Where do they play? I cannot tell from the pictures on goweb.
+]
+;B[dm]
+;W[em]
+;B[el]C[
+
+-- chat --
+CZBaron1: In office of Josef Nemec, one of sponsors
+CZBaron1: Praha Karlin, Thamova 20. Visitors can come and watch
+Ten: Laman, I only get 56% for black
+]
+;W[cl]
+;B[cn]C[
+
+-- chat --
+CZBaron1: Ondrej 40 mins. The first fight, the first long considerations
+CZBaron1: Lukan 55 mins
+]
+;W[fm]
+;B[bq]
+;W[br]C[
+
+-- chat --
+PanKure: I wonder what AI suggests here for the local fight. Players definitely play different moves than I would have :-)
+CZBaron1: AI is very happy with what they play until now. Now mistakes, good game 
+CZBaron1: No mistakes
+]
+;B[bl]
+;W[bk]
+;B[am]C[
+
+-- chat --
+Ietsie: AI is happy? Does he grin?
+]
+;W[dj]C[
+
+-- chat --
+CZBaron1: The games will be commented on youtube this afternoon, starting 15.30
+]
+;B[cq]
+;W[cr]C[
+
+-- chat --
+CZBaron1: Jan Prokop and Jan Simara will comment, also first 2 games during the 3rd game
+]
+;B[dp]
+;W[eq]
+;B[eo]
+;W[fo]
+;B[qn]
+;W[pj]
+;B[qj]
+;W[pi]
+;B[ol]C[
+
+-- chat --
+JDirichlet: katago has no mouth and must scream
+]
+;W[qi]
+;B[qf]
+;W[mi]
+;B[nj]
+;W[ni]
+;B[oh]C[
+
+-- chat --
+Laman: Ten: p=0.77, q=1-p, ways for b to win: p*p*p+q*p*p*p*3 = 0.77, no?
+]
+;W[oi]
+;B[ll]C[
+
+-- chat --
+Ten: You're right, seems I forgot to add the *3
+CZBaron1: Ten, hoe about commenting the game little bit, please?
+]
+;W[kj]C[
+
+-- chat --
+Srandom: is black likely to invade the 3-3 in the bottom right eventually?
+]
+;B[jl]
+;W[ik]C[
+
+-- chat --
+CZBaron1: B can invade bottom side or bottom corner, not both
+]
+;B[oo]C[
+
+-- chat --
+CZBaron1: side is bigger  ;)
+CZBaron1: time: Ondrej 25, Lukan 41
+CZBaron1: Ondrej probably not going to answer locally. He is watching ur corner
+]
+;W[pq]
+;B[mp]
+;W[of]
+;B[oe]
+;W[pe]
+(;B[og]
+;W[nf]
+;B[pf]
+;W[pg]
+;B[ph]
+;W[qg]
+;B[qh]
+;W[rg]
+;B[rh]C[
+
+-- chat --
+dlpigozzi: a possibility?. From move 0: R17 R4 C16 D3 C5 E4 F16 O3 R9 D6 O16 H17 K17 D17 D16 F17 E17 E18 E16 G18 D18 D19 C18 G16 C7 D8 D7 E7 E8 C8 C6 F7 B3 B2 B8 B9 A7 D10 C3 C2 D4 E3 E5 F5 R6 Q10 R10 Q11 P8 R11 R14 N11 O10 O11 P12 P11 M8 L10 K8 J9 P5 Q3 N4 P14 P15 Q15 P13 O14 Q14 Q13 Q12 R13 R12 S13 S12 
+]
+)(;B[pd]
+;W[lc]C[
+
+-- chat --
+CZBaron1:  Ondrej 11 min, Lukan 35 min
+]
+;B[ld]
+;W[mc]
+;B[kd]
+;W[jb]
+;B[ib]
+;W[kb]
+;B[ic]
+;W[pb]
+;B[gf]
+;W[hb]
+;B[mq]
+;W[nr]
+;B[ch]
+;W[kp]
+;B[kq]
+;W[jq]
+;B[jp]
+;W[ko]
+;B[iq]
+;W[jr]
+;B[kr]C[
+
+-- chat --
+CZBaron1: Ondrej 4 min, Lukan 18 min
+]
+;W[ir]
+;B[ip]
+;W[hr]
+;B[in]
+;W[ln]
+;B[nn]
+;W[jn]
+;B[io]
+;W[im]
+;B[jm]
+;W[hn]
+;B[hm]
+;W[il]
+;B[gn]
+;W[ml]
+;B[fn]
+;W[mm]
+;B[gq]
+;W[gr]C[
+
+-- chat --
+CZBaron1: Ondrej 1 min, Lukan 7 min
+]
+;B[en]
+;W[ek]
+;B[ro]
+;W[rp]
+;B[sp]
+;W[sq]
+;B[so]
+;W[rr]
+;B[qb]
+;W[oc]
+;B[nf]
+;W[ia]
+;B[ei]
+;W[fl]
+;B[bi]
+;W[pn]
+;B[po]
+;W[ql]
+;B[rl]
+;W[rk]
+;B[qm]
+;W[rj]
+;B[pl]
+;W[qo]
+;B[rn]
+;W[fg]
+;B[fh]
+;W[gg]
+;B[eg]
+;W[ff]
+;B[nk]
+;W[mj]
+;B[rh]
+;W[ri]
+;B[ar]
+;W[ef]
+;B[df]
+;W[md]
+;B[me]
+;W[le]
+;B[lf]
+;W[ke]
+;B[jf]
+;W[jd]
+;B[kf]
+;W[kc]
+;B[hf]
+;W[ig]
+;B[if]
+;W[gh]
+;B[gi]
+;W[hi]
+;B[gj]
+;W[hl]
+;B[hj]
+;W[gm]
+;B[go]
+;W[jh]
+;B[ji]C[
+
+-- chat --
+Pedro RMSA: this game seems like more harder which the game of yesterday
+]
+;W[kh]
+;B[ii]
+;W[ih]
+;B[hh]
+;W[hg]
+;B[ki]
+;W[lh]
+;B[lk]
+;W[mg]
+;B[mf]
+;W[mk]
+;B[lj]
+;W[ij]
+;B[hi]
+;W[kk]
+;B[li]
+;W[kl]
+;B[nh]
+;W[mh]
+;B[qh]
+;W[np]
+;B[mo]
+;W[mn]
+;B[no]
+;W[ca]
+;B[ba]
+;W[ea]
+;B[fp]
+;W[fq]
+;B[bb]
+;W[qa]
+;B[ra]
+;W[pa]
+;B[pc]
+;W[od]
+;B[ne]
+;W[ob]
+;B[rb]
+;W[ph]
+;B[pg]
+;W[sh]
+;B[sg]
+;W[si]
+;B[rg]
+;W[mr]
+;B[lr]
+;W[de]
+;B[dg]
+;W[ee]
+;B[ce]
+;W[nm]
+;B[om]
+;W[hq]
+;B[gp]
+;W[ng]
+;B[og]
+;W[di]
+;B[jo]
+;W[kn]
+;B[bj]
+;W[dh]
+;B[eh]
+;W[ak]
+;B[ck]
+;W[cj]
+;B[fk]
+;W[fj]
+;B[gk]
+;W[ej]
+;B[fi]
+;W[sk]
+(;B[gl]
+(;W[aj]
+;B[ai]
+;W[dk]
+;B[al]
+;W[ck]
+;B[ci]
+;W[el]
+;B[hm]C[
+
+-- chat --
+Lost in Sente: 1. From move 0: R17 R4 C16 D3 C5 E4 F16 O3 R9 D6 O16 H17 K17 D17 D16 F17 E17 E18 E16 G18 D18 D19 C18 G16 C7 D8 D7 E7 E8 C8 C6 F7 B3 B2 B8 B9 A7 D10 C3 C2 D4 E3 E5 F5 R6 Q10 R10 Q11 P8 R11 R14 N11 O10 O11 P12 P11 M8 L10 K8 J9 P5 Q3 N4 P14 P15 Q15 Q16 M17 M16 N17 L16 K18 J18 L18 J17 Q18 G14 H18 N3 O2 C12 L4 L3 K3 K4 L5 J3 K2 L2 J2 J4 H2 J6 M6 O6 K6 J5 J7 K7 H6 H7 J8 G6 N8 F6 N7 G3 G2 E6 E9 S5 S4 T4 T3 T5 S2 R18 P17 O14 J19 E11 F8 B11 Q6 Q5 R8 S8 S9 R7 S10 Q8 R5 S6 F13 F12 G13 E13 F14 O9 N10 S12 S11 A2 E14 D14 N16 N15 M15 M14 L15 K14 K16 L14 L17 H14 J13 J14 G12 G11 H11 G10 H8 H10 G7 G5 K12 K11 L12 J11 J12 H12 H13 L11 M12 M9 N13 N14 N9 M10 J10 H11 L9 M11 L8 O12 N12 R12 O4 N5 N6 O5 C19 B19 E19 F4 F3 B18 R19 S19 Q19 Q17 P16 O15 P18 S18 Q12 Q13 T12 T13 T11 S13 N2 M2 D15 D13 E15 C15 O7 P7 H3 G4 O13 P13 D11 K5 L6 B10 D12 E12 A9 C9 C10 F9 F10 G9 E10 F11 T9 G8 A10 A11 D9 A8 C9 C11 E8 H7 
+]
+)(;W[dk]
+;B[aj]
+;W[el]
+;B[al]
+;W[ck]
+;B[ci]
+;W[hm]C[
+
+-- chat --
+Lost in Sente: donÄt work
+]
+))(;B[nc]
+;W[nb]
+;B[op]
+;W[oq]
+;B[aj]
+;W[dk]
+;B[bs]
+;W[dr]
+;B[jj]
+;W[jk]
+;B[sl]
+;W[pk]
+;B[ql]
+;W[ge]
+;B[he]
+;W[hd]
+;B[js]
+;W[is]
+;B[ms]
+;W[ns]
+;B[ks]
+;W[cs]
+;B[aq]
+;W[ls]
+;B[lq]
+;W[km]
+;B[ie]
+;W[id]C[
+
+-- chat --
+CZBaron1: w won by 0.5
+CZBaron1: Kruml leads 2-0
+Hidoshito: thx
+]
+))(;B[pf]
+;W[ne]
+;B[od]
+;W[nf]C[
+
+-- chat --
+dlpigozzi: J4 or C12?
+]
+))

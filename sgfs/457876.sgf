@@ -1,0 +1,201 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[Demo-ploča]
+PC[https://online-go.com/review/457876]
+PB[Crni]
+PW[Bijeli]
+BR[18k]
+WR[18k]
+OT[Error: time control missing]
+RE[?]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+
+;B[pq]C[Naučili smo jednu važnu stvar: Povezivanje i - ako je moguće - razdvajanje protivnika je jedna od najvažnijih strategija u gou
+]
+(;W[qp]
+;B[po]
+;W[op]C[Nadam se da barem vidimo analizur
+Da se ne ponavljamo, današnja tema je "presjecanje"
+Dakle, što treba igrati crni ako je na potezu?
+
+
+-- chat --
+antun.derencin: q4. From move 0: Q3 R4 Q5 P4 
+antun.derencin: spojiti. From move 0: Q3 R4 Q5 P4 
+]
+(;B[pp]C[Tako je - onaj tko presiječe protivnika ovdje dobiva veliku prednost
+
+
+-- chat --
+antun.derencin: ali ima puno boljih poteza od bijeli r4 i p 4. From move 0: Q3 R4 Q5 P4 Q4 
+]
+)(;B[qq]C[Ako se crni "zaboravi" spojiti ...]
+;W[pp]C[to će napraviti bijeli]
+;B[rp]C[Ako crni pokuša spojiti svoje kamenčiće ...]
+;W[ro]C[>Bijeli mu to neće dozvoliti
+Sad se postavlja važno pitanje: zašto crni "mora" odgovoriti potezom S3?
+]
+(;B[rq]
+)(;B[qo]C[A ne može se R5?
+
+
+-- chat --
+Anja19Q: Kako ga bijeli ne bi presjekao i stjerao ga u kut.
+]
+;W[rq]C[Jer bi tada bijeli u potpunosti razdvojio crnog na tri nepovezane grupe
+
+
+-- chat --
+antun.derencin: ali crni je na potezu
+antun.derencin: sad
+antun.derencin: to da
+antun.derencin: da naravno
+]
+)))(;AB[mq]TR[mq]TR[pq]C[Sad želimo naučiti još jednu koju obično zovemo "dvije noge" :)
+Pogledajmo kamenčiće označene trokutom:
+- nalaze se na 3. redu (brojimo od ruba)
+- i razdvojeni su za DVA sjecišta
+
+Pitanje: može li ih bijeli RAZDVOJITI?
+
+
+-- chat --
+noa sanda: proba proba
+dmedak: Dakle - pitanje?
+noa sanda: oprostite moram ici
+dmedak: Može li bijeli (na potezu) razdvojiti crne kamenčiće
+dmedak: Pozdav Noa
+noa sanda: doviđenja
+dmedak: Dakle ako bijeli proba s P3
+]
+;W[oq]LB[op:C]LB[nq:B]LB[or:A]C[
+
+-- chat --
+dmedak: Što radi crni?
+dmedak: da - što nakon bijelog P3 radi crni?
+dmedak: Cilj je samo  pokazati kako su N3 i Q3 "spojeni"
+dmedak: Naravno da crni može odigrati Q4
+dmedak: S druge strane postoji poslovica "da se protivničkom kamenčiću koji dodirne naš kamenčić sljedećim potezom oduzme sloboda"
+dmedak: Bijeli kamenčić ima 3 slobode, koju je najbolje oduzeti?
+Anja19Q: C?
+dmedak: Bravo Anja!
+dmedak: Ili A ili C
+dmedak: Nije dobro presijecati "dvije noge" - kamenčiće na trećem redu rastavljene za dva sjecišta
+]
+(;B[pp]C[
+
+-- chat --
+dmedak: ali to nam nije cilj
+antun.derencin: ne napadaj kamenčiće na drugom redu i nekad je bolje ne napasti
+antun.derencin: daaa
+antun.derencin: skroz sam zaboravio od čeg smo počeli
+antun.derencin: znam da se to nemože prerezati
+antun.derencin: uvijek možeš igrati ali analiza je sadaž
+antun.derencin: karlo je offline a ako igraju vlatak i anja jedino ste vi iznad mene na ljestvici
+]
+)(;B[nq]C[
+
+-- chat --
+dmedak: Pitanje je može li se crni spojiti s O3?
+Taserdom13: Da
+Taserdom13: Odigrati na O4
+dmedak: Bijeli na O4?
+Taserdom13: Crni
+antun.derencin: a ili c meni šteka. From move 0: Q3 N3 P3 O3 
+]
+)(;B[np]C[
+
+-- chat --
+dmedak: Ovako?
+dmedak: Upravo to bijeli želi
+]
+;W[op]TR[mq]TR[pq]C[
+
+-- chat --
+dmedak: I sad se N3 i Q3 više ne mogu povezati
+antun.derencin: da
+]
+)(;B[op]
+;W[nq]C[
+
+-- chat --
+dmedak: Što sad nakon bijelog O3?
+Taserdom13: O4?
+]
+;B[np]LB[or:B]LB[pr:A]C[
+
+-- chat --
+dmedak: tako je!
+antun.derencin: o4
+dmedak: I sada ni N4 ni Q4 bijelome baš ne ide
+dmedak: jer će crni jednostavno zarobiti oba bijela kamenčića
+dmedak: tako da ostaju samo dva suvisla poteza
+dmedak: Koja?
+antun.derencin: možda q2
+dmedak: Točno
+dmedak: Zašto je Q2 bolje od P2?
+antun.derencin: jer igrjući p2 samo crnom dajemo jš jedan kamenčić
+dmedak: To je točno, s tim da je Q2 bolje, jer tim potezom bijeli nešto "prijeti"
+]
+;W[pr]LB[qq:A]LB[qr:B]C[
+
+-- chat --
+dmedak: I sad je dobro pitanje što dalje
+antun.derencin: da će oživjeti
+dmedak: Dakle, crni ima dva izbora
+antun.derencin: a
+antun.derencin: je pravi izbor
+dmedak: Ono što smo zadnji put govorili "pusti protivnika da puzi po 2. redu"
+Anja19Q: a
+]
+;B[qq]C[
+
+-- chat --
+dmedak: Jer, ako ne odgovori, onda je R2 odlično za crnog
+]
+;W[qr]C[
+
+-- chat --
+antun.derencin: da
+dmedak: A ako i odgovori ...
+]
+;B[mr]C[
+
+-- chat --
+dmedak: Opet mu se ne piše dobro
+dmedak: Pouka je:
+]
+))(;AB[lq]C[
+
+-- chat --
+dmedak: A sad, vrlo slično samo što su crni kamenčići rastavljeni za TRI sjecište
+dmedak: TRI sjecišta
+Anja19Q: Možemo li se sada izazivati?
+dmedak: Anja - može
+dmedak: Idemo na "ljestvicu" i polako
+Anja19Q: Ok, super
+dmedak: smije se izazivati samo onog iznad na ljestviic
+dmedak: tj ANja - Vlatka46
+dmedak: Franka smije izazvati bilo koga.
+dmedak: Jer su svi "iznad"
+dmedak: Pazite - igrajte partije "uživo" i nemojte poslati 5 izazova odjednom
+Anja19Q: Poslala
+dmedak: Maks može izazvati Antuna
+Anja19Q: Da
+dmedak: Taserdom se mora ubaciti na ljestvicu
+dmedak: a gost se mora prvo registrirati
+dmedak: ako nas razumije
+Anja19Q: vlatka46 je offline
+Anja19Q: Da onda izazovem antun.derencin?
+Anja19Q: Ili Vas?
+]
+)(;AE[lq]C[
+
+-- chat --
+dmedak: može
+Anja19Q: Koga?
+]
+))

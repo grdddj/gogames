@@ -1,0 +1,610 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[egpf 2022]
+PC[https://online-go.com/review/1011307]
+PB[Jonas Welticke]
+PW[Ali Jabarin]
+BR[6d]
+WR[2p]
+OT[Error: time control missing]
+RE[?]
+SZ[19]
+KM[7.5]
+RU[Chinese]
+
+;B[dd]
+;W[pp]
+;B[pd]
+;W[cp]
+;B[jd]
+;W[qf]
+;B[nd]
+;W[cf]
+;B[ee]C[
+
+-- chat --
+teksgoch: 1. From move 0: D16 Q4 Q16 C4 K16 R14 O16 C14 E15 
+]
+;W[fp]C[
+
+-- chat --
+teksgoch: 2. From move 0: D16 Q4 Q16 C4 K16 R14 O16 C14 E15 F4 
+]
+;B[qe]
+;W[pf]
+;B[pi]
+;W[qk]
+;B[og]
+;W[ne]
+;B[oe]
+;W[of]
+;B[nf]
+;W[me]C[
+
+-- chat --
+kukulis: hi
+kukulis: How to report bug to online-go team?
+Sarielowicz: https://github.com/online-go/online-go.com/issues
+kukulis: when I move mouse pointer over 'Variation 1' the browser starts blinking, as button 'sync' popups at the top, and moves the link to bottom, so mouse pointer exits link area
+snakesss: already reported 
+Sarielowicz: just search first for already reported
+snakesss: at this point, forums might be a good idea to draw attention to it
+kukulis: thank you :)
+snakesss: i reported that too but someone had made a report with videos and stuff :)
+snakesss: i call it "epileptic demo board bug"
+kukulis: lol epileptic :D
+kukulis: I think the easy solution is: always show button 'sync'
+kukulis: more correct solution would be leaving place for the 'sync' button, so the bottom part never moves
+]
+;B[md]C[
+
+-- chat --
+kukulis: or do something with layouts
+snakesss: B saying he can s15?
+snakesss: if W answers now at m15, B just answers again at M16?
+]
+(;W[pe]
+;B[od]
+;W[qd]
+;B[re]C[
+
+-- chat --
+snakesss: 3. From move 0: D16 Q4 Q16 C4 K16 R14 O16 C14 E15 F4 R15 Q14 Q11 R9 P13 O15 P15 P14 O14 N15 N16 Q15 P16 R16 S15 
+]
+;W[qc]
+;B[rf]
+;W[qg]
+(;B[rg]
+;W[qh]
+;B[qi]
+;W[rh]
+;B[ri]
+;W[si]
+;B[sj]
+;W[sh]
+;B[rk]
+;W[ng]
+;B[mf]
+;W[oh]
+;B[ph]
+;W[pg]
+;B[sg]
+;W[og]C[
+
+-- chat --
+kukulis: white wins semeay, but shape very heavy. From move 0: D16 Q4 Q16 C4 K16 R14 O16 C14 E15 F4 R15 Q14 Q11 R9 P13 O15 P15 P14 O14 N15 N16 Q15 P16 R16 S15 R17 S14 R13 S13 R12 R11 S12 S11 T11 T10 T12 S9 O13 N14 P12 Q12 Q13 T13 P13 
+]
+)(;B[qh]C[
+
+-- chat --
+snakesss: 4. From move 0: D16 Q4 Q16 C4 K16 R14 O16 C14 E15 F4 R15 Q14 Q11 R9 P13 O15 P15 P14 O14 N15 N16 Q15 P16 R16 S15 R17 S14 R13 R12 
+kukulis: yeah
+]
+))(;W[re]C[
+
+-- chat --
+SargentGo: white is winning of course but is unstable 
+joachim: I guess Ali did win the nigiri? ;-)
+]
+;B[qd]C[
+
+-- chat --
+kukulis: black's shape looks sad
+kukulis: I guess S11 for the next white move
+NicelyManifest: Love it when an empty triangle is the chsoen move
+kukulis: empty triangles are underrated ;)
+kukulis: anyway white cant leave R14 as it stands now
+kukulis: need some move to save these stones
+]
+;W[ng]
+;B[mf]
+;W[le]C[
+
+-- chat --
+kukulis: may bet should play N13
+]
+(;B[mg]
+;W[nh]
+;B[mh]
+;W[ni]
+;B[mi]
+;W[nj]
+;B[jg]C[
+
+-- chat --
+kukulis: something like that ?. From move 0: D16 Q4 Q16 C4 K16 R14 O16 C14 E15 F4 R15 Q14 Q11 R9 P13 O15 P15 P14 O14 N15 N16 S15 R16 O13 N14 M15 N13 O12 N12 O11 N11 O10 K13 
+]
+)(;B[lf]
+;W[ke]
+;B[nh]
+;W[je]
+;B[qh]
+;W[mg]C[
+
+-- chat --
+Piwh: how much time do they have left ? It seems like they are taking forever to play
+]
+;B[lg]
+;W[mh]
+;B[lh]
+;W[mi]
+;B[li]C[
+
+-- chat --
+EGF3: 16:48 for Ali and 7:05 for Jonas
+EGF3: it's fischer time
+]
+;W[mj]
+;B[lj]
+;W[mk]
+;B[pg]
+;W[lk]
+;B[kk]
+;W[kl]
+;B[jl]
+;W[jk]
+;B[kj]
+;W[ik]
+;B[km]
+;W[ll]
+;B[ii]
+;W[jm]
+;B[ie]
+;W[id]
+;B[kc]
+;W[ic]C[
+
+-- chat --
+EGF3: 1min4à left for Jonas
+EGF3: 1min for Ali
+]
+;B[he]
+;W[lc]
+;B[jc]C[
+
+-- chat --
+EGF3: 12min for Ali*
+]
+;W[qb]C[
+
+-- chat --
+EGF3: 3:28 left for Ali 2:06 for Jonas
+]
+;B[rd]
+;W[oc]
+;B[od]
+;W[il]
+;B[qq]
+;W[pq]
+;B[qp]
+;W[qo]
+;B[ro]
+;W[qn]
+;B[rn]
+;W[qm]
+;B[dq]
+;W[dp]
+;B[fq]
+;W[eq]
+;B[er]
+;W[ep]
+;B[gr]
+;W[gq]
+;B[fr]
+;W[dr]
+;B[hq]
+;W[ir]
+;B[gp]C[
+
+-- chat --
+Sadaharu: What's with the shape on top
+Sadaharu: W is treated as dead?
+]
+;W[jq]
+;B[jp]
+;W[ho]
+;B[hr]
+;W[hp]
+;B[kq]
+;W[kr]
+;B[iq]
+;W[jr]
+;B[lq]
+;W[lr]
+;B[go]
+(;W[ip]
+;B[hn]
+;W[io]
+;B[in]
+;W[jo]
+;B[jn]
+;W[ko]
+;B[kn]
+;W[gn]
+;B[lo]
+;W[kp]
+;B[lp]
+;W[jp]C[
+
+-- chat --
+balthahar: 15. From move 0: D16 Q4 Q16 C4 K16 R14 O16 C14 E15 F4 R15 Q14 Q11 R9 P13 O15 P15 P14 O14 N15 N16 S15 R16 O13 N14 M15 M14 L15 O12 K15 R12 N13 M13 N12 M12 N11 M11 N10 M10 N9 Q13 M9 L9 L8 K8 K9 L10 J9 L7 M8 J11 K7 J15 J16 L17 J17 H15 M17 K17 R18 S16 P17 P16 J8 R3 Q3 R4 R5 S5 R6 S6 R7 D3 D4 F3 E3 E2 E4 G2 G3 F2 D2 H3 J2 G4 K3 K4 H5 H2 H4 L3 L2 J3 K2 M3 M2 G5 J4 H6 J5 J6 K5 K6 L5 L6 G6 M5 L4 M4 K4 
+]
+)(;W[gn]C[
+
+-- chat --
+EGF2: how is it going by your side ? :p
+]
+;B[mq]
+;W[mr]
+;B[pr]
+(;W[or]
+;B[oq]
+;W[nq]
+;B[op]
+;W[po]
+;B[np]
+;W[nr]C[
+
+-- chat --
+balthahar: w+R
+rubbish: lol
+]
+;B[fo]C[
+
+-- chat --
+Sadaharu: lol wut
+]
+;W[hm]
+;B[fn]C[
+
+-- chat --
+kukulis: and I have a bad feeling about H7 move
+]
+;W[ld]
+;B[ib]
+;W[dm]
+;B[fl]
+;W[hi]C[
+
+-- chat --
+EGF3: 20s for Ali 14 for Jonas
+]
+;B[ih]C[
+
+-- chat --
+Sadaharu: What's the Fischer increment?
+]
+;W[hh]C[
+
+-- chat --
+EGF3: +20s/move
+]
+;B[hj]
+;W[gj]
+;B[ig]C[
+
+-- chat --
+kukulis: in the end white skillfully sacrificed R14 stones
+kukulis: good lesson for us :)
+]
+;W[em]
+;B[fm]C[
+
+-- chat --
+rubbish: does white F7 wedge not work?
+Sadaharu: Is that sarcasm lol
+]
+;W[ek]
+;B[fj]
+;W[fk]C[
+
+-- chat --
+Sadaharu: I'm more intrigued by white's big Tetris shape on top :)
+]
+;B[gk]
+;W[gi]
+;B[el]
+;W[dl]
+;B[dk]
+;W[ej]
+;B[cn]
+;W[dn]
+;B[cq]
+;W[cr]
+;B[bq]C[
+
+-- chat --
+rubbish: oooh
+]
+;W[br]
+;B[bp]C[
+
+-- chat --
+Veedee: d7 looks like a blunder
+EGF3: Up to something like 1min each now
+Veedee: d6
+]
+;W[co]
+;B[bo]
+;W[bn]
+;B[bm]
+;W[cm]
+;B[an]
+;W[aq]
+;B[cn]
+;W[hc]
+;B[hb]
+;W[bn]
+;B[fi]
+;W[cn]
+;B[ei]
+;W[dj]
+;B[cj]
+;W[di]
+;B[dh]
+;W[ci]
+;B[ch]
+;W[bi]
+;B[gl]
+;W[lb]
+;B[kb]
+;W[pc]
+;B[rb]
+;W[eh]
+;B[fh]
+;W[gc]
+;B[gb]
+;W[eg]
+;B[fg]
+;W[fc]
+;B[qc]
+;W[dc]
+;B[ja]C[
+
+-- chat --
+kukulis: lol
+kukulis: I dont understand C10
+kukulis: D12 anyway lost
+]
+;W[dg]
+;B[ef]
+;W[ed]
+;B[ce]
+;W[cg]
+;B[cc]
+;W[ff]
+;B[fe]C[
+
+-- chat --
+swe1k: each move is a blunder this game
+]
+;W[hk]
+;B[ij]
+;W[cb]
+;B[db]
+;W[eb]
+;B[ec]
+;W[gf]
+;B[hg]
+;W[dc]
+;B[fd]
+;W[da]
+;B[ec]
+;W[bc]
+;B[db]
+;W[ip]
+;B[dc]
+;W[be]
+;B[bd]
+;W[ad]C[
+
+-- chat --
+kukulis: but it seems black is ok in this game
+]
+;B[bb]
+;W[cd]C[
+
+-- chat --
+BlueSupernova: Did b really need that ko
+]
+;B[ca]
+;W[qr]
+;B[rr]
+;W[ps]
+;B[rs]
+;W[ri]
+;B[rh]
+;W[pj]
+;B[rj]
+;W[oi]
+;B[qj]
+;W[oh]
+;B[ph]
+;W[pk]
+;B[rl]
+;W[rk]
+;B[sk]
+;W[rm]
+;B[sm]
+;W[de]
+;B[ab]C[
+
+-- chat --
+kukulis: feels like white had a big advantage and lost it at some point
+]
+;W[ql]
+;B[sl]
+;W[jj]
+;B[ji]
+;W[es]
+;B[fs]
+;W[hs]
+;B[ds]
+;W[cs]
+;B[ac]
+;W[bd]
+;B[df]C[
+
+-- chat --
+Daniug: what was the result in Cornel's game?
+]
+;W[ce]
+;B[eo]C[
+
+-- chat --
+EGF3: Cornel win against Florent
+]
+;W[qs]
+;B[rq]
+;W[es]C[
+
+-- chat --
+Daniug: Cornel power:) Thank you
+]
+;B[bh]
+;W[bg]
+;B[ds]
+;W[ge]
+;B[gd]
+;W[es]
+;B[is]
+;W[js]
+;B[ds]
+;W[ba]
+;B[ea]
+;W[es]
+;B[oj]
+;W[ni]
+;B[ds]C[
+
+-- chat --
+Daniug: rather G7 is a point. D1 is only a ko, isnt't it?
+kukulis: yeah
+]
+;W[pa]
+;B[nb]
+;W[es]C[
+
+-- chat --
+kukulis: black wins
+kukulis: desperate
+]
+;B[ar]C[
+
+-- chat --
+kukulis: white
+]
+;W[as]
+;B[ds]
+;W[nc]
+;B[ob]
+;W[es]
+;B[os]
+;W[ns]C[
+
+-- chat --
+kukulis: these chinesse rules may be non exact
+]
+;B[ds]C[
+
+-- chat --
+kukulis: score estimator shows that black wins by 8 points
+kukulis: Daniug: may be G7 - H8 are miai
+]
+;W[sn]C[
+
+-- chat --
+Daniug: ah indeed
+kukulis: if white G7 and black H8, then white should defend against J6
+]
+;B[so]
+;W[es]
+;B[hl]
+;W[hn]
+;B[ds]C[
+
+-- chat --
+kukulis: black will need to play G12 and white C9 in the end
+]
+;W[si]
+;B[sj]
+;W[es]C[
+
+-- chat --
+kukulis: and black will need to fill G10
+kukulis: but in chinesse rules this is the same point
+kukulis: amount of points doesnt change because of semedori, or do they?
+]
+;B[im]
+;W[in]
+;B[ds]
+;W[qi]
+;B[sh]
+;W[es]
+;B[ck]
+;W[ds]
+;B[aj]C[
+
+-- chat --
+rubbish: ...
+kukulis: black starting another ko at A7
+]
+;W[ah]
+;B[gh]
+;W[is]
+;B[gj]
+;W[gm]
+;B[gq]
+;W[gs]
+;B[en]C[
+
+-- chat --
+kukulis: but there are no ko threats for that
+]
+;W[ap]
+;B[do]
+;W[ao]C[
+
+-- chat --
+EGF3: they count
+kukulis: EGF3: who won?
+kukulis: may be score estimator wrong? ;)
+kukulis: EGF3: did they finished counting?
+joachim: I guess ist takes some time, because they play with chinese rules. Should be around 7.5 for black.
+kukulis: so onlinego estimator is ok? ;)
+kukulis: not broken? :D
+kukulis: anyway you should fix this 'epileptic' issue ;)
+BlueSupernova: you're not gonna have the result, gotta have to live with that for the rest of my life
+kukulis: lol
+kukulis: BlueSupernova: for the rest of your or mine life?  :D
+kukulis: probably will search in google ;)
+kukulis: for the results ..
+joachim: https://www.eurogofed.org/grandprix/egpf2022.html
+]
+)(;W[nq]C[
+
+-- chat --
+kukulis: I think white should play here. From move 0: D16 Q4 Q16 C4 K16 R14 O16 C14 E15 F4 R15 Q14 Q11 R9 P13 O15 P15 P14 O14 N15 N16 S15 R16 O13 N14 M15 M14 L15 O12 K15 R12 N13 M13 N12 M12 N11 M11 N10 M10 N9 Q13 M9 L9 L8 K8 K9 L10 J9 L7 M8 J11 K7 J15 J16 L17 J17 H15 M17 K17 R18 S16 P17 P16 J8 R3 Q3 R4 R5 S5 R6 S6 R7 D3 D4 F3 E3 E2 E4 G2 G3 F2 D2 H3 J2 G4 K3 K4 H5 H2 H4 L3 L2 J3 K2 M3 M2 G5 G6 N3 N2 Q2 O3 
+]
+)))))

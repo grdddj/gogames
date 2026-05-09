@@ -1,0 +1,431 @@
+(;GM[1]
+FF[4]
+CA[UTF-8]
+AP[CGoban:3]
+ST[2]
+RU[Chinese]
+SZ[19]
+KM[7.50]
+TM[5400]
+OT[25/600 Canadian]
+PW[Ondrej Silt]
+PB[Thomas Debarre]
+WR[6d]
+BR[6d]
+DT[2015-03-06]
+PC[The KGS Go Server at http://www.gokgs.com/]
+EV[European Pro Qualification 2015 - Pisa]
+RO[1]
+SO[http://www.eurogofed.org/]
+RE[W+Resign]
+;B[pq]
+;W[dd]
+;B[cp]
+;W[qd]
+;B[od]C[jim [?\]: who are playing?
+EGFPro2 [?\]: White is Ondrej Silt
+EGFPro2 [?\]: and black is Thomas Debarre
+jim [?\]: thx
+tokyo [?\]: hum maybe Thomas Debarre (FR) and ondrej silt
+EGFPro2 [?\]: yes, it is
+YoungPro [-\]: bet on thomas
+jim [?\]: :)
+tokyo [?\]: me too =) =) 
+tokyo [?\]: but Thomas loose 8 game on 9 against Ondrej to the past
+]
+;W[oc]C[YoungPro [-\]: i don't care about past ;)
+tokyo [?\]: hehe, i hope so 
+tokyo [?\]: live is on eurogo TV !? 
+EuroGoTV1 [-\]: We are sad to say we are not broadcasting from Pisa.....:-(   not invited.....and the EGF, CEGO or the organization did not want to use our FREE facilities.....
+]
+;B[nc]
+;W[pc]
+;B[qo]C[croquignol [?\]: :'(
+tokyo [?\]: ... bad ! 
+]
+;W[ep]C[tokyo [?\]: its really bif event for Europe ^^ 
+Husrev [?\]: eurogotv, so you offered them and they rejected?
+]
+;B[gq]C[tokyo [?\]: i think its coz of this event is broadcast by Chinese TV !? 
+EuroGoTV1 [-\]: i gave an account to EGF long time ago
+MMXV [3k\]: EGFPro2.... if you put the names in the info, you won't have to keep answering 
+EuroGoTV1 [-\]: they never used it even...
+EuroGoTV1 [-\]: i dont think so tokyo, as i will broadcast the final in Berlin
+tokyo [?\]: ah yes for Grand slam ^^ 
+tokyo [?\]: nice =) 
+Krikri [1k\]: i heard something from one user of Wbaduk broadcast but dunno if true
+tokyo [?\]: not now 
+tokyo [?\]: but maybe for Berlin event 
+EuroGoTV1 [-\]: Berlin will be on KGS
+tokyo [?\]: maybe both ^^ 
+]
+;W[cq]
+;B[bq]
+;W[dq]
+;B[cm]
+;W[gp]
+;B[hp]
+;W[bo]
+;B[bp]
+;W[co]
+;B[do]
+;W[dp]
+;B[cn]
+;W[dn]
+;B[eo]
+;W[fn]
+;B[bn]C[Mugogo2: EuroGoTV: So by saying free you are trying to tell us you dont charge plane tickets, hotel bills and food?
+EuroGoTV1 [-\]: if you want me in person then ofcourse you have to pay those costs
+EuroGoTV1 [-\]: but you can do it yourself!
+EuroGoTV1 [-\]: and i never asked for food
+]
+;W[fo]C[Ten [?\]: Maybe they didn't have a video camera
+]
+;B[ao]
+;W[hq]
+;B[fq]
+;W[ip]
+;B[ho]
+;W[ir]
+;B[hr]
+;W[iq]
+;B[fp]
+;W[hn]C[EuroGoTV1 [-\]: you can buy a webcom from 10 euro
+]
+;B[er]C[tokyo [?\]: hehe 
+]
+;W[en]
+;B[co]
+;W[gr]
+;B[fr]
+;W[hs]C[Ootakamoku [2d\]: somehow both their positions look inconsistant.. so its even?
+]
+;B[cr]C[Ten [?\]: Wait, really, there's an eye at b5?
+SIscurge [5d\]: w is lazy to throw in? :D
+Ten [?\]: I've actually seen a game where the same mistake was made and it actually made a difference
+Ten [?\]: d2+b2 for a ko, and white having stones on the left side
+ben0 [6d\]: je savais pas que thomas était encore motivé pour devenir pro
+]
+;W[jd]
+;B[io]C[Ten [?\]: English in English room, please
+]
+;AB[bo]C[Krikri [1k\]: EGFpro2 really w forgott to throw in at c5  or it is error in record ?
+EGFPro2 [?\]: sorry, for the error
+EGFPro2 [?\]: there was a throw in
+Ten [?\]: Phew
+Krikri [1k\]: ok 
+Krikri [1k\]: thx
+Str1fe [4d\]: can w really omit j5?
+]
+;W[go]C[Ten [?\]: Well, the j3 group is always alive, so getting cut is not extremely severe
+Str1fe [4d\]: well, that's true
+jv [3d\]: but it really gimps the thickness of f6 part
+Hobbes [1k\]: those cutting stones can turn out to be heavy, imo
+]
+;B[jo]C[jv [3d\]: maybe both should have left it?
+]
+;W[lq]C[jv [3d\]: this does seem a little early for b
+]
+;B[gm]
+;W[el]
+;B[im]
+;W[gl]
+;B[hm]C[Ten [?\]: Hmm, but the g6 cut's existence just made black super strong in the centre
+jv [3d\]: yeah fight seems to be not great for w
+jv [3d\]: no leverage
+jv [3d\]: open center fights terribly hard for me to judge
+]
+;W[ej]C[Hobbes [1k\]: I prefer w honestly
+Hobbes [1k\]: moving e8 group work nicely with w top, w bottom is safe and b lost a profitable sente extesnion there, and the center b group, what can it do apart from making the center dame?
+jv [3d\]: im not sure if e10 group works nicely with top
+jv [3d\]: if b can launch an attack around e12
+jv [3d\]: that could completely ruin the moyo
+jv [3d\]: no idea if thats feasible though
+ben0 [6d\]: the exchange on the upper right corner is supposed to be good for w with the sequence they played bottom left
+jv [3d\]: if someone knows how to determine if e12 is feasible let me know :)
+]
+;B[nf]C[Hobbes [1k\]: uhm well at least b don't think it is, now
+Hobbes [1k\]: (and o14 seems so ehay to me)
+Hobbes [1k\]: heavy
+]
+;W[pf]C[MMXV [3k\]: that black group is just plain ugly
+jv [3d\]: im not quite sure what moving it does either
+jv [3d\]: upper left really feels like the hot area to me
+SIscurge [5d\]: sansan mb?
+Hobbes [1k\]: maybe w will get the chance to play m10 meaningfully
+Ootakamoku [2d\]: woudl be nice to add a stone to the b group
+Ootakamoku [2d\]: besides, making is stronger, makes sansan less relevant
+Ootakamoku [2d\]: it*
+jv [3d\]: wow i dont want to invade, i want to attack
+Ten [?\]: For attacking, you need more stones in a locale than the opponent
+Ootakamoku [2d\]: difficult to find shape, maybe m15, tho I would prefer k14 but I guess it could be too light
+Ootakamoku [2d\]: too thin*
+Ten [?\]: Around l14 then?
+]
+;B[fc]C[Hobbes [1k\]: so b persuaded himself that he is strong in this area
+kmr [1d\]: black i ready to sacrifice some of theese stones
+kmr [1d\]: is*
+Hobbes [1k\]: oota maybe he is trying to get a e12 like move
+jv [3d\]: Ten, so the local B advante aound h7/c7 doesnt outweight the broader W advantage at d16/k16?
+Ootakamoku [2d\]: hobbes, ambitious plan, b is introducging a weak group by playing at f17
+Ootakamoku [2d\]: difficult to plan for attack when ur creating a weak group
+Hobbes [1k\]: maybe f17 is a strategic trown in, kind of, I'm just trying not to think that is a plain overplay :-))
+Ten [?\]: jv, depends on how you look at the board
+Ten [?\]: But for example black f17 here doesn't particularly give me a feeling like white e8 is under pressure
+jv [3d\]: i was thinking more along the lines of B e12
+Ten [?\]: It could be an idea, yes
+jv [3d\]: agree that f17 isnt much of an attack :)
+Ten [?\]: Then, to e12, imagine white playing around f16 and saying black e12 is the weak stone
+Ten [?\]: Then, as black, you have to prove that white e8 gets under attack first
+jv [3d\]: hmmmmm
+Ten [?\]: E12 could be a good move, who knows
+Hobbes [1k\]: I also keep thinking that b center got 1 gote eye till now, so b can't move things toward the center completely freely
+jv [3d\]: e12 f16 and it all goes dark for me
+jv [3d\]: cant even see a single move into the mess :/
+Ten [?\]: Well, normally speaking, one-space jump to g12 and white makes shape around h10
+Ten [?\]: Then two more jumps with j12 and k10 probably
+Ten [?\]: Then white is out to the centre, so next you'll have to prove you can do something around h16 so that your attack will have been successful
+Ten [?\]: (successful = you have gained something)
+Hobbes [1k\]: btw, is the kick a good idea for white here?
+Ten [?\]: I'd play it without thinking
+jv [3d\]: okay, i think its not a very fruitful attack
+Ten [?\]: (That is to say, with these time settings, I'd think about it for one minute just to be sure)
+jv [3d\]: since w getting f16 ruins much of the damage to the top
+Ten [?\]: I get that feeling, too
+jv [3d\]: and there is nowhere else to profit
+Ten [?\]: More like the black string from e12 to o14 would be under pressure
+jv [3d\]: thanks for walking me through that
+Ten [?\]: Plus j5 is uncertain, too
+Ten [?\]: no prob
+jim [?\]: F15 for white?
+]
+;W[ec]C[Hobbes [1k\]: the kick!
+]
+;B[fd]
+;W[df]C[Hobbes [1k\]: now will b goes on with his handicap strategy on top?
+Ten [?\]: Just make shape as normal with h16, I'd think
+jv [3d\]: not h17?
+Hobbes [1k\]: h16 k14?
+Ten [?\]: Well, h17 is a shape too, but it escapes slower to the centre
+jv [3d\]: i would have thought the semi-connect at k18 would be worth it
+Ten [?\]: That shape becomes really thin with white k17 as an answer
+]
+;B[ie]C[Hobbes [1k\]: handicap style
+Ten [?\]: Can't figure out the plan here, black won't actually hope that he can put k16 under pressure
+jv [3d\]: if he can lean hard enough on it e12 may become interesting
+jv [3d\]: big if though
+jv [3d\]: and it basically condemns o17 
+Hobbes [1k\]: e12 is now harder to play imo, after d14
+kmr [1d\]: i think that f17 approach turned bad for black since E10 and D14 are close to be conncted
+jv [3d\]: f17 and o17 seem the wrong distance apart
+jv [3d\]: too far to really connect, close enough that they are getting splitting attack
+Hobbes [1k\]: anyway I'm a bit embarassed about how to answer here... l15?
+Hobbes [1k\]: or k15?
+kmr [1d\]: JV but i think black cant afford to create one more weak group by launching a splitting attack around E12
+jv [3d\]: i think k15 should be your instinct
+Hobbes [1k\]: it is, but I fear it's slow
+jv [3d\]: just have to have a plan for k15 k14 
+jv [3d\]: slow isnt what i'd worry about
+jv [3d\]: its pretty blunt about not letting b connect at all
+jv [3d\]: kmr, i mean if b leans hard enough on k16 to make j15 stone strong
+Hobbes [1k\]: not sure that k14 manage not to let b build connection-thickness in ceterr while w live on top
+Hobbes [1k\]: my very first instinct here would be l14 but I'm almost sure it's wrong
+Ten [?\]: What, white's still thinking?
+Ten [?\]: Push j16 should be an easy move
+jv [3d\]: hehe
+Ten [?\]: If black gets j16 just like that, it's easy settling
+Hobbes [1k\]: j16 h15 and?
+Ten [?\]: Around m16 was my idea
+jim [?\]: k15 only move  is no need ro ready anything here
+Hobbes [1k\]: so we got two different only moves here
+jim [?\]: haha
+jv [3d\]: ten has a lot of credibility, jim i dont know
+Ten [?\]: k15 could be good
+Ten [?\]: I just don't know what happens afetr black j16 then
+]
+;W[je]C[jv [3d\]: well, reason to think at least
+Ootakamoku [2d\]: have faith that b wont play ugly move like j16
+Hobbes [1k\]: jim won the first round
+Ten [?\]: Hmm, or maybe black wants out with j14 after all
+Ten [?\]: Presumably he's still aiming for the centre white
+Hobbes [1k\]: I fear k14 by b
+Ten [?\]: Cut first, think later :)
+jv [3d\]: i dont fear k14
+jv [3d\]: but i dont know what happens
+]
+;B[ig]C[jv [3d\]: i'd just cut and pray
+kmr [1d\]: Ten, how you doing in insei league?Your blog has recently no updates :/
+Ten [?\]: Ok, this way white k15 is very good :)
+Hobbes [1k\]: this is ugly
+jv [3d\]: cant read it so....cut and pray :)
+Ten [?\]: kmr, oscillating between A and B
+jim [?\]: I I like white now
+Hobbes [1k\]: looks as b is going all in on e12like fight
+kmr [1d\]: it means like some kind of medium? :)
+Ootakamoku [2d\]: does w have any sequence that doesnt provide b with lots of good shape?
+jv [3d\]: oh wait, i *do* recognize jim. sorry, should have checked avatar sooner :)
+Ten [?\]: Oota, I'll just wedge
+Ootakamoku [2d\]: j14 h14 k14 g12 seems e6 gets weaker? or non issue as of yet?
+jv [3d\]: yes, wedge and laugh at o17 group growing helpeless
+]
+;W[he]C[Ten [?\]: Oota, then I continue to l12
+jim [?\]: lol H15
+Ten [?\]: Arguing that black's group is weaker than white in the centre
+jim [?\]: K14 was so good point
+Ootakamoku [2d\]: but white is surely heavier..
+Ten [?\]: Perhaps, but if it survives all the same anyway, it doesn't make a difference
+Ootakamoku [2d\]: right
+Hobbes [1k\]: j16 only move?
+Ten [?\]: Heavy just means that you cannot sacrifice it, which is true
+jim [?\]: K14 in sente, also J10 is sente then I think
+jim [?\]: and black then easy can discard 2 stones
+]
+;B[id]
+;W[if]C[Hobbes [1k\]: they took a lot of time to play what we immediately suggest, maybe we should candidate for the next pro qual :-))
+jim [?\]: game over soon
+]
+;B[hf]
+;W[jf]C[Hobbes [1k\]: g14?
+Hobbes [1k\]: tewari makes h14 a dubious move, am I right?
+]
+;B[hd]C[Hobbes [1k\]: h15* I mean think about w having played the wedge before the clamp... would have been h15 so needed then?
+]
+;W[ge]
+;B[ee]C[jim [?\]: g14
+]
+;W[hg]C[ben0 [6d\]: e15 was a bit naive
+Fredda [-\]: ondrej egf pro
+Fredda [-\]: gogo
+Liso66 [?\]: egfpro2 - what abot time pls? 
+EGFPro2 [?\]: 34 black
+EGFPro2 [?\]: 26 white
+nidza92 [-\]: if w takes h14 in any variation , he can't be bad
+EGFPro2 [?\]: minutes
+]
+;B[de]
+;W[ce]
+;B[cd]C[Koubic [2d\]: Go Mano!
+Laman [1d\]: Mano for European president
+]
+;W[cc]
+;B[bd]
+;W[bc]C[Pulcik [-\]: yeah, Mano King of the World!!
+]
+;B[gf]
+;W[ff]
+;B[gg]
+;W[fg]
+;B[gh]
+;W[fe]
+;B[ed]
+;W[dc]
+;B[cf]
+;W[be]
+;B[bf]
+;W[ad]C[Mugogo2: is white really that much ahead?
+]
+;B[ef]
+;W[fh]C[Koubic [2d\]: Mano rules no matter the actual position on board, but as of me, I even think he is ahead
+]
+;B[dg]
+;W[jc]C[ben0 [6d\]: difficult position for both
+]
+;B[ib]
+;W[jb]C[Liso66 [?\]: all other games are still playing?
+EGFPro2 [?\]: yes, it is
+EGFPro2 [?\]: yes, they are
+martin97 [-\]: g11 is like a must play?
+]
+;B[cj]C[martin97 [-\]: ah well this one even more ^^
+Krikri [1k\]: b seems to me say show me if u kill me 
+]
+;W[ci]
+;B[di]
+;W[ei]C[jask [7k\]: how is their time on clock?
+]
+;B[dj]C[EGFPro2 [?\]: 2 for w  and   8 for b
+jask [7k\]: minutes?
+]
+;W[ii]C[Jamagoal [15k\]: yes
+EGFPro2 [?\]: yes
+jask [7k\]: thanks
+EGFPro2 [?\]: you're welcome
+EGFPro2 [?\]: b in byo-yomi
+]
+;B[gi]C[EGFPro2 [?\]: w also
+jask [7k\]: how long is one byo-yomi period?
+EGFPro2 [?\]: 10minute fo 25 moves
+jask [7k\]: faster than I've expected
+Krikri [1k\]: may i ask how much time b has left in current boyoymi?
+EGFPro2 [?\]: 6:33
+Krikri [1k\]: thx thats still plenty
+]
+;W[gj]C[martin97 [-\]: ondra seems to be winning this one
+Krikri [1k\]: it is all about life and death  b gas 3 groups w 2 one black should die i suppose
+Koubic [2d\]: How about other games? Everybody still playing?
+EGFPro2 [?\]: ilya has defeat bogdanov
+]
+;B[jg]
+;W[kg]
+;B[jh]C[Laman [1d\]: not Zhurakovskyj?
+HappyLook [6d\]: EGFPro2, bohdan, not bohdanov :) bohdanov sounds like lastname
+EGFPro2 [?\]: yeah, i was in hurry and not sure
+Thenv [-\]: m11 doesn't work?
+EGFPro2 [?\]: thx, for the correction
+]
+;W[hj]C[SIscurge [5d\]: game over?
+U [?\]: artem def. dusan
+Ootakamoku [2d\]: depends when you consider game to be over
+Ten [?\]: Kick reason to the curb, sacrifice one of the three weak groups and save the other two, and win by points
+EGFPro2 [?\]: artem has finished, but i don't know anything else
+U [?\]: he won
+]
+;B[hi]C[SIscurge [5d\]: thank U
+Ten [?\]: Ok, this is the shortest way to lose
+SIscurge [5d\]: its csptured no?
+Ten [?\]: Yes it is
+snowman [-\]: M11 perhaps
+]
+;W[li]C[Ten [?\]: Even brute force by f11 works, but m11 is of course better
+Ootakamoku [2d\]: can just force local capture and be done with it
+Ten [?\]: Now black essentially passed once
+Ahamay [4d?\]: resign?
+snowman [-\]: jeu termine
+HappyLook [6d\]: so it's gonna be Ilya against Ondrej :) 
+EGFPro2 [?\]: black has resigned.
+SIscurge [5d\]: czech number one > french number one :P
+bronislav [?\]: :-)
+bronislav [?\]: oujes
+Pulcik [-\]: yeeeeess!
+Laman [1d\]: nice start
+Pulcik [-\]: Mano is back!:)
+SIscurge [5d\]: good job :)
+HappyLook [6d\]: SIscurge, French number one > all
+HappyLook [6d\]: ;)
+HappyLook [6d\]: bcz Fan is namba 1 :)
+bolbi [-\]: Dai*
+EGFPro2 [?\]: thank you for all!! :)
+Liso66 [?\]: thanx 
+HappyLook [6d\]: thx EGFPro2 :)
+SIscurge [5d\]: yeah but he loses a lot in pgect. Even against czech number two :p
+EGFPro2 [?\]: :)
+tokyo [?\]: ty for broadcast 
+Pulcik [-\]: thx
+HappyLook [6d\]: SIscurge, hard to be namba 1 and a father :)
+HappyLook [6d\]: but he will do his best soon I believe :)
+SIscurge [5d\]: oh i didnt know :)
+bolbi [-\]: but now, Dai Junfu in the french # 1
+SIscurge [5d\]: can you go check Lukas's game please?
+martin97 [-\]: kramer is not playing right?
+EGFPro2 [?\]: Kramer is playing
+Fredda [-\]: but he was reserve, who didn't show up then?
+Jna [1k?\]: there is Likas Podpera
+Jna [1k?\]: Lukas Podpera
+EGFPro2 [?\]: also Popdera is playing
+Jna [1k?\]: when the next round starts, please?
+EGFPro2 [?\]: around 15,30
+EGFPro2 [?\]: oh, no 16 o'clock!
+Jna [1k?\]: thx :)
+EGFPro2 [?\]: Ok, see you later!
+Koubic [2d\]: Paráda Ondro! :)
+])

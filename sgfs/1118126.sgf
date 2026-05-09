@@ -1,0 +1,389 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[EGC 2023, Open Championship, Rd. 9, Brd. 2]
+PC[https://online-go.com/review/1118126]
+PB[Boviz Dominik]
+PW[Kim Daehwi]
+BR[6d]
+WR[7d]
+OT[Error: time control missing]
+RE[?]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+
+;B[dp]
+;W[pd]
+;B[dd]
+;W[pp]
+;B[dj]
+;W[fq]
+;B[eo]
+;W[fc]
+;B[ee]
+;W[nc]C[
+
+-- chat --
+Mrrr: nice start by black
+OndraKruml: :D
+]
+;B[gp]
+;W[cq]C[
+
+-- chat --
+Zaphodian: Boviz is an interesting player with a unique style, although he is often criticized for his style or lack thereof.
+]
+;B[cp]
+;W[dq]
+;B[gq]
+;W[fp]
+;B[fo]
+;W[gr]
+;B[hr]
+;W[fr]
+;B[iq]
+;W[go]
+;B[io]
+;W[ho]
+;B[hp]
+;W[hm]
+;B[bq]
+;W[br]
+;B[bp]
+;W[ep]
+;B[ar]
+;W[bs]C[
+
+-- chat --
+Mrrr: are these 2 variations product of an AI, Zaphodian?
+Mrrr: It is quite educatonal to see these two examples
+Mrrr: so J6 has all the merits of a good move apart from leading to good result ;)
+]
+(;B[in]
+;W[fm]
+;B[dm]C[
+
+-- chat --
+Zaphodian:  W gets good shape and B gets bad shape. From move 0: D4 Q16 D16 Q4 D10 F3 E5 F17 E15 O17 G4 C3 C4 D3 G3 F4 F5 G2 H2 F2 J3 G5 J5 H5 H4 H7 B3 B2 B4 E4 A2 B1 J6 F7 D7 
+]
+)(;B[fm]
+;W[in]
+;B[jo]
+;W[jn]
+;B[ko]
+;W[lm]
+;B[np]C[
+
+-- chat --
+Zaphodian:  playable for B. From move 0: D4 Q16 D16 Q4 D10 F3 E5 F17 E15 O17 G4 C3 C4 D3 G3 F4 F5 G2 H2 F2 J3 G5 J5 H5 H4 H7 B3 B2 B4 E4 A2 B1 F7 J6 K5 K6 L5 M7 O4 
+]
+)(;B[im]
+;W[in]
+;B[jn]
+;W[hn]
+;B[jo]
+;W[il]
+;B[jm]
+;W[em]
+;B[cm]
+;W[ek]
+;B[dk]
+;W[cc]
+;B[dc]
+;W[cd]
+;B[cf]C[
+
+-- chat --
+Mrrr: Is this result bad for black? It keeps white center group compacted and with some potential weaknesses to exploit. On the other hand it also makes O4 uninteresting for black 
+Mrrr: and O4 is a nice move, which was to get with natural flow in the other variation.
+Mrrr: still, i would estimate it as more or less equal
+Zaphodian: I wanna cut at H8 badly
+Zaphodian: but maybe not so interesting
+Mrrr: would white sacrifice H6?
+Mrrr: these stones are cutting two very strong groups so they don`t do much
+]
+;W[db]
+;B[eb]
+;W[cb]
+;B[ec]
+;W[ce]
+;B[df]C[
+
+-- chat --
+Mrrr: maybe better for black to attack the whole thing instead of cutting it to small pieces
+]
+;W[fb]
+;B[ea]
+;W[ic]
+;B[be]
+;W[bd]
+;B[bf]
+;W[ab]
+;B[hl]
+;W[gm]
+;B[qn]
+;W[ro]
+;B[nq]
+;W[oq]
+;B[np]
+;W[rn]C[
+
+-- chat --
+Zaphodian: Yes, but how to attack it?
+Zaphodian: Maybe not at all.
+Zaphodian: You don't like the word 'funky', BTW?
+Mrrr: i don`t have any problem with "funky" word :)
+Mrrr: why did you ask?
+Zaphodian: (that was meant for JvanBusken), but in a different game. sorry
+Mrrr: np
+]
+;B[qf]
+;W[qe]
+;B[pf]
+;W[qj]
+;B[jd]
+;W[jc]
+;B[ld]
+;W[ne]
+;B[kc]
+;W[ke]
+;B[kd]
+;W[he]
+;B[if]C[
+
+-- chat --
+JamesX: Smartboard is lagging a lot.
+]
+;W[ie]
+;B[je]
+;W[jf]C[
+
+-- chat --
+Zaphodian: I don't look at that at all
+]
+;B[ig]
+;W[jg]
+;B[lf]
+;W[ih]C[
+
+-- chat --
+JamesX: It plays the moves in batch
+]
+(;B[hg]C[
+
+-- chat --
+Zaphodian: of course. From move 0: D4 Q16 D16 Q4 D10 F3 E5 F17 E15 O17 G4 C3 C4 D3 G3 F4 F5 G2 H2 F2 J3 G5 J5 H5 H4 H7 B3 B2 B4 E4 A2 B1 J7 J6 K6 H6 K5 J8 K7 E7 C7 E9 D9 C17 D17 C16 C14 D18 E18 C18 E17 C15 D14 F18 E19 J17 B15 B16 B14 A18 H8 G7 R6 S5 O3 P3 O4 S6 R14 R15 Q14 R10 K16 K17 M16 O15 L17 L15 L16 H15 J14 J15 K15 K14 J13 K13 M14 J12 H13 
+]
+)(;B[gf]
+;W[gg]
+;B[hf]C[
+
+-- chat --
+JamesX: http://app.izis.cn:8080/web/#/live_detail?gameId=421834&type=2&isLand=false
+]
+;W[ge]
+;B[ff]
+;W[jb]C[
+
+-- chat --
+Mrrr: K12 looks nice and risky and brave
+Mrrr: :)
+Mrrr: but if white connect k12 he will be strong in the center anyway
+Mrrr: so to my 1k eyes there is no choice
+Mrrr: or maybe creating ladder is an alternative?
+Mrrr: i guess we will get again 20 moves in 5 seconds
+Mrrr: yes, that`s what occured to me at some point, this ladde looks good now
+Mrrr: *ladder
+]
+(;B[ik]
+;W[fn]
+;B[jh]C[
+
+-- chat --
+Zaphodian: maybe first play J9. From move 0: D4 Q16 D16 Q4 D10 F3 E5 F17 E15 O17 G4 C3 C4 D3 G3 F4 F5 G2 H2 F2 J3 G5 J5 H5 H4 H7 B3 B2 B4 E4 A2 B1 J7 J6 K6 H6 K5 J8 K7 E7 C7 E9 D9 C17 D17 C16 C14 D18 E18 C18 E17 C15 D14 F18 E19 J17 B15 B16 B14 A18 H8 G7 R6 S5 O3 P3 O4 S6 R14 R15 Q14 R10 K16 K17 M16 O15 L17 L15 L16 H15 J14 J15 K15 K14 J13 K13 M14 J12 G14 G13 H14 G15 F14 K18 J9 F6 K12 
+]
+)(;B[jh]C[
+
+-- chat --
+Mrrr: i was thinking about starting with J9 (ladder) as black - before cutting K12
+]
+;W[ng]
+;B[fn]
+;W[kh]
+;B[ji]
+;W[kg]
+;B[mc]
+;W[nb]
+;B[kb]
+;W[hb]C[
+
+-- chat --
+Zaphodian: Boviz is extremely good at playing under byoyomi pressure as well as making groups alive
+Volker_S_Halstenbek: looks like Dominik is in shape these days
+Mrrr: i really wish him win :)
+]
+(;B[mh]
+;W[mg]
+;B[lg]
+;W[lh]
+;B[kf]
+;W[mi]
+;B[mb]C[
+
+-- chat --
+Zaphodian: this ladder?. From move 0: D4 Q16 D16 Q4 D10 F3 E5 F17 E15 O17 G4 C3 C4 D3 G3 F4 F5 G2 H2 F2 J3 G5 J5 H5 H4 H7 B3 B2 B4 E4 A2 B1 J7 J6 K6 H6 K5 J8 K7 E7 C7 E9 D9 C17 D17 C16 C14 D18 E18 C18 E17 C15 D14 F18 E19 J17 B15 B16 B14 A18 H8 G7 R6 S5 O3 P3 O4 S6 R14 R15 Q14 R10 K16 K17 M16 O15 L17 L15 L16 H15 J14 J15 K15 K14 J13 K13 M14 J12 G14 G13 H14 G15 F14 K18 K12 O13 F6 L12 K11 L13 N17 O18 L18 H18 N12 N13 M13 M12 L14 N11 N18 
+]
+)(;B[ki]
+;W[li]
+;B[nf]C[
+
+-- chat --
+Sienisato: O14 what a move. From move 0: D4 Q16 D16 Q4 D10 F3 E5 F17 E15 O17 G4 C3 C4 D3 G3 F4 F5 G2 H2 F2 J3 G5 J5 H5 H4 H7 B3 B2 B4 E4 A2 B1 J7 J6 K6 H6 K5 J8 K7 E7 C7 E9 D9 C17 D17 C16 C14 D18 E18 C18 E17 C15 D14 F18 E19 J17 B15 B16 B14 A18 H8 G7 R6 S5 O3 P3 O4 S6 R14 R15 Q14 R10 K16 K17 M16 O15 L17 L15 L16 H15 J14 J15 K15 K14 J13 K13 M14 J12 G14 G13 H14 G15 F14 K18 K12 O13 F6 L12 K11 L13 N17 O18 L18 H18 L11 M11 O14 
+]
+;W[of]
+;B[lj]
+;W[lh]
+;B[mj]
+;W[ni]
+;B[qi]
+;W[pj]
+;B[rj]
+;W[rk]
+;B[rh]
+;W[sj]
+;B[si]
+;W[ri]
+;B[id]
+;W[hd]
+;B[rj]
+;W[kj]
+;B[jj]
+;W[ri]
+;B[fd]
+;W[gd]
+;B[rj]
+;W[kk]
+;B[jk]
+;W[ri]
+;B[gc]
+;W[gb]
+;B[rj]
+;W[dn]
+;B[do]
+;W[ri]
+;B[fe]
+(;W[rj]
+;B[sk]
+)(;W[hc]
+;B[rj]
+;W[sk]
+;B[pi]
+;W[ri]
+;B[ja]
+;W[ia]
+;B[rj]
+;W[kl]
+;B[jl]
+;W[ri]
+;B[dr]
+;W[cr]
+;B[rj]
+;W[oi]
+;B[qk]
+;W[ri]
+;B[er]
+;W[ds]
+;B[rj]
+;W[cn]
+;B[bn]
+;W[ri]
+;B[da]
+;W[ca]
+;B[rj]
+;W[rl]
+;B[ql]
+;W[ri]
+;B[ad]
+;W[ac]
+;B[rj]
+;W[rm]
+;B[oj]
+;W[ri]
+;B[bb]
+;W[ba]
+;B[rj]
+;W[pk]
+;B[og]
+;W[mf]
+;B[oh]
+;W[nh]
+;B[ri]
+;W[rf]
+;B[rg]
+;W[re]
+;B[sg]C[
+
+-- chat --
+Mrrr: i so much enjoy black`s play
+]
+;W[ol]
+;B[ml]
+;W[nm]
+;B[mn]
+;W[nr]
+;B[mr]
+;W[or]
+;B[nn]
+;W[on]
+;B[oo]
+;W[po]
+;B[ms]
+;W[op]
+;B[no]
+;W[pe]
+;B[pg]
+;W[mq]
+;B[mm]
+;W[is]
+;B[jr]C[
+
+-- chat --
+EGF2: w+10 or so
+serban_mihai: w+?
+JamesX: B+ definitely
+Volker_S_Halstenbek: w like 90, b like 100 i count
+Volker_S_Halstenbek: plus 10 prisinors each
+serban_mihai: do you have izis link for this game?
+JamesX: http://app.izis.cn:8080/web/#/live_detail?gameId=421834&type=2&isLand=false
+EGF2: w+R
+JamesX: How?
+Volker_S_Halstenbek: thx for the relay 
+Volker_S_Halstenbek: congrats to Dominik
+Volker_S_Halstenbek: ?
+Volker_S_Halstenbek: w+r?
+Volker_S_Halstenbek: really????
+JamesX: Do we see the very last moves?
+Sienisato: What?
+JamesX: EGF2: Can you please clarify it?
+Sienisato: I cant believe Dominik would resign now. He certainly knows how to count points
+JamesX: Maybe the smartboard has not transferred the last moves.
+Sienisato: Yes but how could black lose the game with current position?
+Mrrr: maybe white was black and black was white?
+Sienisato: Oh lol how confusing
+JamesX: this smartboard broadcast sucks
+JamesX: It can not be a color misschange
+c.j.bloo: I think the abbreviation W+R meaning "White wins by resignation of Black" is confusing. Why don't people simply say "B resigns" or "W wins by resign"? Much less possibility for simple mistakes like there seems to be here.
+Mrrr: anyway, egf is no longer here so we will never know
+Sienisato: James, EGF2 wrote earlier W+10 that supports the wrong color theory
+Volker_S_Halstenbek: this is just frustrating :-(
+Sienisato: Because Dominik would never resign here as black, as far as I know he doesn’t resign even when he’s behind by a lot
+Mrrr: there must have been a terrible 20 ponits tesuji somewhere :)
+JamesX: I have confirmed information. B+R is the correct result
+Volker_S_Halstenbek: thx James
+JamesX: EGF2 was bad
+Sienisato: Thanks!
+Mrrr: thanks JamesX!
+JamesX: Results: https://www.egc2023.de/en/open-european-championship/#tab-41122
+]
+))))))

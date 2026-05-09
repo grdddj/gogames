@@ -1,0 +1,476 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[7th European Pro Championship - Round 4, Board 2: Andrii Kravets 1p(B) vs Artem Kachanovskyi 2p(W)]
+PC[https://online-go.com/review/1240238]
+PB[Andrii Kravets]
+PW[Artem Kachanovskyi]
+BR[1p]
+WR[2p]
+OT[Error: time control missing]
+RE[b+1.5]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+
+;B[dp]
+;W[pd]
+;B[dd]
+;W[pq]
+;B[qo]
+;W[pm]
+;B[oo]
+;W[np]
+;B[pk]
+;W[rm]
+;B[no]
+;W[mp]
+;B[om]
+;W[pn]
+;B[po]C[
+
+-- chat --
+EGF1: Time settings: 60 minutes main time plus 20 seconds increment per move (Fischer time) Chinese rules, 3 3/4 stones komi
+]
+;W[on]
+;B[mo]
+;W[lp]
+;B[nm]
+;W[qj]C[
+
+-- chat --
+kaskai: Artem on fire! 
+Sergey Lilo: But why Chinese rules?
+Sergey Lilo: Just curious
+BeatenByAChessPlayer: I didn't see the end yesterday, did Artem win?
+kaskai: cause the top 3 (I think) will become members of the European team in Chinese C League 
+kaskai: Yes, Artem won he has 3 points - sole leader so far
+lorro: https://eurogofed.org/pros/
+lorro: " The main sponsor of the EGF pro system is CEGO which stands for Chinese European Go. CEGO comprises chinese investors who want to foster go in Europe. "
+💖 KoBa 💖: ah so the komi should be 7-5 instead 66-5?
+BeatenByAChessPlayer: Artem is a god
+💖 KoBa 💖: *7.5, 6.5
+lorro: Maybe this is the explanation
+]
+;B[qk]
+;W[rk]
+;B[rl]
+;W[rj]
+;B[ql]
+;W[pj]
+;B[qm]
+;W[qf]
+;B[fq]
+;W[fc]
+;B[df]
+;W[ee]
+;B[de]
+;W[db]
+;B[di]C[
+
+-- chat --
+kaskai: Tournament system: Round robin, 60 minutes main time plus 20 seconds increment per move (Fischer time) Chinese rules, 3 3/4 stones komi, participants mentioned first in the pairing play Black. In case of equal points after the main rounds, the tie-breaking system is applied (additional games)
+Sergey Lilo: lorro, thanks!
+]
+;W[mc]C[
+
+-- chat --
+Volker_S_Halstenbek: https://eurogofed.org/epc/2024.html
+Volker_S_Halstenbek: tournament website
+Sergey Lilo: Chinese weiqi stones are twice as smaller than Japanese, so that they have 1/4 fractions for komi
+Sergey Lilo: 2 Japanese stone == 1 Chinese
+BeatenByAChessPlayer: Artem style is so cool
+]
+;B[cn]
+;W[iq]
+;B[hb]C[
+
+-- chat --
+Sergey Lilo: Is that a missclick
+Sergey Lilo: Did B drop the stone accidentaly?
+Volker_S_Halstenbek: no. that seems to be an established starting point for b on those 3 w stones
+Sergey Lilo: Never seen that before. Doesn't look nice on 2nd line
+]
+;W[gc]
+;B[id]C[
+
+-- chat --
+Volker_S_Halstenbek: Andrii played it in his last "Budesliga" Match, so i guess he studied it
+]
+;W[cc]
+;B[ge]C[
+
+-- chat --
+Volker_S_Halstenbek: and g17 is the best answer, according to AI, i learnt in a review
+kaskai: considering how quick they played out the sequence, they both know it
+Volker_S_Halstenbek: yep
+kaskai: g17 - inhuman move LOL 
+]
+;W[ck]C[
+
+-- chat --
+BeatenByAChessPlayer: Wow G17 instinctively doesn't seem crazy, but if the AI says so, it's true!
+Volker_S_Halstenbek: i didnt say i'd understand :)
+]
+;B[bd]C[
+
+-- chat --
+Sergey Lilo: Wasn't there a rule that you don't place your stone under the shoulder hit
+Volker_S_Halstenbek: that is so 2020 :)
+Sergey Lilo: Lol, I see
+]
+;W[bc]C[
+
+-- chat --
+BeatenByAChessPlayer: Is there such a big difference in level between 2020 and now? Xd
+Volker_S_Halstenbek: yep
+]
+;B[ek]C[
+
+-- chat --
+Sergey Lilo: Post-covid joseki
+BeatenByAChessPlayer: It's crazy, I've only been playing Go for a year so I don't realize it but it must be evolving at an incredible speed:)
+kaskai: Cosmic speed
+]
+;W[dq]
+;B[cp]C[
+
+-- chat --
+Volker_S_Halstenbek: https://github.com/lightvector/KataGo/blob/master/TrainingHistory.md
+kaskai: 10 years ago, in 2014, Pavol Lisy (top) and Ali Jabarin (2nd) became pro players from the first european pro qualification tournament
+kaskai: https://eurogofed.org/pros/qualifications.html
+BeatenByAChessPlayer: Oh Artem looks a bit in trouble
+]
+;W[cm]
+;B[bm]
+;W[bl]
+;B[dm]
+;W[dl]
+;B[cl]
+;W[eq]
+;B[fp]
+;W[cm]
+;B[el]
+;W[bn]
+;B[cl]C[
+
+-- chat --
+Daniug: no ko threat
+BeatenByAChessPlayer: oh sh*t
+]
+;W[ro]C[
+
+-- chat --
+kaskai: Language please! This is a long standing fine establishment! ^^ :P 
+]
+(;B[cm]
+;W[rp]
+;B[rn]
+;W[qn]
+;B[sm]C[
+
+-- chat --
+BeatenByAChessPlayer: Is it a real ko threat ?
+]
+)(;B[rn]
+;W[cm]C[
+
+-- chat --
+BeatenByAChessPlayer: oh yeah ok
+]
+;B[eb]C[
+
+-- chat --
+Daniug: w already lost some points with S5 threat?
+]
+;W[ec]
+;B[cl]
+;W[hd]
+;B[dk]
+;W[he]
+;B[pc]
+;W[qc]C[
+
+-- chat --
+BeatenByAChessPlayer: The game still looks fairly balanced
+]
+;B[oc]
+;W[qd]
+;B[lc]
+;W[lb]
+;B[md]
+;W[kc]
+;B[ld]
+;W[mb]
+;B[kd]
+;W[jc]
+;B[od]
+;W[jd]
+;B[kf]
+;W[fr]
+;B[gr]
+;W[er]
+;B[jq]
+;W[jp]
+;B[kq]
+;W[kp]
+;B[ir]
+;W[hq]
+;B[hr]
+;W[bq]
+;B[lr]
+;W[mr]
+;B[qq]
+;W[qr]
+;B[rr]
+;W[rq]
+;B[qp]
+;W[pr]
+;B[ig]C[
+
+-- chat --
+Trébol: I predict B+4.5 :)
+BeatenByAChessPlayer: Nah W + 4.5 :)
+]
+;W[ho]
+;B[hf]
+;W[fe]
+;B[ie]
+;W[ic]
+;B[je]
+;W[fg]
+;B[og]
+;W[oe]
+;B[qg]C[
+
+-- chat --
+Trébol: Wait and see
+Sergey Lilo: B46 W42
+]
+;W[rg]
+;B[pf]
+;W[qh]
+;B[ph]
+;W[pg]C[
+
+-- chat --
+Sergey Lilo: Why
+]
+;B[cq]
+;W[cr]
+;B[qg]
+;W[pe]
+;B[rh]
+;W[pg]
+;B[bp]
+;W[br]
+;B[qg]
+;W[qi]
+;B[rf]
+;W[pg]
+;B[hc]
+;W[of]
+;B[gd]
+;W[nd]
+;B[dc]
+;W[cb]C[
+
+-- chat --
+BeatenByAChessPlayer: Sadly it's B+1.5
+]
+;B[ff]
+;W[fb]
+;B[fd]
+;W[ed]
+;B[ef]
+;W[hk]
+;B[hj]
+;W[ij]
+;B[ik]
+;W[hl]
+;B[il]
+;W[gj]
+;B[hi]
+;W[hm]
+;B[im]
+;W[hn]
+;B[ni]
+;W[gi]
+;B[ip]C[
+
+-- chat --
+Piwh: Blacks play is very impressive
+]
+;W[io]
+;B[ne]
+;W[nc]
+;B[nf]C[
+
+-- chat --
+BeatenByAChessPlayer: Ouch
+]
+;W[ng]
+;B[mg]
+;W[oh]
+;B[mh]C[
+
+-- chat --
+EGF: adrii 10 minutes artem 5 minutes
+]
+;W[km]C[
+
+-- chat --
+BeatenByAChessPlayer: God move ?
+]
+;B[kl]
+;W[hh]
+;B[ii]
+;W[ih]
+;B[ji]
+;W[eh]C[
+
+-- chat --
+BeatenByAChessPlayer: Artem will soon shine
+]
+;B[dh]
+;W[gq]C[
+
+-- chat --
+tymak: 1. From move 0: D4 Q16 D16 Q3 R5 Q7 P5 O4 Q9 S7 O5 N4 P7 Q6 Q5 P6 N5 M4 O7 R10 R9 S9 S8 S10 R8 Q10 R7 R14 F3 F17 D14 E15 D15 D18 D11 N17 C6 J3 H18 G17 J16 C17 G15 C9 B16 B17 E9 D3 C4 C7 B7 B8 D7 D8 C8 E3 F4 C7 E8 B6 C8 S5 S6 C7 E18 E17 C8 H16 D9 H15 Q17 R17 P17 R16 M17 M18 N16 L17 M16 N18 L16 K17 P16 K16 L14 F2 G2 E2 K3 K4 L3 L4 J2 H3 H2 B3 M2 N2 R3 R2 S2 S3 R4 Q2 J13 H5 H14 F15 J15 J17 K15 F13 P13 P15 R13 S13 Q14 R12 Q12 Q13 C3 C2 R13 Q15 S12 Q13 B4 B2 R13 R11 S14 Q13 H17 P14 G16 O16 D17 C18 F14 F18 F16 E16 E14 H9 H10 J10 J9 H8 J8 G10 H11 H7 J7 H6 O11 G11 J4 J5 O15 O17 O14 O13 N13 P12 N12 L7 L8 H12 J11 J12 K11 E12 D12 G3 
+]
+;B[gs]
+;W[js]
+;B[ks]
+;W[fs]
+;B[is]
+;W[jh]
+;B[kh]
+;W[lm]
+;B[ll]
+;W[ki]
+;B[jj]C[
+
+-- chat --
+Trébol: My prediction is coming true 
+]
+;W[kg]
+;B[lh]
+;W[jg]C[
+
+-- chat --
+Trébol: S4 big for w
+Trébol: Or no… /:
+Trébol: T2 only
+]
+;B[oj]
+;W[rs]
+;B[cd]
+;W[ad]
+;B[ae]
+;W[ac]
+;B[be]
+;W[ap]
+;B[bo]
+;W[rp]
+;B[so]
+;W[sr]
+;B[ib]
+;W[ka]
+;B[lq]
+;W[mq]
+;B[fn]
+;W[fm]
+;B[jb]
+;W[kb]
+;B[fa]
+;W[ea]
+;B[ga]
+;W[ba]
+;B[ei]
+;W[fi]
+;B[fl]
+;W[gl]
+;B[mm]
+;W[en]
+;B[eo]
+;W[em]
+;B[jm]
+;W[lo]
+;B[jn]
+;W[ln]
+;B[oi]
+;W[pi]
+;B[op]
+;W[oq]
+;B[ms]
+;W[ns]
+;B[ls]
+;W[hg]
+;B[if]
+;W[sp]C[
+
+-- chat --
+Piwh: What a great game
+]
+;B[sn]
+;W[sl]
+;B[sm]
+;W[sk]C[
+
+-- chat --
+BeatenByAChessPlayer: Artem sama
+]
+;B[ok]C[
+
+-- chat --
+Trébol: B lose sente in yose…. 
+Trébol: Why the AI doesn’t calculate the percentage of Sente? 
+]
+;W[gg]
+;B[eg]
+;W[fh]
+;B[ao]
+;W[aq]
+;B[ja]
+;W[mn]
+;B[nn]
+;W[lg]
+;B[lf]
+;W[fj]
+;B[fk]
+;W[gk]
+;B[ej]
+;W[ep]
+;B[dn]
+;W[gm]
+;B[nh]
+;W[og]
+;B[gp]
+;W[hp]
+;B[fo]
+;W[eb]
+;B[gb]
+;W[jo]
+;B[kn]
+;W[pp]
+;B[ko]
+;W[in]
+;B[do]
+;W[gn]
+;B[gf]
+;W[go]
+;B[jf]C[
+
+-- chat --
+Piwh: Standings got way more unsure all of a sudden
+EGF: game is over
+Trébol: Result?
+EGF: i will check  but it seems andrii won
+coconutt: Andrii + ?
+Trébol: +1 maybe
+BeatenByAChessPlayer: EGF ?
+EGF1: yes b+1.5
+jeffrey09: i want to play with 3-4d 
+jeffrey09: anyone
+]
+))

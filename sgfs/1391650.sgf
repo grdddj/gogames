@@ -1,0 +1,286 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[8th EGP Finale R3, B1]
+PC[https://online-go.com/review/1391650]
+PB[Vsevolod Ovsiienko]
+PW[Ali Jabarin]
+BR[6d]
+WR[2p]
+OT[Error: time control missing]
+RE[?]
+SZ[19]
+KM[7.5]
+RU[Chinese]
+
+;B[pd]
+;W[dd]
+;B[pq]
+;W[dp]
+;B[fc]
+;W[qo]
+;B[op]
+;W[cf]
+;B[nc]
+;W[ql]C[
+
+-- chat --
+Trevoke: It's probably too late to fix this but I think this game is named R3,B1 and should be named R3,B2 ?
+Whirly: Something like this?. From move 0: Q16 D16 Q3 D4 F17 R5 P4 C14 O17 R8 
+]
+;B[fq]
+;W[eq]
+;B[fp]
+;W[dn]
+;B[jp]
+;W[hr]
+;B[gr]
+;W[hp]
+;B[ho]C[
+
+-- chat --
+jvandenbusken: isn't h2 way too early for now?
+]
+;W[kq]C[
+
+-- chat --
+Trevoke: I would have thought so but nowadays I imagine most of these "way too early moves" are just "katago pace"
+]
+;B[jq]
+;W[jr]
+;B[kr]C[
+
+-- chat --
+Whirly: B has no ladder
+]
+;W[iq]C[
+
+-- chat --
+Whirly: So j3 seems like easy choice
+Whirly: I think b overplayed
+]
+;B[js]
+;W[ir]C[
+
+-- chat --
+OndraKruml: wow
+]
+;B[lr]
+;W[io]
+;B[go]C[
+
+-- chat --
+Whirly: M3?
+Whirly: Ah doesnt work
+Whirly: So just L5
+jvandenbusken: how about N3
+]
+(;W[lq]
+;B[mq]
+;W[ko]
+;B[kp]
+;W[lp]
+;B[lo]
+;W[mp]
+;B[mo]
+;W[np]
+;B[no]
+;W[nq]
+;B[nr]
+;W[mr]
+;B[oq]C[
+
+-- chat --
+Whirly: Why not m3. From move 0: Q16 D16 Q3 D4 F17 R5 P4 C14 O17 R8 F3 E3 F4 D6 K4 H2 G2 H4 H5 L3 K3 K2 L2 J3 K1 J2 M2 J5 G5 M3 N3 L5 L4 M4 M5 N4 N5 O4 O5 O3 O2 N2 P3 
+]
+)(;W[ko]
+;B[kp]
+;W[lp]C[
+
+-- chat --
+OndraKruml: g7/or g8 coming?
+]
+;B[lq]
+;W[jo]
+;B[lo]
+;W[mp]
+;B[mo]
+;W[ip]
+;B[kq]
+;W[ln]C[
+
+-- chat --
+Trevoke: time check, please?
+]
+;B[mn]
+;W[mm]
+;B[lm]
+;W[kn]
+;B[ll]
+;W[ml]
+;B[on]
+;W[lk]
+;B[kl]
+;W[im]
+;B[gm]
+(;W[mk]
+;B[kk]
+;W[ik]
+;B[ki]
+;W[dk]
+;B[fj]
+;W[hj]
+;B[gj]
+;W[hh]
+;B[dj]
+;W[cj]
+;B[ck]
+;W[dl]
+;B[di]
+;W[ci]
+;B[fg]
+;W[fd]
+;B[gf]
+;W[ec]
+;B[ii]C[
+
+-- chat --
+snowman: with Fischer time the time check might be irrelevant
+]
+;W[hi]
+;B[ig]
+;W[jh]C[
+
+-- chat --
+snowman: after time check, there can be more time
+]
+;B[ih]C[
+
+-- chat --
+Trevoke: I think you are making assumptions about why I want the information
+Trevoke: Or possibly about what the information can be useful for
+]
+;W[jj]
+;B[kj]
+;W[ji]
+;B[kf]C[
+
+-- chat --
+snowman: I don't have any idea about either
+]
+;W[fl]C[
+
+-- chat --
+Hrewsahgs: It's not guaranteed that players will have more time just because it's fischer time
+Hrewsahgs: What if they're the type to ponder their moves longer than the bonus time?
+Trevoke: btw https://www.twitch.tv/europeangofederation
+]
+;B[gl]
+;W[er]
+;B[qj]
+;W[gk]
+;B[fk]
+;W[hk]
+;B[el]
+;W[fh]
+;B[ch]
+;W[bk]
+;B[eh]
+;W[fi]
+;B[ek]
+;W[cl]
+(;B[dg]
+;W[kg]
+;B[mi]
+;W[jf]
+;B[jg]
+;W[hg]
+;B[kh]
+;W[lg]
+;B[if]
+;W[hf]
+;B[je]
+;W[em]
+;B[gd]
+;W[he]
+;B[ge]
+;W[fm]
+;B[gc]
+;W[id]
+;B[cc]
+;W[db]
+;B[be]
+;W[ce]
+;B[bf]
+;W[bd]
+;B[cd]
+;W[bc]
+;B[de]
+;W[cb]
+;B[pk]
+;W[md]C[
+
+-- chat --
+NeonLights: giant tenuki time
+]
+;B[kc]
+;W[mc]
+;B[nd]
+;W[ne]
+;B[mf]
+;W[pc]
+;B[oc]
+;W[qd]
+;B[qc]
+;W[pb]
+;B[qb]
+;W[mg]
+;B[nf]
+;W[lf]
+;B[le]C[
+
+-- chat --
+EGF: black loses on time
+uju: thanks
+simply_red: black lost? where is whites last move?
+EGF: the last black move was played when his time was gone
+Trevoke: Thanks for scribing
+Hrewsahgs: Thank you for scribing
+simply_red: ah thx
+]
+)(;B[gs]
+;W[fn]
+;B[fm]
+;W[fo]
+;B[hm]
+;W[gp]C[
+
+-- chat --
+Mardipaev: F5, plan b for if plan A F2 connection is blocked. From move 0: Q16 D16 Q3 D4 F17 R5 P4 C14 O17 R8 F3 E3 F4 D6 K4 H2 G2 H4 H5 L3 K3 K2 L2 J3 K1 J2 M2 J5 G5 L5 L4 M4 M3 K5 M5 N4 N5 J4 L3 M6 N6 N7 M7 L6 M8 N8 P6 M9 L8 J7 G7 N9 L9 J9 L11 D9 F10 H10 G10 H12 D10 C10 C9 D8 D11 C11 F13 F16 G14 E17 J11 H11 J13 K12 J12 K10 L10 K11 L14 F8 G8 E2 R10 G9 F9 H9 E8 F12 C12 B9 E12 F11 E9 C8 G1 F6 F7 F5 H7 G4 
+]
+))(;W[gl]
+;B[kk]
+;W[hl]
+;B[em]
+;W[cl]
+;B[fl]
+;W[gj]C[
+
+-- chat --
+Whirly: Some var. From move 0: Q16 D16 Q3 D4 F17 R5 P4 C14 O17 R8 F3 E3 F4 D6 K4 H2 G2 H4 H5 L3 K3 K2 L2 J3 K1 J2 M2 J5 G5 L5 L4 M4 M3 K5 M5 N4 N5 J4 L3 M6 N6 N7 M7 L6 M8 N8 P6 M9 L8 J7 G7 G8 L9 H8 E7 C8 F8 G10 
+]
+))(;W[mq]
+;B[lq]
+;W[kp]
+;B[jo]
+;W[lp]
+;B[mr]
+;W[in]
+;B[kn]
+;W[ip]C[
+
+-- chat --
+Whirly: Something like this?. From move 0: Q16 D16 Q3 D4 F17 R5 P4 C14 O17 R8 F3 E3 F4 D6 K4 H2 G2 H4 H5 L3 K3 K2 L2 J3 K1 J2 M2 J5 G5 N3 M3 L4 K5 M4 N2 J6 L6 J4 
+Whirly: Fixed ^^
+]
+))

@@ -1,0 +1,1061 @@
+(;GM[1]
+FF[4]
+CA[UTF-8]
+AP[CGoban:3]
+ST[2]
+RU[Chinese]
+SZ[19]
+KM[7.50]
+TM[5400]
+OT[25/600 Canadian]
+GN[Cornel Burzo - Thomas Debarre]
+PW[Cornel Burzo]
+PB[Thomas Debarre]
+WR[6d]
+BR[6d]
+DT[2015-03-08]
+RO[5]
+PC[The KGS Go Server at http://www.gokgs.com/]
+US[Dionisio Sanzone]
+EV[European Pro Qualification 2015 - Pisa]
+SO[http://www.eurogofed.org/]
+RE[W+2.5]
+C[U [?\]: both cornel and debarre lost in the first round but then have won 3 straight. cornel lost to csaba, debarre to silt. then debarre beat bohdan, csaba and pop. cornel beat timur, silt and artem
+tuquedenne [3d\]: maybe when you lose the 1st you play free :)
+U [?\]: in a way they both avenged each other, eliminating the one the other one lost to
+tuquedenne [3d\]: hehe
+];B[dc]C[U [?\]: cornel taking move 2 seriously or internet issues
+tuquedenne [3d\]: or he's not arrived yet
+U [?\]: they had to nigiri
+tuquedenne [3d\]: you're right :)
+];W[pp]C[Norppa [2d\]: Second move lost the game
+];B[qd];W[cp]
+;B[ep]C[jim [8d?\]: 10 usd on Cornel
+];W[de];B[cq]
+;W[fd]C[wade [5d\]: last year ali got the 2nd pro title with losing the first game no?
+wade [5d\]: maybe this year will be the same :)
+];B[dp]C[U [?\]: yeah he lost to fredda in round 1. then beat kuronen, simara, debarre, surma and podpera
+];W[co];B[bq]
+;W[fb]C[bumblefoot [2k\]: no need to worry about who becames pro.with the present system,  in a few years all the top european players will be pro
+U [?\]: well, this is an opening at least
+];B[ck]C[perun [4d\]: b15 consistent
+tuquedenne [3d\]: a bit slow maybe?
+perun [4d\]: not really
+];W[ci]C[perun [4d\]: i won many games playing b15 :))
+];B[oc]C[ben0 [6d\]: c11 feels weird
+tuquedenne [3d\]: why?
+jim [8d?\]: C7 for white 
+tuquedenne [3d\]: or d8?
+ben0 [6d\]: doesnt really defend the corner and still not easy for w to find a good shape
+wade [5d\]: c7 feels too soon
+];W[qn]C[Danae [-\]: the title bar lists Debarre first but the text box shows burzo as W
+];B[jq]C[Danae [-\]: so which color is Cornel? :)
+tuquedenne [3d\]: looks like a 60's pro game
+tuquedenne [3d\]: black is Sakata Eio, white is Rin Kaiho
+Muttley [2k\]: probably the title bar is wrong
+nonosse [2k?\]: Thomas! go go go
+Muttley [2k\]: since that goes up before nigiri
+tuquedenne [3d\]: that's it
+Danae [-\]: ah, thanks
+Muttley [2k\]: but yeah, its confusing and ought to be corrected, really
+];W[dl]C[Muttley [2k\]: funny game
+Muttley [2k\]: This one is for the second pro title, right?
+tuquedenne [3d\]: no, semi
+Muttley [2k\]: really?
+tuquedenne [3d\]: the winners of the 2 games relayed will play a final for the second pro title
+Jamagoal [15k\]: http://www.eurogofed.org/proqualification/
+Muttley [2k\]: this will never end :)
+];B[dk]C[Muttley [2k\]: ok :))
+];W[el]C[tuquedenne [3d\]: this afternoon
+Muttley [2k\]: thx
+Danae [-\]: ilya plays kravets in the other game
+tuquedenne [3d\]: new system, everything on the same weekend. it''s cool
+nonosse [2k?\]: i m not gonna sleep again
+Danae [-\]: perhaps we will see Cornel v Ilya later
+Muttley [2k\]: ah, I see, that's why Ilya can still get pro title
+nonosse [2k?\]: thomas/ilya better
+];B[ek]
+;W[fl]C[Muttley [2k\]: Thomas Debarre is supported by the French Revolution, red wine and Brie cheese
+Muttley [2k\]: He is unbeatable
+nonosse [2k?\]: :D sure
+tuquedenne [3d\]: and Napoléon
+Danae [-\]: cornel is cornel
+Javaness [2d\]: I bet he loses anyway
+Muttley [2k\]: you rascal Javaness :))
+];B[bm]C[U [?\]: id like to see cornel in finals again
+Jamagoal [15k\]: thomas is black right ?
+nonosse [2k?\]: Javaness you hold your 100 years war tradition :)
+edlee [1k\]: Does anyone know Thomas' age ?
+Muttley [2k\]: To be fair, Cornel is supported by the Romanian revolution, beer and skiing
+nonosse [2k?\]: young edlee
+Luffyy [4d\]: Thomas is 21
+nonosse [2k?\]: should be like 20 now
+Muttley [2k\]: early 20s or so?   
+nonosse [2k?\]: ok
+edlee [1k\]: Thank you
+Danae [-\]: debarre is 21
+Danae [-\]: and poker, don't forget Cornel's poker :)
+Muttley [2k\]: oh yeah, poker!
+];W[dn]C[Muttley [2k\]: All in Cornel.
+Muttley [2k\]: black's position feels fishy anyway
+nonosse [2k?\]: b looks easy eith connection threat now
+ben0 [6d\]: i like black
+];B[ei]C[Muttley [2k\]: sure, he can connect, but connecting on the first line in the fuseki?  Purleeze
+nonosse [2k?\]: i said threat
+Pingu007 [2d\]: white have a good position
+U [?\]: its there in case of emergency anyway
+U [?\]: so b isnt worried
+nonosse [2k?\]: yep it s free hands
+Muttley [2k\]: its not the connection that concerns me, its the wasted move
+sameasyou [2d\]: c14
+NedLand [1d\]: d17 have c15 to live ?
+U [?\]: well thats why it wont happen unless its an emergency
+ben0 [6d\]: since there is the connection, i'm not sure about e11
+ben0 [6d\]: maybe invading directly was better ?
+ben0 [6d\]: like c13 treatens both c15 and d12
+Danae [-\]: you mean at c13
+Muttley [2k\]: I like just c13 here
+nonosse [2k?\]: emergency may be fine if you get something else to compensate
+];W[hl]C[Luffyy [4d\]: D14 ?
+ben0 [6d\]: nope
+ben0 [6d\]: :)
+NedLand [1d\]: i prefer black game
+Luffyy [4d\]: renforce trop ? =)
+ben0 [6d\]: oui
+];B[ch]C[Luffyy [4d\]: I see
+];W[be]C[tuquedenne [3d\]: finally he got b15
+tuquedenne [3d\]: r10?
+nonosse [2k?\]: tenuki i assume
+];B[bh]C[nonosse [2k?\]: lol no
+];W[gp]C[NedLand [1d\]: is c 12 b 15 a good exchange for black ?
+NedLand [1d\]: assuming he was connected
+NedLand [1d\]: g4 looks very anboying
+NedLand [1d\]: annoying
+NedLand [1d\]: locally i dont see god move
+NedLand [1d\]: o3 ?
+fab [3d\]: probably N3 or O3
+fab [3d\]: I would bet on N3
+fab [3d\]: or maybe Q2
+zanoni [3k\]: my bet on Q10 or around
+zanoni [3k\]: N3 makes white go there
+JYPPZ [5k?\]: k3 needs some help
+fab [3d\]: if N3, white will almost always plaay P3
+JYPPZ [5k?\]: p2?
+nonosse [2k?\]: fight still looks ok as F8 wont be that strong either
+NedLand [1d\]: when black played b12 he did not think about g4 ?
+Apocryphe [3d\]: lot of cash then for white, sente is important for right side
+ben0 [6d\]: he's thought about it but b12 was really big anyway and sente for w 
+ben0 [6d\]: maybe simply e2 now
+NedLand [1d\]: on the 2nd line again ?
+ben0 [6d\]: dosaku wouldnt mind
+chris27210 [7k\]: time pls?
+Welvang [6d\]: 10h11 chez moi
+poukram [1k\]: nothing good with g5?
+NedLand [1d\]: chez moi aussi, on est colocs?
+ben0 [6d\]: g5 cut then atari and black is cooked
+Welvang [6d\]: colocs de pays maybe
+poukram [1k\]: yep. cook in gote if connects at south.   my bad ^^
+];B[er]C[jim [8d?\]: E2 wow
+];W[lq]C[fab [3d\]: is M3 really good ? I would jump on the Q3 weakness almost immediately ^^
+Welvang [6d\]: first have to h3
+tuquedenne [3d\]: yeah if white can play g2 it becomes painful
+jim [8d?\]: nice kikashi G4 with black answer at E2
+jim [8d?\]: painfull for black
+];B[jo]C[Javaness [2d\]: active way
+jim [8d?\]: K8 white
+Welvang [6d\]: looks good
+Kanin [-\]: m5 would be spirit
+Kanin [-\]: for w
+];W[ip]C[Welvang [6d\]: i agree
+];B[jp]
+;W[jl]C[Welvang [6d\]: simply o3  ?
+Kanin [-\]: looks like a natural move, especially after j4/k4
+jim [8d?\]: O3 risky maybe
+fab [3d\]: o3 n4 ?
+jim [8d?\]: white N4
+Welvang [6d\]: black can connect with h3 so
+ben0 [6d\]: depends if b can connect his group
+Kanin [-\]: but b has backdoor connection at g2
+Welvang [6d\]: it's fine
+Kanin [-\]: or h3, right
+jim [8d?\]: yes but need also to take care of O3
+];B[ho]C[fab [3d\]: hmm
+];W[go]C[NedLand [1d\]: je vais attaquer le groupe blanc, je vais attaquer le groupe blanc...
+vaurien [2k\]: White looks to play really fast
+nonosse [2k?\]: M5 looks too easy on w
+vaurien [2k\]: what about time EGFpro2 ?
+tuquedenne [3d\]: I don't get black last move
+];B[hp]C[Kanin [-\]: oh...
+Kanin [-\]: this is pretty weird to me
+Welvang [6d\]: ça avait l'air mieux de connecter simplement
+vaurien [2k\]: white can already play m5, can"t he ?
+poukram [1k\]: I support vaurien's time question EGFpro2 :p
+NedLand [1d\]: jamaisq je n'aurais m^me pensé à h4
+Welvang [6d\]: perhaps you have to speak italian
+];W[qi]C[Danae [-\]: the game's been up for an hour and a half
+Javaness [2d\]: time is hardly important at this stage
+Welvang [6d\]: mer il et fou
+tuquedenne [3d\]: I like white's position
+];B[kc]C[dixxam: merde il est fou ?
+Welvang [6d\]: non
+poukram [1k\]: that's true javaness :). Game began at 10:00 ?
+dixxam: mer, île et fou (de bassan) ?
+];W[qf]C[NedLand [1d\]: white has lot of points
+Welvang [6d\]: g6 c'est fat quand même
+ben0 [6d\]: pas pour le moment
+Javaness [2d\]: how does white answer Q3
+ben0 [6d\]: mais je suis vraiment pas fan des échanges en h5 pour noir
+wade [5d\]: i dont like b's position
+Welvang [6d\]: ye
+ben0 [6d\]: same, wade
+lulu [1k\]: q2 invasion?
+Welvang [6d\]: i liked black position before g4 
+vaurien [2k\]: as well
+nidza92 [-\]: i don't quite understand e2
+ben0 [6d\]: even after g4 it's as ok but h5 was too much i think
+Welvang [6d\]: now it seems too overconcentrated, too thick
+Kanin [-\]: hey, where can I find the results so far, sorry
+];B[nq]C[nonosse [2k?\]: w is fat with upper left corner so i would expect b to have some better position on the rest of the board
+tuquedenne [3d\]: just q2?
+zanoni [3k\]: http://www.eurogofed.org/proqualification/#tournaments
+another [1d\]: allez debarre !!
+wade [5d\]: p3 o4 o2 n2 p2 n3 looks awesome for w
+ben0 [6d\]: what would you have play instead, nidza ? i thought it was hard to find any good answer
+wade [5d\]: with sente
+Danae [-\]: http://www.eurogofed.org/proqualificastion
+Danae [-\]: qualification
+nidza92 [-\]: just n3 or so instead? after e2, white got m3
+];W[np]C[nidza92 [-\]: g4 doesnt threaten anything at the moment
+ben0 [6d\]: true but then g2 copletely separate black and is sente (if black answer n3)
+ben0 [6d\]: maybe painful also for b, not sure
+pollux1: upper left corner not dead c16 c15 b16 so nt as big for w as it looks
+nidza92 [-\]: if you play g2, i peep at h3 and then e2, looks mora natural to me
+ben0 [6d\]: true
+nonosse [2k?\]: that s only aji to me now, pollux1
+pollux1: nonosse it is big yose, but very big
+nonosse [2k?\]: i see it more like b got free move on upper side
+];B[oq]C[pollux1: You are mistaken
+];W[op]C[wade [5d\]: q3 r3 r2 s2 s3 r4 s1 n3 t2 then cut k3 stones is harsh on b
+];B[pq];W[qq];B[mq];W[mp]
+;B[lr]C[fujiyama [7k\]: other moves
+Ten [?\]: Hence black doesn't allow it, eh
+vaurien [2k\]: black is taking points little by little, but w moyo becomes big also
+sameasyou [2d\]: m7
+];W[oe]C[Gigot [2k\]: White's right side is impressive
+fujiyama [7k\]: yes p15 move eanphasis white side
+Ten [?\]: I expect something like q10 or q11 for black to try to live inside, in a bit
+fujiyama [7k\]: so black has to counter attack nos R8 move?
+Gigot [2k\]: Maybe it is time to play Q10?
+nonosse [2k?\]: all depends how strong b can attack K8 group
+poukram [1k\]: can he really attack it?
+nonosse [2k?\]: well that s the question
+];B[nj]C[arczi87 [1d\]: o17?
+fujiyama [7k\]: must prepare it perhaps approchaing O 10 
+nonosse [2k?\]: going to be real cosmic :)
+];W[nc]C[vaurien [2k\]: to be expected
+];B[nb]
+;W[ob]C[fujiyama [7k\]: burzo really aggressive i think so
+];B[od]C[vaurien [2k\]: don't think he is here, he just takes the weakness b gave him when he 'tenukied 'P15
+];W[mb];B[nd];W[mc]
+;B[pb]C[fujiyama [7k\]: q18 b
+];W[md]C[fujiyama [7k\]: o15 B 
+fujiyama [7k\]: its an exhange?
+vaurien [2k\]: I would say so, L17 seems really alone now...
+vaurien [2k\]: I wouldn't*
+fujiyama [7k\]: R8 black now seems the most severea attack?
+zanoni [3k\]: I don't see how this could end well for B
+];B[me]C[Welvang [6d\]: allez thomas
+Meruem92 [2d\]: o15
+];W[kd]C[fujiyama [7k\]: its the fight now
+ftroiset [1k\]: m16??
+nonosse [2k?\]: b2 doesnt want to induce w R2
+nonosse [2k?\]: b*
+Gigot [2k\]: M16 is hard to read for me.
+fujiyama [7k\]: O15 black connect?
+letoII [6k\]: k16 ?
+poukram [1k\]: M16-M17-M25-K17 good for w?
+nonosse [2k?\]: O15-M15 looks passive
+fujiyama [7k\]: no because of o10 stone
+nonosse [2k?\]: w would get ideal shape on top
+fujiyama [7k\]: for sure but depends of right board situation also
+ben0 [6d\]: pas top pour thomas là
+ftroiset [1k\]: M19 after k17, then ladder?
+fujiyama [7k\]: a mon avis thomas doit contre attaquer la dessus
+Gigot [2k\]: Anyway, I think it is a good idea that black choose the outside in order to reduce the moyo.
+ben0 [6d\]: encore faut il avoir quelque chose à attaquer
+nonosse [2k?\]: not only M15 helps H8 group, put away some aji of D17...
+fuzhou [4d\]: what about m15, connect, p 19
+fujiyama [7k\]: g17 Noir est possible
+nonosse [2k?\]: p19 now?
+];B[ld]C[JBouise [5d?\]: ah le apauvre
+];W[lc]C[ftroiset [1k\]: yes8!!!
+];B[le]
+;W[jc]C[JBouise [5d?\]: le coup de Denis
+vaurien [2k\]: attack f8 group, then p4 , then kill r14, no ben0 ?
+];B[kb]
+;W[jb]C[ben0 [6d\]: even i wouldnt have think of that, vaurien, and i think of killing many things, trust me
+vaurien [2k\]: ;)
+];B[ke];W[jd]
+;B[oa]C[fujiyama [7k\]: p19 il gagne un coup
+];W[ka]C[JBouise [5d?\]: r9 ?
+ftroiset [1k\]: if r9 doesnt work, game over, no?
+Javaness [2d\]: hai romania
+fujiyama [7k\]: R9-R8 don't know if this work?
+];B[pj]
+;W[qj]C[Scissors [1k\]: Ce mai faci?
+];B[pk]C[JBouise [5d?\]: r2 first class yose move
+elianovici [4d\]: Cine a castigat in prima runda, CornelB?
+fujiyama [7k\]: R9 white
+JBouise [5d?\]: il prépare une attaque grandiose sur f8 ?
+];W[kj]C[fanhui [2p\]: noir peut vivre en haut dans le coin 
+JBouise [5d?\]: vu
+];B[qk]C[JBouise [5d?\]: salut Fan
+fujiyama [7k\]: dans ce cas noir coupe
+fanhui [2p\]: salut ^^ 
+fujiyama [7k\]: mais blanc coupe aussi en O15*
+fanhui [2p\]: R9 est super gros ! 
+];W[oh]C[fanhui [2p\]: c'est bon pour thomas 
+fujiyama [7k\]: pas si sur
+vaurien [2k\]: si ;)
+JBouise [5d?\]: si Fan le dit..
+tokyo [?\]: =) =) 
+];B[mi]C[fanhui [2p\]: ^^
+fujiyama [7k\]: oui mais burzo veut prendre en tenaiss le groupe noir
+fujiyama [7k\]: tenaille
+fujiyama [7k\]: n12 blanc logiquement etc
+fanhui [2p\]: en haut dans le coin: N C16, B C15, N E18 
+nonosse [2k?\]: la soudain noir a l air bien
+vaurien [2k\]: mais il doit le faire en faisant attention à ses groupes ;)
+];W[mg]C[fanhui [2p\]: je pense que noir peut avoir au moins un ko 
+JBouise [5d?\]: La partie de Thomas s'est beaucoup améliorée
+Welvang [6d\]: impossible de tuer
+Gigot [2k\]: Grâce à n15
+fujiyama [7k\]: noir doit s'échapper de la
+jer [4d\]: Thomas a l'air serein 
+Javaness [2d\]: it is not impossible, they thought the titanic couldn't sink, then they put a hole in it
+nonosse [2k?\]: imagine maintenant, fuji que noir ai laisse b M15
+vaurien [2k\]: What about time EGFPro2 ?
+];B[ki]
+;W[kg]C[fujiyama [7k\]: voila noir tente la sortie
+stoup [3k\]: N m10 b O15
+ben0 [6d\]: d'un coup le feeling général s'est renversé
+ben0 [6d\]: r9 c'était gros pour le coup
+fujiyama [7k\]: oui c'était prévisible que Thomas utilise sa pierre en O 10 ¨¨
+nonosse [2k?\]: encore un peu peur que n soit trop genereux
+Gigot [2k\]: O15 seems important
+nonosse [2k?\]: c toute la question
+jer [4d\]: Noir o13
+Gigot [2k\]: O13 laisse de l'aji, non?
+JBouise [5d?\]: je serais blanc, je serais pas rassuré avec f8
+nonosse [2k?\]: noir peut avoir 2 groupes b faibles ensuite
+];B[kh]C[fujiyama [7k\]: ca va se compliquer
+];W[jg]
+;B[ne]C[stoup [3k\]: b m10?
+JYPPZ [5k?\]:    k10?
+JBouise [5d?\]: noir n'a plus qu'à sauver son groupe, tuer un groupe blanc et c'est plié
+vaurien [2k\]: ^^
+nonosse [2k?\]: si b J11 alors b M12?
+stoup [3k\]: tuer un groupe blanc? 
+nonosse [2k?\]: M13*
+Gigot [2k\]: Two (weak groups) against one: the lonely one may win.
+nonosse [2k?\]: a non w N12 marche
+Gigot [2k\]: W n12 => B K9?
+nonosse [2k?\]: w J11 first i think
+nonosse [2k?\]: it s about w resilince for R11 group roo
+nonosse [2k?\]: resilience
+];W[jj]C[nonosse [2k?\]: nice
+stoup [3k\]: m13
+nonosse [2k?\]: m13 n12
+nonosse [2k?\]: n12 or o13 looks better but wont cut
+];B[ng];W[nh];B[mh]
+;W[nf]C[nonosse [2k?\]: o
+];B[lg];W[og];B[mf];W[pr];B[or];W[qr]
+;B[rn]C[GoGoGirl [-\]: B is far behind
+vaurien [2k\]: actually Fan, you said black could live in the upper corner but I cannot figure it out :/  what would be the first move ?
+];W[ro]C[nonosse [2k?\]: but w wwent passive
+];B[qm]
+;W[pn]C[zanoni [3k\]: vaurien: C15
+zanoni [3k\]: C16
+ftroiset [1k\]: c16, no?
+JBouise [5d?\]: rien avec e 15 ?
+wade [5d\]: im not sure b can live with c15
+Jamagoal [15k\]: b C16, w C15, b E18 
+Jamagoal [15k\]: ?
+gogonuts [4d\]: tengen was a huge failure
+gogonuts [4d\]: b connection much more valuable
+wade [5d\]: s15 is big
+jer [4d\]: Maintenant vivre dans le coin 
+nidza92 [-\]: maybe c16 lives
+];B[gn]C[gogonuts [4d\]: i dont speak french, but i understand that :-)
+jer [4d\]: S15 sente d'abord 
+nonosse [2k?\]: encore un peu d attack sur H8
+];W[fo]C[nonosse [2k?\]: les 2pierres K13, cut autour de E15...
+Ten [?\]: nidza92, what's the tsumego with c16 c15 b16 b18 
+Ten [?\]: Feels like there's something, huh
+];B[fn]
+;W[eo]C[ftroiset [1k\]: big yose, this cut
+];B[hm]C[ftroiset [1k\]: and this could be even bigger :-)
+fujiyama [7k\]: Comment se classe thomas dans la qualification Pro ?
+nonosse [2k?\]: yep :)
+Idn [2d\]: il faut qu'il gagne tout aujourd'hui
+fujiyama [7k\]: bon espérons le :)
+Jamagoal [15k\]: http://www.eurogofed.org/proqualification/
+fujiyama [7k\]: Thomas 1er pro français européen :)
+Matrok [3k\]: Ou plutôt : 1er français a devenir pro ;-)
+fujiyama [7k\]: oui
+cheater [7d\]: W has more points than black, but some of his groups are weak. Depending on, how he can manage with them will be the game
+tuquedenne [3d\]: and, Pavol, what do you think about upper left tsumego?
+nonosse [2k?\]: tout c est 3 parties?
+YoungPro [-\]: isn't top left dead.. usually this is dead ? no ?
+ftroiset [1k\]: no
+YoungPro [-\]: okey.. if someone can show me how to alive.. :D xD
+chrayma [7k\]: je crois qu'un français a déjà été pro (au Japon)
+Matrok [3k\]: there is aji in this corner
+tuquedenne [3d\]: non
+ben0 [6d\]: insei
+ben0 [6d\]: pas pro
+YoungPro [-\]: aji is not the same as its alive..
+nonosse [2k?\]: aji or life?
+Matrok [3k\]: after E18 for instance
+];W[hi]C[tuquedenne [3d\]: beaucoup ont été insei :)
+ftroiset [1k\]: ko, I (and fan) think
+cheater [7d\]: should be dead, yeah. but if b gets a stone arround F13, can be dangerous
+JBouise [5d?\]: beaucoup ?
+poukram [1k\]: fan said: "c16 then E18, probably ko" 
+tuquedenne [3d\]: j'en compte au moins 3 sans réfléchir
+ben0 [6d\]: then fan lost two times against surma so what does he know ?
+tuquedenne [3d\]: thanks, denis and poukram
+ben0 [6d\]: sorry i'm out
+tuquedenne [3d\]: :)
+JBouise [5d?\]: donc deux
+YoungPro [-\]: its not ko :( if it was ko.. so why should white spend 4 moves there ;)
+tuquedenne [3d\]: comment ça, deux ?
+YoungPro [-\]: but yeah cheater +1 if there was stones outside..
+ftroiset [1k\]: bad question : the ko is not so big, and many ko threats
+ftroiset [1k\]: but c16 e18 then f17 or b16
+];B[cd]C[nidza92 [-\]: c16 , c15? after b b16 , also a16 is sente
+JBouise [5d?\]: ah
+fujiyama [7k\]: yes ko is intersting
+nonosse [2k?\]: here we go
+ftroiset [1k\]: :-)
+nonosse [2k?\]: fun game
+fujiyama [7k\]: its the game now :)
+lichigo [2d\]: GO tHOMAS !!!!!!
+ben0 [6d\]: good news is that a16 is sente
+fanhui [2p\]: en fin 
+];W[ce]C[ftroiset [1k\]: this is lmost hanami ko now
+Ootakamoku [2d\]: I so hope cornel pulls trough
+];B[bd]C[nonosse [2k?\]: i dont
+nonosse [2k?\]: :)
+Ootakamoku [2d\]: the other player that I wanted to become pro already lost two games.
+U [?\]: mine too
+U [?\]: id rather see cornel win the title of the 4 left
+ben0 [6d\]: j'imagine bien thomas qui gagne cet aprem et passe pro " et merde..."
+fujiyama [7k\]: blanc D 19 ?
+Luffyy [4d\]: haha ;)
+U [?\]: but i think because this chat is 95% french were the underdogs
+];W[dh]C[Welvang [6d\]: grave ça risque d'être tendu pour lui s'il gagne
+pollux1: nonosse you see what I said? Now time for big yose
+];B[di]C[nonosse [2k?\]: i still looking :)
+];W[cb]C[ilfuria [6k\]: ootakamoku who was the other player you mentioned?
+];B[db]C[gogonuts [4d\]: a non-ko result would be fatal for the losing side here
+];W[ab]C[fujiyama [7k\]: on va se retrouver dan sle " carré du charpentier ^^
+astroJR [4k\]: non
+fujiyama [7k\]: a16
+Idn [2d\]: ça ressemble à un truc classique ...
+U [?\]: i was rooting for artem, dunno about oota
+zanoni [3k\]: B17
+ftroiset [1k\]: d16 is very important
+zanoni [3k\]: I meant A17
+ftroiset [1k\]: a17  is bad
+fujiyama [7k\]: classical "pro" problem ^^
+ftroiset [1k\]: not so hard. 5d level
+];B[ad]C[ilfuria [6k\]: many ppl were rooting for artem
+vaurien [2k\]: a16 looks right
+zanoni [3k\]: ftroiset: what is the answe to A17?
+ben0 [6d\]: d16 is sente for b
+ben0 [6d\]: so seki maybe
+];W[bg]C[wade [5d\]: b18 life?
+fujiyama [7k\]: yes but ko
+];B[ba]C[MyWay [4d\]: w winning 
+];W[bi]C[ftroiset [1k\]: easy lif, but  outside destroyed
+nonosse [2k?\]: o my
+fujiyama [7k\]: game over?
+];B[eh]
+;W[dg]C[nonosse [2k?\]: w getting so rich 
+Welvang [6d\]: pretty good result for black still
+vaurien [2k\]: sure
+U [?\]: scribe how much time is left
+];B[bj]C[ben0 [6d\]: d13 wasnt possible ?
+tuquedenne [3d\]: good question ben :)
+tuquedenne [3d\]: black has sente, is it really over now?
+];W[bb]C[guest361: isnt black dead after b18 c19 d16?
+tuquedenne [3d\]: uh
+];B[bc]C[ben0 [6d\]: now d16 is not sente anymore
+lichigo [2d\]: Salut fan , tu en penses quoi ?
+ben0 [6d\]: ah he start with b17, smart thomas
+];W[cg]C[nonosse [2k?\]: d5?
+];B[cj]C[fujiyama [7k\]: burzo gagne la 
+];W[dd];B[cc]
+;W[re]C[Welvang [6d\]: oui thomas est en retard aux points
+fujiyama [7k\]: oui
+nidza92 [-\]: w should play d19 to make it seki
+];B[do]C[nidza92 [-\]: now e18 is big for b
+fujiyama [7k\]: s15 gros coup de yosé
+YoungPro [-\]: b lead no?
+];W[en]
+;B[gq]C[fujiyama [7k\]: white lead now
+vaurien [2k\]: I don't think so
+];W[lp]
+;B[mr]C[nidza92 [-\]: ah e18 is bad
+ben0 [6d\]: w settled all his groups
+nonosse [2k?\]: s15 gors mais juste reverse sente
+nonosse [2k?\]: gors*
+fujiyama [7k\]: C18 corner seki?
+U [?\]: egfpro2 can you give the time left for both players
+nonosse [2k?\]: gros* zut
+];W[bn];B[cm];W[cn];B[ai]
+;W[gg]C[cannelle [-\]: cornel got on a raft
+];B[ec]C[tuquedenne [3d\]: nice shape
+fanhui [2p\]: ^^
+vaurien [2k\]: EGFPro2, Quanto tempo è rimasto ?
+];W[fc]C[Uberdude [3d\]: was n16 a mistake?
+Uberdude [3d\]: should m16?
+Uberdude [3d\]: w overconcenrtation there is painful
+tuquedenne [3d\]: what's big now?
+tuquedenne [3d\]: s7?
+];B[ih]C[Welvang [6d\]: s8 plutôt non ?
+vaurien [2k\]: ô_o
+tuquedenne [3d\]: justement je me demandais
+tuquedenne [3d\]: si c'était s7 ou s8
+Welvang [6d\]: surement s8
+JBouise [5d?\]: s8 est plus joli
+];W[jh]C[wade [5d\]: how about english? (for the rest of us who isnt french)
+];B[je]C[Javaness [2d\]: aren't french
+];W[ig]C[wade [5d\]: correct
+];B[ie]C[tuquedenne [3d\]: ok i was just asking if the correct yose was s7 or s8
+zanoni [3k\]: nice
+lespeutere [4k\]: the rest aren't?
+tuquedenne [3d\]: but strong players already answered s8
+Welvang [6d\]: we're trying our best to speak an old international language ^.^ 
+GoGoGirl [-\]: b winning
+];W[rd]
+;B[rc]C[ben0 [6d\]: let's switch to hebrew
+vaurien [2k\]: guys <.<
+];W[in]C[wade [5d\]: כן
+];B[hn]C[Javaness [2d\]: heidi cornel
+JBouise [5d?\]: si Thomas gagne, il revient de loin
+ben0 [6d\]: l'italie, c'est pas si éloigné que ça de la france
+];W[im]C[JBouise [5d?\]: if Thomas wins, he goes out of hell
+Welvang [6d\]: c'est moi ou la police à changé ?
+Welvang [6d\]: -à+a
+YoungPro [-\]: everyone is free to speak to every language :) 
+];B[io]C[YoungPro [-\]: i don't think it should be problem for kgs users
+U [?\]: well when most of the room speaks english and a small minority speaks french and takes up the chat, its kind of annoying for those who dont understand
+nonosse [2k?\]: y a pas d autres liens? car ici pas de google :(
+YoungPro [-\]: Гледай си играта и се радвай ;)
+Welvang [6d\]: there are more french rooms than english ones ^^
+ben0 [6d\]: please U, speak english with your fellow comrades
+wade [5d\]: lol ben
+U [?\]: well thats nice but this isnt in a french room
+tuquedenne [3d\]: oh not that troll again
+Welvang [6d\]: we dominate the "club" category
+Starwhite [4k\]: this is an european tournament, not english
+];W[sc]
+;B[rb]C[U [?\]: ok cool, speak french in club category rooms
+nonosse [2k?\]: this not a room U
+vaurien [2k\]: Напълно съм съгласен
+Welvang [6d\]: i'm talking to other french anyway so what's the point ?
+Welvang [6d\]: i'm not talking to U
+vaurien [2k\]: Could you stop dealing with those problems, thanks =)
+ben0 [6d\]: welvang made a pun
+U [?\]: that im sure many would liek to see game commentary from 6ds and then being unable to understand them
+ben0 [6d\]: can you feel the pun ?
+maitrepo [2k\]: we are in english room so we must speak english here. That's all
+Adin [1d\]: KGS allows chatting in any language, so let's move on please :)
+Welvang [6d\]: :)
+mcd [8k\]: keep calm and play go
+vaurien [2k\]: issue closed.
+apollo1001 [17k\]: so - who's winning :D
+U [?\]: itll end after thomas loses anyway so its cool
+JBouise [5d?\]: does anybody count precisely ?
+poukram [1k\]: tempo rimanente, per favore?
+tuquedenne [3d\]: of course not, JBouise
+nonosse [2k?\]: se
+];W[rj]C[tuquedenne [3d\]: a very strong player (stronger than Thomas) told me it was "very closed" 10 moves ago
+fujiyama [7k\]:  zTheres a lot of uncertaint point like N 7 zone, but what is the left upper corner status?
+Werfeus [5d\]: w+2
+];B[pi]C[ftroiset [1k\]: close, still a little better for b
+Nirvanc [2k\]: le kikoo é accèpptait ossi ?????????
+nonosse [2k?\]: se count precisely wrong
+ben0 [6d\]: i feel w is leading
+Ten [?\]: Black is approximately at 48, white at 40 plus komi
+tuquedenne [3d\]: thanks, Ten :)
+JBouise [5d?\]: hope this vely stlong player FH is right
+Ten [?\]: Hmm, I think I was a bit optimistic for black
+vaurien [2k\]: I did not count that much for black 
+vaurien [2k\]: (even for w actually ^^')
+Ten [?\]: Lower side 30, left side 6, top right 7
+Ten [?\]: A few bonus poitns around m13
+Ten [?\]: Call it 45
+Ten [?\]: Yeah okay, white is quite feasibly ahead
+chrayma [7k\]: if w F3 ?
+];W[rm]C[Ten [?\]: It's almost even on the board now that I recount it
+];B[rl]
+;W[sn]C[nonosse [2k?\]: maybe optimistic on left too
+];B[qh];W[rh];B[ph]
+;W[qg]C[Ten [?\]: nonosse, if you really want to argue for it, it could be 5.5
+Ten [?\]: Never less than that
+];B[rk]
+;W[sj]C[nonosse [2k?\]: ok
+];B[ng]C[cheater [7d\]: even on the board, but w is thicker. I think w+2,5
+GoGoGirl [-\]: b should get s15
+];W[of]C[nonosse [2k?\]: no way :)
+];B[gj]C[fanhui [2p\]: noir gagne 
+fujiyama [7k\]: But at yosé Black can won by 1.5 points for me
+wade [5d\]: w played all big yose moves
+nonosse [2k?\]: b should have get s15
+];W[gi]C[lichigo [2d\]: agry for s15
+nonosse [2k?\]: waited too long :)
+];B[hj]C[vaurien [2k\]: time time time ? 8-) EGFPro2 ?
+fujiyama [7k\]: black win between 0.5 to 12.5 ?
+fujiyama [7k\]: .05 to 2.5?
+maitrepo [2k\]: tricky sequence !
+vaurien [2k\]: not tricky, b pushes where it hurts
+nonosse [2k?\]: could help b a lot
+vaurien [2k\]: but pushes well
+fujiyama [7k\]: white g8
+chrayma [7k\]: arround N7 is a "no go zone" ?
+fujiyama [7k\]: yes
+cheater [7d\]: W:40+komi B:46, w has more influence arround N7
+];W[fj]C[nonosse [2k?\]: i man foro7 area and h16
+fujiyama [7k\]: but if white stard n7 valuable
+];B[gk]C[nonosse [2k?\]: but a few weak around F8
+];W[gl];B[fk]
+;W[ij]C[nonosse [2k?\]: ok no more
+vaurien [2k\]: why not g8 ?
+];B[hf];W[mk]
+;B[nk]C[Fredda [-\]: tough for b but not impossible
+];W[mj];B[pm]
+;W[nm]C[Fredda [-\]: ok now it looks finished=p
+];B[nl]C[vaurien [2k\]: ...
+];W[ml]C[dixxam: H17 big
+];B[om]C[dixxam: that was purpose of H14
+vaurien [2k\]: byo yomi ?
+];W[kn]C[gobanhh: when is next round?
+dixxam: and now B can cut at f15
+];B[nn]C[gobanhh: looks like w won
+nonosse [2k?\]: hope h14 efficient because w cashed here
+dixxam: yes, h14 was too soon maybe
+Cool [3k\]: why aheade?
+];W[mm]C[Cool [3k\]: who aheade?
+ChoChicken [3d\]: try once more
+];B[on]C[fujiyama [7k\]: i think blak can win at yosé
+];W[hd]C[astroJR [4k\]: Ilya just won on the other board.
+];B[ma]
+;W[lb]C[fanhui [2p\]: c'est règle chinoise ou japonaise? 
+YoungPro [-\]: by time ;;p0
+];B[ji]C[vaurien [2k\]: w+6 almost ?
+];W[ii];B[hg];W[hh];B[id]
+;W[ic]C[fujiyama [7k\]: are they in Byo yomi now?
+vaurien [2k\]: he will never answer...
+Welvang [6d\]:  chinoise fan
+jim [8d?\]: white easy win this game
+Jamagoal [15k\]: chinoise
+];B[bp]C[vaurien [2k\]: ?!
+vaurien [2k\]: misclick ?
+Ootakamoku [2d\]: roln vs cornel to decide last pro?
+Fredda [-\]: cornel fight very hard in these pro quali
+YoungPro [-\]: b4 big :)
+jerasd: incroyable que thomas n'ai pas joue h17 sente
+Liso66 [?\]: he was in first finale too
+jim [8d?\]: G14 also  big
+vaurien [2k\]: can't figure it out, but if you say so :/
+];W[qc]C[nonosse [2k?\]: oui
+YoungPro [-\]: nice move
+KgsKokot: seems b won?
+theprocash: burzo no luck
+theprocash: ...
+MyWay [4d\]: w+
+theprocash: ty
+];B[pc]C[KgsKokot: burzo lots of luck, to reach semifinals
+KgsKokot: Pop no luck...
+];W[sb]C[Warfreak2 [4d?\]: winner has to play against surma
+theprocash: pop shoulded be pro long ago
+bensenseii [-\]: Is Q17 really the best move here ?
+Warfreak2 [4d?\]: uh, ilya
+Warfreak2 [4d?\]: so, this is to decide who is runner up
+theprocash: whos surma
+Warfreak2 [4d?\]: pro
+bleen [1d\]: 3rd pro
+Ahamay [4d?\]: imo it's still close, maybe like w+2.5
+cheater [7d\]: W+2-3
+];B[hk]C[bleen [1d\]: upper left is huge
+theprocash: winner of pro will play surma for what
+bleen [1d\]: no
+YoungPro [-\]: its half point game..
+YoungPro [-\]: i count w+0,5
+KgsKokot: no, winner of ilya vs. this will be runner up
+fujiyama [7k\]: B +0.5 points
+KgsKokot: winner already decided - Surma
+];W[gf];B[he]
+;W[ge]C[theprocash: surma is winner of what
+Warfreak2 [4d?\]: i said ilya
+theprocash: tournament ?
+];B[ik]
+;W[il]C[KgsKokot: yes
+];B[jn]C[theprocash: in points?
+bleen [1d\]: yes
+fujiyama [7k\]: byo yomi it seems now
+KgsKokot: in 1st place
+theprocash: eh i see
+theprocash: shoulded be killing tournament
+Warfreak2 [4d?\]: seeing as 1st and 2nd place both become pro, "runner up" begins at 3rd place
+SadPlayer [-\]: d19 ?
+Warfreak2 [4d?\]: so ilya will not be runner up
+theprocash: and what is a runned up title for 3rd place?
+KgsKokot: hopefully he won't
+Dreamrace [1d\]: ilya gets another shot
+KgsKokot: deserves a pro spot now
+Warfreak2 [4d?\]: ilya will beat whoever wins this game
+chachu [?\]: Debarre to the dream!
+theprocash: yes he will
+bleen [1d\]: how much time left?
+theprocash: lyia will play like a beast
+];W[km]C[theprocash: u ll see
+];B[jk]C[Pingu007 [2d\]: chachu.. je croirai entendre mon fils... 
+bensenseii [-\]: Warfreak, likely but not 100% sure
+Pingu007 [2d\]: :)
+fujiyama [7k\]: thomas win that game it seems
+Pingu007 [2d\]: +s
+YoungPro [-\]: b lead seems.. i count more points in the center for white.. like 1-2 more
+xDragon [?\]: Fuji all the dans say you're wrong
+cheater [7d\]: w lead
+theprocash: l2?
+theprocash: l3 sry
+YoungPro [-\]: pavol, what kind of result you count at least ?
+KgsKokot: w counting?
+Warfreak2 [4d?\]: not everything i say is 100% certain to be true, especially on kgs chat
+nonosse [2k?\]: beasts lose sometimes
+ben0 [6d\]: 9-1 for Ilya against Cornel and 7-1 against Thomas
+ben0 [6d\]: the final wont be easy for any of them
+theprocash: what
+HappyLook [6d\]: ben0, it was 0-4 for Surma :)
+theprocash: llya got 701 against thomas?
+];W[kk]C[theprocash: 7-1??
+HappyLook [6d\]: and now it's 1-4 :)
+bleen [1d\]: ilya has good results against all of them
+bleen [1d\]: he lost a game though
+jim [8d?\]: nice performance anyway for Cornel is he also will win this game
+theprocash: how nice
+wry [1d\]: wow, thomas beat both csaba and pop before, nice result in this tournament 
+bleen [1d\]: past dont count
+theprocash: llyia must be pro....
+YoungPro [-\]: +1
+KgsKokot: Surma studied in Korea, was a bit of an unknown for the other players, I feel
+KgsKokot: but these 3 know each other well
+Fredda [-\]: no way
+SadPlayer [-\]: W+6,5
+Fredda [-\]: everyone know about Surma lol
+Cool [3k\]: who aheade?
+theprocash: who is surma?
+Uberdude [3d\]: surma played in last few egcs
+xDragon [?\]: Cornel wants pro more than ilya I'm sure
+theprocash: how old is surma ???
+Fredda [-\]: he was rated as nr 2 going into this tournament
+KgsKokot: Surma is about 19 
+Warfreak2 [4d?\]: surma won london open this time round
+Uberdude [3d\]: he was very unlkucky to lose to ali in last qualification
+theprocash: jarbari is pro too?
+wade [5d\]: surma is playing in eygc 2004... everyone knows him
+Uberdude [3d\]: surma was like 20 points ahead
+Warfreak2 [4d?\]: aka dracula
+Uberdude [3d\]: and didn't answer ali's peep but try to resist and made mistake
+SadPlayer [-\]: drakula
+Ateares [1k\]: What's komi?
+theprocash: w wo
+KgsKokot: komi is... not enough
+theprocash: won
+bensenseii [-\]: Ali turned pro last year
+YoungPro [-\]: this endgame is hard for black..
+theprocash: ali = OohAah?
+];B[fg]
+;W[eg]C[Uberdude [3d\]: yes
+];B[fh]C[YoungPro [-\]: +
+Ateares [1k\]: White looks up 4 points with out
+];W[ff]C[theprocash: he quit kgs after pro
+theprocash: :/
+];B[mn]
+;W[ln]C[YoungPro [-\]: normally
+YoungPro [-\]: :)
+theprocash: so llya should lose
+theprocash: ;)
+YoungPro [-\]: :D
+wade [5d\]: t7 soon?
+YoungPro [-\]: they play in tygem.. ali play there :)
+gobanhh: upper left corner is alive?
+Warfreak2 [4d?\]: yes, seki
+theprocash: tygem really good huh
+gobanhh: thx
+jhcop [1d\]: A6 ?
+KgsKokot: Haylee plays on tygem
+YoungPro [-\]: f11 big :P
+YoungPro [-\]: but in gote
+Cornelius [-\]: Eau
+SIscurge [5d\]: I must say, I am very impressed by Cornel. He never studied in Asia and is not really that young anymore, yet he is fighting at an even level with all the youngsters.
+bleen [1d\]: true
+cheater [7d\]: W+2,5 or 3,5
+theprocash: true..
+theprocash: cornel is a genius imo
+gobanhh: Bine Cornel
+Fredda [-\]: cornel has always been sensei:)
+Fredda [-\]: too strong
+YoungPro [-\]: i don't think how old are you mattter.. its about how old do you feel you are ;)
+theprocash: yes
+KgsKokot: warfreak is like 50, and still 4d
+Fredda [-\]: last year he beat me in pro quali as well
+Uberdude [3d\]: and cornel seems to play tennis more than go =)
+hus: any link to results PLS?
+theprocash: cornel is formed in maths too?
+SIscurge [5d\]: Its easier to feel young when you are 20 though :)
+Fredda [-\]: he fights really hard in these games:)
+bleen [1d\]: most of the players learned this game in very young age and studied in asia as well
+KgsKokot: what is cornel's IRL job?
+bleen [1d\]: these are nice advantages
+gobanhh: http://www.eurogofed.org/proqualification/
+Liso66 [?\]: and cornel is a kind of pro now (because his main job is teaching go) 
+Fredda [-\]: go teacher
+nonosse [2k?\]: thomas too busy at school this year
+xDragon [?\]: Cornel wants pro title more than anyone
+YoungPro [-\]: +1
+KgsKokot: really Fredda? full time?
+Fredda [-\]: yes
+Uberdude [3d\]: fredda why aren't you playing this one?
+KgsKokot: wow
+KgsKokot: good for him!
+Werfeus [5d\]: no, cornel is skiing instructor
+Fredda [-\]: busy with uni
+theprocash: thats true too
+daniug [2d\]: he acts as a ski instructor lately...but go teacher ever since
+Uberdude [3d\]: ah you want a job that pays money, clever guy =)
+YoungPro [-\]: frederik, why you don't play this pro qualification ?
+bleen [1d\]: how much time left?
+Fredda [-\]: i just wrote:)
+theprocash: cornel is indeed very professional in his life
+bleen [1d\]: you too
+theprocash: ...if he go pro i wont blame 
+Liso66 [?\]: EGFPro2 - how much time left? 
+lichigo [2d\]: so cornel won ?
+theprocash: w+
+nonosse [2k?\]: let them finnish
+Fredda [-\]: seems scribe d/c again
+KgsKokot: let them swedish
+Pingu007 [2d\]: they are french and romanian, not finnish
+Pingu007 [2d\]: :
+Pingu007 [2d\]: )
+theprocash: let them fishpasteish
+ben0 [6d\]: too much jokes
+ben0 [6d\]: i'm overwhelmed
+tuquedenne [3d\]: too much astrid
+Zog [?\]: ...
+Pingu007 [2d\]: c too moi ;)
+YoungPro [-\]: too much chat.. lets just watch..
+jim [8d?\]: A6  now
+theprocash: a6 medium processor
+jim [8d?\]: :)
+Matrok [3k\]: It's a long time, I thought Thomas was in byo-yomi
+theprocash: :P
+JYPPZ [5k?\]: internet pb ?
+nonosse [2k?\]: this chat was cool, younpro, not like others sometimes
+jim [8d?\]: or F10
+KgsKokot: do u remember when the anime came out... everybody had "sai" or "akira" in their names
+KgsKokot: was an embarrassing period for go
+Coirac [5k\]: COME ON THOMAS
+wry [1d\]: but you can't play i7, no i on board :(
+theprocash: :(((
+nonosse [2k?\]: checking let corner again and again
+theprocash: hahaha kgskokot
+wry [1d\]: which means, the board is dead, it has no i
+fanhui [2p\]: bon, je pense que thomas va perdre 0;5 ou 2.5
+cheater [7d\]: w must make a big mistake to lose this one
+theprocash: fanhui!
+jim [8d?\]: usually Cornel d-ont make mistakes in yose
+];B[am];W[cl]
+;B[bl]C[gobanhh: s19
+theprocash: if cornel win this and the finals, he will change his job to entire go profession
+];W[eb]C[theprocash: :|
+];B[da]C[ben0 [6d\]: he can just push everything then he should be ok
+cheater [7d\]: f11 biggest
+gramatica: who won?
+klausP [4d?\]: well cornel is already earning his money with go, right?
+theprocash: yes...
+Welvang [6d\]: sad :( thomas!
+gobanhh: l3 big too
+Welvang [6d\]: fait nous une pop
+klausP [4d?\]: so thats no change for him
+theprocash: but pro tittle...nice status
+];W[fi]C[nhanh [2d\]: does anyone know the standing so far?
+theprocash: its a increase of name, also a kgs nickname with [p\] account for more $ in teaching games
+dixxam:  o6 should have been H17
+theprocash: perfect......
+YoungPro [-\]: b lost points this endgame
+theprocash: ;)
+wry [1d\]: http://www.eurogofed.org/proqualification/
+jim [8d?\]: R15 atari is good or better S19 atari?
+tornado [1k\]: Seems Cornel has won one game out of ten against Ilya.
+nhanh [2d\]: ty
+dixxam: 'atari is a bad move'
+dixxam: (jim, that was not meant for you)
+dixxam: (was about atari at o6)
+Figaro [1d\]: w cannot lose anymore
+comeon [7d\]: Fredda, are you guaranteed a seat in Grand Slam?
+jim [8d?\]: :) np
+Gest [22k\]: is the game played without a time limit?
+Figaro [1d\]: no
+theprocash: i hope FErrer wins grand slam
+theprocash: he is the best
+nonosse [2k?\]: a8?
+];B[sm]C[nonosse [2k?\]: a6*
+theprocash: missclick?
+wry [1d\]: no
+klausP [4d?\]: no
+perun5: no
+];W[sl]C[Pempu [3d?\]: desperation
+Liso66 [?\]: http://eurogofed.org/EuropeanGrandPrix/ 
+nonosse [2k?\]: no
+nhanh [2d\]: no, it is a point
+wry [1d\]: just some sente points
+Matrok [3k\]: it makes sense, T9 is sente now
+];B[sk]C[Figaro [1d\]: Gest, you can see the time limit under option->rules
+];W[rf];B[sm]
+;W[ra]C[theprocash: this is around 0.5 pt no?
+JYPPZ [5k?\]: http://www.eurogofed.org/EuropeanGrandPrix/grandslam2015.html
+];B[qb];W[kq]
+;B[kr]C[theprocash: lol and not a trolling link
+];W[sl];B[si];W[ri];B[sm];W[fp];B[fq];W[sl];B[sg];W[sh];B[dm]
+;W[em]
+;B[sm]C[behta [1k\]: holala c serré ...
+];W[rn]
+;B[ps]C[elohimmeth [-\]: who win ?
+];W[qs];B[os];W[ao]
+;B[oo]C[wry [1d\]: TheCaptain
+KgsKokot: the person with more points
+behta [1k\]: white I think
+];W[po]C[joseba [4k\]: why D7?
+cheater [7d\]: white win
+];B[ap];W[oi];B[oj];W[ej];B[ea];W[dj];B[ci];W[fa];B[ed]
+;W[ee]C[Welvang [6d\]: solid
+KgsKokot: w plays Shiska next
+nhanh [2d\]: wasnt a6 bigger than q1?
+];B[ca]
+;W[li]C[GroovyM [10k\]: why some stones are marked with triangles and other with numbers?
+];B[lh]
+;W[lj]C[gobanhh: in how many hours is the next game?
+];B[pe]C[KgsKokot: in 2h
+];W[ag]C[nonosse [2k?\]: d7 would leeave w 1 more ko threat if not played
+ilfuria [6k\]: triangles indicates that there are comments
+gobanhh: thx
+ilfuria [6k\]: on that move
+];B[ae]C[SIscurge [5d\]: when the move is good then its a triangle
+];W[af]C[GroovyM [10k\]: thx
+Liso66 [?\]: two spot for higher bonus - so Fredda is qualified? 
+cheater [7d\]: A15 is better than A13
+];B[qe]C[ilfuria [6k\]: comments/kibitz of course
+];W[jm];B[qa];W[sd];B[kf];W[mg]
+;B[hc]C[daniug [2d\]: coooo rrr neeeel:)
+];W[gd];B[ng];W[la]
+;B[na]C[Ten [?\]: I get the feeling white needs to win the last ko to win the game, but am I wrong?
+];W[mg];B[rg]
+;W[sf]C[Matrok [3k\]: Thomas just magicked up a one point ko?!
+];B[ng]
+;W[dq]C[cheater [7d\]: I think w is ahead even without the ko
+daniug [2d\]: like in that game, he who scores last,wins?no matter who leads?:)
+];B[eq]C[Welvang [6d\]: that would be nice ._.
+theprocash: rules please?
+];W[mg]
+;B[pf]C[Matrok [3k\]: chinese rules
+ilfuria [6k\]: chn rules
+];W[pg]C[Welvang [6d\]: o11 ftw
+meuns [1d\]: cornel rocks
+Welvang [6d\]: :p
+theprocash: t
+jerasd: i count one plus 1 without ko
+];B[ng]C[vaurien [2k\]: with french rule with the ko and last stone he could win by 2pts x)
+];W[ko]
+;B[mg]C[Ten [?\]: cheater, hmm, you're probably right
+tsitua [9k\]: w+9.25
+];W[mo]C[wry [1d\]: w still winning 
+nonosse [2k?\]: ?
+];B[sl]C[theprocash: 9.25?
+behta [1k\]: w+2
+];W[sa]
+;B[ah]C[meuns [1d\]: easy game for w
+ilfuria [6k\]: w+π
+theprocash: :)
+];W[gh]
+;B[kp]C[Welvang [6d\]: haha meuns qui sort au bon moment
+];W[no]C[meuns [1d\]: :D
+];B[ni]
+;W[if]C[HappyLook [6d\]: w+2.5 at least :)
+theprocash: i will change favorite to cornel
+HappyLook [6d\]: gz Cornel :)
+cheater [7d\]: it is w+2,5
+theprocash: GZZZ
+theprocash: GG
+];B[jf]C[comeon [7d\]: Ten, are you even allowed to watch this?
+];W[ih];B[bo]
+;W[an]C[elohimmeth [-\]: 3.5
+];B[gm];W[fm];B[]
+;W[]C[Eowyn [1d\]: more like 3.14
+Yasha2 [2k\]: w+17.5
+tsitua [9k\]: w+8.25
+elohimmeth [-\]: piii
+MissClickr [1d\]: 3.14159
+pancake [5d\]: 2
+Matrok [3k\]: W+2.5
+HappyLook [6d\]: Cornel for the presid... pro :)
+EGFPro2 [-\]: W 1 1/4
+nonosse [2k?\]: loool yasha2
+Ootakamoku [2d\]: cornel vs roln finals
+theprocash: yasha2 won....
+oglaf [5k\]: what's status top left?
+ilfuria [6k\]: thx egfpro 2
+theprocash: 17.5
+EGFPro2 [-\]: thanks for watching
+theprocash: hahahahhaa
+Ana1ysis [1k\]: seki
+theprocash: ty
+HappyLook [6d\]: thx
+gobanhh: Cornel tunde-i
+fujiyama [7k\]: thanks
+Hokusai [3k\]: bravoooo Corneeel!
+EGFPro2 [-\]: next round starts at 14:30
+theprocash: cornel for the best!
+KgsKokot: what does "1 1/4" mean?
+tsitua [9k\]: w+1.25? is A19 not seki?
+Bembelbote [1d\]: how is 1 1/4 possible?
+vaurien [2k\]: he doesn't speak a lot this EGFPro
+ilfuria [6k\]: chinese half counting
+tsitua [9k\]: chinese counting
+Jamagoal [15k\]: ca veut dire quoi 1 1/4 svp ?
+Bolibompa [2d?\]: Grats Cornel
+ilfuria [6k\]: it means 2.5
+Bembelbote [1d\]: ah i see
+Bembelbote [1d\]: thx
+Cool [3k\]: Burzo win?
+jim [8d?\]:  I won the bet
+ilfuria [6k\]: yup
+Bembelbote [1d\]: yes
+jim [8d?\]: :)
+SImikin [?\]: now cornel wins ilya and i am happy :)
+vaurien [2k\]: GG Burzo
+theprocash: i hope burzo wins
+theprocash: he deserves it
+vaurien [2k\]: But I don't think he will able to defeat Ilya
+mcd [8k\]: Felicitări Cornel!
+daniug [2d\]: pe ei,cornel:D!
+Welvang [6d\]: i hope so too, even if i'd prefer to fight cornel than ilya next year :p
+Cool [3k\]: IIya won)
+vaurien [2k\]: let's see it this afternoon :)
+theprocash: ;-)
+])

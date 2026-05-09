@@ -1,0 +1,809 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[EGC 2023, Open Championship, Rd. 10, Brd. 2]
+PC[https://online-go.com/review/1118809]
+PB[Pittner Arved]
+PW[Boviz Dominik]
+BR[5d]
+WR[6d]
+OT[Error: time control missing]
+RE[?]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+
+;B[dp]
+;W[pd]
+;B[dc]
+;W[pp]
+;B[qq]
+;W[pq]
+;B[qp]
+;W[qn]
+;B[qo]
+;W[po]
+;B[rn]
+;W[qm]
+;B[rm]
+;W[ql]
+;B[nc]
+;W[nd]
+;B[md]
+;W[ne]
+;B[oc]
+;W[pc]
+;B[jc]
+;W[de]
+;B[cg]C[
+
+-- chat --
+JamesX: http://app.izis.cn:8080/web/#/live_detail?gameId=422385&type=2&isLand=false
+]
+;W[cc]
+;B[cb]
+;W[cd]
+;B[eb]
+;W[ef]
+(;B[di]
+;W[fc]
+;B[gc]
+;W[fb]
+;B[gb]
+;W[ea]
+;B[da]
+;W[fa]
+;B[fd]
+;W[ec]
+;B[ed]
+;W[db]C[
+
+-- chat --
+Zaphodian: This could lead to a ko. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D11 F17 G17 F18 G18 E19 D19 F19 F16 E17 E16 D18 
+]
+)(;B[dj]
+;W[fc]C[
+
+-- chat --
+Domie: ahhhhh
+]
+(;B[gc]
+;W[gd]
+;B[gb]
+(;W[hd]
+;B[ic]C[
+
+-- chat --
+Zaphodian: alternative. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 G17 G16 G18 H16 J17 
+Zaphodian: passive. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 G17 G16 G18 H16 J17 
+Zaphodian: Sometimes you have to resist no matter what the consequences
+Zaphodian: Every move is like a butterfly inviting an other butterfly to unleash a storm on the other side of the board. (butterfly effect)
+]
+)(;W[jd]C[
+
+-- chat --
+Zaphodian: But maybe W wants to be fancy. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 G17 G16 G18 K16 
+]
+))(;B[fd]C[
+
+-- chat --
+Zaphodian: F16 is a powerful move
+JamesX: :-)
+Domie: why is F16 powerful if one variation is bad for B and the other OK for W ?
+Zaphodian: But that's how it is. You can't always predict what wil happen. I am sure that when Boviz played E14, he never expected F15
+Zaphodian: And it's possible because of K17
+]
+(;W[gd]
+(;B[fe]
+;W[dh]
+;B[ch]
+;W[ec]
+(;B[ed]
+;W[dd]
+;B[db]
+;W[gc]C[
+
+-- chat --
+Zaphodian: Bad for B. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 G16 F15 D12 C12 E17 E16 D16 D18 G17 
+]
+)(;B[gc]
+;W[dd]
+;B[db]
+;W[ed]
+;B[fb]
+;W[hc]
+;B[gb]
+;W[he]C[
+
+-- chat --
+Zaphodian: OK for W. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 G16 F15 D12 C12 E17 G17 D16 D18 E16 F18 H17 G18 H15 
+Domie: lol
+]
+))(;B[ed]
+;W[ge]C[
+
+-- chat --
+Zaphodian: W is fine. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 G16 E16 G15 
+Zaphodian: By powerful I didn't mean it was a good move
+Zaphodian: But at least it is not passive
+]
+))(;W[ec]
+;B[gc]
+;W[fb]
+;B[ed]
+;W[dd]
+;B[db]
+;W[gb]
+;B[hc]
+;W[hb]
+;B[ib]
+;W[gd]
+;B[fe]C[
+
+-- chat --
+Zaphodian: right place for Marked stone. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E17 G17 F18 E16 D16 D18 G18 H17 H18 J18 G16 F15 
+]
+)(;W[ed]
+;B[ec]
+;W[gc]
+;B[gd]
+;W[hd]
+;B[he]
+;W[ic]
+;B[gf]
+(;W[ie]
+;B[if]
+;W[je]
+;B[hb]
+;W[hc]
+;B[ib]
+;W[jf]
+;B[ig]
+;W[jg]
+;B[ih]
+(;W[gg]C[
+
+-- chat --
+Zaphodian: vital point. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E16 E17 G17 G16 H16 H15 J17 G14 J15 J14 K15 H18 H17 J18 K14 J13 K13 J12 G13 
+]
+)(;W[jh]
+;B[me]
+(;W[ii]
+;B[gh]
+;W[eh]
+;B[hi]
+;W[ij]
+;B[hj]
+;W[di]
+;B[ci]
+;W[ej]C[
+
+-- chat --
+Zaphodian: complicated fight. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E16 E17 G17 G16 H16 H15 J17 G14 J15 J14 K15 H18 H17 J18 K14 J13 K13 J12 K12 N15 J11 G12 E12 H11 J10 H10 D11 C11 E10 
+]
+)(;W[mc]
+;B[lc]
+;W[mb]
+;B[mf]
+(;W[lb]
+(;B[kb]
+;W[ld]
+;B[kc]
+;W[od]C[
+
+-- chat --
+Zaphodian: looks great for W. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E16 E17 G17 G16 H16 H15 J17 G14 J15 J14 K15 H18 H17 J18 K14 J13 K13 J12 K12 N15 N17 M17 N18 N14 M18 L18 M16 L17 P16 
+]
+)(;B[kc]C[
+
+-- chat --
+Zaphodian: Question: what is the status in the top right? Does B need to add a stone?. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E16 E17 G17 G16 H16 H15 J17 G14 J15 J14 K15 H18 H17 J18 K14 J13 K13 J12 K12 N15 N17 M17 N18 N14 M18 L17 
+]
+;W[]
+;B[pb]
+(;W[od]
+;B[qb]
+;W[ob]
+;B[rd]C[
+
+-- chat --
+wurf3: Answer attempt: If w doesn't answer a stone, b has something. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E16 E17 G17 G16 H16 H15 J17 G14 J15 J14 K15 H18 H17 J18 K14 J13 K13 J12 K12 N15 N17 M17 N18 N14 M18 L17 pass Q18 P16 R18 P18 S16 
+]
+)(;W[qb]
+;B[nb]
+;W[na]
+;B[oa]
+;W[la]C[
+
+-- chat --
+wurf3: *add a stone
+wurf3: ko if white just blocks black's hane. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E16 E17 G17 G16 H16 H15 J17 G14 J15 J14 K15 H18 H17 J18 K14 J13 K13 J12 K12 N15 N17 M17 N18 N14 M18 L17 pass Q18 R18 O18 O19 P19 M19 
+]
+)))(;W[ii]
+;B[gh]
+;W[lb]
+;B[kb]
+(;W[bb]
+;B[ba]C[
+
+-- chat --
+Domie: for me B position is much better
+]
+;W[eh]
+;B[jd]
+;W[ch]
+;B[id]
+;W[ld]
+;B[le]C[
+
+-- chat --
+wurf3: Now... white has gained a liberty at m17 and it's like in the question position?
+]
+;W[kc]
+;B[kd]
+;W[bi]
+;B[ji]
+;W[ki]
+;B[jj]
+;W[lh]C[
+
+-- chat --
+Zaphodian: Yes, I suppose so
+EGF2: Ai thinks this is a close game up till now
+]
+(;B[kj]
+;W[lj]
+;B[lk]
+;W[mj]
+;B[kl]C[
+
+-- chat --
+Domie: B is much better
+Mrrr: is he?
+Mrrr: why do you think so, Domie?
+Domie: should we believe all  what AI  says ?
+Mrrr: i never use AI
+Mrrr: i was not even referring to what egf2 said
+Domie: B has no weak group, he is domintaing the center
+Mrrr: white will get bottom sinde now, most likely
+Mrrr: *side
+Mrrr: it seems even to me. White has quite large potential territory on the right
+Zaphodian: Yes, L10 was too simple
+Zaphodian: Probably M9 was better
+]
+(;W[og]C[
+
+-- chat --
+Zaphodian: How can W close off the right side?
+]
+)(;W[jq]C[
+
+-- chat --
+Mrrr: i think better to start with o13. then if white s9, maybe s11?
+]
+(;B[nf]
+;W[mk]
+;B[pb]
+;W[od]
+;B[ob]
+;W[qb]
+;B[qc]
+;W[rb]C[
+
+-- chat --
+Zaphodian: still not sente. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E16 E17 G17 G16 H16 H15 J17 G14 J15 J14 K15 H18 H17 J18 K14 J13 K13 J12 K12 N15 N17 M17 N18 N14 J11 G12 M18 L18 B18 B19 E12 K16 C12 J16 M16 M15 L17 L16 B11 K11 L11 K10 M12 L10 M10 M9 N10 L8 K3 O14 N9 Q18 P16 P18 R18 R17 S18 
+Mrrr: hm
+Mrrr: so black is even more limited there
+]
+)(;B[fq]
+;W[rl]
+;B[nl]
+;W[ok]C[
+
+-- chat --
+Zaphodian: You can let B play D13 D12 before M3
+]
+(;B[lq]
+;W[qr]
+;B[rr]
+;W[pr]
+;B[rs]C[
+
+-- chat --
+EGF2: missed an exchange
+]
+;W[dh]
+;B[dg]C[
+
+-- chat --
+Zaphodian: something wrong with the order of moves...
+Domie: what ? why D12 and D13 ?
+Domie: Zapho, you talk so much that we cannot read everything
+]
+)(;B[dg]
+;W[dh]
+;B[lq]
+;W[qr]
+;B[rr]
+;W[pr]
+;B[rs]C[
+
+-- chat --
+Zaphodian: and we're good.
+Zaphodian: This is how we write history books
+Zaphodian: We just make up the bits in between
+Zaphodian: Of course, you have to be the winner otherwise nobody believes you
+]
+;W[lp]
+;B[mp]
+;W[kp]C[
+
+-- chat --
+Zaphodian: nobody reacts to my remarks...
+Zaphodian: So I guess everybody knows how to write history books
+Zaphodian: You are asking why history happened?
+Zaphodian: I only talk a little on three boards
+]
+;B[nq]
+(;W[mr]C[
+
+-- chat --
+Zaphodian: p13 is big
+Zaphodian: But K3 needs to be alive first
+serban_mihai: Yes, but I would tenuki after this move
+Zaphodian: with B?
+serban_mihai: with white, if b plays N3
+Zaphodian: ic
+]
+;B[nk]
+;W[nj]C[
+
+-- chat --
+Zaphodian: But where can B play to reduce?
+serban_mihai: reduce what, the right side?
+]
+(;B[mo]
+;W[mq]
+;B[nr]
+;W[lr]
+;B[on]
+;W[pn]
+;B[qe]C[
+
+-- chat --
+serban_mihai: it's over if b fails living in your variation
+]
+;W[qg]C[
+
+-- chat --
+Zaphodian: not sure if B can live. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E16 E17 G17 G16 H16 H15 J17 G14 J15 J14 K15 H18 H17 J18 K14 J13 K13 J12 K12 N15 N17 M17 N18 N14 J11 G12 M18 L18 B18 B19 E12 K16 C12 J16 M16 M15 L17 L16 B11 K11 L11 K10 M12 L10 M10 M9 N10 L8 K3 F3 S8 O8 P9 D13 D12 M3 R2 S2 Q2 S1 M4 N4 L4 O3 N2 O9 O10 N5 N3 O2 M2 P6 Q6 R15 R13 
+]
+;B[pb]
+;W[qb]
+;B[ob]
+;W[od]
+;B[qc]
+;W[rb]
+;B[pg]C[
+
+-- chat --
+Zaphodian: maybe something like this?. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E16 E17 G17 G16 H16 H15 J17 G14 J15 J14 K15 H18 H17 J18 K14 J13 K13 J12 K12 N15 N17 M17 N18 N14 J11 G12 M18 L18 B18 B19 E12 K16 C12 J16 M16 M15 L17 L16 B11 K11 L11 K10 M12 L10 M10 M9 N10 L8 K3 F3 S8 O8 P9 D13 D12 M3 R2 S2 Q2 S1 M4 N4 L4 O3 N2 O9 O10 N5 N3 O2 M2 P6 Q6 R15 R13 Q18 R18 P18 P16 R17 S18 Q13 
+serban_mihai: it looks like b needs to try something on the right side, c9 and b5 are both a good option for white
+]
+)(;B[mq]C[
+
+-- chat --
+Zaphodian: N3 was a problem
+]
+;W[lm]
+;B[mk]C[
+
+-- chat --
+EGF2: Ai now thinks w is clearly ahead
+serban_mihai: O6
+serban_mihai: or maybe N6
+Zaphodian: You meant 'left' side
+]
+;W[nn]
+(;B[mn]
+;W[mo]
+;B[no]
+;W[lo]
+;B[on]
+;W[nm]
+;B[om]
+;W[mm]
+;B[oo]
+;W[ol]
+;B[pn]
+;W[nr]C[
+
+-- chat --
+Zaphodian: B dies. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E16 E17 G17 G16 H16 H15 J17 G14 J15 J14 K15 H18 H17 J18 K14 J13 K13 J12 K12 N15 N17 M17 N18 N14 J11 G12 M18 L18 B18 B19 E12 K16 C12 J16 M16 M15 L17 L16 B11 K11 L11 K10 M12 L10 M10 M9 N10 L8 K3 F3 S8 O8 P9 D13 D12 M3 R2 S2 Q2 S1 M4 N4 L4 O3 N2 O9 O10 N3 M7 N9 O6 N6 N5 O5 M5 P6 O7 P7 N7 P5 P8 Q6 O2 
+]
+)(;B[oj]
+;W[pk]
+;B[oi]C[
+
+-- chat --
+Zaphodian: needs something to try. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E16 E17 G17 G16 H16 H15 J17 G14 J15 J14 K15 H18 H17 J18 K14 J13 K13 J12 K12 N15 N17 M17 N18 N14 J11 G12 M18 L18 B18 B19 E12 K16 C12 J16 M16 M15 L17 L16 B11 K11 L11 K10 M12 L10 M10 M9 N10 L8 K3 F3 S8 O8 P9 D13 D12 M3 R2 S2 Q2 S1 M4 N4 L4 O3 N2 O9 O10 N3 M7 N9 O6 P10 Q9 P11 
+]
+)(;B[jr]
+;W[ir]
+;B[mo]
+;W[kn]
+;B[lo]C[
+
+-- chat --
+EGF2: this looks fishy by b
+serban_mihai: No, just an incomplete statement. I meant on the right side, because white has kind of two miai points on the left side and I think black can't do much there
+]
+(;W[ko]
+(;B[mm]
+;W[mn]
+;B[ln]
+(;W[km]
+;B[on]
+;W[no]
+;B[oo]
+;W[nm]
+;B[om]
+;W[ml]
+;B[np]
+;W[mm]
+;B[op]
+;W[ol]
+;B[pn]
+;W[nr]
+;B[or]
+;W[oq]
+;B[qs]
+;W[os]
+;B[ps]
+;W[or]
+;B[lr]C[
+
+-- chat --
+Zaphodian: Black has a beautiful plan. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E16 E17 G17 G16 H16 H15 J17 G14 J15 J14 K15 H18 H17 J18 K14 J13 K13 J12 K12 N15 N17 M17 N18 N14 J11 G12 M18 L18 B18 B19 E12 K16 C12 J16 M16 M15 L17 L16 B11 K11 L11 K10 M12 L10 M10 M9 N10 L8 K3 F3 S8 O8 P9 D13 D12 M3 R2 S2 Q2 S1 M4 N4 L4 O3 N2 O9 O10 N3 M7 N9 O6 K2 J2 N5 L6 M5 L5 N7 N6 M6 L7 P6 O5 P5 O7 P7 N8 O4 N7 P4 P8 Q6 O2 P2 P3 R1 P1 Q1 P2 M2 
+Zaphodian: aha, ic what you mean, Serban
+]
+)(;W[nm]
+;B[km]
+;W[ml]
+;B[ll]
+;W[mm]
+;B[kr]
+;W[hq]
+;B[or]C[
+
+-- chat --
+Zaphodian: but how's this gonna work. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E16 E17 G17 G16 H16 H15 J17 G14 J15 J14 K15 H18 H17 J18 K14 J13 K13 J12 K12 N15 N17 M17 N18 N14 J11 G12 M18 L18 B18 B19 E12 K16 C12 J16 M16 M15 L17 L16 B11 K11 L11 K10 M12 L10 M10 M9 N10 L8 K3 F3 S8 O8 P9 D13 D12 M3 R2 S2 Q2 S1 M4 N4 L4 O3 N2 O9 O10 N3 M7 N9 O6 K2 J2 N5 L6 M5 L5 N7 N6 M6 O7 L7 N8 M8 N7 L2 H3 P2 
+]
+))(;B[on]
+;W[oo]
+;B[mm]
+;W[mn]
+;B[ln]
+;W[nm]
+;B[km]
+;W[ml]
+;B[om]
+;W[no]
+;B[ol]
+;W[nr]
+;B[oj]
+;W[oi]
+;B[pk]
+;W[pi]
+;B[mh]
+;W[ni]C[
+
+-- chat --
+Zaphodian: W is still fine. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E16 E17 G17 G16 H16 H15 J17 G14 J15 J14 K15 H18 H17 J18 K14 J13 K13 J12 K12 N15 N17 M17 N18 N14 J11 G12 M18 L18 B18 B19 E12 K16 C12 J16 M16 M15 L17 L16 B11 K11 L11 K10 M12 L10 M10 M9 N10 L8 K3 F3 S8 O8 P9 D13 D12 M3 R2 S2 Q2 S1 M4 N4 L4 O3 N2 O9 O10 N3 M7 N9 O6 K2 J2 N5 L6 M5 L5 P6 P5 N7 N6 M6 O7 L7 N8 P7 O5 P8 O2 P10 P11 Q9 Q11 N12 O11 
+]
+))(;W[mm]
+;B[kr]C[
+
+-- chat --
+OndraKruml: seems hard for b
+]
+;W[ip]
+;B[ko]
+;W[jo]
+;B[jn]
+;W[in]
+;B[jm]C[
+
+-- chat --
+balthahar: White needs to win, otherwise he will lose
+]
+(;W[no]
+;B[ho]
+;W[io]
+;B[hq]
+;W[iq]C[
+
+-- chat --
+Zaphodian: and now what?. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E16 E17 G17 G16 H16 H15 J17 G14 J15 J14 K15 H18 H17 J18 K14 J13 K13 J12 K12 N15 N17 M17 N18 N14 J11 G12 M18 L18 B18 B19 E12 K16 C12 J16 M16 M15 L17 L16 B11 K11 L11 K10 M12 L10 M10 M9 N10 L8 K3 F3 S8 O8 P9 D13 D12 M3 R2 S2 Q2 S1 M4 N4 L4 O3 N2 O9 O10 N3 M7 N9 O6 K2 J2 N5 L6 M5 N7 L2 J4 L5 K5 K6 J6 K7 O5 H5 J5 H3 J3 
+segev60000: it will probably make some fight on the top but yea maybe too much to ask from this dont know how it evolve
+]
+;B[hr]
+;W[hs]
+;B[gm]
+;W[im]
+;B[il]
+;W[hp]
+;B[gp]
+;W[go]
+;B[fo]
+;W[kq]
+;B[lr]
+;W[gn]
+;B[fn]
+;W[hn]
+;B[ms]C[
+
+-- chat --
+Zaphodian: Still a game this way
+]
+)(;W[gq]
+;B[km]
+;W[ln]
+;B[on]
+;W[no]
+;B[nm]
+;W[mn]
+;B[oj]C[
+
+-- chat --
+Zaphodian: But W can also play like this. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E16 E17 G17 G16 H16 H15 J17 G14 J15 J14 K15 H18 H17 J18 K14 J13 K13 J12 K12 N15 N17 M17 N18 N14 J11 G12 M18 L18 B18 B19 E12 K16 C12 J16 M16 M15 L17 L16 B11 K11 L11 K10 M12 L10 M10 M9 N10 L8 K3 F3 S8 O8 P9 D13 D12 M3 R2 S2 Q2 S1 M4 N4 L4 O3 N2 O9 O10 N3 M7 N9 O6 K2 J2 N5 L6 M5 N7 L2 J4 L5 K5 K6 J6 K7 G3 L7 M6 P6 O5 O7 N6 P10 
+]
+)(;W[im]
+;B[il]
+;W[gm]
+;B[hq]
+;W[iq]C[
+
+-- chat --
+OndraKruml: oho if w wins he could be second in open :O
+]
+;B[hl]
+;W[go]C[
+
+-- chat --
+EGF2: so black died yeah?
+unepatate: yes unless he kill j3 but its more than unlikely
+]
+(;B[oj]C[
+
+-- chat --
+unepatate: p10 
+unepatate: may be annoying but not more I guess
+]
+)(;B[hp]
+;W[gl]
+;B[ho]
+;W[io]C[
+
+-- chat --
+segev60000: b can also p10 in the ight time and squize exchange
+]
+;B[gk]
+;W[el]
+;B[fk]C[
+
+-- chat --
+segev60000: not easy thing of course
+unepatate: P10 Q9
+unepatate: I don't think b can do much with it
+]
+;W[dm]C[
+
+-- chat --
+segev60000: but with that fight on the top b may compenstae for the bottom kill
+segev60000: i think b realize any further stone there will be overplay
+segev60000: he will probably attack top
+]
+;B[nm]
+;W[mn]
+;B[on]C[
+
+-- chat --
+segev60000: yea
+]
+(;W[km]C[
+
+-- chat --
+Mrrr: yes
+]
+;B[jl]
+;W[oo]
+;B[om]
+;W[no]
+;B[pn]
+;W[nr]C[
+
+-- chat --
+Mrrr: preparation for cut
+]
+)(;W[oo]
+(;B[om]
+;W[no]
+;B[oj]C[
+
+-- chat --
+segev60000: probably. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E16 E17 G17 G16 H16 H15 J17 G14 J15 J14 K15 H18 H17 J18 K14 J13 K13 J12 K12 N15 N17 M17 N18 N14 J11 G12 M18 L18 B18 B19 E12 K16 C12 J16 M16 M15 L17 L16 B11 K11 L11 K10 M12 L10 M10 M9 N10 L8 K3 F3 S8 O8 P9 D13 D12 M3 R2 S2 Q2 S1 M4 N4 L4 O3 N2 O9 O10 N3 M7 N9 O6 K2 J2 N5 L6 M5 N7 L2 J4 L5 K5 K6 J6 K7 J7 J8 G7 H3 J3 H8 G5 H4 G8 H5 J5 G9 E8 F9 D7 O7 N6 P6 P5 P7 O5 P10 
+]
+)(;B[en]C[
+
+-- chat --
+segev60000: ah no he got panic
+Mrrr: maybe time?
+Mrrr: he can connect  P7 before cut
+segev60000: timesuji? maybe
+unepatate: e6 is just a forcing move 
+Mrrr: P7 O5 Q6 O2 P10
+]
+;W[fl]C[
+
+-- chat --
+segev60000: yea but you shouldnt waste it for income ko
+]
+;B[dk]C[
+
+-- chat --
+unepatate: its better to do it now in case its not sente later
+unepatate: and p10 don't really work
+segev60000: if i were w i would tenuki
+segev60000: but i am not confidnt on the top fight so dunno lol
+]
+;W[bm]
+;B[om]
+;W[no]
+;B[pn]
+;W[km]
+;B[jl]
+;W[nr]
+;B[hr]
+;W[is]C[
+
+-- chat --
+EGF2: Well this looks done as well
+]
+;B[oj]C[
+
+-- chat --
+Mrrr: last charge
+]
+;W[oi]
+;B[pj]
+;W[pi]C[
+
+-- chat --
+segev60000: p10 can get b the excnhge he need i still think b can do something
+]
+;B[qj]C[
+
+-- chat --
+unepatate: b will give as much as he gain when white sacrifice
+unepatate: so I don't think its quite enough
+unepatate: I didnt count though
+segev60000: this wall is brutal indid
+]
+;W[qi]
+;B[rj]C[
+
+-- chat --
+Mrrr: Do you mean next move on the left will compensate white`s loss here?
+]
+;W[sp]C[
+
+-- chat --
+unepatate: R14 area
+segev60000: no he mean top is big gain for w
+segev60000: i dont know if b have the sente there
+Zaphodian: W is tying to make T8 sente
+segev60000: yea didnt see that coming
+]
+;B[ro]
+;W[rq]C[
+
+-- chat --
+Zaphodian: it isn't sente
+Zaphodian: But the hane at T7 will be sente
+segev60000: its enought to get the sente from s10 wall no
+segev60000: ?
+]
+(;B[rp]C[
+
+-- chat --
+Domie: hmmm
+]
+;W[sr]C[
+
+-- chat --
+Zaphodian: oops it is sente
+Zaphodian: Or ko
+segev60000: ko its not
+Domie: why didn't B play T2 ?
+segev60000: oh if b take the ko yea
+segev60000: because if b dont get the sente here he lose
+EGF2: ?
+EGF2: why should t8 be sente?
+]
+;B[ri]C[
+
+-- chat --
+segev60000: because s10 wall isnt enought to kill need connect threat
+segev60000: if w for example connect p9
+segev60000: and b sacrafice ko for sente
+]
+;W[sq]C[
+
+-- chat --
+Zaphodian: are we back to the game, EGF2?
+unepatate: yyeah it die segev
+Zaphodian: B dies this way
+segev60000: no it semai
+unepatate: see Zaphodian variation
+EGF2: W+R
+segev60000: ah ok
+Zaphodian: OK
+Zaphodian: Thx, EGF2
+segev60000: thx for broadcasting
+unepatate: thanks
+EGF2: Cu next year in France :-)
+Domie: weird
+]
+)(;B[sr]
+;W[sm]C[
+
+-- chat --
+Domie: I am lost in variations, mine included
+]
+)))))))))(;W[pm]C[
+
+-- chat --
+serban_mihai: I would play P13 as white
+]
+)))))(;B[pb]
+;W[qb]
+;B[ob]
+;W[od]
+;B[qa]C[
+
+-- chat --
+Zaphodian: I suppose I would prefer B
+]
+))(;W[ld]
+;B[le]
+;W[kd]
+;B[jd]
+;W[ke]
+;B[kc]
+;W[od]
+;B[la]
+;W[ob]
+;B[ma]
+;W[nb]
+;B[id]C[
+
+-- chat --
+Zaphodian: aha, so there as this problem. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E16 E17 G17 G16 H16 H15 J17 G14 J15 J14 K15 H18 H17 J18 K14 J13 K13 J12 K12 N15 N17 M17 N18 N14 J11 G12 M18 L18 M16 M15 L16 K16 L15 L17 P16 M19 P18 N19 O18 J16 
+]
+;W[ji]C[
+
+-- chat --
+Zaphodian: but W's center is huge. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E16 E17 G17 G16 H16 H15 J17 G14 J15 J14 K15 H18 H17 J18 K14 J13 K13 J12 K12 N15 N17 M17 N18 N14 J11 G12 M18 L18 M16 M15 L16 K16 L15 L17 P16 M19 P18 N19 O18 J16 K11 
+]
+)))))(;W[jd]
+;B[kc]
+;W[ie]
+;B[if]
+;W[jf]
+;B[ig]C[
+
+-- chat --
+Zaphodian: better for W. From move 0: D4 Q16 D17 Q4 R3 Q3 R4 R6 R5 Q5 S6 R7 S7 R8 O17 O16 N16 O15 P17 Q17 K17 D15 C13 C17 C18 C16 E18 E14 D10 F17 F16 E16 E17 G17 G16 H16 H15 J17 G14 K16 L17 J15 J14 K14 J13 
+]
+)))))

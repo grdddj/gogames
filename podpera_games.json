@@ -1,0 +1,1607 @@
+{
+  "count": 178,
+  "reviews": [
+    {
+      "id": -42979858,
+      "created": null,
+      "name": "Mero-Podpera",
+      "black": "Lukas Podpera",
+      "white": "Csaba Mero",
+      "recorder": "ProQual2014",
+      "recorder_group": "local"
+    },
+    {
+      "id": -2461137,
+      "created": null,
+      "name": "Podpera-Debarre",
+      "black": "Thomas Debarre",
+      "white": "Lukas Podpera",
+      "recorder": "ProQual2014",
+      "recorder_group": "local"
+    },
+    {
+      "id": -205238102,
+      "created": null,
+      "name": "Podpera-Pop",
+      "black": "Lukas Podpera",
+      "white": "Cristian Pop",
+      "recorder": "ProQual2014",
+      "recorder_group": "local"
+    },
+    {
+      "id": -254410878,
+      "created": null,
+      "name": "Lukas_Podpera_vs_Amir_Fragman",
+      "black": "Amir Fragman",
+      "white": "Lukas Podpera",
+      "recorder": "ProQual2019",
+      "recorder_group": "local"
+    },
+    {
+      "id": -84876046,
+      "created": null,
+      "name": "Elian_Ioan_Grigoriu_vs_Luk_Podpra",
+      "black": "Lukáš Podpěra",
+      "white": "Elian Ioan Grigoriu",
+      "recorder": "ProQual2021",
+      "recorder_group": "local"
+    },
+    {
+      "id": -212530927,
+      "created": null,
+      "name": "Jonas_Welticke_vs_Luk_Podpra",
+      "black": "Lukáš Podpěra",
+      "white": "Jonas Welticke",
+      "recorder": "ProQual2021",
+      "recorder_group": "local"
+    },
+    {
+      "id": -215559692,
+      "created": null,
+      "name": "IZIS2OGS transcript of game 668226",
+      "black": "Lukáš Podpěra",
+      "white": "Benjamin Drean-Guenaizia",
+      "recorder": "ProQual2025",
+      "recorder_group": "local"
+    },
+    {
+      "id": -92462373,
+      "created": null,
+      "name": "IZIS2OGS transcript of game 668382",
+      "black": "Yuze Xing",
+      "white": "Lukáš Podpěra",
+      "recorder": "ProQual2025",
+      "recorder_group": "local"
+    },
+    {
+      "id": -127711156,
+      "created": null,
+      "name": "IZIS2OGS transcript of game 665658",
+      "black": "Lukáš Podpěra",
+      "white": "Dominik Boviz",
+      "recorder": "ProQual2025",
+      "recorder_group": "local"
+    },
+    {
+      "id": -33788952,
+      "created": null,
+      "name": "IZIS2OGS transcript of game 666095",
+      "black": "Viktor Lin",
+      "white": "Lukáš Podpěra",
+      "recorder": "ProQual2025",
+      "recorder_group": "local"
+    },
+    {
+      "id": -152493848,
+      "created": null,
+      "name": "IZIS2OGS transcript of game 666220",
+      "black": "Lukáš Podpěra",
+      "white": "Rémi Campagnie",
+      "recorder": "ProQual2025",
+      "recorder_group": "local"
+    },
+    {
+      "id": -265697651,
+      "created": null,
+      "name": "IZIS2OGS transcript of game 666533",
+      "black": "Matias Pankoke",
+      "white": "Lukáš Podpěra",
+      "recorder": "ProQual2025",
+      "recorder_group": "local"
+    },
+    {
+      "id": -253481682,
+      "created": null,
+      "name": "IZIS2OGS transcript of game 666609",
+      "black": "Lukáš Podpěra",
+      "white": "Lucas Neirynck",
+      "recorder": "ProQual2025",
+      "recorder_group": "local"
+    },
+    {
+      "id": -47084622,
+      "created": null,
+      "name": "IZIS2OGS transcript of game 666944",
+      "black": "Jonas Welticke",
+      "white": "Lukas Podpera",
+      "recorder": "ProQual2025",
+      "recorder_group": "local"
+    },
+    {
+      "id": -47698872,
+      "created": null,
+      "name": "IZIS2OGS transcript of game 667044",
+      "black": "Lukáš Podpěra",
+      "white": "Benjamin Teuber",
+      "recorder": "ProQual2025",
+      "recorder_group": "local"
+    },
+    {
+      "id": -127439784,
+      "created": null,
+      "name": "IZIS2OGS transcript of game 667339",
+      "black": "Vsevolod Ovsiienko",
+      "white": "Lukáš Podpěra",
+      "recorder": "ProQual2025",
+      "recorder_group": "local"
+    },
+    {
+      "id": -99620506,
+      "created": null,
+      "name": "IZIS2OGS transcript of game 667527",
+      "black": "Lukáš Podpěra",
+      "white": "Ashe Vazquez",
+      "recorder": "ProQual2025",
+      "recorder_group": "local"
+    },
+    {
+      "id": -156042804,
+      "created": "2016-03-04T00:00:00+00:00",
+      "name": "Cornel Burzo vs Lukáš Podpera",
+      "black": "Lukáš Podpera",
+      "white": "Cornel Burzo",
+      "recorder": "ProQual2016",
+      "recorder_group": "local"
+    },
+    {
+      "id": -201230571,
+      "created": "2016-03-05T00:00:00+00:00",
+      "name": "EGF Pro Quali: Viktor Lin 6d (B) vs. Lukas Podpera (W)",
+      "black": "Viktor Lin",
+      "white": "Lukas Podpera",
+      "recorder": "ProQual2016",
+      "recorder_group": "local"
+    },
+    {
+      "id": -178465510,
+      "created": "2017-06-16T00:00:00+00:00",
+      "name": "European Pro Qualification 2017 Vienna round 2, Lukas Podpera (white) vs. Tanguy Le Calv� (black)",
+      "black": "Tanguy Le Calv�",
+      "white": "Lukas Podpera",
+      "recorder": "ProQual2017",
+      "recorder_group": "local"
+    },
+    {
+      "id": -202285494,
+      "created": "2017-07-13T00:00:00+00:00",
+      "name": "European Pro Qualification Jonas Welticke (b) vs. Lukas Podpera (w)",
+      "black": "Jonas Welticke",
+      "white": "Lukas Podpera",
+      "recorder": "ProQual2017",
+      "recorder_group": "local"
+    },
+    {
+      "id": -203441914,
+      "created": "2019-05-17T00:00:00+00:00",
+      "name": "2nd round EGF pro qualification Podpera 7D (W) vs Boviz 6D (B)",
+      "black": "Dominik Boviz",
+      "white": "Lukas Podpera",
+      "recorder": "ProQual2019",
+      "recorder_group": "local"
+    },
+    {
+      "id": -228193209,
+      "created": "2019-05-18T00:00:00+00:00",
+      "name": "EGF Pro qualification semi final - Podpera 7D (W) vs Frejlak 7D (B)",
+      "black": "Stanislaw Frejlak",
+      "white": "Lukas Podpera",
+      "recorder": "ProQual2019",
+      "recorder_group": "local"
+    },
+    {
+      "id": -80985278,
+      "created": "2019-05-18T00:00:00+00:00",
+      "name": "EGF Pro qualification round 4 - Viacheslav Kaymin 6d (B) - Lukas Podpera 7d (W)",
+      "black": "Kaymin Viacheslav",
+      "white": "Podpera Lukas",
+      "recorder": "ProQual2019",
+      "recorder_group": "local"
+    },
+    {
+      "id": -98112020,
+      "created": "2019-05-19T00:00:00+00:00",
+      "name": "5th EGF PRO Qualification 2019 - Final -- Tanguy Le Calvé 6d (B) - Lukáš Podpera 7d (W)",
+      "black": "Tanguy Le Calvé",
+      "white": "Lukáš Podpera",
+      "recorder": "ProQual2019",
+      "recorder_group": "local"
+    },
+    {
+      "id": -190547919,
+      "created": "2021-10-25T00:00:00+00:00",
+      "name": "EPQ (Elian Grigoriu B - Lukas Podpera W)",
+      "black": "Elian Ioan Grigoriu",
+      "white": "Lukas Podpera",
+      "recorder": "ProQual2021",
+      "recorder_group": "local"
+    },
+    {
+      "id": -74451802,
+      "created": "2021-10-27T00:00:00+00:00",
+      "name": "EPQ (Lukas Podpera W - Jonas Welticke B)",
+      "black": "Jonas Welticke",
+      "white": "Lukas Podpera",
+      "recorder": "ProQual2021",
+      "recorder_group": "local"
+    },
+    {
+      "id": -174566402,
+      "created": "2021-10-28T00:00:00+00:00",
+      "name": "EPQ (Remi Campagnie W - Lukas Podpera B)",
+      "black": "Lukas Podpera",
+      "white": "Remi Campagnie",
+      "recorder": "ProQual2021",
+      "recorder_group": "local"
+    },
+    {
+      "id": -100965173,
+      "created": "2021-10-29T00:00:00+00:00",
+      "name": "EPQ 2021 (Lukas Podpera (W) - Remi Campagnie (B)",
+      "black": "Remi Campagnie",
+      "white": "Lukas Podpera",
+      "recorder": "ProQual2021",
+      "recorder_group": "local"
+    },
+    {
+      "id": -30164507,
+      "created": "2021-10-30T00:00:00+00:00",
+      "name": "EPQ (Lukas Podpera W - Stanislaw Frejlak B)",
+      "black": "Stanislaw Frejlak",
+      "white": "Lukas Podpera",
+      "recorder": "ProQual2021",
+      "recorder_group": "local"
+    },
+    {
+      "id": -83806115,
+      "created": "2021-10-30T00:00:00+00:00",
+      "name": "EPQ (Stanislaw Frejlak W - Lukas Podpera B)",
+      "black": "Lukas Podpera",
+      "white": "Stanislaw Frejlak",
+      "recorder": "ProQual2021",
+      "recorder_group": "local"
+    },
+    {
+      "id": -236467860,
+      "created": "2021-10-31T00:00:00+00:00",
+      "name": "EPQ (Lukas Podpera W - Stanislaw Frejlak B)",
+      "black": "Stanislaw Frejlak",
+      "white": "Lukas Podpera",
+      "recorder": "ProQual2021",
+      "recorder_group": "local"
+    },
+    {
+      "id": 981897,
+      "created": "2022-12-01T09:16:50.425942Z",
+      "name": "CEGO grand slam 2022",
+      "black": "Fredrik Blomback",
+      "white": "Lukas Podpera",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1000503,
+      "created": "2023-01-06T16:03:29.537517Z",
+      "name": "Czech Go Baron, game 1",
+      "black": "Ondřej Kruml",
+      "white": "Lukáš Podpěra",
+      "recorder": "CZBaron1",
+      "recorder_group": "czbaron"
+    },
+    {
+      "id": 1000897,
+      "created": "2023-01-07T08:19:18.852695Z",
+      "name": "Czech Go Baron Game 2",
+      "black": "Lukas Podpera",
+      "white": "Ondrej Kruml",
+      "recorder": "CZBaron1",
+      "recorder_group": "czbaron"
+    },
+    {
+      "id": 1001076,
+      "created": "2023-01-07T14:08:30.315402Z",
+      "name": "Go Baron Game 3",
+      "black": "Ondrej Kruml",
+      "white": "Lukas Podpera",
+      "recorder": "CZBaron1",
+      "recorder_group": "czbaron"
+    },
+    {
+      "id": 1001512,
+      "created": "2023-01-08T08:25:55.701185Z",
+      "name": "Go Baron Game 4",
+      "black": "Lukas Podpera",
+      "white": "Ondrej Kruml",
+      "recorder": "CZBaron1",
+      "recorder_group": "czbaron"
+    },
+    {
+      "id": 1001652,
+      "created": "2023-01-08T14:18:04.565947Z",
+      "name": "Czech Go Baron, game 5",
+      "black": "Lukáš Podpěra",
+      "white": "Ondřej Kruml",
+      "recorder": "CZBaron1",
+      "recorder_group": "czbaron"
+    },
+    {
+      "id": 1011304,
+      "created": "2023-01-25T09:19:20.583442Z",
+      "name": "EGPF 2022 R1",
+      "black": "Lukáš Podpěra",
+      "white": "Davide Bernardis",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1011926,
+      "created": "2023-01-26T08:50:41.109441Z",
+      "name": "EGPF 2022 - R3",
+      "black": "Lukáš Podpěra",
+      "white": "Thomas Debarre",
+      "recorder": "EGF2",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1012068,
+      "created": "2023-01-26T13:41:10.002569Z",
+      "name": "EGPF 2022 - 1/4 Finale",
+      "black": "Lukáš Podpěra",
+      "white": "Ali Jabarin",
+      "recorder": "EGF3",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1012476,
+      "created": "2023-01-27T08:52:27.575868Z",
+      "name": "EGPF2022 - semi-finals",
+      "black": "Lukáš Podpěra",
+      "white": "Stanislaw Frejlak",
+      "recorder": "EGF2",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1012635,
+      "created": "2023-01-27T13:28:49.871950Z",
+      "name": "EGPF2022 - 3/4 places",
+      "black": "Davide Bernardis",
+      "white": "Lukáš Podpěra",
+      "recorder": "EGF2",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1013455,
+      "created": "2023-01-28T16:49:17.490820Z",
+      "name": "TIGGRE EllieCup 2013 R3 T1",
+      "black": "PODPERA Lukas",
+      "white": "DEBARRE Thomas",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1013461,
+      "created": "2023-01-28T16:54:52.760924Z",
+      "name": "TIGGRE EllieCup 2023 R3 T1",
+      "black": "PODPERA Lukas",
+      "white": "DEBARRE Thomas",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1013945,
+      "created": "2023-01-29T08:10:33.309300Z",
+      "name": "TIGGRE EllieCup 2023 R4 T1",
+      "black": "Lukáš Podpěra",
+      "white": "Dohyup Kim",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1014049,
+      "created": "2023-01-29T12:07:42.344387Z",
+      "name": "TIGGRE EllieCup 2023 R5 T1",
+      "black": "Lukáš Podpěra",
+      "white": "Jonas Welticke",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1030115,
+      "created": "2023-02-25T13:48:47.105334Z",
+      "name": "EGF ProQuali - Podpera - Grigoriu",
+      "black": "Lukas Podpera",
+      "white": "Elian Ioan Grigoriu",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1030648,
+      "created": "2023-02-26T08:28:50.025633Z",
+      "name": "EGF ProQuali - Podpera - Grigoriu",
+      "black": "Elian Ioan Grigoriu",
+      "white": "Lukas Podpera",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1030819,
+      "created": "2023-02-26T14:07:54.253612Z",
+      "name": "EGF ProQuali - Podpera - Grigoriu",
+      "black": "Elian Ioan Grigoriu",
+      "white": "Lukas Podpera",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1037034,
+      "created": "2023-03-10T08:41:09.898097Z",
+      "name": "EGF ProQuali - Podpera - Boviz",
+      "black": "Lukas Podpera",
+      "white": "Dominik Boviz",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1037208,
+      "created": "2023-03-10T13:45:36.621554Z",
+      "name": "EGF ProQuali - Boviz - Podpera",
+      "black": "Dominik Boviz",
+      "white": "Lukas Podpera",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1037862,
+      "created": "2023-03-11T14:02:04.800379Z",
+      "name": "EGF ProQuali - Simara - Podpera",
+      "black": "Simara Jan",
+      "white": "Podpera Lukas",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1038342,
+      "created": "2023-03-12T08:20:31.187508Z",
+      "name": "EGF PRoQuali - Podpera - Simara",
+      "black": "Podpera Lukas",
+      "white": "Simara Jan",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1038516,
+      "created": "2023-03-12T14:01:15.961962Z",
+      "name": "EGF ProQuali - Simara - Podpera",
+      "black": "Simara Jan",
+      "white": "Podpera Lukas",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1078114,
+      "created": "2023-05-20T12:00:00.649233Z",
+      "name": "Croatian Open EGF Bonus C",
+      "black": "Podpera Lukas",
+      "white": "Dach Zbynek",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1078244,
+      "created": "2023-05-20T16:03:27.025312Z",
+      "name": "30th Croatian Open Round 3 Board 1",
+      "black": "Podpera Lukas",
+      "white": "Drean-Guenaizia Benjamin",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1078575,
+      "created": "2023-05-21T07:39:38.108194Z",
+      "name": "30th Croatian Open Round 4 Board 1",
+      "black": "Podpera Lukas",
+      "white": "Grigoriu Elian_Ioan",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1078684,
+      "created": "2023-05-21T11:28:43.653983Z",
+      "name": "30th Croatian Open Round 5 Board 1",
+      "black": "Furjanic Lovro",
+      "white": "Podpera Lukas",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1111977,
+      "created": "2023-07-24T07:44:58.028110Z",
+      "name": "European Championship 2023 Round 2 Board 2",
+      "black": "Valerii Krushelnytskyi",
+      "white": "Lukas Podpera",
+      "recorder": "EGF2",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1113028,
+      "created": "2023-07-26T07:47:00.535515Z",
+      "name": "European Championship 2023 Round 4 Board 4",
+      "black": "Andrij Kravets",
+      "white": "Lukas Podpera",
+      "recorder": "EGF4",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1115416,
+      "created": "2023-07-30T08:14:50.988006Z",
+      "name": "EGC Weekend Rd 4 Board 2",
+      "black": "Podpera Lukas",
+      "white": "Drean-Guenaizia Benjamin",
+      "recorder": "EGF4",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1115564,
+      "created": "2023-07-30T12:23:34.800538Z",
+      "name": "EGC Weekend Rd 5 Board1",
+      "black": "Park, Junghun ",
+      "white": "Podpera, Lukas",
+      "recorder": "EGF3",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1157935,
+      "created": "2023-10-19T12:31:35.000677Z",
+      "name": "CEGO European Grand Slam Round 1 Board 2",
+      "black": "Benjamin Drean-Guenaizia",
+      "white": "Lukáš Podpěra",
+      "recorder": "EGF2",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1158425,
+      "created": "2023-10-20T10:00:40.979950Z",
+      "name": "CEGO European Grand Slam Quarter Final Board 3",
+      "black": "Lukáš Podpěra ",
+      "white": "Mateusz Surma",
+      "recorder": "EGF3",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1159087,
+      "created": "2023-10-21T10:11:35.590025Z",
+      "name": "Grand Slam 2023 - Match for 5th-8th place, board 3",
+      "black": "Lukáš Podpěra",
+      "white": "Dominik Boviz",
+      "recorder": "EGF3",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1159613,
+      "created": "2023-10-22T09:44:11.976271Z",
+      "name": "Grand Slam 2023 - The match for 5th place",
+      "black": "Lukáš Podpěra",
+      "white": "Stanislaw Frejlak",
+      "recorder": "EGF3",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1184420,
+      "created": "2023-12-08T16:31:59.314509Z",
+      "name": "Go Baron 2023 Final 1",
+      "black": "Lukáš Podpěra",
+      "white": "Jan Šimara",
+      "recorder": "CZBaron1",
+      "recorder_group": "czbaron"
+    },
+    {
+      "id": 1184839,
+      "created": "2023-12-09T08:18:08.257058Z",
+      "name": "    Go Baron 2023 Final 2",
+      "black": "Jan Šimara",
+      "white": "Lukáš Podpěra",
+      "recorder": "CZBaron1",
+      "recorder_group": "czbaron"
+    },
+    {
+      "id": 1184964,
+      "created": "2023-12-09T13:24:53.222655Z",
+      "name": "     Go Baron 2023 Final 3",
+      "black": "Lukáš Podpěra",
+      "white": "Jan Šimara",
+      "recorder": "CZBaron1",
+      "recorder_group": "czbaron"
+    },
+    {
+      "id": 1185416,
+      "created": "2023-12-10T08:22:32.212435Z",
+      "name": "GoBaron Final 4",
+      "black": "Jan Simara",
+      "white": "Lukas Podpera",
+      "recorder": "CZBaron1",
+      "recorder_group": "czbaron"
+    },
+    {
+      "id": 1185547,
+      "created": "2023-12-10T13:44:22.970707Z",
+      "name": "Czech Go Baron Final 5",
+      "black": "Jan Simara",
+      "white": "Lukas Podpera",
+      "recorder": "CZBaron1",
+      "recorder_group": "czbaron"
+    },
+    {
+      "id": 1215009,
+      "created": "2024-02-04T08:00:27.239924Z",
+      "name": "2nd Sokolov International Go Tournament",
+      "black": "Kim Dohyup",
+      "white": "Lukáš Podpěra",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1225578,
+      "created": "2024-02-24T16:40:29.202842Z",
+      "name": "XVIII. Blansko Tournament ",
+      "black": "Lukáš Podpěra",
+      "white": "Jan Šimara",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1225986,
+      "created": "2024-02-25T11:34:46.441028Z",
+      "name": "XVIII. Blansko Tournament ",
+      "black": "Zbyněk Dach",
+      "white": "Lukáš Podpěra",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1251955,
+      "created": "2024-04-13T07:19:28.557972Z",
+      "name": "IZIS2OGS transcript of game 519528",
+      "black": "Lukáš Podpěra 7d",
+      "white": "Michal Timko 3d",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1252033,
+      "created": "2024-04-13T10:53:11.292964Z",
+      "name": "IZIS2OGS transcript of game 519790",
+      "black": "Anton Silfver 3d",
+      "white": "Lukas Podpera 7d",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1252132,
+      "created": "2024-04-13T15:02:21.795925Z",
+      "name": "IZIS2OGS transcript of game 519921",
+      "black": "Stjepan Medak 3d",
+      "white": "Lukáš Podpěra 7d",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1252431,
+      "created": "2024-04-14T07:06:36.632545Z",
+      "name": "IZIS2OGS transcript of game 520385",
+      "black": "Lukáš Podpěra 7d",
+      "white": "Roko Crvelin 3d",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1252526,
+      "created": "2024-04-14T10:23:15.369978Z",
+      "name": "IZIS2OGS transcript of game 520631",
+      "black": "Lukáš Podpěra 7d",
+      "white": "Gregor Butala 5d",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1259241,
+      "created": "2024-04-27T08:01:48.971606Z",
+      "name": "52nd Prague Go Tour  r3, b5n",
+      "black": "Lukas Podpera",
+      "white": "Zbynek Dach ",
+      "recorder": "CZBaron2",
+      "recorder_group": "czbaron"
+    },
+    {
+      "id": 1285828,
+      "created": "2024-06-16T14:54:58.745153Z",
+      "name": "Česká liga družstev 2023/2024 – finále",
+      "black": "Jan Prokop",
+      "white": "Lukáš Podpěra",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1285925,
+      "created": "2024-06-16T18:12:14.326443Z",
+      "name": "Česká liga družstev 2023/2024 – finále",
+      "black": "Ondřej Kruml",
+      "white": "Lukáš Podpěra",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1286073,
+      "created": "2024-06-17T06:04:19.174616Z",
+      "name": "Česká liga družstev 2023/2024 – finále",
+      "black": "Lukáš Podpěra",
+      "white": "Vladimír Daněk",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1292264,
+      "created": "2024-06-29T15:58:52.320865Z",
+      "name": "Vienna Open 2024, Round 3, Board 2",
+      "black": "Dominik Boviz, 6d",
+      "white": "Lukas Podpera, 7d",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1292574,
+      "created": "2024-06-30T07:58:10.329729Z",
+      "name": "IZIS2OGS transcript of game 550735",
+      "black": "Viktor Lin, 6d",
+      "white": "Lukas Podpera, 7d",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1292658,
+      "created": "2024-06-30T11:57:27.715352Z",
+      "name": "IZIS2OGS transcript of game 550909",
+      "black": "Lukas Podpera, 7d",
+      "white": "Benjamin Drean Guenaizia, 7d",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1339695,
+      "created": "2024-09-26T07:25:46.407789Z",
+      "name": "Czech Championship 2024",
+      "black": "Lukáš Podpěra",
+      "white": "Vladimír Daněk",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1339831,
+      "created": "2024-09-26T13:10:52.960936Z",
+      "name": "Czech Championship 2024",
+      "black": "František Čáha",
+      "white": "Lukáš Podpěra",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1340197,
+      "created": "2024-09-27T07:12:10.226672Z",
+      "name": "Czech Championship 2024",
+      "black": "Lukáš Podpěra",
+      "white": "Jan Šimara",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1340383,
+      "created": "2024-09-27T12:50:33.366203Z",
+      "name": "Czech Championship 2024",
+      "black": "Petr Cipra",
+      "white": "Lukáš Podpěra",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1340806,
+      "created": "2024-09-28T07:03:19.228372Z",
+      "name": "Czech Championship 2024",
+      "black": "Lukáš Podpěra",
+      "white": "Jan Prokop",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1341031,
+      "created": "2024-09-28T12:59:28.625958Z",
+      "name": "Czech Championship 2024",
+      "black": "Lukáš Podpěra",
+      "white": "Jan Komín",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1341514,
+      "created": "2024-09-29T07:08:16.720786Z",
+      "name": "Czech Championship 2024",
+      "black": "Bártík Dach",
+      "white": "Lukáš Podpěra",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1377901,
+      "created": "2024-12-06T16:03:32.469978Z",
+      "name": "Czech Go Baron 2024 title match, Podpěra-Prokop, game 1",
+      "black": "Lukáš Podpěra",
+      "white": "Jan Prokop",
+      "recorder": "CZBaron1",
+      "recorder_group": "czbaron"
+    },
+    {
+      "id": 1378235,
+      "created": "2024-12-07T08:32:51.094448Z",
+      "name": "Czech Go Baron 2024 title match, Podpera VS. Prokop, game 2",
+      "black": "Jan Prokop",
+      "white": "Lukas Podpera",
+      "recorder": "CZBaron1",
+      "recorder_group": "czbaron"
+    },
+    {
+      "id": 1378382,
+      "created": "2024-12-07T14:31:59.445339Z",
+      "name": "Czech Go Baron 2024 title match, Podpera VS. Prokop, game 3",
+      "black": "Lukáš Podpěra",
+      "white": "Jan Prokop",
+      "recorder": "CZBaron1",
+      "recorder_group": "czbaron"
+    },
+    {
+      "id": 1378825,
+      "created": "2024-12-08T08:27:50.403046Z",
+      "name": "Czech Go Baron 2024 title match, Podpěra-Prokop, game 4",
+      "black": "Jan Prokop",
+      "white": "Lukáš Podpěra",
+      "recorder": "CZBaron1",
+      "recorder_group": "czbaron"
+    },
+    {
+      "id": 1391263,
+      "created": "2025-01-03T20:40:49.138023Z",
+      "name": "8th EGP Finale R2, B1",
+      "black": "Jonas Welticke",
+      "white": "Lukas Podpera",
+      "recorder": "EGF",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1392038,
+      "created": "2025-01-05T08:21:12.599072Z",
+      "name": "8th EGP Finale R4, B1",
+      "black": "Ali Jabarin",
+      "white": "Lukas Podpera",
+      "recorder": "EGF",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1392171,
+      "created": "2025-01-05T13:14:19.965977Z",
+      "name": "8th EGP final 2024, places 5-8 B3",
+      "black": "Thomas Debarre",
+      "white": "Lukas Podpera",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1395333,
+      "created": "2025-01-11T09:33:23.736614Z",
+      "name": "Olomouc, 2nd board, round 1",
+      "black": "Lukáš Podpěra",
+      "white": "Petr Cipra",
+      "recorder": "CAGo2",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1395415,
+      "created": "2025-01-11T12:46:16.800417Z",
+      "name": "Olomouc tournament, 2nd board, 2nd round",
+      "black": "Yaroslav Malko",
+      "white": "Lukáš Podpěra",
+      "recorder": "CAGo2",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1395521,
+      "created": "2025-01-11T15:46:15.335488Z",
+      "name": "Olomouc tournament, 2nd board, 3rd round",
+      "black": "Lukáš Podpěra",
+      "white": "Ondřej Kruml",
+      "recorder": "CAGo2",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1395884,
+      "created": "2025-01-12T07:59:33.560211Z",
+      "name": "Olomouc tournament 4th round, board 1",
+      "black": "Jan  Šimara",
+      "white": "Lukáš Podpěra",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1395999,
+      "created": "2025-01-12T11:34:46.235889Z",
+      "name": "Olomouc tournament 5th round, board 1",
+      "black": "Lukáš Podpěra",
+      "white": "Renato Tolgyesi ",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1412500,
+      "created": "2025-02-10T14:07:24.696303Z",
+      "name": "IZIS2OGS transcript of game 665658",
+      "black": "Lukáš Podpěra 7d",
+      "white": "Dominik Boviz 6d",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1413030,
+      "created": "2025-02-11T08:50:05.928013Z",
+      "name": "IZIS2OGS transcript of game 666095",
+      "black": "Viktor Lin 6d",
+      "white": "Lukáš Podpěra 7d",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1413188,
+      "created": "2025-02-11T13:50:52.432350Z",
+      "name": "IZIS2OGS transcript of game 666220",
+      "black": "Lukáš Podpěra 7d",
+      "white": "Rémi Campagnie 6d",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1413581,
+      "created": "2025-02-12T08:58:07.938565Z",
+      "name": "IZIS2OGS transcript of game 666533",
+      "black": "Matias Pankoke 6d",
+      "white": "Lukáš Podpěra 7d",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1413715,
+      "created": "2025-02-12T13:49:35.211177Z",
+      "name": "IZIS2OGS transcript of game 666609",
+      "black": "Lukáš Podpěra 7d",
+      "white": "Lucas Neirynck 6d",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1414172,
+      "created": "2025-02-13T09:24:21.229029Z",
+      "name": "IZIS2OGS transcript of game 666944",
+      "black": "Jonas Welticke 6d",
+      "white": "Lukas Podpera 7d",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1414289,
+      "created": "2025-02-13T13:57:45.417372Z",
+      "name": "IZIS2OGS transcript of game 667044",
+      "black": "Lukáš Podpěra 7d",
+      "white": "Benjamin Teuber 6d",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1414708,
+      "created": "2025-02-14T08:52:17.630397Z",
+      "name": "IZIS2OGS transcript of game 667339",
+      "black": "Vsevolod Ovsiienko 6d",
+      "white": "Lukáš Podpěra 7d",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1414838,
+      "created": "2025-02-14T13:51:00.904556Z",
+      "name": "IZIS2OGS transcript of game 667527",
+      "black": "Lukáš Podpěra 7d",
+      "white": "Ashe Vazquez 7d",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1415283,
+      "created": "2025-02-15T08:53:05.533940Z",
+      "name": "IZIS2OGS transcript of game 668226",
+      "black": "Lukáš Podpěra 7d",
+      "white": "Benjamin Drean-Guenaizia 7d",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1415424,
+      "created": "2025-02-15T13:51:00.336941Z",
+      "name": "IZIS2OGS transcript of game 668382",
+      "black": "Yuze Xing 6d",
+      "white": "Lukáš Podpěra 7d",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1459847,
+      "created": "2025-05-02T15:52:26.055250Z",
+      "name": "53rd Prague Tournament Round 2 Board 1",
+      "black": "Surma, Mateusz (3p)",
+      "white": "Podpera, Lukas (7d)",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1460173,
+      "created": "2025-05-03T07:56:43.540318Z",
+      "name": "53rd Prague Go Tournament Round 3, Board 1",
+      "black": "Kim, Dohyup (8d)",
+      "white": "Podpera, Lukas (7d)",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1460320,
+      "created": "2025-05-03T12:57:05.106064Z",
+      "name": "53rd Prague Go Tournament Round 4 Board 1",
+      "black": "Podpera, Lukas (7d)",
+      "white": "Kravets, Andrii (2p)",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1460721,
+      "created": "2025-05-04T06:56:22.933602Z",
+      "name": "53rd Prague Go Tournament Round 5 Board 2",
+      "black": "Jabarin, Ali (2p)",
+      "white": "Podpera, Lukas (7d)",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1460851,
+      "created": "2025-05-04T11:14:31.041267Z",
+      "name": "53rd Prague Go Tournament Round 6 Board 1",
+      "black": "Kruml, Ondrej (6d)",
+      "white": "Podpera, Lukas (7d)",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1488530,
+      "created": "2025-06-21T08:58:51.390300Z",
+      "name": "Lanke Cup Vienna Open R1 B3",
+      "black": "Schayan Hamrah (5d)",
+      "white": "Lukas Podpera (7d)",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1488648,
+      "created": "2025-06-21T12:16:27.410330Z",
+      "name": "Lanke Cup Vienna Open R2 B3",
+      "black": "Podpera Lukas (7d) ",
+      "white": "le_Calve Tanguy (1p) ",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1488722,
+      "created": "2025-06-21T15:43:01.508482Z",
+      "name": "Lanke Cup Vienna Open R3 B2",
+      "black": "Podpera Lukas (7D)",
+      "white": "Medak Stjepan (5D)",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1489098,
+      "created": "2025-06-22T08:02:29.017342Z",
+      "name": "Lanke Cup Vienna Open R4 B1",
+      "black": "Frejlak Stanislaw (2p) ",
+      "white": "Podpera Lukas (7d) ",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1489200,
+      "created": "2025-06-22T11:30:37.151637Z",
+      "name": "Lanke Cup Vienna Open R5 B2",
+      "black": "Oh Chi-Min (8d) ",
+      "white": "Podpera Lukas (7d) ",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1492576,
+      "created": "2025-06-28T12:22:21.050646Z",
+      "name": "Česká liga družstev 2024/25",
+      "black": "Lukáš Podpěra",
+      "white": "Ondrej Králik",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1492661,
+      "created": "2025-06-28T14:57:09.267429Z",
+      "name": "Česká liga družstev 2024/25",
+      "black": "Lukáš Podpěra",
+      "white": "Jan Šimara",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1493035,
+      "created": "2025-06-29T07:56:38.381329Z",
+      "name": "Česká liga družstev 2024/25",
+      "black": "Lukáš Podpěra",
+      "white": "Vladimír Daněk",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1506007,
+      "created": "2025-07-22T07:01:01.043044Z",
+      "name": "European Championship R3 B3",
+      "black": "Podpera Lukas",
+      "white": "Surma Mateusz",
+      "recorder": "EGF",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1507039,
+      "created": "2025-07-24T06:07:11.900491Z",
+      "name": "European Championship R5 B2",
+      "black": "Debarre Thomas",
+      "white": "Podpera Lukas",
+      "recorder": "EGF",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1508252,
+      "created": "2025-07-26T08:19:02.763507Z",
+      "name": "EGC2025 Weekend round 1.20",
+      "black": "Daehee Cho",
+      "white": "Lukáš Podpěra",
+      "recorder": "EGF",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1508893,
+      "created": "2025-07-27T08:00:46.456245Z",
+      "name": "EGC2025 Weekend round 4.19",
+      "black": "Podpera Lukas",
+      "white": "Wang Xiangyun",
+      "recorder": "EGF",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1509483,
+      "created": "2025-07-28T08:56:05.482523Z",
+      "name": "PETC 2025 Final Round 1 CZ-UA Board 1",
+      "black": "Lukáš Podpěra",
+      "white": "Artem Kachanovskyi",
+      "recorder": "EGF",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1509642,
+      "created": "2025-07-28T13:33:13.676464Z",
+      "name": "PETC 2025 Final Round 2 FR-CZ Board 1",
+      "black": "Benjamin Drean-Guenaizia",
+      "white": "Lukáš Podpěra",
+      "recorder": "EGF",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1510069,
+      "created": "2025-07-29T07:43:04.974290Z",
+      "name": "EGC 2025 Open round 6.7",
+      "black": "Podpera Lukas",
+      "white": "Lidor Jonathan",
+      "recorder": "EGF",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1510269,
+      "created": "2025-07-29T14:24:04.652428Z",
+      "name": "PETC Final Round 3 CZ-PL Board 1",
+      "black": "Lukas Podpera",
+      "white": "Mateusz Surma",
+      "recorder": "EGF",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1510633,
+      "created": "2025-07-30T07:50:18.177399Z",
+      "name": "EGC 2025 Open Round 7.1",
+      "black": "Podpera Lukas",
+      "white": "Kwon Hyukjoon",
+      "recorder": "EGF",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1511284,
+      "created": "2025-07-31T07:45:37.711057Z",
+      "name": "EGC 2025 Open Round 8.4",
+      "black": "Sanow Kevin",
+      "white": "Podpera Lukas",
+      "recorder": "EGF",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1537439,
+      "created": "2025-09-13T08:03:23.157010Z",
+      "name": "Brno Open 2025",
+      "black": "Lukáš Podpěra",
+      "white": "Mateusz Surma",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1544212,
+      "created": "2025-09-25T13:23:28.598390Z",
+      "name": "Czech Championship 2025",
+      "black": "Michal Nemčok",
+      "white": "Lukáš Podpěra",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1544611,
+      "created": "2025-09-26T07:17:45.648545Z",
+      "name": "Czech Championship 2025",
+      "black": "Lukáš Podpěra",
+      "white": "Bártík Dach",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1545258,
+      "created": "2025-09-27T07:27:37.258956Z",
+      "name": "Czech Championship 2025",
+      "black": "Lukáš Podpěra",
+      "white": "Jan Komín",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1545451,
+      "created": "2025-09-27T12:54:16.796619Z",
+      "name": "Czech Championship 2025",
+      "black": "František Čáha",
+      "white": "Lukáš Podpěra",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1545847,
+      "created": "2025-09-28T07:20:36.182051Z",
+      "name": "Czech Championship 2025",
+      "black": "Lukáš Podpěra",
+      "white": "Zbyněk Dach ",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1570137,
+      "created": "2025-11-08T12:36:59.614595Z",
+      "name": "IZIS2OGS transcript of game 817435",
+      "black": "Jan Šimara 1p",
+      "white": "Lukáš Podpěra 7d",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1570255,
+      "created": "2025-11-08T15:55:40.202721Z",
+      "name": "IZIS2OGS transcript of game 817448",
+      "black": "Tianyi Fu 6d",
+      "white": "Lukáš Podpěra 7d",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1570697,
+      "created": "2025-11-09T07:58:38.057872Z",
+      "name": "IZIS2OGS transcript of game 818171",
+      "black": "Lukáš Podpěra 7d",
+      "white": "Mateus Surma 3p",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1570830,
+      "created": "2025-11-09T11:54:56.192963Z",
+      "name": "IZIS2OGS transcript of game 818370",
+      "black": "Lukáš Podpěra 7d",
+      "white": "Ashe Vazquez 7d",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1578968,
+      "created": "2025-11-22T16:12:33.549093Z",
+      "name": "Hungarian Open 2025, R3",
+      "black": "Podpera, Lukas",
+      "white": "Balogh, Pál",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1579387,
+      "created": "2025-11-23T08:31:43.643283Z",
+      "name": "Hungarian Open 2025, R4",
+      "black": "Podpera, Lukaš",
+      "white": "Burzo, Cornel",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1579481,
+      "created": "2025-11-23T11:55:59.185677Z",
+      "name": "Hungarian Open 2025, R5",
+      "black": "Drean-Guenaizia, Benjamin",
+      "white": "Podpera, Lukaš",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1586488,
+      "created": "2025-12-05T15:55:32.014739Z",
+      "name": "Czech GoBaron Finals game 1",
+      "black": "Lukas Podpera",
+      "white": "Ondrej Kruml",
+      "recorder": "CZBaron1",
+      "recorder_group": "czbaron"
+    },
+    {
+      "id": 1586902,
+      "created": "2025-12-06T08:14:31.304050Z",
+      "name": "Czech Go Baron Finals game 2 Podpera-Kruml",
+      "black": "Ondrej Kruml",
+      "white": "Lukas Podpera",
+      "recorder": "CZBaron1",
+      "recorder_group": "czbaron"
+    },
+    {
+      "id": 1587065,
+      "created": "2025-12-06T13:55:56.119509Z",
+      "name": "Czech Go Baron Finals game 3     s game 2 Podpera-Kruml",
+      "black": "Lukas Podpera",
+      "white": "Ondrej Kruml",
+      "recorder": "CZBaron1",
+      "recorder_group": "czbaron"
+    },
+    {
+      "id": 1587444,
+      "created": "2025-12-07T08:26:57.989465Z",
+      "name": "Czech Go Baron Final game 4     s game 2 Podpera-Kruml",
+      "black": "Ondrej Kruml",
+      "white": "Lukas Podpera",
+      "recorder": "CZBaron1",
+      "recorder_group": "czbaron"
+    },
+    {
+      "id": 1591323,
+      "created": "2025-12-13T09:46:59.330894Z",
+      "name": "Velika Gorica Grand Prix Bonus C - Round 1 Board 2",
+      "black": "Martijn van Ling",
+      "white": "Lukas Podpera",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1591429,
+      "created": "2025-12-13T12:53:14.698667Z",
+      "name": "Grand Prix Velika Gorica R2 B1",
+      "black": "Lukas Podpera",
+      "white": "Vsevolod Ovsiienko",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1591532,
+      "created": "2025-12-13T16:24:29.969857Z",
+      "name": "Grand Prix Velika Gorica Round 3 Board 2",
+      "black": "Benjamin Drean-Guenaizia",
+      "white": "Lukas Podpera",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1591858,
+      "created": "2025-12-14T08:23:48.911119Z",
+      "name": "Grand Prix Velika Gorica R4 B2",
+      "black": "Lukas Podpera",
+      "white": "Ali Jabarin",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1591996,
+      "created": "2025-12-14T12:42:11.063810Z",
+      "name": "Velika Gorica Grand Prix, R5 B1",
+      "black": "Lukas Podpera",
+      "white": "Mateusz Surma",
+      "recorder": "dmedak",
+      "recorder_group": "dmedak"
+    },
+    {
+      "id": 1605462,
+      "created": "2026-01-08T14:15:00.587343Z",
+      "name": "Grand Prix Finale Group c Game 1",
+      "black": "Damen Woo",
+      "white": "Lukas Podpera",
+      "recorder": "EGF",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1606549,
+      "created": "2026-01-10T09:04:17.408740Z",
+      "name": "EGF Grand Prix QuarterFinals",
+      "black": "Dominik Boviz",
+      "white": "Lukáš Podpěra",
+      "recorder": "EGF",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1606710,
+      "created": "2026-01-10T13:30:13.267887Z",
+      "name": "EGF Grand Prix SemiFinals",
+      "black": "Vsevolod Ovsiienko",
+      "white": "Lukáš Podpěra",
+      "recorder": "EGF",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1607241,
+      "created": "2026-01-11T09:06:34.729330Z",
+      "name": "EGF Grand Prix Finals",
+      "black": "Damen Woo",
+      "white": "Lukas Podpera",
+      "recorder": "EGF",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1611261,
+      "created": "2026-01-17T09:16:01.792619Z",
+      "name": "Olomouc GO tournament 1st round, board 1 (Cipra - Podpera) ",
+      "black": "Petr Cipra",
+      "white": "Lukáš Podpěra",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1611419,
+      "created": "2026-01-17T12:55:04.039499Z",
+      "name": "Olomouc GO tournament 2nd round, board 1 (Podpera  - Komín) ",
+      "black": "Lukáš Podpěra",
+      "white": "Jan Komín",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1611546,
+      "created": "2026-01-17T16:10:16.273570Z",
+      "name": "Olomouc GO tournament 3rd round, board 1 (Podpera  - Spiegel) ",
+      "black": "Lukáš Podpěra",
+      "white": "Lothar Spiegel",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1612053,
+      "created": "2026-01-18T08:18:10.750804Z",
+      "name": "Olomouc GO tournament 4th round, board 1 (Dach B  - Podpěra L) ",
+      "black": "Bártík Dach",
+      "white": "Lukáš Podpěra",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1612171,
+      "created": "2026-01-18T11:55:45.800871Z",
+      "name": "Olomouc GO tournament 5th round, board 1 (Podpera L - Csizmadia R)) ",
+      "black": "Lukáš Podpěra",
+      "white": "Robert Csizmadia ",
+      "recorder": "CAGo1",
+      "recorder_group": "cago"
+    },
+    {
+      "id": 1683852,
+      "created": "2026-04-18T09:04:40.117619Z",
+      "name": "Play with Brain Men's Match 1",
+      "black": "Andrii Kravets",
+      "white": "Lukas Podpera",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1684509,
+      "created": "2026-04-19T07:54:41.502812Z",
+      "name": "Play with Brain Men's Match 3",
+      "black": "Lukas Podpera",
+      "white": "Valerii Krushelnytskyi",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1685124,
+      "created": "2026-04-20T06:46:58.193265Z",
+      "name": "Play with Brain Men's Match 5",
+      "black": "Lukas Podpera",
+      "white": "Ali Jabarin",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1693146,
+      "created": "2026-05-01T15:51:04.497317Z",
+      "name": "54th Prague Go Tournament",
+      "black": "Li Yuanzhen",
+      "white": "Lukáš Podpěra",
+      "recorder": "EGF2",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1693719,
+      "created": "2026-05-02T12:50:16.497784Z",
+      "name": "54th Prague Go Tournament",
+      "black": "Bao Yifan",
+      "white": "Lukáš Podpěra",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1694161,
+      "created": "2026-05-03T06:51:50.833627Z",
+      "name": "54th Prague Go Tournament",
+      "black": "Wu Xi",
+      "white": "Lukáš Podpěra",
+      "recorder": "EGF1",
+      "recorder_group": "egf"
+    },
+    {
+      "id": 1694325,
+      "created": "2026-05-03T11:10:30.323228Z",
+      "name": "54th Prague Go Tournament",
+      "black": "Lukáš Podpěra",
+      "white": "Kim Dohyup",
+      "recorder": "EGF2",
+      "recorder_group": "egf"
+    }
+  ]
+}

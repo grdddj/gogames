@@ -1,0 +1,551 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[European Championship 2023 Round 3 Board 6]
+PC[https://online-go.com/review/1112492]
+PB[Stanislaw Frejlak]
+PW[Fredrik Blomback]
+BR[1p]
+WR[7d]
+OT[Error: time control missing]
+RE[?]
+SZ[19]
+KM[7.5]
+RU[Chinese]
+
+;B[dp]
+;W[pd]
+;B[dc]
+;W[pq]
+;B[hd]
+;W[cj]
+;B[cf]
+;W[cm]
+;B[qo]
+;W[op]
+;B[nc]
+;W[qf]
+;B[pg]
+;W[qg]
+;B[pi]
+;W[fq]
+;B[dn]
+;W[bo]
+;B[ip]
+;W[go]C[
+
+-- chat --
+Kanin: Go Fredrik!
+Moggetyrael: Go Siasio!
+silk: Go Go!
+Sadaharu: Funny move
+Moggetyrael: some anusual fuseki
+Moggetyrael: I like it
+]
+;B[ek]C[
+
+-- chat --
+Zaphodian: Stan has a great imagination, but that does not always have a good outcome.  
+]
+(;W[el]C[
+
+-- chat --
+Kanin: I don't see why black didn't push D7 before playing E9
+Aurelien.C: style points
+Zaphodian: 22 is pretty wild.
+]
+;B[fo]C[
+
+-- chat --
+Sadaharu: Definitely very stylish
+]
+;W[gn]
+;B[fn]C[
+
+-- chat --
+Zaphodian: I can't believe this can be good for B. But he is trying to maken miai between G4 and F8
+]
+(;W[gm]
+(;B[dl]
+;W[dm]
+;B[fl]
+;W[em]
+;B[fm]C[
+
+-- chat --
+Zaphodian: Black's aim. From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 E8 F5 G6 F6 G7 D8 D7 F8 E7 F7 
+]
+)(;B[fl]
+;W[fm]
+;B[dl]
+;W[em]
+;B[dm]
+;W[dk]
+;B[cl]
+;W[ej]
+;B[gp]
+;W[fp]
+;B[gq]C[
+
+-- chat --
+Zaphodian: difficult fight. From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 E8 F5 G6 F6 G7 F8 F7 D8 E7 D7 D9 C8 E10 G4 F4 G3 
+]
+))(;W[fm]
+;B[gp]
+;W[fp]
+;B[gq]
+;W[gr]C[
+
+-- chat --
+Zaphodian: F7 is a much better move than G7 - but it will still lead to an intensive fight
+Sadaharu: Black better prepare some good moves
+Radziol: Dajesz Siasio!
+Zaphodian: nakanaka ii te mitsukaranai kana
+jvandenbusken: first cut then think? (at g7)
+Radziol: first cut then sink
+]
+(;B[cn]
+;W[bn]
+;B[dm]
+;W[dl]
+;B[cl]
+;W[bm]
+;B[gm]
+;W[in]
+;B[fl]C[
+
+-- chat --
+Zaphodian: B might be thinking of how to engineer this trick somehow. From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 E8 F5 G6 F6 F7 G4 F4 G3 G2 C6 B6 D7 D8 C8 B7 G7 J6 F8 
+]
+)(;B[hr]
+;W[er]
+;B[gm]C[
+
+-- chat --
+OndraKruml: :D
+]
+(;W[hn]C[
+
+-- chat --
+Animiral: so chaotic
+Animiral: in all fairness, something of b should collapse, otherwise he will just be ahead
+]
+;B[gl]C[
+
+-- chat --
+Qinglong: Immaculate.
+]
+(;W[fk]
+;B[gk]
+;W[jn]
+;B[em]
+;W[fl]
+;B[dl]
+;W[fj]
+;B[dm]
+;W[cq]C[
+
+-- chat --
+Zaphodian: playable for W. From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 E8 F5 G6 F6 F7 G4 F4 G3 G2 H2 E2 G7 H6 G8 F9 G9 K6 E7 F8 D8 F10 D7 C3 
+]
+)(;W[em]
+;B[im]
+;W[in]
+;B[jn]
+;W[hm]
+;B[hl]
+;W[jm]
+;B[il]
+;W[jo]
+;B[kn]
+;W[io]
+;B[gs]
+;W[fr]
+;B[lp]
+;W[jp]C[
+
+-- chat --
+Zaphodian: hard to kill W. From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 E8 F5 G6 F6 F7 G4 F4 G3 G2 H2 E2 G7 H6 G8 E7 J7 J6 K6 H7 H8 K7 J8 K5 L6 J5 G1 F2 M4 K4 
+]
+)(;W[dm]
+;B[dr]C[
+
+-- chat --
+Sadaharu: Not so easy got white it seems
+Mrrr: H3 is not bad?
+Animiral: if white h3, I think black will find a way to net the h6 stones
+Moggetyrael: but how?
+Sadaharu: Eg. K4 is sente
+Sadaharu: @Animiral in your variation black can just atari
+Moggetyrael: there is some death potential for white
+Moggetyrael: and ko is not really promising
+]
+(;W[hq]
+;B[hp]
+;W[iq]
+;B[jp]
+(;W[ir]
+;B[im]
+;W[in]
+;B[jn]C[
+
+-- chat --
+Animiral: one option. From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 E8 F5 G6 F6 F7 G4 F4 G3 G2 H2 E2 G7 H6 G8 D7 D2 H3 H4 J3 K4 J2 J7 J6 K6 
+Animiral: details to be read out ^^
+Mrrr: yes, thx :)
+]
+)(;W[jq]
+;B[im]
+;W[in]
+;B[jn]
+;W[hm]
+;B[hl]
+;W[jm]
+;B[il]
+;W[jo]
+;B[kn]
+;W[kp]C[
+
+-- chat --
+Animiral: some complications remain. From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 E8 F5 G6 F6 F7 G4 F4 G3 G2 H2 E2 G7 H6 G8 D7 D2 H3 H4 J3 K4 K3 J7 J6 K6 H7 H8 K7 J8 K5 L6 L4 
+Mrrr: i don`t see a complication in your complication variation
+Animiral: oh, thanks ^^ you are right
+]
+))(;W[dq]
+;B[cq]C[
+
+-- chat --
+Mrrr: can`t he connect?
+Moggetyrael: probably white does not need to play E7 after it
+Moggetyrael: true
+]
+;W[eq]C[
+
+-- chat --
+Sadaharu: If C2 works white could be in trouble
+johan.nevstedt: Can't W C5 if B C2?
+Kanin: seems almost like a collapse for b
+Sadaharu: Is that the variation? The sync button keeps bringing me back to the previous move
+Kanin: sync keeps bringing me to E3 so I guess the rest is variations only?
+Mardipaev: yes, they are at move 40 atm
+]
+(;B[cr]
+(;W[cp]
+(;B[do]
+(;W[fs]
+;B[ds]
+;W[en]
+;B[eo]
+;W[cn]C[
+
+-- chat --
+Mrrr: D3 looks more promising then ;)
+]
+)(;W[en]
+;B[eo]
+;W[em]C[
+
+-- chat --
+Mardipaev: does it?
+]
+)(;W[bq]
+;B[br]
+;W[ar]
+;B[bs]
+;W[ds]C[
+
+-- chat --
+Zaphodian: B cannot win this. From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 E8 F5 G6 F6 F7 G4 F4 G3 G2 H2 E2 G7 H6 G8 D7 D2 D3 C3 E3 C2 C4 D5 B3 B2 A2 B1 D1 
+]
+))(;B[eo]C[
+
+-- chat --
+Mrrr: still, white could create an eye and go for ko
+Kanin: sorry, I wasn't synced
+]
+(;W[em]
+;B[fs]C[
+
+-- chat --
+Mardipaev: should let black connect
+Mardipaev: in the variations that you don't let black connect black can live in the corner instead
+]
+;W[es]
+;B[ds]
+;W[en]
+;B[gs]C[
+
+-- chat --
+Moggetyrael: 9. From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 E8 F5 G6 F6 F7 G4 F4 G3 G2 H2 E2 G7 H6 G8 D7 D2 D3 C3 E3 C2 C4 E5 E7 F1 E1 D1 E6 G1 
+Moggetyrael: maybe this
+Mrrr: E5 is nice in your variation
+Mrrr: i didn`t see it
+]
+)(;W[co]
+(;B[em]
+;W[do]C[
+
+-- chat --
+Mardipaev: better play C5 instead of E7 as white
+]
+)(;B[es]
+(;W[do]C[
+
+-- chat --
+Mrrr: oh yes
+]
+)(;W[fs]
+;B[ds]
+;W[do]
+;B[hs]
+;W[ep]C[
+
+-- chat --
+Mrrr: black will be able to connect underneath
+Mrrr: but hardly could be called a success
+]
+)))(;W[fs]
+;B[ds]
+;W[es]
+;B[bp]
+;W[co]
+;B[aq]
+;W[do]C[
+
+-- chat --
+Mardipaev: C5 is 'important' to prevent this. From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 E8 F5 G6 F6 F7 G4 F4 G3 G2 H2 E2 G7 H6 G8 D7 D2 D3 C3 E3 C2 C4 E5 F1 D1 E1 B4 C5 A3 D5 
+Sadaharu: At least corner's alive
+]
+)))(;W[eo]
+;B[en]C[
+
+-- chat --
+Kanin: seems fine for w
+]
+;W[do]
+;B[co]
+;W[ep]
+;B[cn]
+;W[cp]
+;B[bp]
+;W[bn]
+;B[dp]C[
+
+-- chat --
+Kanin: Ko?. From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 E8 F5 G6 F6 F7 G4 F4 G3 G2 H2 E2 G7 H6 G8 D7 D2 D3 C3 E3 C2 E5 E6 D5 C5 E4 C6 C4 B4 B6 D4 
+Zaphodian: ???
+]
+))(;B[cp]C[
+
+-- chat --
+Moggetyrael: some problem with the relay probably
+]
+;W[cr]
+;B[br]
+;W[ds]
+;B[gs]
+;W[bs]
+;B[bq]C[
+
+-- chat --
+bartosz: According to Kata, black has been playing almost all blue moves
+bartosz: 10-11 in a row
+bartosz: b3 is first mistake
+humble_learner: what was ble move instead of b3?
+humble_learner: *blue?
+bartosz: f2
+Mardipaev: If you are lost in the previous variations: 1. press sync button, 2. go to the next move that is not 'official move string that contains the 'sync move'. 3. press the 'garbage can' button to delete 'unofficial variations'
+]
+;W[fr]
+;B[fs]C[
+
+-- chat --
+Mardipaev: 1.5. go back from the sync'd move until you arrive at a fork
+Sadaharu: Or you can just refresh the page
+Kanin: potato juice, yes, something like this seems pretty reasonable as you preserve the ko aji
+]
+(;W[hq]
+;B[hp]
+;W[iq]
+(;B[jq]
+;W[ir]
+;B[is]C[
+
+-- chat --
+Zaphodian: this is the Ko Black is proposing, I think. But this is unreasonable for B. From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 E8 F5 G6 F6 F7 G4 F4 G3 G2 H2 E2 G7 H6 G8 D7 D2 D3 C3 E3 C4 C2 B2 D1 G1 B1 B3 F2 F1 H3 H4 J3 K3 J2 J1 
+]
+)(;B[jp]
+;W[ir]
+;B[im]C[
+
+-- chat --
+potato juice: maybe this?
+potato juice: a. From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 E8 F5 G6 F6 F7 G4 F4 G3 G2 H2 E2 G7 H6 G8 D7 D2 D3 C3 E3 C4 C2 B2 D1 G1 B1 B3 F2 F1 H3 H4 J3 K4 J2 J7 
+]
+))(;W[co]
+;B[do]
+;W[es]C[
+
+-- chat --
+Sadaharu: E1? White was really afraid of the ko?
+Mrrr: situation does not look very blue for black...
+Mrrr: ops, i my chat window was not refresfhed
+Sadaharu: Or he's trying to make K4 gote
+sfas: j6?
+]
+(;B[is]
+;W[hs]
+;B[gs]
+;W[en]
+;B[eo]
+;W[em]
+;B[hs]
+;W[bp]
+;B[ar]
+;W[cn]
+;B[as]
+;W[cs]C[
+
+-- chat --
+Zaphodian: Black loses. From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 E8 F5 G6 F6 F7 G4 F4 G3 G2 H2 E2 G7 H6 G8 D7 D2 D3 C3 E3 C4 C2 B2 D1 G1 B1 B3 F2 F1 C5 D5 E1 J1 H1 G1 E6 E5 E7 H1 B4 A2 C6 A1 C1 
+]
+)(;B[jq]
+(;W[hs]C[
+
+-- chat --
+Kanin: if black captures the three white stones in the center it is surely a good game for black
+]
+;B[im]C[
+
+-- chat --
+Zaphodian: hmmmm, this looks bad for W
+Moggetyrael: Siasio strong
+Radziol: d1 is alive at least
+Kanin: It seems to me Stanislaw is very good at life and death
+Moggetyrael: especially death part
+Kanin: white can only j2, no?
+]
+(;W[in]
+;B[jn]
+;W[hm]
+;B[hl]
+;W[jm]
+;B[il]
+;W[jo]
+;B[kn]
+;W[io]
+(;B[ko]C[
+
+-- chat --
+Zaphodian: White dies. From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 E8 F5 G6 F6 F7 G4 F4 G3 G2 H2 E2 G7 H6 G8 D7 D2 D3 C3 E3 C4 C2 B2 D1 G1 B1 B3 F2 F1 C5 D5 E1 K3 H1 J7 J6 K6 H7 H8 K7 J8 K5 L6 J5 L5 
+]
+)(;B[kp]C[
+
+-- chat --
+Sadaharu: ?
+kachynaondrej: oops
+Moggetyrael: It is not a game I hope
+Kanin: I can't believe this
+EGF6: w resigns
+Sadaharu: Oh
+Radziol: O_o
+OndraKruml: whops
+Sadaharu: That was sudden
+mikiguy: congrats Stanisław
+Moggetyrael: really?
+💖 KoBa 💖: ohh gg!
+]
+))(;W[jo]
+;B[io]
+;W[in]
+;B[jn]
+;W[jm]
+;B[kn]
+;W[hm]
+;B[il]
+;W[hl]
+;B[hk]C[
+
+-- chat --
+Zaphodian: This doesn't work for W. From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 E8 F5 G6 F6 F7 G4 F4 G3 G2 H2 E2 G7 H6 G8 D7 D2 D3 C3 E3 C4 C2 B2 D1 G1 B1 B3 F2 F1 C5 D5 E1 K3 H1 J7 K5 J5 J6 K6 K7 L6 H7 J8 H8 H9 
+Zaphodian: Yes, he is. 
+Zaphodian: But he makes mistakes.
+]
+))(;W[jn]
+;B[hs]
+(;W[en]
+;B[eo]
+;W[em]
+;B[ar]
+;W[bp]
+;B[as]
+;W[cn]
+;B[cs]C[
+
+-- chat --
+Zaphodian: two-stage ko for Black. From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 E8 F5 G6 F6 F7 G4 F4 G3 G2 H2 E2 G7 H6 G8 D7 D2 D3 C3 E3 C4 C2 B2 D1 G1 B1 B3 F2 F1 C5 D5 E1 K3 K6 H1 E6 E5 E7 A2 B4 A1 C6 C1 
+]
+)(;W[as]
+;B[en]
+;W[em]
+;B[ep]
+;W[cn]
+;B[ar]C[
+
+-- chat --
+Zaphodian: White cannot resolve the ko . From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 E8 F5 G6 F6 F7 G4 F4 G3 G2 H2 E2 G7 H6 G8 D7 D2 D3 C3 E3 C4 C2 B2 D1 G1 B1 B3 F2 F1 C5 D5 E1 K3 K6 H1 A1 E6 E7 E4 C6 A2 
+]
+))))))))(;W[in]
+;B[cq]
+;W[dq]
+;B[dr]
+;W[eq]
+;B[cr]
+;W[cp]
+;B[do]
+;W[bq]
+;B[br]
+;W[ar]
+;B[bs]
+;W[ds]
+;B[fs]
+;W[es]
+;B[ep]
+;W[gs]
+;B[bn]
+;W[cn]
+;B[dm]
+;W[dl]
+;B[co]
+;W[bp]
+;B[bm]
+;W[cl]
+;B[ao]
+;W[aq]C[
+
+-- chat --
+Zaphodian: looks like somebody can collapse
+]
+)))(;W[hq]
+;B[fl]C[
+
+-- chat --
+Zaphodian: Purpose of E8 gets lost. From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 E8 F5 G6 F6 H3 F8 
+]
+))(;W[dm]
+(;B[em]
+;W[en]C[
+
+-- chat --
+Zaphodian: This cut looks bad for B. . From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 D7 E7 E6 
+]
+)(;B[fn]
+;W[fl]
+;B[gn]
+;W[ho]C[
+
+-- chat --
+Zaphodian: alternative does not look so interesting for B either.
+Zaphodian: alternative. From move 0: D4 Q16 D17 Q3 H16 C10 C14 C7 R5 P4 O17 R14 Q13 R13 Q11 F3 D6 B5 J4 G5 E9 D7 F6 F8 G6 H5 
+]
+)))

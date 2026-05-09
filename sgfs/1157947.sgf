@@ -1,0 +1,474 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[CEGO European Grand Slam Round 1 Board 1]
+PC[https://online-go.com/review/1157947]
+PB[Nikola Mitic]
+PW[Jan Šimara]
+BR[7d]
+WR[1p]
+OT[Error: time control missing]
+RE[b + res]
+SZ[19]
+KM[7.5]
+RU[Chinese]
+C[
+
+-- chat --
+EGF1: Welcome to the most prestigious tournament in Europe! The first round of the Grand Slam starts now. For details, please visit: https://eurogofed.org/grandprix/grandslam2023.html and https://www.praguegrandslam.com/
+tvojemama: Nikola thinking long or someone late?
+tasuki: o.O
+DenisK: We can't see anything
+tasuki: I can't see any moves either
+MihajloAndjelic: second board is ok
+joachim: 2. board is ok
+to1al: jo tady není nic videt
+]
+;B[qd]C[
+
+-- chat --
+tasuki: this is review by EGF2 and you're EGF1
+]
+;W[dp]
+;B[oq]C[
+
+-- chat --
+to1al: uz
+]
+;W[dd]
+;B[od]C[
+
+-- chat --
+MihajloAndjelic: we see now
+tasuki: it works now hooray \\o/
+]
+;W[qp]
+;B[qn]
+;W[op]
+;B[np]
+;W[oo]
+;B[pq]
+;W[qo]
+;B[pm]
+;W[qq]
+;B[nm]
+;W[nn]C[
+
+-- chat --
+EGF1: some problem with the entry here on OGS :(
+]
+;B[lq]C[
+
+-- chat --
+EGF1: is it ok now?
+]
+;W[mm]
+;B[nl]C[
+
+-- chat --
+EGF1: 19 moves so far
+EGF1: and second board?
+EGF1: hmm..
+]
+;W[mp]
+;B[mq]
+;W[no]
+;B[ml]
+;W[jq]
+;B[lp]
+;W[nq]C[
+
+-- chat --
+EGF2: ok, thanks for help :)
+]
+;B[nr]
+;W[jo]C[
+
+-- chat --
+Sergey Lilo: Hello tasuki! Let me thank you for pretty tsumego pdfs!
+💖 KoBa 💖: ohhhh grand slam is this weekend?
+yahel.or.3: If there are other panels that you broadcast?
+yahel.or.3: If you can send a picture of players?
+Sadaharu: No live video stream?
+]
+;B[ko]C[
+
+-- chat --
+yahel.or.3: probably not
+EGF2: videostream will be on EGF twitch I guess
+EGF2: for now a photo: https://goweb.cz/wp-content/uploads/2023/10/01GS-scaled.jpg
+Marta: thank you :)
+tasuki: that looks a bit more peasant than originally advertised: https://static.wixstatic.com/media/d0a4fc_5cd9da9779684768847b2762a9eef5f8~mv2.jpg/v1/fill/w_967,h_848,al_c,q_85,enc_auto/d0a4fc_5cd9da9779684768847b2762a9eef5f8~mv2.jpg
+yahel.or.3: ty
+tasuki: bad link, should've been https://static.wixstatic.com/media/d0a4fc_5cd9da9779684768847b2762a9eef5f8~mv2.jpg
+tasuki: I thought they'd at least play on the spherical boards
+Sadaharu: Nikola looks a bit like James McAvoy
+]
+;W[jn]
+;B[lm]
+;W[jd]
+;B[ld]C[
+
+-- chat --
+OndraKruml: Last w move was classic Simi, not 100% but simple
+PanKure: Not 100% means not a blue move?
+]
+;W[qe]C[
+
+-- chat --
+OndraKruml: I would think so, is it blue?
+PanKure: I wouldn't know I don't have any go ai.
+OndraKruml:  Well if its blue it an other simi classic, purely genius!
+]
+;B[pe]
+;W[qf]
+;B[rd]
+;W[pf]C[
+
+-- chat --
+tvojemama: :-D
+tvojemama: actually Katago does not think the lower right is settled ; some sente advantage for black, so w should add move
+]
+;B[qh]
+;W[ph]
+;B[qi]
+;W[oe]
+;B[pd]
+;W[mg]
+;B[je]
+;W[ie]
+;B[jf]
+;W[id]
+;B[ne]
+;W[kh]
+;B[jh]
+(;W[ji]
+(;B[ih]
+;W[ki]
+;B[ro]
+;W[rp]
+;B[rr]
+;W[qr]
+;B[rn]C[
+
+-- chat --
+Zaphodian: Sequence to kill lower right. From move 0: R16 D4 P3 D16 P16 R4 R6 P4 O4 P5 Q3 R5 Q7 R3 O7 O6 M3 N7 O8 N4 N3 O5 N8 K3 M4 O3 O2 K5 L5 K6 M7 K16 M16 R15 Q15 R14 S16 Q14 R12 Q12 R11 P15 Q16 N13 K15 J15 K14 J16 O15 L12 K12 K11 J12 L11 S5 S4 S2 R2 S6 
+]
+;W[pp]
+;B[pn]
+;W[or]
+;B[np]
+;W[pr]
+;B[mo]
+;W[rs]C[
+
+-- chat --
+Welvang: a. From move 0: R16 D4 P3 D16 P16 R4 R6 P4 O4 P5 Q3 R5 Q7 R3 O7 O6 M3 N7 O8 N4 N3 O5 N8 K3 M4 O3 O2 K5 L5 K6 M7 K16 M16 R15 Q15 R14 S16 Q14 R12 Q12 R11 P15 Q16 N13 K15 J15 K14 J16 O15 L12 K12 K11 J12 L11 S5 S4 S2 R2 S6 Q4 Q6 P2 O4 Q2 N5 S1 
+]
+)(;B[ro]
+;W[rp]
+;B[rr]
+;W[qr]
+;B[rn]
+;W[pp]
+;B[pn]
+;W[or]
+;B[np]
+;W[pr]
+;B[nq]C[
+
+-- chat --
+Welvang: it's alive tho
+]
+))(;W[kg]
+(;B[qr]
+;W[rr]
+;B[rs]C[
+
+-- chat --
+Welvang: perhaps this way ?. From move 0: R16 D4 P3 D16 P16 R4 R6 P4 O4 P5 Q3 R5 Q7 R3 O7 O6 M3 N7 O8 N4 N3 O5 N8 K3 M4 O3 O2 K5 L5 K6 M7 K16 M16 R15 Q15 R14 S16 Q14 R12 Q12 R11 P15 Q16 N13 K15 J15 K14 J16 O15 L12 K12 L13 R2 S2 S1 
+Welvang: seems difficult to do much for now anyway
+]
+)(;B[if]
+;W[ji]
+;B[ii]
+;W[jg]C[
+
+-- chat --
+Zaphodian: Yes, but it means that B is slightly stronger on the right side and an invasion at R8 is probably off the tabel
+]
+;B[ig]
+;W[ih]
+;B[hh]
+;W[ij]
+;B[hi]
+;W[jl]
+;B[fd]
+;W[fe]
+;B[ge]
+;W[gd]
+;B[ee]C[
+
+-- chat --
+to1al: do  kolika se tak bude hrát?
+]
+;W[fc]C[
+
+-- chat --
+EGF2: tipuji do osmi
+]
+;B[ff]
+;W[ec]C[
+
+-- chat --
+OndraKruml: Seems painful for w :(. From move 0: R16 D4 P3 D16 P16 R4 R6 P4 O4 P5 Q3 R5 Q7 R3 O7 O6 M3 N7 O8 N4 N3 O5 N8 K3 M4 O3 O2 K5 L5 K6 M7 K16 M16 R15 Q15 R14 S16 Q14 R12 Q12 R11 P15 Q16 N13 K15 J15 K14 J16 O15 L12 K12 L13 J14 K11 J11 K13 J13 J12 H12 J10 H11 K8 F16 F15 G15 G16 E15 F17 F14 E17 
+OndraKruml: Omg, meant to type here
+OndraKruml: They could add a check like, u sure u wanna post an empty variation? 
+to1al: of course I do!
+]
+;B[cn]
+;W[dn]
+;B[dm]
+;W[en]
+;B[cq]
+;W[bo]
+;B[br]
+;W[bp]C[
+
+-- chat --
+OndraKruml: Is f2 directly possible or too afraid?
+OndraKruml: Seems ok no?
+]
+(;B[fq]
+;W[fr]C[
+
+-- chat --
+Zaphodian: F3, F2. From move 0: R16 D4 P3 D16 P16 R4 R6 P4 O4 P5 Q3 R5 Q7 R3 O7 O6 M3 N7 O8 N4 N3 O5 N8 K3 M4 O3 O2 K5 L5 K6 M7 K16 M16 R15 Q15 R14 S16 Q14 R12 Q12 R11 P15 Q16 N13 K15 J15 K14 J16 O15 L12 K12 L13 J14 K11 J11 K13 J13 J12 H12 J10 H11 K8 F16 F15 G15 G16 E15 F17 F14 E17 C6 D6 D7 E6 C3 B5 B2 B4 F3 F2 
+]
+)(;B[fr]C[
+
+-- chat --
+Zaphodian: yes
+]
+(;W[fq]
+;B[er]
+;W[gq]
+;B[gr]
+;W[hq]C[
+
+-- chat --
+Zaphodian: 4. From move 0: R16 D4 P3 D16 P16 R4 R6 P4 O4 P5 Q3 R5 Q7 R3 O7 O6 M3 N7 O8 N4 N3 O5 N8 K3 M4 O3 O2 K5 L5 K6 M7 K16 M16 R15 Q15 R14 S16 Q14 R12 Q12 R11 P15 Q16 N13 K15 J15 K14 J16 O15 L12 K12 L13 J14 K11 J11 K13 J13 J12 H12 J10 H11 K8 F16 F15 G15 G16 E15 F17 F14 E17 C6 D6 D7 E6 C3 B5 B2 B4 F2 F3 E2 G3 G2 H3 
+]
+)(;W[gr]
+(;B[fq]C[
+
+-- chat --
+Zaphodian: probably impossible to kill
+]
+;W[dq]
+;B[dr]
+;W[eq]
+;B[er]
+;W[bq]
+;B[ar]
+;W[fs]
+;B[es]
+;W[cs]
+;B[cr]
+;W[bs]C[
+
+-- chat --
+Zaphodian: locally dead?. From move 0: R16 D4 P3 D16 P16 R4 R6 P4 O4 P5 Q3 R5 Q7 R3 O7 O6 M3 N7 O8 N4 N3 O5 N8 K3 M4 O3 O2 K5 L5 K6 M7 K16 M16 R15 Q15 R14 S16 Q14 R12 Q12 R11 P15 Q16 N13 K15 J15 K14 J16 O15 L12 K12 L13 J14 K11 J11 K13 J13 J12 H12 J10 H11 K8 F16 F15 G15 G16 E15 F17 F14 E17 C6 D6 D7 E6 C3 B5 B2 B4 F2 G2 F3 D3 D2 E3 E2 B3 A2 F1 E1 C1 C2 B1 
+]
+)(;B[gq]
+(;W[fq]
+;B[hr]
+;W[er]
+;B[gs]
+;W[eq]
+;B[jr]
+;W[iq]
+;B[ir]
+;W[dj]C[
+
+-- chat --
+Zaphodian: looks ok for W. From move 0: R16 D4 P3 D16 P16 R4 R6 P4 O4 P5 Q3 R5 Q7 R3 O7 O6 M3 N7 O8 N4 N3 O5 N8 K3 M4 O3 O2 K5 L5 K6 M7 K16 M16 R15 Q15 R14 S16 Q14 R12 Q12 R11 P15 Q16 N13 K15 J15 K14 J16 O15 L12 K12 L13 J14 K11 J11 K13 J13 J12 H12 J10 H11 K8 F16 F15 G15 G16 E15 F17 F14 E17 C6 D6 D7 E6 C3 B5 B2 B4 F2 G2 G3 F3 H2 E2 G1 E3 K2 J3 J2 D10 
+]
+)(;W[hr]
+;B[eq]
+;W[fp]
+(;B[fq]
+;W[dr]
+;B[dq]
+;W[ar]
+;B[ep]C[
+
+-- chat --
+Zaphodian: locally dead but. From move 0: R16 D4 P3 D16 P16 R4 R6 P4 O4 P5 Q3 R5 Q7 R3 O7 O6 M3 N7 O8 N4 N3 O5 N8 K3 M4 O3 O2 K5 L5 K6 M7 K16 M16 R15 Q15 R14 S16 Q14 R12 Q12 R11 P15 Q16 N13 K15 J15 K14 J16 O15 L12 K12 L13 J14 K11 J11 K13 J13 J12 H12 J10 H11 K8 F16 F15 G15 G16 E15 F17 F14 E17 C6 D6 D7 E6 C3 B5 B2 B4 F2 G2 G3 H2 E3 F4 F3 D2 D3 A2 E4 
+]
+;W[eo]
+;B[fo]
+;W[go]
+;B[fn]
+;W[em]
+;B[gp]
+;W[ho]
+;B[hn]C[
+
+-- chat --
+Zaphodian: impossible to kill. From move 0: R16 D4 P3 D16 P16 R4 R6 P4 O4 P5 Q3 R5 Q7 R3 O7 O6 M3 N7 O8 N4 N3 O5 N8 K3 M4 O3 O2 K5 L5 K6 M7 K16 M16 R15 Q15 R14 S16 Q14 R12 Q12 R11 P15 Q16 N13 K15 J15 K14 J16 O15 L12 K12 L13 J14 K11 J11 K13 J13 J12 H12 J10 H11 K8 F16 F15 G15 G16 E15 F17 F14 E17 C6 D6 D7 E6 C3 B5 B2 B4 F2 G2 G3 H2 E3 F4 F3 D2 D3 A2 E4 E5 F5 G5 F6 E7 G4 H5 H6 
+]
+)(;B[ep]C[
+
+-- chat --
+Zaphodian: resist?. From move 0: R16 D4 P3 D16 P16 R4 R6 P4 O4 P5 Q3 R5 Q7 R3 O7 O6 M3 N7 O8 N4 N3 O5 N8 K3 M4 O3 O2 K5 L5 K6 M7 K16 M16 R15 Q15 R14 S16 Q14 R12 Q12 R11 P15 Q16 N13 K15 J15 K14 J16 O15 L12 K12 L13 J14 K11 J11 K13 J13 J12 H12 J10 H11 K8 F16 F15 G15 G16 E15 F17 F14 E17 C6 D6 D7 E6 C3 B5 B2 B4 F2 G2 G3 H2 E3 F4 E4 
+]
+(;W[fq]
+;B[fo]
+;W[gp]
+;B[eo]
+;W[do]
+;B[er]
+;W[bq]
+;B[ar]
+;W[dq]
+;B[dr]
+;W[fs]
+;B[es]
+;W[cs]
+;B[cr]
+;W[bs]
+;B[hp]
+;W[go]
+;B[fn]C[
+
+-- chat --
+Zaphodian: not killable. From move 0: R16 D4 P3 D16 P16 R4 R6 P4 O4 P5 Q3 R5 Q7 R3 O7 O6 M3 N7 O8 N4 N3 O5 N8 K3 M4 O3 O2 K5 L5 K6 M7 K16 M16 R15 Q15 R14 S16 Q14 R12 Q12 R11 P15 Q16 N13 K15 J15 K14 J16 O15 L12 K12 L13 J14 K11 J11 K13 J13 J12 H12 J10 H11 K8 F16 F15 G15 G16 E15 F17 F14 E17 C6 D6 D7 E6 C3 B5 B2 B4 F2 G2 G3 H2 E3 F4 E4 F3 F5 G4 E5 D5 E2 B3 A2 D3 D2 F1 E1 C1 C2 B1 H4 G5 F6 
+]
+)(;W[do]
+;B[fo]
+;W[gp]
+;B[eo]
+;W[dr]
+;B[dq]
+;W[ar]
+;B[hp]
+;W[go]
+;B[fn]C[
+
+-- chat --
+Zaphodian: similar. From move 0: R16 D4 P3 D16 P16 R4 R6 P4 O4 P5 Q3 R5 Q7 R3 O7 O6 M3 N7 O8 N4 N3 O5 N8 K3 M4 O3 O2 K5 L5 K6 M7 K16 M16 R15 Q15 R14 S16 Q14 R12 Q12 R11 P15 Q16 N13 K15 J15 K14 J16 O15 L12 K12 L13 J14 K11 J11 K13 J13 J12 H12 J10 H11 K8 F16 F15 G15 G16 E15 F17 F14 E17 C6 D6 D7 E6 C3 B5 B2 B4 F2 G2 G3 H2 E3 F4 E4 D5 F5 G4 E5 D2 D3 A2 H4 G5 F6 
+]
+)(;W[eo]C[
+
+-- chat --
+EGF2: Time: black 4 minutes, white 17 min.
+]
+;B[bq]
+;W[dk]
+;B[fq]
+;W[cf]
+;B[em]
+;W[fm]
+;B[cl]
+;W[do]
+;B[ek]
+;W[ej]
+;B[fl]
+;W[ck]
+;B[gm]
+;W[fn]
+;B[el]
+;W[gl]
+;B[fj]
+;W[ei]
+;B[hl]
+;W[gk]
+;B[hk]C[
+
+-- chat --
+OndraKruml: :/ think its captured
+]
+;W[gn]
+;B[hm]
+;W[dh]
+;B[jk]
+;W[kk]
+;B[ik]
+;W[jj]
+;B[hj]
+;W[hp]
+;B[hq]
+;W[iq]
+;B[gp]
+;W[ho]
+;B[kl]
+;W[pi]
+;B[gs]
+;W[is]
+;B[kr]
+;W[jr]
+;B[qj]
+;W[mj]
+(;B[ro]
+;W[rp]
+;B[ni]
+;W[nh]
+;B[pr]
+;W[rn]
+;B[rm]
+;W[so]
+;B[pp]
+;W[po]
+;B[rr]
+;W[qr]
+;B[qs]
+;W[sq]
+;B[nj]
+;W[mi]
+;B[hn]
+;W[go]
+;B[jp]
+;W[ip]
+;B[kp]
+;W[bm]
+;B[bl]
+;W[bn]
+;B[cm]
+;W[bk]
+;B[al]
+;W[ap]
+;B[fs]
+;W[hs]
+;B[js]
+;W[ks]
+;B[ls]
+;W[rq]
+;B[js]
+;W[dq]
+;B[dr]
+;W[ks]
+;B[hd]
+;W[gc]
+;B[js]C[
+
+-- chat --
+EGF2: Black won by resignation.
+tvojemama: :-(
+Volker_S_Halstenbek: strong
+Volker_S_Halstenbek: thx for relaying
+Zaphodian: great game for Nikola
+tvojemama: thx for streamin!
+]
+)(;B[bk]
+;W[bj]
+;B[hn]
+;W[go]
+;B[jp]
+;W[ip]
+;B[kp]C[
+
+-- chat --
+serban_mihai: can black kill like this?. From move 0: R16 D4 P3 D16 P16 R4 R6 P4 O4 P5 Q3 R5 Q7 R3 O7 O6 M3 N7 O8 N4 N3 O5 N8 K3 M4 O3 O2 K5 L5 K6 M7 K16 M16 R15 Q15 R14 S16 Q14 R12 Q12 R11 P15 Q16 N13 K15 J15 K14 J16 O15 L12 K12 L13 J14 K11 J11 K13 J13 J12 H12 J10 H11 K8 F16 F15 G15 G16 E15 F17 F14 E17 C6 D6 D7 E6 C3 B5 B2 B4 F2 G2 G3 H2 E3 F4 E4 E5 B3 D9 F3 C14 E7 F7 C8 D5 E9 E10 F8 C9 G7 F6 E8 G8 F10 E11 H8 G9 H9 G6 H7 D12 K9 L9 J9 K10 H10 H4 H3 J3 G4 H5 L8 Q11 G1 J1 L2 K2 R10 N10 B9 B10 H6 G5 K4 J4 L4 
+]
+))))))))))
