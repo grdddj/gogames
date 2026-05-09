@@ -1,0 +1,421 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[2025-12-05_CZ-Baron-2025_G1_Podpera-Kruml]
+PC[https://online-go.com/review/1586488]
+PB[Lukas Podpera]
+PW[Ondrej Kruml]
+BR[7d]
+WR[6d]
+OT[Error: time control missing]
+RE[?]
+SZ[19]
+KM[7.5]
+RU[AGA]
+C[
+
+-- chat --
+CZBaron1: Welcome. The first game of Go Baron Finals
+]
+;B[pd]
+;W[dp]
+;B[qp]
+;W[dd]
+;B[op]
+;W[pp]C[
+
+-- chat --
+Decros: Wa??? :O
+Laman: it has begun
+CZBaron1: Ondrej came with a surprise
+]
+;B[pq]
+;W[po]
+;B[qo]
+;W[qn]C[
+
+-- chat --
+Decros: What are the time settings?
+]
+;B[nq]
+;W[rn]C[
+
+-- chat --
+Trevoke: This can't possibly be good for W
+fox player: AI says white is already better
+fox player: what is this sorcery?
+CZBaron1: Time is Fischer 60 min + 30 sec
+Trevoke: how so "better" ?
+CZBaron1: The game can be up to 5 hours long
+fox player: apparently black should have played Q5 instead of Q3
+]
+;B[rp]C[
+
+-- chat --
+Palko: Much wow
+]
+;W[qf]C[
+
+-- chat --
+fox player: but I don't claim to understand why, for the record
+Welvang: s4 ?
+CZBaron1: Scurge came prepared and has already adv.
+]
+;B[pj]C[
+
+-- chat --
+SImasakrzzzzz: seeing first
+Trevoke: this game is going to be one big fight isnt it
+]
+;W[nd]C[
+
+-- chat --
+Fredda91: Will Scurge be a donkey or a Czech stallion
+]
+;B[ne]
+;W[oe]
+;B[od]
+;W[of]C[
+
+-- chat --
+Welvang: that early game is clearly battle stallion
+]
+;B[nc]C[
+
+-- chat --
+Decros: AlphaGo joseki?
+]
+;W[md]
+;B[mc]
+;W[ld]
+;B[lc]
+;W[kd]C[
+
+-- chat --
+Trevoke: probably; according to my model, game's basically dead even
+Trevoke: I suppose this is what a simplified taisha looks like :p
+]
+;B[qe]C[
+
+-- chat --
+Sadaharu: What happened on the bottom right?
+Trevoke: I suppose Ondrej didn't something odd and Lukan chose territory, is probably the answer
+Trevoke: *did, not didn't
+]
+;W[rf]
+;B[kc]
+;W[jd]
+;B[om]
+;W[fq]
+;B[ic]
+;W[ql]C[
+
+-- chat --
+CZBaron1: Didnt was proper. I like W, AI likes white
+Trevoke: katago model I'm using thinks game is dead even 
+]
+;B[ok]
+;W[rj]
+;B[cf]
+;W[oo]
+;B[no]
+;W[nn]
+;B[on]
+;W[pn]
+;B[mo]C[
+
+-- chat --
+SImasakrzzzzz: zeit?
+CZBaron1: Both have 37 min
+]
+;W[mn]
+;B[ln]
+;W[mm]C[
+
+-- chat --
+SImasakrzzzzz: et = win no?
+Nogravity: empty triangle seems like not an instant win today :)
+Trevoke: it's a fighting move
+]
+;B[lm]
+;W[ml]
+;B[lk]
+;W[mk]
+;B[mj]C[
+
+-- chat --
+CZBaron1: Both 30 min, they play slowly
+CZBaron1: Later fighting will be blitz
+kachynaondrej: I dont think this geta work
+]
+;W[nj]C[
+
+-- chat --
+CZBaron1: sacrifice for a wall
+]
+;B[ll]
+;W[nk]
+;B[ni]
+;W[oi]
+;B[nh]
+;W[oj]
+;B[oh]
+;W[lj]
+;B[mi]
+;W[kj]
+;B[nf]
+;W[lo]
+;B[lq]
+;W[pf]C[
+
+-- chat --
+qweraszcdfgtyu: 1. From move 0: Q16 D4 R4 D16 P4 Q4 Q3 Q5 R5 R6 O3 S6 S4 R14 Q10 O16 O15 P15 P16 P14 O17 N16 N17 M16 M17 L16 R15 S14 L17 K16 P7 F3 J17 R8 P9 S10 C14 P5 O5 O6 P6 Q6 N5 N6 M6 N7 M7 N8 M9 N9 N10 O10 M8 O9 O11 P11 O12 P10 P12 M10 N11 L10 O14 M5 M3 Q14 
+Trevoke: oof that was the first mistakeof the game
+Trevoke: game's still within 6-ish points so probably still even for humans though
+CZBaron1: Lukan 15 min, Ondrej 23 min
+]
+;B[qh]C[
+
+-- chat --
+Trevoke: followed by the second mistake of the game, and we're back to katago-level evenness
+]
+;W[ol]
+;B[re]C[
+
+-- chat --
+Nogravity: we stopped on 69 for some time, nice
+nuborn: I think B forgot to exchange Q11 before S15
+]
+;W[ph]
+;B[kh]
+;W[ng]
+;B[mg]
+;W[og]
+;B[lf]
+(;W[lh]
+(;B[lg]
+(;W[li]
+;B[mh]
+(;W[id]C[
+
+-- chat --
+Nogravity: this move fells like it should have been played earlier
+]
+;B[jg]
+;W[ij]
+;B[pi]
+;W[sg]C[
+
+-- chat --
+CZBaron1: Lukan 10, Ondrej 7 min
+]
+;B[hg]
+;W[ko]
+;B[hc]
+;W[df]
+;B[dg]
+;W[eg]
+;B[ge]
+;W[dh]
+;B[cg]
+;W[ch]
+;B[de]
+;W[ee]
+;B[ef]
+;W[ff]
+;B[fe]
+;W[df]
+;B[pk]
+;W[pm]
+;B[ef]C[
+
+-- chat --
+kachynaondrej: I dont see white finding a threat
+Decros: L14
+]
+;W[kf]
+;B[kg]
+;W[df]
+;B[pl]
+;W[nm]
+;B[ef]
+;W[ed]
+;B[df]
+;W[fg]C[
+
+-- chat --
+JanSimara: d14? :D
+JanSimara: criminal
+JanSimara: whats their time?
+]
+;B[cd]
+;W[cc]C[
+
+-- chat --
+Trevoke: Who doesn't love a good dumpling though
+]
+;B[bd]
+;W[hf]
+;B[gf]
+;W[gg]
+;B[fc]
+;W[mf]
+;B[me]
+;W[le]
+;B[mf]
+;W[ig]
+;B[hh]
+;W[pg]
+;B[if]
+;W[gi]
+;B[bc]
+;W[kq]
+;B[kr]
+;W[jr]C[
+
+-- chat --
+CZBaron1: both 2-4 min
+]
+;B[jk]
+;W[jj]
+;B[kp]
+;W[mp]
+;B[jq]
+;W[np]
+;B[oq]
+;W[ip]
+;B[cp]
+;W[co]
+;B[dq]
+;W[hi]
+;B[ih]
+;W[ep]
+;B[bq]
+;W[bo]
+;B[er]
+;W[fr]
+;B[cr]
+;W[bh]
+;B[iq]
+;W[hq]
+;B[jp]
+;W[jo]
+;B[hp]
+;W[io]
+;B[hr]C[
+
+-- chat --
+SImasakrzzzzz: close? :D
+]
+;W[gq]
+;B[gh]
+;W[fh]C[
+
+-- chat --
+pmolol782: B13 last big move, yose seems nice for black
+]
+;B[bg]
+;W[se]
+;B[sd]
+;W[sf]C[
+
+-- chat --
+yahel.or.3: When is the next game tomorrow?
+]
+;B[fi]
+;W[eh]
+;B[ah]
+;W[ai]
+;B[ag]
+;W[bi]C[
+
+-- chat --
+Nogravity: website says 9:30am GMT+1
+]
+;B[rd]
+;W[bp]
+;B[cq]
+;W[mq]
+;B[mr]
+;W[so]
+;B[sp]
+;W[eq]
+;B[es]
+;W[fs]
+;B[ar]
+;W[hs]
+;B[is]
+;W[gr]
+;B[ir]
+;W[ji]C[
+
+-- chat --
+yahel.or.3: Ty 
+]
+;B[he]
+;W[ro]
+;B[ap]
+;W[ao]
+;B[ii]
+;W[hj]
+;B[jh]
+;W[lp]
+;B[pe]
+;W[ki]
+;B[aq]
+;W[gs]C[
+
+-- chat --
+Nogravity: very good game, thank you for scribing, ggs Lukan (for now)
+CZBaron1: B +1.5
+]
+;B[jm]C[
+
+-- chat --
+NONoui04: vous êtes trop forts!! je regarde votre partiedepuis longtemps et moi je ne pourrais pas jouer comme ça!
+]
+)(;W[mf]
+(;B[me]
+;W[le]
+;B[mf]
+;W[jg]
+)(;B[jg]
+;W[le]
+(;B[jj]
+)(;B[jk]
+))))(;W[mf]
+(;B[me]
+;W[le]
+;B[mf]
+;W[li]
+;B[mh]
+;W[jg]
+)(;B[ih]
+;W[le]
+)(;B[li]
+;W[le]C[
+
+-- chat --
+SImasakrzzzzz: gg
+]
+)))(;B[mh]C[
+
+-- chat --
+Decros: gg
+]
+))(;W[mf]
+;B[me]
+;W[le]
+;B[mf]
+;W[lh]
+(;B[li]
+;W[ki]
+;B[mh]
+;W[kf]
+)(;B[mh]
+(;W[kf]
+;B[kg]
+)(;W[kg]
+;B[kf]
+;W[jf]
+))))

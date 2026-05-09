@@ -27,3 +27,5 @@ https://online-go.com/player/1459103/CAGo1
 https://online-go.com/player/1459104/CAGo2
 https://online-go.com/player/1459105/CAGo3
 https://online-go.com/player/1459107/CAGo4
+
+https://online-go.com/player/687324/

@@ -41,8 +41,19 @@ def synthetic_id(move_hash: str) -> int:
     return -int(move_hash[:7], 16)
 
 
+def read_sgf(path: Path) -> str:
+    """Read an SGF, falling back through encodings (some old SGFs are Latin-1)."""
+    data = path.read_bytes()
+    for enc in ("utf-8", "cp1252", "latin-1"):
+        try:
+            return data.decode(enc)
+        except UnicodeDecodeError:
+            continue
+    return data.decode("utf-8", errors="replace")
+
+
 def parse_full_tags(path: Path) -> dict:
-    raw = path.read_text(errors="replace")
+    raw = read_sgf(path)
     head = raw[:4000]
     tags: dict[str, str] = {}
     for k, v in TAG_RE.findall(head):
