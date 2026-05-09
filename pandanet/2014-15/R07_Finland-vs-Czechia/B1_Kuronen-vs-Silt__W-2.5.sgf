@@ -1,0 +1,631 @@
+(;
+GM[1]EV[Internet Go Server game: manocska vs Namii]
+US[Brought to you by IGS PANDANET]
+CoPyright[
+  Copyright (c) PANDANET Inc. 2015
+  Permission to reproduce this game is given, provided proper credit is given.
+  No warrantee, implied or explicit, is understood.
+  Use of this game is an understanding and agreement of this notice.
+]
+GN[manocska-Namii(B) IGS]RE[W+2.5]
+PW[manocska]WR[8d ]NW[36]
+PB[Namii]BR[5d?]NB[33]
+PC[IGS:  igs.joyjoy.net 6969]DT[2015-03-25]
+SZ[19]TM[3600]KM[6.500000]LT[]
+RR[Normal]
+C[
+ manocska 8d : hey dude
+ manocska 8d : does it work?
+ Namii 5d?: 88 I'm trying to correct komi
+ Namii 5d?: 88 do you get any notification?
+]
+;B[qd]BL[3504]C[
+ manocska 8d : nope, but i play on ipad, so i feel hopeless
+ manocska 8d : Hi!
+]
+;W[dc]WL[3553]C[
+ Namii 5d?: 88 ah, IGS on iPad, I think we are not there yet =)
+]
+;B[dq]BL[3472]C[
+ Namii 5d?: 88 but ok, let's play
+ manocska 8d : so how is komi? we proceed?
+ Namii 5d?: 88 they correct in the end I think
+ Namii 5d?: 88 it was wrong for my previous game too
+]
+;W[co]WL[3522]
+;B[pp]BL[3437]
+;W[oc]WL[3507]
+;B[de]BL[3412]C[
+ LeT 2d+: like ancient game record
+]
+;W[dh]WL[3439]
+;B[gd]BL[3177]
+;W[fe]WL[3387]
+;B[ed]BL[3156]
+;W[fd]WL[3383]
+;B[ec]BL[3155]
+;W[fc]WL[3380]
+;B[fb]BL[3154]
+;W[db]WL[3377]
+;B[eb]BL[3152]
+;W[gc]WL[3374]
+;B[cc]BL[3149]
+;W[df]WL[3369]
+;B[cf]BL[3146]
+;W[ce]WL[3366]
+;B[cd]BL[3121]
+;W[ee]WL[3283]
+;B[dd]BL[3112]
+;W[cg]WL[3279]
+;B[be]BL[3109]
+;W[ep]WL[3257]
+;B[eq]BL[3084]
+;W[gp]WL[3147]
+;B[fp]BL[3074]
+;W[fo]WL[3144]
+;B[fq]BL[3072]
+;W[go]WL[3142]
+;B[cp]BL[3057]
+;W[bo]WL[3139]
+;B[hq]BL[3054]
+;W[pf]WL[3102]
+;B[od]BL[2864]
+;W[pd]WL[3096]
+;B[pe]BL[2862]
+;W[pc]WL[3093]
+;B[oe]BL[2747]
+;W[qe]WL[3087]
+;B[qf]BL[2746]
+;W[re]WL[3084]
+;B[qg]BL[2744]
+;W[rd]WL[2988]
+;B[og]BL[2743]
+;W[nd]WL[2977]
+;B[ne]BL[2740]
+;W[me]WL[2973]
+;B[mf]BL[2680]
+;W[le]WL[2940]
+;B[lg]BL[2587]
+;W[qn]WL[2862]
+;B[ql]BL[2581]
+;W[np]WL[2729]
+;B[pn]BL[2521]
+;W[pm]WL[2599]
+;B[on]BL[2493]
+;W[qm]WL[2395]
+;B[qo]BL[2491]
+;W[qk]WL[2391]
+;B[qc]BL[2361]
+;W[qb]WL[2274]
+;B[md]BL[2359]
+;W[nc]WL[2269]
+;B[ke]BL[2358]
+;W[kf]WL[2197]
+;B[lf]BL[2339]
+;W[ld]WL[2193]
+;B[en]BL[2092]
+;W[eo]WL[2115]
+;B[kd]BL[2074]
+;W[lc]WL[2111]
+;B[jf]BL[2074]
+;W[qq]WL[2094]
+;B[rn]BL[2035]
+;W[rm]WL[2018]C[
+ BovDo 4d?: game looks so good for w
+]
+;B[rp]BL[1672]
+;W[or]WL[1999]
+;B[pq]BL[1153]
+;W[pr]WL[1972]
+;B[rr]BL[1151]
+;W[jq]WL[1944]
+;B[pl]BL[895]
+;W[ph]WL[1847]
+;B[pg]BL[831]
+;W[rl]WL[1842]
+;B[om]BL[821]
+;W[ol]WL[1832]
+;B[pk]BL[814]
+;W[pj]WL[1829]
+;B[ok]BL[813]
+;W[rj]WL[1826]
+;B[qi]BL[629]
+;W[qh]WL[1776]
+;B[pi]BL[626]
+;W[ri]WL[1514]
+;B[rh]BL[515]
+;W[nk]WL[1499]
+;B[oj]BL[501]
+;W[oi]WL[1487]
+;B[nj]BL[491]
+;W[oh]WL[1411]
+;B[ci]BL[414]
+;W[di]WL[1339]
+;B[bg]BL[409]
+;W[cj]WL[1331]
+;B[lq]BL[396]
+;W[lp]WL[1261]
+;B[mq]BL[394]
+;W[mp]WL[1221]
+;B[kq]BL[392]
+;W[jp]WL[1169]
+;B[jr]BL[386]
+;W[ir]WL[1166]
+;B[ks]BL[386]
+;W[gq]WL[1147]
+;B[hr]BL[368]
+;W[gr]WL[1137]
+;B[kp]BL[362]
+;W[ko]WL[1121]
+;B[jo]BL[361]
+;W[kn]WL[893]
+;B[io]BL[344]
+;W[nq]WL[878]
+;B[bp]BL[324]
+;W[nl]WL[820]
+;B[mm]BL[305]C[
+ pempu 4d?: Is the kibitz this active?
+]
+;W[ll]WL[756]C[
+ Oni 12k?: try ogs : )
+ pempu 4d?: I'm trying to figure out what happens in lower left corner
+ pempu 4d?: and if G1 is sente
+]
+;B[lm]BL[254]C[
+ pempu 4d?: but thus fight looks promising for black
+]
+;W[mi]WL[673]C[
+ Oni 12k?: SivartKceBael \12k\: push at f2 then an eye around c2 or b2
+]
+;B[lo]BL[208]C[
+ pempu 4d?: M5 cut has no fighting spirit :(
+]
+;W[mr]WL[590]
+;B[lr]BL[196]C[
+ pempu 4d?: this corner sequence is very nice.
+]
+;W[qr]WL[529]
+;B[ml]BL[68]C[
+ pempu 4d?: seems white is dead at P2
+]
+;W[rq]WL[414]
+;B[sq]BL[66]C[
+ pempu 4d?: hmm so P2 stones were larger than P10 stones. Weird
+]
+;W[ms]WL[186]
+;B[ls]BL[62]C[
+ pempu 4d?: ooh there is a ko in the corner. Nice
+ pempu 4d?: or hmm not.
+]
+;W[sn]WL[48]
+;B[ro]BL[54]
+;W[in]WL[573]C[
+ pempu 4d?: what on earth is J6
+]
+;B[ln]BL[570]C[
+ pempu 4d?: or M6
+ pempu 4d?: ok so the  M6 push would have connected to  O8
+ pempu 4d?: bottom right corner is 38 points for black but black needs to make life first.
+ pempu 4d?: bottom side 8 points for black. and I guess bottom left is 2-3 point life
+]
+;W[jn]WL[350]
+;B[mj]BL[542]C[
+ pempu 4d?: uuh this is not sente...
+ pempu 4d?: yes!
+ Juippi 2d?: nice...
+ pempu 4d?: K�nnisensei!
+]
+;W[ip]WL[295]
+;B[iq]BL[539]
+;W[hp]WL[283]
+;B[is]BL[538]C[
+ pempu 4d?: oh right. Now G1 is absolutely sente
+ pempu 4d?: anf F1 even too
+]
+;W[sr]WL[261]
+;B[ss]BL[537]C[
+ kivanc 5d?: no
+ Palomies 3d+: bottom right just dead no?
+ pupukani 3d : yeah
+ pempu 4d?: oh lol sorry. Thanks kivnc for correcting :)
+ pupukani 3d : theres still some ränkläys in bottom left
+]
+;W[lj]WL[228]C[
+ Palomies 3d+: yeah, but i bet manocska is just desperate
+ pempu 4d?: I didn't see K1 eye
+]
+;B[mk]BL[534]C[
+ Palomies 3d+: go Namii, finish the job
+]
+;W[mh]WL[187]
+;B[mg]BL[515]C[
+ pupukani 3d : :D
+]
+;W[kh]WL[165]C[
+ Palomies 3d+: top left huge as well, really hard to see how w gets enough points
+]
+;B[kg]BL[505]
+;W[jh]WL[162]C[
+ Ootakamoku 2d?: the way the game is going namii probably ends up capturing topright corner
+ Palomies 3d+: w´s plan is to take a huge center
+]
+;B[ig]BL[458]
+;W[kl]WL[124]
+;B[km]BL[426]
+;W[jm]WL[117]
+;B[no]BL[376]
+;W[ih]WL[105]
+;B[hg]BL[368]
+;W[hh]WL[91]
+;B[gg]BL[363]C[
+ pempu 4d?: That center is insane too
+ Palomies 3d+: nah
+]
+;W[jb]WL[61]
+;B[ef]BL[311]
+;W[ds]WL[57]C[
+ pempu 4d?: aah white is in time trouble
+ scurge10 4d?: he is always in time trouble
+ scurge10 4d?: could someone tell me how Jan Hora played?
+ pempu 4d?: He won
+ scurge10 4d?: oh nice
+ scurge10 4d?: beggining looked horrible :D
+ ivoszz 11k : by resignation
+]
+;B[es]BL[238]
+;W[er]WL[53]
+;B[cs]BL[237]
+;W[fs]WL[46]
+;B[cr]BL[236]
+;W[hs]WL[43]
+;B[gs]BL[234]
+;W[qs]WL[34]
+;B[sp]BL[226]
+;W[hs]WL[32]C[
+ pempu 4d?: T4 so proper
+]
+;B[ir]BL[224]
+;W[bq]WL[27]C[
+ Palomies 3d+: end of that game (prodi vs JH) seems hard to understand..
+ Ootakamoku 2d?: looks like b can play f11
+]
+;B[ar]BL[195]
+;W[ap]WL[24]C[
+ pempu 4d?: now this corner looks like dead
+]
+;B[aq]BL[193]
+;W[br]WL[11]
+;B[ao]BL[191]C[
+ Ootakamoku 2d?: b2 looks like overplay
+]
+;W[bs]WL[6]C[
+ pempu 4d?: this is fun :)
+ prodi 5d?: i forgot that the two stones were cutting stones
+ prodi 5d?: nothing mysterious about it
+ scurge10 4d?: argh
+ scurge10 4d?: looks bad for w
+]
+;B[dp]BL[167]C[
+ Palomies 3d+: ok prodi :-)
+]
+;W[an]WL[2]C[
+ pempu 4d?: oh seki... I'm so blind
+]
+;B[do]BL[160]C[
+ scurge10 4d?: haha getting more and more random :D
+ BovDo 4d?: why w did this?
+ Ootakamoku 2d?: looks like its game over
+ Ootakamoku 2d?: d6 d7 sequence is fun
+]
+;W[cm]WL[424]C[
+ BovDo 4d?: w had such a won game
+]
+;B[fr]BL[582]
+;W[dn]WL[412]C[
+ Ootakamoku 2d?: why did b play f2?
+ pempu 4d?: B6 A4 A7 fun
+ scurge10 4d?: oh w managed to stabilise the situation :)
+]
+;B[dr]BL[545]C[
+ Ootakamoku 2d?: b playing like he has won the game
+ Ootakamoku 2d?: no fighting spirit
+]
+;W[ff]WL[366]
+;B[dg]BL[539]C[
+ pempu 4d?: white aiming at  J15
+]
+;W[fg]WL[349]
+;B[kc]BL[535]
+;W[kb]WL[345]
+;B[lb]BL[534]
+;W[mc]WL[342]
+;B[gh]BL[490]
+;W[ie]WL[330]
+;B[id]BL[489]
+;W[he]WL[322]
+;B[ib]BL[460]
+;W[jg]WL[241]C[
+ pupukani 3d : hyvä baldur!
+ pempu 4d?: This is it.
+]
+;B[jc]BL[352]
+;W[if]WL[236]
+;B[ch]BL[349]C[
+ pupukani 3d : lag?
+]
+;W[je]WL[203]C[
+ Ootakamoku 2d?: namii better not lose this after playing move like f2
+]
+;B[hd]BL[307]
+;W[kf]WL[191]C[
+ pempu 4d?: what is this...
+]
+;B[lh]BL[267]C[
+ scurge10 4d?: mano fighting ~~
+ Ootakamoku 2d?: bad threat
+]
+;W[li]WL[165]
+;B[jf]BL[266]C[
+ scurge10 4d?: worked
+ Ootakamoku 2d?: bad because it gives w more threats
+ pempu 4d?: it was a threath
+]
+;W[ge]WL[153]
+;B[kf]BL[261]
+;W[eh]WL[131]C[
+ pempu 4d?: Hmm white just ended the ko. Seems he is winning
+]
+;B[bj]BL[250]
+;W[mb]WL[120]
+;B[gb]BL[246]
+;W[hc]WL[115]
+;B[ic]BL[245]
+;W[hb]WL[112]
+;B[ha]BL[241]
+;W[ck]WL[103]
+;B[bk]BL[169]C[
+ Ootakamoku 2d?: a7 would make one silly ko
+ Ootakamoku 2d?: not anymore..
+ krikri 3k?: hmm wrong komi settings
+ pempu 4d?: I counted 95 for black
+]
+;W[ap]WL[74]
+;B[es]BL[166]
+;W[bl]WL[67]
+;B[dj]BL[142]C[
+ Palomies 3d+: 95 such a huge number
+ pempu 4d?: 80 for white
+]
+;W[eg]WL[30]C[
+ pempu 4d?: oh wait I forgot to count some
+]
+;B[dk]BL[135]
+;W[cl]WL[24]
+;B[lk]BL[132]
+;W[kk]WL[21]
+;B[fj]BL[129]C[
+ Ootakamoku 2d?: lol
+ pupukani 3d : time for some attack bird
+]
+;W[fi]WL[5]C[
+ prodi 5d?: what on earth is going on
+ pempu 4d?: very nice!
+ Skeletor 2d?: looks like a humidori
+ Ootakamoku 2d?: b needs g1 first
+]
+;B[dm]BL[66]
+;W[cn]WL[596]C[
+ pempu 4d?: :( I think white wins
+ pempu 4d?: unless this center "thing" works
+]
+;B[em]BL[534]C[
+ pempu 4d?: looks promising
+]
+;W[dl]WL[555]
+;B[el]BL[530]C[
+ Palomies 3d+: w can´t cut
+]
+;W[gj]WL[532]C[
+ scurge10 4d?: but he can hane
+ pempu 4d?: So this is 5 points atleast
+ pempu 4d?: nice
+ scurge10 4d?: vrrr
+ Ootakamoku 2d?: b should have lpayed g9 before e8?
+ Ootakamoku 2d?: g9 before e7
+]
+;B[ek]BL[425]C[
+ pupukani 3d : maybe white could answer at g10?
+]
+;W[fk]WL[503]
+;B[rf]BL[417]
+;W[sh]WL[447]
+;B[se]BL[391]
+;W[rc]WL[437]C[
+ pempu 4d?: White has 97 with my counting
+]
+;B[rg]BL[205]C[
+ pempu 4d?: I get 95 for black too
+ Palomies 3d+: i refuse to count but imo black winning
+]
+;W[gs]WL[401]
+;B[ao]BL[197]C[
+ pempu 4d?: Counting is ok when you don't have to think about moves :) counting on own games is not fun :/
+]
+;W[al]WL[388]
+;B[bm]BL[194]C[
+ betterlife 3d?: half point?
+ pempu 4d?: Could be
+ Palomies 3d+: this games feels like own game
+ Palomies 3d+: my guess is b+1,5
+]
+;W[ej]WL[300]
+;B[nh]BL[176]C[
+ pempu 4d?: O12 is weird
+]
+;W[ni]WL[280]
+;B[ng]BL[175]
+;W[bi]WL[241]
+;B[bh]BL[170]C[
+ Oni 12k?: KoBa \8k\: maybe timesuji?
+]
+;W[ap]WL[176]
+;B[ja]BL[168]
+;W[la]WL[173]
+;B[ao]BL[166]
+;W[of]WL[165]
+;B[nf]BL[165]
+;W[ap]WL[161]
+;B[jl]BL[159]
+;W[kj]WL[149]
+;B[ao]BL[158]
+;W[ka]WL[144]C[
+ scurge10 4d?: my guess is w+1.5
+]
+;B[ia]BL[156]
+;W[ap]WL[141]
+;B[ma]BL[117]
+;W[na]WL[134]
+;B[ao]BL[117]
+;W[df]WL[127]
+;B[ai]BL[114]
+;W[fl]WL[112]
+;B[ak]BL[112]
+;W[ap]WL[100]
+;B[hn]BL[96]
+;W[ho]WL[91]
+;B[ao]BL[95]
+;W[fm]WL[87]
+;B[sd]BL[74]
+;W[sc]WL[72]
+;B[sf]BL[72]
+;W[cg]WL[574]C[
+ scurge10 4d?: I really dont understand the bottom left corner
+ Palomies 3d+: why w didn´t take a4 now?
+ scurge10 4d?: I have no idea
+]
+;B[qj]BL[518]
+;W[pj]WL[565]
+;B[dg]BL[513]
+;W[ap]WL[559]
+;B[ef]BL[509]C[
+ Veedee 7d : W is winning.
+]
+;W[ao]WL[549]
+;B[cq]BL[507]C[
+ Veedee 7d : lucky
+]
+;W[df]WL[543]
+;B[sm]BL[499]
+;W[sl]WL[538]
+;B[ef]BL[497]
+;W[as]WL[535]
+;B[aq]BL[496]
+;W[df]WL[525]
+;B[si]BL[495]
+;W[sj]WL[523]
+;B[ef]BL[494]
+;W[ar]WL[517]
+;B[aq]BL[493]
+;W[df]WL[512]
+;B[rk]BL[487]
+;W[sk]WL[507]
+;B[ef]BL[486]
+;W[bq]WL[503]
+;B[br]BL[482]
+;W[df]WL[500]
+;B[cg]BL[458]
+;W[ef]WL[493]
+;B[so]BL[456]
+;W[sm]WL[491]
+;B[sg]BL[454]
+;W[si]WL[467]
+;B[jd]BL[453]
+;W[mo]WL[454]C[
+ scurge10 4d?: wtf
+ scurge10 4d?: :D
+ pupukani 3d : i was just looking at q5
+ krikri 3k?: ondra smokes :_D
+]
+;B[nm]BL[426]C[
+ scurge10 4d?: it was setne? :D
+ scurge10 4d?: or Nami is just nice?
+]
+;W[nl]WL[421]C[
+ scurge10 4d?: oh wait
+ Lasta 9k : ohhhhhhhh
+ Lasta 9k : nice
+]
+;B[os]BL[400]C[
+ krikri 3k?: i apologize
+ pupukani 3d : o7 -> p4 could work simpler dont know
+]
+;W[tt]WL[334]C[
+ pupukani 3d : no that would have been bad
+]
+;B[tt]BL[397]C[
+ manocska 8d : and now there will be problem with the komi...
+ Lasta 9k : There's no way to, at least, make a seki?
+]
+;W[tt]WL[334]C[
+ Namii 5d?: 126 we just add 12 to u
+ Namii 5d?: Namii dead @ K8
+ Namii 5d?: Namii dead @ H6
+ Namii 5d?: Namii dead @ B7
+ Namii 5d?: Namii dead @ Q2
+ Namii 5d?: Namii dead @ N2
+ Namii 5d?: Namii dead @ O3
+ Namii 5d?: Namii dead @ D17
+ Namii 5d?: Namii dead @ G13
+ Namii 5d?: Namii dead @ O8
+ Namii 5d?: Namii dead @ E7
+ Namii done
+ Lasta 9k : I guess it is possible.
+ Seu 1k?: No
+];
+
+TW[am][bn][bm][dm][dk][dj][en][em][el][ek][ei][fn][fj][fh][gn][gm][gl][gk]
+[gi][gh][gg][gf][hn][hm][hl][hk][hj][hi][hg][hf][io][im][il][ik][ij][ii]
+[ig][jo][jl][jk][jj][ji][ki][lb][md][ma][nb][ob][oa][pi][pb][pa][qj][qi]
+[qd][qc][qa][rk][rb][ra][sb][sa]
+
+TB[as][ar][aj][ah][ag][af][ae][ad][ac][ab][aa][bs][bq][bi][bf][bd][bc][bb]
+[ba][ce][cb][ca][ds][dc][db][da][er][ea][fa][ga][js][kr][lp][ms][mr][mp]
+[mo][mn][ns][nr][nq][np][nn][nl][nk][or][oq][op][oo][ol][of][ps][pr][po]
+[pf][qs][qr][qq][qp][rs][rq][sr]
+
+OS[a1872][AkinfeevK][akio][alcea][AliJ93]
+[anduril][Anryx][AriSan][artem9212][as22]
+[AtWar][Avari][baldur][BAM0][Barnoe]
+[bartus][Beo][betterlife][BlueTiger][bok]
+[Bolibompa][BovDo][breakfast][Buty1954][ChWoHan]
+[CliffCheng][CRaTDdaO][CRdQpfhK][CRdZVhaY][CROOjIcu]
+[dai1468][DC9][deemendoz][Dika][domeni]
+[ekorn][Elbotcho][Elric][EricGate][erjc]
+[f2][Faidra][fatbook100][flash36][gain]
+[Gardan][Gatsu][general][Giau][gigago]
+[gotika][guta57][hami][Haruta][hegethus]
+[hgny][Hidoshito][Hirlader][hiro1231][hogweed]
+[im12270924][im17112556][im17870295][ivoszz][Jabberwock]
+[janejane][JanHora][JeffChang][Jim][jirka]
+[Jna][Jokoloko][Juippi][k123456][Kachnak]
+[kaly][Kiena][kivanc][krabicka][krikri]
+[KristianF2][krle23][kyzma84][lallibob][Laman]
+[Lasta][laurent84][lavi123][lazer][Lentilka]
+[LeT][Liso][lordik][LowHill][lzdchina]
+[m793527864][Macros15][madhatter][Malifaun][mapo]
+[MASAYAGI21][mayeck][mdcl][mi1003][mienai]
+[Ming][Mirop][mlv][MocLim][mot1tt1]
+[mrz1225][MSvreco][murapabo][mWalrus][MythTW]
+[Niaoniao][Nighthawk][nimrod2020][nomadic][Number41]
+[Oni][Ootakamoku][Ophinator][OPPE][Palko]
+[Palomies][pempu][peter848][Pig][procyon12]
+[prodi][puerhista][pupukani][puzant][racman]
+[RealtorSF][SanKingTim][Scoun][scurge10][Seu]
+[shinji01][Skeletor][songwei][ss13][sugi1996go]
+[szo][Taksimies][tech55][tennisgolf][TheRazor]
+[Tibx][toad][Topoi2][torakun][ts9336]
+[Tsoy][tyam][Vaga][vakvarju][Veedee]
+[vp9][weaker][WuWei][Xagu2011][YH71]
+[ykth][Yn1005][young4ever][Zebrfis8][zwu85]
+
+)

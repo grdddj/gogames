@@ -1,0 +1,465 @@
+(;
+GM[1]EV[Internet Go Server game: JanHora vs redrose]
+US[Brought to you by IGS PANDANET]
+CoPyright[
+  Copyright (c) PANDANET Inc. 2012
+  Permission to reproduce this game is given, provided proper credit is given.
+  No warrantee, implied or explicit, is understood.
+  Use of this game is an understanding and agreement of this notice.
+]
+GN[JanHora-redrose(B) IGS]RE[W+2.5]
+PW[JanHora]WR[6d?]NW[34]
+PB[redrose]BR[3p ]NB[43]
+PC[IGS:  igs.joyjoy.net 6969]DT[2012-10-10]
+SZ[19]TM[3600]KM[6.500000]LT[]
+RR[Normal]
+
+;B[pd]BL[3597]C[
+ redrose 3p : hi
+ JanHora 6d?: 25 hi
+ JanHora 6d?: 25 Have a nice game
+ redrose 3p : have a nice game
+ JanHora 6d?: 25 and sorry for the delay
+]
+;W[dp]WL[3578]C[
+ redrose 3p : what was wrong in the first game?
+]
+;B[fq]BL[3585]C[
+ JanHora 6d?: 25 I havent seen it
+ JanHora 6d?: 25 so I restart the client
+ redrose 3p : ok..i see
+]
+;W[cn]WL[3552]
+;B[qp]BL[3577]
+;W[dd]WL[3549]
+;B[kq]BL[3570]
+;W[qj]WL[3535]
+;B[pk]BL[3561]
+;W[qk]WL[3524]
+;B[ql]BL[3555]
+;W[qq]WL[3392]
+;B[pq]BL[3473]
+;W[qm]WL[3389]
+;B[rl]BL[3278]
+;W[pl]WL[3259]
+;B[ol]BL[3183]
+;W[pm]WL[3253]
+;B[rm]BL[3182]
+;W[qo]WL[3252]
+;B[rn]BL[3179]
+;W[pp]WL[3206]
+;B[rp]BL[3169]C[
+ redrose 3p : sorry
+ redrose 3p : what is happening?
+]
+;W[oq]WL[2779]C[
+ JanHora 6d?: ok, no other experiments with the new client
+]
+;B[pr]BL[3100]
+;W[rq]WL[2653]
+;B[po]BL[3074]
+;W[op]WL[2651]
+;B[qn]BL[3056]
+;W[or]WL[2629]
+;B[qg]BL[3016]
+;W[qh]WL[2566]
+;B[pg]BL[2970]C[
+ Eggplant2 3d+: Hello. does anyone know what these games are?
+ booobby 4k+: european team champ sponsored by pandanet
+]
+;W[rg]WL[2393]
+;B[rf]BL[2966]C[
+ Dragon9t 1d?: Is this live or review?
+ booobby 4k+: live onlain
+ booobby 4k+: online\
+ Dragon9t 1d?: Cool
+]
+;W[ni]WL[2187]
+;B[om]BL[2906]
+;W[jc]WL[2163]
+;B[cf]BL[2889]
+;W[fd]WL[2159]
+;B[bd]BL[2885]
+;W[cc]WL[2147]
+;B[ci]BL[2882]
+;W[iq]WL[2147]C[
+ Boothbol 1d : anyone know the identities of these players?
+ Uberdude 2d?: yes
+]
+;B[fo]BL[2781]C[
+ Uberdude 2d?: http://pandanet-igs.com/communities/euroteamchamps/rounds/79
+ Boothbol 1d : Thank you
+]
+;W[eq]WL[2103]
+;B[fr]BL[2754]
+;W[jp]WL[2097]
+;B[cq]BL[2644]
+;W[cp]WL[1999]
+;B[dr]BL[2633]C[
+ Boothbol 1d : wow, she is playing much faster than him.
+ Uberdude 2d?: L4 and C9 miai
+ Uberdude 2d?: seem b in control
+]
+;W[bq]WL[1948]
+;B[br]BL[2622]
+;W[dq]WL[1946]
+;B[cr]BL[2615]
+;W[ck]WL[1945]C[
+ Boothbol 1d : was wondering if this move was a little hasty.  c9 a little more than miai with l4 -- potentially sente or at least painful for c11 group...
+]
+;B[kp]BL[2557]
+;W[ko]WL[1932]
+;B[lo]BL[2552]
+;W[kn]WL[1925]
+;B[ln]BL[2516]
+;W[km]WL[1906]C[
+ Boothbol 1d : I still like b here too.
+]
+;B[lm]BL[2463]
+;W[kl]WL[1881]
+;B[io]BL[2461]
+;W[jo]WL[1870]
+;B[dl]BL[2460]
+;W[cl]WL[1835]
+;B[dn]BL[2458]
+;W[dk]WL[1754]
+;B[dm]BL[2369]
+;W[bo]WL[1752]
+;B[im]BL[2356]
+;W[ll]WL[1657]
+;B[mj]BL[2279]
+;W[nk]WL[1593]
+;B[nj]BL[2230]
+;W[oj]WL[1499]
+;B[ok]BL[2222]
+;W[oi]WL[1418]
+;B[ml]BL[2186]
+;W[mm]WL[1362]
+;B[nm]BL[2125]
+;W[li]WL[1239]
+;B[mi]BL[2027]
+;W[mh]WL[1233]
+;B[mk]BL[2027]
+;W[ng]WL[1199]
+;B[nc]BL[1995]
+;W[oo]WL[1192]
+;B[on]BL[1986]
+;W[bc]WL[985]
+;B[kj]BL[1797]
+;W[lj]WL[644]
+;B[lk]BL[1790]
+;W[kk]WL[643]
+;B[mn]BL[1789]
+;W[jj]WL[635]
+;B[lh]BL[1604]
+;W[ki]WL[633]
+;B[mg]BL[1604]
+;W[nh]WL[630]
+;B[mf]BL[1600]
+;W[ri]WL[574]
+;B[sg]BL[1455]
+;W[sh]WL[570]
+;B[rh]BL[1452]
+;W[lg]WL[552]
+;B[kh]BL[1449]
+;W[jh]WL[551]
+;B[kg]BL[1447]
+;W[rg]WL[551]
+;B[rr]BL[1407]C[
+ Megadethic 8k?: Go teacher, you must win
+ chad 4d : who me?
+]
+;W[qr]WL[475]
+;B[rh]BL[1401]
+;W[lf]WL[469]
+;B[jg]BL[1397]
+;W[rg]WL[453]
+;B[ih]BL[1394]
+;W[ji]WL[453]C[
+ Megadethic 8k?: msy be
+ Megadethic 8k?: may be
+]
+;B[hg]BL[1312]
+;W[sf]WL[438]
+;B[ik]BL[1297]C[
+ Megadethic 8k?: ????????, ??????????? ????????????????????
+ scurge10 4d?: if this attack fails w will have an easy win
+]
+;W[hi]WL[345]C[
+ Kuba 2d?: are you sure? :)
+ JanHora 6d?: you arre back?
+ redrose 3p : i can't make a move
+]
+;B[ii]BL[1137]
+;W[ij]WL[344]
+;B[hj]BL[1136]
+;W[hk]WL[341]
+;B[gj]BL[1135]
+;W[il]WL[340]
+;B[hl]BL[1130]
+;W[jk]WL[270]
+;B[gk]BL[1068]
+;W[hm]WL[255]
+;B[gl]BL[1061]C[
+ Megadethic 8k?: ?????? ????? ???????
+]
+;W[hn]WL[226]
+;B[re]BL[1045]C[
+ scurge10 4d?: so now w it ahead?
+]
+;W[kf]WL[157]C[
+ saski 6k : M17  and maybe
+]
+;B[jf]BL[1022]
+;W[ld]WL[58]
+;B[me]BL[1004]
+;W[pn]WL[562]
+;B[po]BL[1001]C[
+ saski 6k : time problem
+]
+;W[qf]WL[519]
+;B[pf]BL[922]
+;W[rd]WL[492]
+;B[qe]BL[897]
+;W[se]WL[484]
+;B[rc]BL[894]
+;W[md]WL[465]
+;B[nd]BL[851]
+;W[ph]WL[428]
+;B[jd]BL[718]
+;W[id]WL[406]
+;B[sq]BL[685]
+;W[ps]WL[403]
+;B[mq]BL[679]
+;W[pn]WL[384]
+;B[ro]BL[676]
+;W[mr]WL[348]
+;B[lr]BL[668]
+;W[nq]WL[323]
+;B[le]BL[606]
+;W[kd]WL[319]
+;B[ke]BL[603]
+;W[fn]WL[303]
+;B[fm]BL[482]
+;W[go]WL[276]
+;B[eo]BL[416]
+;W[er]WL[251]
+;B[gp]BL[368]
+;W[in]WL[203]
+;B[aq]BL[345]
+;W[di]WL[177]
+;B[dh]BL[319]
+;W[ei]WL[175]
+;B[eh]BL[281]
+;W[bi]WL[163]
+;B[ch]BL[276]
+;W[bp]WL[147]
+;B[es]BL[273]
+;W[bh]WL[127]
+;B[bg]BL[190]
+;W[cj]WL[121]
+;B[ie]BL[189]
+;W[hd]WL[111]
+;B[kc]BL[154]
+;W[je]WL[102]
+;B[lb]BL[146]
+;W[hh]WL[83]
+;B[ig]BL[142]
+;W[fi]WL[590]
+;B[ef]BL[585]
+;W[sc]WL[426]
+;B[rb]BL[572]
+;W[jd]WL[410]
+;B[jb]BL[569]
+;W[ib]WL[404]
+;B[ah]BL[551]
+;W[aj]WL[395]
+;B[ce]BL[496]
+;W[mp]WL[379]
+;B[lp]BL[490]
+;W[ja]WL[279]
+;B[kb]BL[425]
+;W[hp]WL[209]
+;B[hr]BL[386]
+;W[gq]WL[187]
+;B[fp]BL[378]
+;W[hq]WL[101]
+;B[gr]BL[370]
+;W[ir]WL[81]
+;B[gi]BL[357]
+;W[fh]WL[81]
+;B[gh]BL[355]
+;W[cd]WL[54]C[
+ Lukan 5d?: w+komi? :)
+]
+;B[be]BL[344]
+;W[mb]WL[51]C[
+ manocska 8d : easy
+ manocska 8d : so 2:2
+]
+;B[mc]BL[337]
+;W[lc]WL[51]
+;B[nb]BL[335]
+;W[ka]WL[51]
+;B[ma]BL[333]C[
+ Lukan 5d?: enough
+]
+;W[ad]WL[44]
+;B[ae]BL[327]
+;W[ac]WL[43]
+;B[sb]BL[325]
+;W[po]WL[31]
+;B[pm]BL[307]C[
+ manocska 8d : not enough :)
+]
+;W[sd]WL[24]
+;B[qd]BL[304]
+;W[sg]WL[24]C[
+ Palko 5d?: cierny+?
+]
+;B[sj]BL[292]
+;W[sk]WL[21]
+;B[rk]BL[286]
+;W[rj]WL[21]C[
+ manocska 8d : bily vyhraje ,ne?
+]
+;B[ms]BL[252]
+;W[lq]WL[20]C[
+ Kuba 2d?: jasne, vede skoro o 10
+ Palko 5d?: asi hej, ale vies kolko ma kto zajatcov?
+ manocska 8d : o 3vicc cerny
+ Palko 5d?: tak to v pohodicke jj
+ Lukan 5d?: bily si to hlidal celou dobu mi prislo
+]
+;B[ns]BL[199]C[
+ Mala10 2k+: w is winning?
+]
+;W[sr]WL[16]
+;B[ss]BL[188]
+;W[rs]WL[544]
+;B[qs]BL[594]
+;W[kr]WL[513]
+;B[mq]BL[590]
+;W[rs]WL[513]
+;B[jr]BL[555]C[
+ saski 6k : this was from long ago??
+]
+;W[lq]WL[488]
+;B[pj]BL[538]
+;W[pi]WL[480]
+;B[mq]BL[537]
+;W[sr]WL[478]
+;B[is]BL[440]
+;W[lq]WL[470]
+;B[ks]BL[437]
+;W[nf]WL[388]
+;B[cm]BL[417]
+;W[bm]WL[386]
+;B[en]BL[359]
+;W[gn]WL[290]
+;B[ge]BL[329]
+;W[gd]WL[279]
+;B[fg]BL[311]
+;W[he]WL[257]
+;B[ek]BL[290]
+;W[gf]WL[242]
+;B[fe]BL[278]
+;W[hf]WL[238]
+;B[fj]BL[239]
+;W[dj]WL[236]
+;B[ee]BL[207]
+;W[oe]WL[194]
+;B[ed]BL[183]
+;W[ec]WL[189]
+;B[mq]BL[170]
+;W[od]WL[170]
+;B[oc]BL[166]
+;W[lq]WL[170]
+;B[ik]BL[163]
+;W[jm]WL[165]
+;B[mq]BL[161]
+;W[de]WL[164]
+;B[df]BL[157]
+;W[lq]WL[162]
+;B[ne]BL[135]
+;W[of]WL[159]C[
+ mi1 2k : seems white is ahead ~ 8 pts
+]
+;B[mq]BL[133]
+;W[ar]WL[155]
+;B[as]BL[130]
+;W[do]WL[83]
+;B[nr]BL[115]
+;W[sp]WL[597]
+;B[sl]BL[585]
+;W[ap]WL[582]
+;B[ar]BL[581]
+;W[if]WL[582]
+;B[pe]BL[515]
+;W[so]WL[528]
+;B[sn]BL[511]
+;W[sq]WL[527]
+;B[og]BL[479]
+;W[no]WL[524]
+;B[mo]BL[475]
+;W[np]WL[483]
+;B[hk]BL[466]
+;W[si]WL[481]
+;B[sk]BL[460]
+;W[ia]WL[473]
+;B[la]BL[456]
+;W[bl]WL[440]
+;B[ag]BL[450]
+;W[ai]WL[438]
+;B[gg]BL[447]
+;W[jq]WL[430]
+;B[gm]BL[441]
+;W[os]WL[428]
+;B[ej]BL[436]C[
+ mi1 2k : W + 2.5
+]
+;W[oh]WL[426]
+;B[ff]BL[431]
+;W[nn]WL[426]
+;B[ep]BL[426]
+;W[tt]WL[423]
+;B[tt]BL[422]
+;W[tt]WL[423]C[
+ JanHora 6d?: JanHora dead @ O9
+ redrose 3p : redrose dead @ J5
+ JanHora done
+];
+
+TW[ao][an][am][al][ak][ab][aa][bn][bk][bj][bb][ba][co][cb][ca][dc][db][da]
+[eb][ea][fc][fb][fa][gc][gb][ga][ho][hc][hb][ha][ip][io][im][ie][ic][jn]
+[jl][kj][pr][pq][qs][qi][rr][rh][ss]
+
+TB[af][bs][bf][cs][cg][ds][dg][em][el][eg][fs][fl][fk][gs][hs][hi][hh][js]
+[kr][kf][ls][lq][lg][lf][mr][mm][mb][nl][nk][na][ob][oa][pl][pc][pb][pa]
+[qm][qf][qc][qb][qa][ra][sm][sa]
+
+OS[AltaNar][badman][Barmalei][Beo][betterlife]
+[Bink][bobo2013][Bohdan][booobby][breakfast]
+[brona][crocus][d26762677][DarkWan][Dika]
+[Dragon9t][DrMPS][EasyRider][fisherdu][flash36]
+[flashback][guta57][hgny][Icco][Iourii]
+[Jna][joachim][JohannesR][jojoyo][jonkacz]
+[K1122][kazum][keks][Khatuntsev][kidu24]
+[kkuni][kobaktb][Koldun][Kuba][Laman]
+[lazer][Lentilka][LeT][Liso][lny]
+[lordik][luigi][Lukan][MacArthur][Mala10]
+[Mala201110][Mani][manocska][masagifu][Megadethic]
+[mh01][mi1][miao][MiKo][Milos]
+[Mino][Mirop][moth][MSvreco][muchotoku]
+[muramanq][nanok][ngarry][Nighthawk][nikbary]
+[nomad][Ockymofo][ohnhn20][olo][Ortenix]
+[Palko][PaxDeorum][Pierr][Procyon][RNT]
+[Roln][Ronl11][sakasaka][saski][scurge10]
+[sennbei][Shirasagi][SlowThinkr][smile16][snrykh]
+[Socrat][SOFIA123][steelman70][Sur][Temuchin]
+[teufel][tiaxSWE][Topoi][Tsoy][tsunamigo]
+[turikichi][turpa][v1rus][Veedee][veinarde]
+[weaker][weegee][wqahz][x0000][xgor]
+[xpywl]
+
+)

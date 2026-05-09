@@ -1,0 +1,465 @@
+(;
+GM[1]EV[Internet Go Server game: pizza vs krabicka]
+US[Brought to you by IGS PANDANET]
+CoPyright[
+  Copyright (c) PANDANET Inc. 2017
+  Permission to reproduce this game is given, provided proper credit is given.
+  No warrantee, implied or explicit, is understood.
+  Use of this game is an understanding and agreement of this notice.
+]
+GN[pizza-krabicka(B) IGS]RE[B+0.5]
+PW[pizza]WR[4d?]NW[32]
+PB[krabicka]BR[5d?]NB[33]
+PC[IGS:  igs.joyjoy.net 6969]DT[2017-10-19]
+SZ[19]TM[3600]KM[6.500000]LT[]
+RR[Normal]
+C[
+ pizza 4d?: 6 have a nice game!
+]
+;B[qd]BL[3588]
+;W[dc]WL[3580]
+;B[pq]BL[3580]
+;W[dp]WL[3503]
+;B[ce]BL[3575]
+;W[ci]WL[3487]
+;B[nc]BL[3523]
+;W[qo]WL[3475]
+;B[np]BL[3452]
+;W[qk]WL[3265]
+;B[ed]BL[3392]
+;W[ec]WL[3261]
+;B[fd]BL[3390]
+;W[fc]WL[3242]
+;B[gd]BL[3382]
+;W[hc]WL[3241]
+;B[cp]BL[3366]
+;W[co]WL[3193]C[
+ SIeracle 2k?: gooo omino
+]
+;B[bo]BL[3233]C[
+ FieldMouse 5d?: go krabicka go!
+]
+;W[bn]WL[3069]C[
+ LeT 2d+: kdyz pizzu, tak jedine v krabicce
+ JanHora2 6d?: have never seen before .. interested what will come
+ JanHora2 6d?: personally I would try d5-c6-d3-e4-e3 ...
+]
+;B[bq]BL[2975]
+;W[cq]WL[3016]
+;B[bp]BL[2973]
+;W[cn]WL[2941]
+;B[dq]BL[2971]
+;W[eq]WL[2941]
+;B[dr]BL[2970]
+;W[er]WL[2940]C[
+ LeT 2d+: isnt this terrible for b?
+]
+;B[ep]BL[2955]
+;W[do]WL[2937]
+;B[cr]BL[2952]
+;W[fp]WL[2936]C[
+ FieldMouse 5d?: c4 was something like alpha go style?
+]
+;B[qi]BL[2727]
+;W[lq]WL[2928]C[
+ JanHora2 6d?: yeah, black got tricked, b3 is not working well ...
+]
+;B[qm]BL[2690]C[
+ JanHora2 6d?: @fieldmouse: i thought the same about b6 :), but c4 is also unusual ...
+]
+;W[qq]WL[2708]
+;B[qr]BL[2639]
+;W[pp]WL[2706]
+;B[oq]BL[2407]
+;W[rq]WL[2643]
+;B[pl]BL[2351]
+;W[no]WL[2566]
+;B[lp]BL[2111]
+;W[mp]WL[2524]
+;B[mq]BL[2099]
+;W[mo]WL[2524]
+;B[kq]BL[2074]
+;W[lr]WL[2522]
+;B[kr]BL[1453]
+;W[mr]WL[2518]
+;B[nq]BL[1418]
+;W[nr]WL[2506]
+;B[or]BL[1366]
+;W[kp]WL[2502]
+;B[lo]BL[1365]
+;W[ln]WL[2502]
+;B[ko]BL[1364]
+;W[jp]WL[2502]
+;B[kn]BL[1344]C[
+ Veedee 7d : hm, po dnesku to bude 3 0
+ JanHora2 6d?: nebude
+ JanHora2 6d?: omino je koumak
+]
+;W[jq]WL[2436]C[
+ Lukan 5d?: doufejme ze tvuj predcasny soud nevyjde stejne jako vcera ten muj u scurge
+ Veedee 7d : fuseki bylo za 5
+]
+;B[oo]BL[1337]
+;W[on]WL[2418]C[
+ JanHora2 6d?: o6 docela funguje, ne?
+ Lukan 5d?: jj
+ Lukan 5d?: i kdyz...
+ Lukan 5d?: jo funguje
+]
+;B[pn]BL[981]
+;W[po]WL[2412]
+;B[ns]BL[973]
+;W[jr]WL[2409]
+;B[op]BL[971]
+;W[nn]WL[2346]
+;B[rr]BL[954]
+;W[ps]WL[2339]C[
+ JanHora2 6d?: nenasel sem protihru na s5
+ JanHora2 6d?: s2 sem teda necekal ...
+ JanHora2 6d?: ted uz to nak smrdi
+]
+;B[os]BL[863]
+;W[sr]WL[2307]C[
+ JanHora2 6d?: tak ted uz to zachrani jen ricanskej genial
+ Veedee 7d : ko o milion
+]
+;B[lm]BL[587]C[
+ Wade 6d?: p7 m7 s5 only way for b?
+]
+;W[nl]WL[2254]
+;B[ro]BL[574]C[
+ Veedee 7d : O8 blunder ?
+ Tasky 2d?: why not o8 at l1?
+ Wade 6d?: got lucky... w should have l1 instead of the jump to the center
+ Veedee 7d : of course
+ PaxDeorum 4d : but it seems to work for white still
+]
+;W[rn]WL[2079]
+;B[qn]BL[572]
+;W[qp]WL[2079]
+;B[sp]BL[562]
+;W[sq]WL[2072]C[
+ JanHora2 6d?: not really
+ Lukan 5d?: S1
+ JanHora2 6d?: yep
+]
+;B[rs]BL[535]C[
+ PaxDeorum 4d : now not anymore :(
+]
+;W[ll]WL[2052]
+;B[kl]BL[532]C[
+ Lukan 5d?: our karma was too clean after yesterday's  lost two won games...
+]
+;W[mm]WL[2048]
+;B[mn]BL[528]C[
+ PaxDeorum 4d : :)
+]
+;W[kk]WL[1935]
+;B[lk]BL[509]
+;W[ml]WL[1934]
+;B[jk]BL[432]
+;W[kj]WL[1932]
+;B[jl]BL[420]
+;W[ln]WL[1928]
+;B[jj]BL[387]
+;W[ki]WL[1921]
+;B[ji]BL[365]
+;W[kh]WL[1921]
+;B[io]BL[360]
+;W[km]WL[1914]
+;B[jm]BL[359]
+;W[pk]WL[1876]
+;B[pg]BL[269]
+;W[jo]WL[1802]
+;B[jn]BL[264]
+;W[qc]WL[1759]
+;B[pc]BL[198]
+;W[rm]WL[1751]
+;B[ss]BL[191]
+;W[fj]WL[1746]
+;B[fl]BL[88]
+;W[hn]WL[1600]
+;B[fn]BL[50]
+;W[gm]WL[1552]
+;B[fm]BL[15]
+;W[gk]WL[1551]
+;B[eo]BL[586]
+;W[ho]WL[1498]
+;B[cl]BL[576]
+;W[jh]WL[1167]C[
+ PaxDeorum 4d : B8 works ?
+]
+;B[gi]BL[417]
+;W[ih]WL[1137]
+;B[hi]BL[377]
+;W[ii]WL[1133]
+;B[hk]BL[347]
+;W[gl]WL[1127]
+;B[ij]BL[319]
+;W[gg]WL[1081]
+;B[fh]BL[210]
+;W[bl]WL[1080]
+;B[bk]BL[206]
+;W[ck]WL[1072]
+;B[dl]BL[108]
+;W[bj]WL[1063]
+;B[bm]BL[99]
+;W[ak]WL[1063]
+;B[am]BL[89]
+;W[fg]WL[1047]
+;B[eh]BL[86]
+;W[df]WL[1029]
+;B[cg]BL[73]
+;W[dg]WL[1004]
+;B[dh]BL[72]
+;W[ch]WL[1002]
+;B[bg]BL[66]
+;W[eg]WL[300]
+;B[dj]BL[63]
+;W[cm]WL[273]
+;B[an]BL[61]
+;W[bh]WL[201]
+;B[ej]BL[49]
+;W[cd]WL[200]
+;B[de]BL[28]C[
+ pizza 4d?: 6 *
+]
+;W[be]WL[174]
+;B[ie]BL[17]
+;W[cf]WL[66]
+;B[ic]BL[16]
+;W[hd]WL[60]
+;B[he]BL[16]
+;W[id]WL[514]
+;B[jd]BL[15]
+;W[je]WL[514]
+;B[bd]BL[14]
+;W[dd]WL[507]
+;B[ee]BL[13]
+;W[bc]WL[506]
+;B[gc]BL[583]
+;W[hb]WL[505]
+;B[gb]BL[563]
+;W[ib]WL[504]
+;B[jc]BL[497]
+;W[jb]WL[503]
+;B[ke]BL[430]C[
+ JanHora2 6d?: omino je kouzelnik
+ JanHora2 6d?: a jeste bojovnik
+ SIeracle 2k?: podpojeni
+ SIeracle 2k?: ?
+]
+;W[kc]WL[369]
+;B[jf]BL[427]
+;W[kd]WL[368]
+;B[je]BL[413]
+;W[md]WL[365]
+;B[lb]BL[402]
+;W[kb]WL[364]
+;B[lc]BL[401]
+;W[ld]WL[363]
+;B[mf]BL[400]
+;W[nd]WL[358]
+;B[oc]BL[382]
+;W[nf]WL[342]C[
+ thd23 17k?: :)
+]
+;B[ng]BL[209]
+;W[ge]WL[318]C[
+ JanHora2 6d?: tak jeste bude potreba jedno kouzlo ...
+]
+;B[gf]BL[143]
+;W[ff]WL[316]
+;B[fe]BL[136]
+;W[hf]WL[315]
+;B[mg]BL[82]
+;W[ge]WL[313]
+;B[ok]BL[75]
+;W[ol]WL[299]
+;B[rp]BL[72]
+;W[ql]WL[286]
+;B[gf]BL[71]
+;W[le]WL[272]
+;B[lf]BL[69]
+;W[ge]WL[271]
+;B[gq]BL[65]
+;W[fq]WL[254]
+;B[gf]BL[64]
+;W[fo]WL[252]
+;B[en]BL[54]
+;W[ge]WL[251]
+;B[go]BL[29]
+;W[gp]WL[594]
+;B[gf]BL[28]
+;W[ao]WL[591]
+;B[ap]BL[20]
+;W[ge]WL[590]
+;B[in]BL[4]
+;W[hp]WL[560]
+;B[gf]BL[599]
+;W[dk]WL[507]
+;B[bf]BL[453]
+;W[ad]WL[498]
+;B[ek]BL[387]C[
+ JanHora2 6d?: tak se zda ze prislo ..
+]
+;W[ge]WL[496]
+;B[ip]BL[371]
+;W[iq]WL[431]
+;B[gf]BL[369]
+;W[dm]WL[429]C[
+ JanHora2 6d?: h13 a je to doma
+]
+;B[el]BL[303]
+;W[ge]WL[427]
+;B[oj]BL[293]
+;W[pm]WL[422]
+;B[gf]BL[292]
+;W[al]WL[413]
+;B[ao]BL[256]
+;W[ge]WL[412]
+;B[of]BL[148]
+;W[gf]WL[365]
+;B[rj]BL[132]
+;W[gj]WL[335]
+;B[hj]BL[129]
+;W[la]WL[306]
+;B[rk]BL[122]
+;W[rl]WL[254]
+;B[mj]BL[105]
+;W[nj]WL[211]
+;B[ni]BL[98]
+;W[nk]WL[200]
+;B[mi]BL[85]
+;W[lm]WL[187]
+;B[mb]BL[83]
+;W[pd]WL[180]
+;B[od]BL[38]
+;W[rd]WL[174]
+;B[qb]BL[37]
+;W[qe]WL[174]
+;B[rb]BL[37]
+;W[oi]WL[147]
+;B[pi]BL[15]
+;W[rf]WL[125]
+;B[rc]BL[12]
+;W[qg]WL[589]
+;B[rh]BL[12]
+;W[pf]WL[586]
+;B[oe]BL[10]
+;W[ph]WL[580]
+;B[oh]BL[9]
+;W[rg]WL[573]
+;B[pe]BL[526]
+;W[og]WL[570]
+;B[hh]BL[513]
+;W[ig]WL[566]
+;B[pg]BL[493]
+;W[di]WL[518]
+;B[ei]BL[490]
+;W[og]WL[515]
+;B[se]BL[432]
+;W[sd]WL[512]
+;B[pg]BL[432]
+;W[kg]WL[382]
+;B[kf]BL[386]
+;W[og]WL[380]
+;B[hg]BL[385]
+;W[if]WL[285]
+;B[pg]BL[381]
+;W[nb]WL[274]
+;B[qh]BL[356]
+;W[mc]WL[272]
+;B[ob]BL[354]
+;W[ma]WL[271]
+;B[gn]BL[352]
+;W[hm]WL[260]
+;B[cj]BL[333]
+;W[af]WL[240]
+;B[bk]BL[325]
+;W[ck]WL[239]
+;B[es]BL[249]
+;W[fs]WL[238]
+;B[ds]BL[249]
+;W[il]WL[224]
+;B[ne]BL[233]
+;W[oa]WL[147]
+;B[pa]BL[232]
+;W[na]WL[146]
+;B[pj]BL[216]
+;W[sk]WL[142]
+;B[sj]BL[215]
+;W[sl]WL[141]
+;B[sn]BL[213]
+;W[lh]WL[136]
+;B[mh]BL[210]
+;W[ks]WL[521]
+;B[ms]BL[209]
+;W[bk]WL[494]
+;B[ls]BL[186]C[
+ JanHora2 6d?: half point masterpiece
+]
+;W[hl]WL[486]
+;B[dn]BL[182]
+;W[hq]WL[467]
+;B[em]BL[596]
+;W[ag]WL[466]
+;B[so]BL[592]
+;W[pl]WL[466]
+;B[qj]BL[585]
+;W[mk]WL[437]
+;B[lj]BL[583]C[
+ Veedee 7d : s prvni polovinou bych i souhlasil
+]
+;W[jg]WL[432]
+;B[fi]BL[581]
+;W[gh]WL[431]
+;B[dk]BL[580]
+;W[lg]WL[430]
+;B[me]BL[579]
+;W[im]WL[429]
+;B[fk]BL[578]C[
+ JanHora2 6d?: a rekni ze sis to neuzil
+]
+;W[li]WL[428]
+;B[sm]BL[577]
+;W[ik]WL[427]
+;B[tt]BL[575]
+;W[tt]WL[426]
+;B[tt]BL[575]C[
+ krabicka 5d?: krabicka dead @ S14
+ pizza 4d?: pizza dead @ G3
+ JanHora2 6d?: Omino je king
+ pizza 4d?: pizza dead @ E15
+ krabicka 5d?: krabicka dead @ R15
+ krabicka 5d?: krabicka dead @ S16
+ Veedee 7d : pred pulkou jsem radsi odesel
+ pizza 4d?: pizza dead @ Q1
+ krabicka 5d?: krabicka dead @ R17
+ krabicka 5d?: krabicka dead @ Q16
+ krabicka 5d?: krabicka dead @ Q14
+ krabicka done
+];
+
+TW[aj][ai][ah][ae][ac][ab][aa][bi][bg][bf][bd][bb][ba][cg][ce][cc][cb][ca]
+[de][db][da][ef][ee][ed][eb][ea][fr][fe][fd][fb][fa][gs][gr][gq][gd][gc]
+[gb][ga][hs][hr][ha][is][ir][ia][js][ja][kr][kq][ka][lc][lb][mn][mb][nm]
+[om]
+
+TB[as][ar][aq][bs][br][bn][cs][cq][co][cn][cm][dp][do][dm][nh][nf][oi][og]
+[ps][pr][pp][po][ph][pf][pd][pb][qs][qq][qp][qo][qg][qf][qe][qd][qc][qa]
+[rq][ri][rg][rf][re][rd][ra][sr][sq][si][sh][sg][sf][sd][sc][sb][sa]
+
+OS[acit][adavies][bastie10][brady][bremensha]
+[Butterfly][ChenYuen][Coorchac][dachousaba][deemendoz]
+[Eastern][echung][fabioK][fboutoille][Fede]
+[feste][FieldMouse][Fuji2016][gopard][hayyah]
+[Hidoshito][hwspan][Igorin][JanHora2][jirka]
+[JJF][jumpice][LeonD][LeT][Lukan]
+[mamutik][mareks][OferZivo][PaxDeorum][Pierone]
+[ptoxos][puerhista][saski][sato19][Scoun]
+[SIeracle][siskin][Sopig][Superkladd][Tasky]
+[thd23][turikichi][tyam][Veedee][Vrablis]
+[Wade][Wiles][xyper][Zbys3K]
+
+)

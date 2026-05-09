@@ -1,0 +1,139 @@
+(;CA[Windows-1252]NW[36]NB[32]LT[]RR[Normal]C[
+ manocska 8d \: 3 have a nice game
+ Laza 4d+\: 3 have a good game
+]
+AP[MultiGo:4.4.4]SZ[19]GM[1]GN[manocska-Laza(B) IGS]EV[Internet Go Server game\: manocska vs Laza]
+DT[2015-10-03]PC[IGS\:  igs.joyjoy.net 6969]PB[Laza]BR[4d+]PW[manocska]WR[8d ]KM[6.5]
+TM[3600]RE[W+26.5]US[Brought to you by IGS PANDANET]CP[
+  Copyright (c) PANDANET Inc. 2015
+  Permission to reproduce this game is given, provided proper credit is given.
+  No warrantee, implied or explicit, is understood.
+  Use of this game is an understanding and agreement of this notice.
+]
+MULTIGOGM[0]
+;B[qe]BL[3582];W[dp]WL[3597];B[qo]BL[3570];W[dc]WL[3565];B[mp]BL[3547];W[od]WL[3532]
+;B[oe]BL[3395]C[
+ manocska 8d \: 124 .
+];W[ne]WL[3463]C[
+ manocska 8d \: 47 .
+]
+;B[nd]BL[3293];W[oc]WL[3459]C[
+ manocska 8d \: 47 .
+];B[of]BL[3222];W[md]WL[3456]
+;B[nf]BL[3208];W[me]WL[3454]C[
+ manocska 8d \: 47 .
+];B[lg]BL[3056];W[qc]WL[3437]
+;B[ke]BL[2907];W[qj]WL[3361];B[ql]BL[2810];W[oj]WL[3291];B[qh]BL[2691];W[oh]WL[3194]
+;B[mj]BL[2415];W[rg]WL[3134];B[pg]BL[2268];W[rh]WL[3117];B[qi]BL[2258];W[ri]WL[3104]
+;B[rj]BL[2246];W[rk]WL[3083];B[pj]BL[2209];W[qk]WL[3077];B[pk]BL[2205];W[pl]WL[3076]
+;B[ok]BL[2087];W[qp]WL[3050];B[po]BL[1914];W[pp]WL[3035];B[rp]BL[1814];W[np]WL[3027]
+;B[rl]BL[1538];W[sj]WL[3019];B[no]BL[1532];W[oo]WL[3014];B[on]BL[1525];W[op]WL[3011]
+;B[mo]BL[1352];W[rq]WL[3006];B[ro]BL[1341];W[mq]WL[2993];B[lq]BL[1335];W[nr]WL[2897]
+;B[mr]BL[1328];W[nq]WL[2894];B[df]BL[1160];W[fd]WL[2794];B[ff]BL[1080];W[cm]WL[2783]
+;B[kc]BL[1006];W[dj]WL[2733];B[mb]BL[983];W[mc]WL[2697]C[
+ manocska 8d \: 47 .
+]
+;B[nb]BL[753];W[nc]WL[2693];B[ob]BL[749];W[pb]WL[2686];B[rd]BL[746];W[rc]WL[2567]
+;B[hc]BL[625];W[hd]WL[2447];B[gc]BL[563];W[gd]WL[2428];B[fc]BL[560];W[ec]WL[2405]
+;B[ed]BL[380]C[
+ zudaya 1d \: man, this brutal
+];W[jd]WL[2336];B[dd]BL[115];W[bc]
+WL[2246];B[kd]BL[502];W[jc]WL[2231];B[jb]BL[436];W[ib]WL[2227];B[ic]BL[429];W[kb]
+WL[2212];B[ja]BL[409];W[ia]WL[2154];B[id]BL[405];W[je]WL[2152];B[jf]BL[298];W[ie]
+WL[2148];B[eb]BL[284];W[db]WL[2124];B[he]BL[270];W[if]WL[2088];B[hf]BL[250];W[ka]
+WL[1991];B[ig]BL[235];W[jb]WL[1989];B[fb]BL[160];W[be]WL[1965];B[cd]BL[147];W[bd]
+WL[1963];B[bf]BL[118];W[cf]WL[1952];B[cg]BL[105];W[ce]WL[1951];B[dh]BL[98];W[jg]
+WL[1927];B[ih]BL[91];W[lp]WL[1873];B[cc]BL[73];W[cb]WL[1844];B[bb]BL[63];W[ba]WL[1813]
+;B[kq]BL[58];W[nn]WL[1788];B[mn]BL[51];W[nm]WL[1774];B[pm]BL[45];W[ko]WL[1680];B[mm]
+BL[35];W[iq]WL[1644];B[jo]BL[21];W[jp]WL[1637];B[kp]BL[18];W[io]WL[1636];B[jn]BL[11]
+;W[in]WL[1630];B[ab]BL[579];W[bg]WL[1596];B[bh]BL[559];W[af]WL[1594];B[kf]BL[544]
+;W[dq]WL[1568];B[lb]BL[540];W[lc]WL[1561];B[hb]BL[537];W[la]WL[1557];B[da]BL[497]
+;W[jm]WL[1544];B[kn]BL[491];W[km]WL[1541];B[lo]BL[488];W[hl]WL[1528];B[sq]BL[434]
+;W[rr]WL[1511]C[
+ littlegrs 2k \: b l14 misread
+];B[ck]BL[401];W[ci]WL[1486]C[
+ littlegrs 2k \: m18 should go c3
+ littlegrs 2k \: d9
+]
+;B[ch]BL[309];W[dk]WL[1477];B[cl]BL[296];W[dl]WL[1417];B[bm]BL[292];W[cn]WL[1409]
+;B[ah]BL[263];W[ag]WL[1404];B[bj]BL[254];W[bi]WL[1390];B[bn]BL[220];W[bo]WL[1385]
+;B[co]BL[211];W[cp]WL[1366];B[ao]BL[189];W[bp]WL[1360];B[ai]BL[169];W[hi]WL[1325]
+;B[sl]BL[161];W[sk]WL[1297]C[
+ fisherdu 3d \: black j2 now
+];B[ir]BL[79];W[hr]
+WL[1285];B[jq]BL[74];W[ip]WL[1279];B[sr]BL[66];W[lr]WL[1245];B[kr]BL[62];W[ms]WL[1243]
+;B[hs]BL[58];W[gs]WL[1208];B[js]BL[549];W[is]WL[1203];B[dm]BL[540]C[
+ fisherdu 3d \: now right!
+]
+;W[dn]WL[1199];B[hs]BL[537];W[gr]WL[1198];B[pr]BL[476];W[qr]WL[1171];B[rs]BL[455]
+;W[qs]WL[1083];B[or]BL[356];W[ss]WL[1053];B[ha]BL[332];W[oa]WL[1046];B[rs]BL[326]
+;W[sp]WL[1000];B[so]BL[320];W[ss]WL[997];B[ae]BL[309];W[ad]WL[992];B[rs]BL[305]
+;W[pn]WL[982];B[qn]BL[291];W[ss]WL[979];B[si]BL[284];W[sh]WL[975];B[rs]BL[281]C[
+ littlegrs 2k \: w is alive without winning the ko?
+ littlegrs 2k \: w has 2 eyes
+]
+;W[ls]WL[779]C[
+ littlegrs 2k \: b lost on m18
+ fisherdu 3d \: still ko live
+ fisherdu 3d \: for white
+ fisherdu 3d \: Q1
+]
+;B[ps]BL[189];W[ss]WL[775];B[ma]BL[130];W[na]WL[769];B[rs]BL[117];W[qq]WL[767];B[ns]
+BL[109];W[os]WL[764];B[en]BL[62];W[em]WL[760];B[ns]BL[59];W[ss]WL[734];B[ks]BL[52]
+;W[os]WL[731];B[do]BL[38];W[eo]WL[728];B[ns]BL[36];W[mr]WL[696];B[sp]BL[28];W[ii]
+WL[692];B[ji]BL[7];W[eg]WL[636];B[fh]BL[555];W[gg]WL[449];B[hg]BL[496];W[ef]WL[422]
+;B[ee]BL[478];W[de]WL[355];B[fe]BL[472];W[fg]WL[338];B[gh]BL[463];W[dg]WL[331];B[gi]
+BL[431];W[eh]WL[240];B[di]BL[426];W[cj]WL[235];B[ei]BL[423];W[bk]WL[80];B[jj]BL[402]
+;W[hj]WL[57];B[gj]BL[386];W[gk]WL[51];B[ik]BL[380];W[hk]WL[48];B[hh]BL[372];W[kk]
+WL[570];B[rs]BL[360]C[
+ fisherdu 3d \: black do not need to go this ko
+];W[aj]
+WL[544]C[
+ fisherdu 3d \: white have to go this ko at last
+];B[ss]BL[350]C[
+ littlegrs 2k \: b is giving up up.
+ littlegrs 2k \: now.
+]
+;W[lj]WL[507];B[pq]BL[318];W[os]WL[504];B[il]BL[309];W[im]WL[485];B[ns]BL[304];W[fj]
+WL[428];B[oq]BL[243];W[fi]WL[423];B[li]BL[233]C[
+ littlegrs 2k \: I think w wins without the group
+]
+;W[jk]WL[400]C[
+ rojiban 11k+\: I think so too.
+];B[ij]BL[203];W[mk]WL[384];B[kj]
+BL[192];W[ml]WL[374]C[
+ rojiban 11k+\: Very interesting game!
+];B[lk]BL[178];W[ll]
+WL[370];B[nk]BL[170];W[nl]WL[366];B[sc]BL[149]C[
+ rojiban 11k+\: W wins easily now.
+]
+;W[sb]WL[355];B[sd]BL[145];W[rb]WL[352];B[ol]BL[570];W[mf]WL[313];B[mg]BL[566];W[qg]
+WL[299];B[pe]BL[535];W[qd]WL[247];B[re]BL[526];W[lm]WL[244];B[is]BL[489];W[ln]WL[242]
+;B[ko]BL[483];W[lj]WL[239];B[gf]BL[439];W[ej]WL[233];B[lk]BL[426];W[ac]WL[231];B[ca]
+BL[420];W[lj]WL[227];B[jl]BL[377]C[
+ fisherdu 3d \: good move
+];W[lk]WL[204];B[qf]
+BL[364];W[ph]WL[200];B[pi]BL[359];W[og]WL[595];B[pf]BL[351]C[
+ fisherdu 3d \: wow
+]
+;W[pd]WL[592];B[ng]BL[329];W[lf]WL[578];B[kg]BL[319];W[rf]WL[564];B[sf]BL[298];W[sg]
+WL[561];B[se]BL[292];W[tt]WL[551];B[tt]BL[282];W[tt]WL[551]C[
+ Laza 4d+\: Laza dead @ P12
+ Laza 4d+\: Laza dead @ P10
+ manocska 8d \: manocska dead @ B7
+ manocska 8d \: manocska dead @ E6
+ Laza 4d+\: Laza dead @ K13
+ manocska 8d \: manocska dead @ C8
+ manocska 8d \: manocska dead @ A5
+ manocska 8d \: manocska dead @ F16
+ manocska 8d \: manocska dead @ B19
+ manocska done
+]
+;OS[a02186097][aki117][ANDY12][art1001][as22][asayoru][atoji824][ATSUO][Badboy3437][Bansan][belltheo][Bichon][bluethink][bommel][campinas][candy66][chibikuro][coco01][cosmos927][CRAPhJiA][CRcFelnr][CReMebvW][CREnAkmn][CRFBtApZ][CRgZEDYQ][CRIqRhAF][CRLGCUSU][CRnTlRKk][CRrlBJHn][CRSwGetN][CRurkQVP][CRVfjPDH][CRZXUPPc][Curve0][dai1468][daiekotaro][dainamaito][deemendoz][dhyana][DReam][drX][e193703][erjc][EYT3515][farhow][fisherdu][fuha10][fungo66][fwkp01][g88][gain][gen110][GINJI][GO18][gobaby][gocayo][Gohajo1][Golearner][goodattack][gossan5353][grmnl][gstv][guta57][h5y4][h84760554][HA70089][haniwa1999][HansWerner][happyman77][hataruiki][hdc90503][hecai927][hg2015][HIDECHAN87][hirosato35][hisako][hokuryuwie][hrsmrn][HunterD][hvkRO][HXP][i4312][IchI][ichinoseki][iggy][igosuki1][igotanoshi][im13086840][inoue633][isao59518][Jack314159][jackgg][JanHora][jazzyforgo][JIG][jirka][jk2012][Jon5][JOSUI][JUN6996][k801127][kakimon][karabas1][katatumuri][kazeninare][kibarosman][Kimchi][KingGOng][kinnchann][kinochan55][kjt2001][kkasano][kkflore21][KM902184][korokoro57][kou123][Kreo][KTAS][ku1239][kudo0565][kuma3][Kupitman55][kurocyann][LaoZu][LeT][liberty][light49][Lighter][lin2d][Linux][littlegrs][m171212][madhatter][manryou][marloo56][MATSUO][microlog][mikun][mito6700][miwa][mizu11][mlakec][moru2613][mostwanted][mrfk][mt7898][Mugen4][n0334][nagata10][naka11][nakamae][nita464][nm530][Nogravity][non8888][noriaki193][obk1116k][odajima][OferZivo][ojisanshac][okaturu][okinoshima][oninoko][oo75739][oringo][Pai][PFC][Pierone][ping7][piniouf][plimpse][po4321ro][pocoapoco][potentilla][r0907792][RATS][Rebell][RikuGOH][rojiban][rokkyi][rokusan][ruckzuck][sa26m][sa28][SAIGOTO][sams1883][santa3][scorpiango][Scoun][sendan][Senninike][Shawn435][Shi75][shimmie][Sige][silk5][sjikel][skysilk][SlowThinkr][snkh][snow15][sorani][Springdale][ss13][ssk1673][sssss4093][suala][suishihyou][swanhswanh][sylvia2007][syuhofun][syyamasiro][szo][T123][t8324][tadasi2201][tajimi][TAKA715][takayuki][tashi1944][tengmai][TeTu][th63033][Tibi][tigerwoods][TMAX][to0929][tobimaru][toktok][TOM][Tomchichi][TONBO][Toshi8][TROGON][Tsoldrin][tsowtn][tunatayuu][TYPP][unixqna][Urri108][VanGogh][Waraby][windfield][xef999][yangyi][yasu529][yccming001][Yoshio1][you23][young3388][ys0801][ytt][YUENRON][zhangben][zhongdgch][ZIEL][zorro][zqingo2008][zudaya]
+TB[ea][lh][aa][ba][cb][dc][db][ec][fd][fa][ge][gd][gb][ga][hd][jr][jh][jg][ki][kh]
+[ls][lr][lp][ms][mr][mq][mi][mh][nr][nq][np][nj][ni][nh][os][op][oo][oj][oi][og]
+[pp][pn][pl][ph][qs][qr][qq][qp][qm][rr][rq][rn][rm][sn][sm][oh]TW[gm][gl][hq][hp]
+[ho][hn][hm][ja][lb][mb][ma][bl][nb][ob][pc][pa][qb][qa][rj][ra][si][sa][as][ar]
+[aq][ap][ao][an][nd][am][al][ak][ai][ah][ae][bs][br][bq][bn][bm][bj][bh][bf][cs]
+[cr][cq][co][cl][ck][ch][cg][ds][dr][do][dm][di][dh][df][es][er][eq][fl][ep][en]
+[el][ek][ei][fs][fr][fq][fp][fo][fn][fm][fk][gq][gp][go][gn])

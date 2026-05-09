@@ -1,0 +1,227 @@
+(;
+GM[1]EV[Internet Go Server game: prodi vs JanHora]
+US[Brought to you by IGS PANDANET]
+CoPyright[
+  Copyright (c) PANDANET Inc. 2015
+  Permission to reproduce this game is given, provided proper credit is given.
+  No warrantee, implied or explicit, is understood.
+  Use of this game is an understanding and agreement of this notice.
+]
+GN[prodi-JanHora(B) IGS]RE[B+Resign]
+PW[prodi]WR[5d?]NW[33]
+PB[JanHora]BR[6d?]NB[34]
+PC[IGS:  igs.joyjoy.net 6969]DT[2015-03-25]
+SZ[19]TM[3600]KM[6.500000]LT[]
+RR[Normal]
+C[
+ prodi 5d?: hi, have a nice game
+ JanHora 6d?: 84 hi, enjoy
+]
+;B[qd]BL[3586]
+;W[dc]WL[3594]
+;B[dp]BL[3569]
+;W[pp]WL[3578]
+;B[ce]BL[3550]
+;W[oc]WL[3567]
+;B[lc]BL[3510]
+;W[of]WL[3449]
+;B[od]BL[3461]
+;W[nd]WL[3438]
+;B[oe]BL[3457]
+;W[ne]WL[3436]
+;B[nf]BL[3410]
+;W[pc]WL[3428]
+;B[qc]BL[3357]
+;W[ld]WL[3421]
+;B[kd]BL[3329]
+;W[le]WL[3419]
+;B[qf]BL[3296]
+;W[id]WL[3115]
+;B[ic]BL[3197]
+;W[hc]WL[3030]
+;B[hd]BL[3143]
+;W[ie]WL[2987]
+;B[gc]BL[3071]
+;W[hb]WL[2932]
+;B[gb]BL[2986]
+;W[ib]WL[2908]
+;B[jc]BL[2971]
+;W[gd]WL[2906]
+;B[he]BL[2959]
+;W[hf]WL[2901]
+;B[ge]BL[2888]
+;W[fd]WL[2899]
+;B[if]BL[2884]
+;W[gf]WL[2874]C[
+ krabicka 5d?: omg
+]
+;B[jf]BL[2773]
+;W[lg]WL[2790]
+;B[ng]BL[2749]
+;W[mc]WL[2738]
+;B[qn]BL[2746]
+;W[nq]WL[2729]C[
+ JanHora 6d?: 51 sorry
+ prodi 5d?: misclick i guess?
+ JanHora 6d?: 51 yep
+ JanHora 6d?: 51 can you undo?
+]
+;B[pk]BL[2729]
+;W[cn]WL[2670]
+;B[cc]BL[2636]
+;W[cb]WL[2637]
+;B[db]BL[2611]
+;W[cd]WL[2595]
+;B[bc]BL[2560]
+;W[dd]WL[2581]
+;B[eb]BL[2523]
+;W[bd]WL[2576]
+;B[bb]BL[2523]
+;W[fq]WL[2570]
+;B[dn]BL[2499]
+;W[dm]WL[2569]
+;B[en]BL[2499]
+;W[co]WL[2564]
+;B[cp]BL[2496]
+;W[gp]WL[2554]
+;B[eq]BL[2447]
+;W[er]WL[2547]
+;B[fp]BL[2444]
+;W[fr]WL[2545]
+;B[dr]BL[2442]
+;W[gn]WL[2539]
+;B[dk]BL[2431]
+;W[el]WL[2276]
+;B[fm]BL[2348]
+;W[ek]WL[2265]
+;B[ej]BL[2297]
+;W[gl]WL[2176]
+;B[gm]BL[2100]
+;W[gk]WL[2054]
+;B[ip]BL[2070]
+;W[hn]WL[1973]
+;B[hm]BL[2062]
+;W[in]WL[1942]
+;B[mp]BL[1997]
+;W[jq]WL[1826]
+;B[iq]BL[1922]
+;W[jp]WL[1809]
+;B[jr]BL[1899]
+;W[kr]WL[1805]
+;B[hr]BL[1897]
+;W[jo]WL[1734]
+;B[gq]BL[1866]
+;W[fo]WL[1731]
+;B[ep]BL[1865]
+;W[fe]WL[1670]
+;B[mb]BL[1791]
+;W[nb]WL[1587]
+;B[ch]BL[1680]
+;W[ck]WL[1516]
+;B[cj]BL[1607]
+;W[bk]WL[1512]
+;B[gi]BL[1592]
+;W[bj]WL[1441]
+;B[bi]BL[1549]
+;W[bg]WL[1337]
+;B[ii]BL[1459]
+;W[hh]WL[1311]
+;B[hi]BL[1452]
+;W[ik]WL[1276]
+;B[jj]BL[1404]
+;W[jk]WL[1151]
+;B[kk]BL[1258]
+;W[kj]WL[1136]
+;B[ki]BL[1242]
+;W[lj]WL[1135]
+;B[li]BL[1241]
+;W[mj]WL[1134]
+;B[mi]BL[1237]
+;W[nj]WL[1133]
+;B[je]BL[1214]
+;W[ni]WL[1039]
+;B[kb]BL[1192]
+;W[nh]WL[1020]
+;B[mh]BL[1170]
+;W[mg]WL[1012]
+;B[og]BL[1153]
+;W[mf]WL[918]
+;B[cf]BL[725]
+;W[gh]WL[818]
+;B[ih]BL[583]
+;W[fi]WL[816]
+;B[fj]BL[578]
+;W[ei]WL[816]
+;B[dj]BL[580]
+;W[gj]WL[514]
+;B[dl]BL[419]
+;W[cm]WL[500]
+;B[em]BL[340]
+;W[ij]WL[496]
+;B[ji]BL[289]
+;W[kl]WL[460]
+;B[bo]BL[190]
+;W[bn]WL[454]
+;B[bp]BL[189]
+;W[cg]WL[339]
+;B[dg]BL[187]
+;W[bf]WL[338]
+;B[dh]BL[162]
+;W[jb]WL[252]
+;B[fh]BL[155]
+;W[fg]WL[248]
+;B[eh]BL[152]C[
+ prodi 5d?: you have to requst an undo too i guess?
+ prodi 5d?: request
+ JanHora 6d?: 51 I do so
+ prodi 5d?: hmm, nothing is showing up
+ JanHora 6d?: 51 strange
+ JanHora 6d?: 51 thanks anyway
+ prodi 5d?: sorry
+ prodi 5d?: i'm using an old client, so maybe it has something to do with it
+ JanHora 6d?: 51 ok
+ JanHora 6d?: 51 so undo once more I guess
+ JanHora 6d?: 51 now your move up
+ prodi 5d?: yeah i'm pressing undo
+ prodi 5d?: nothing's showing up?
+ JanHora 6d?: 51 everything is fine now
+ JanHora 6d?: 51 you just have to repeat your last move
+ JanHora 6d?: 51 i meant the live maker
+ JanHora 6d?: 51 hmm, I am confused now, seems you see the board diferently
+ prodi 5d?: i guess so
+ prodi 5d?: something strange is going on
+ prodi 5d?: adjourn and start again?
+ JanHora 6d?: 51 lets try log out first
+ prodi 5d?: ok, all good now
+ JanHora 6d?: 156 cool
+ JanHora 6d?: 156 sorry again
+ prodi 5d?: no rpob
+ prodi 5d?: prob
+ pempu 4d?: Do or die :)
+ pupukani 3d : oho täähän näyttää aika hyvältä
+ pempu 4d?: smells like a semeai
+ pupukani 3d : looks good*
+ pupukani 3d : wheres the semeai master
+ Palomies 3d+: looks like 3-1 for Finland atm
+ breakfast 3p : Palomies, do you know how 4th board played?
+ Palomies 3d+: all games are still on
+ breakfast 3p : hmm, I cannot find board #4
+ pupukani 3d : is it skeletors game?
+ Laman 13k : #53, Skeletor-scurge10
+ prodi 5d?: ejoopd
+ prodi 5d?: whoops
+ JanHora 6d?: 156 yeah
+];
+
+OS[AkinfeevK][anduril][AriSan][baldur][bartus]
+[breakfast][deemendoz][ekorn][Gardan][hegethus]
+[Hidoshito][Hirlader][ivoszz][JeffChang][jirka]
+[Jna][Juippi][Kachnak][Kikoon][krabicka]
+[krikri][lallibob][Laman][Liso][lordik]
+[manocska][mdcl][Mirop][mot1tt1][MSvreco]
+[Namii][Oni][Ootakamoku][Ophinator][Palomies]
+[pempu][Pig][procyon12][puerhista][pupukani]
+[SanKingTim][scurge10][Taksimies][tech55][vakvarju]
+[Veedee][weaker][Xagu2011]
+
+)

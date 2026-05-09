@@ -1,0 +1,57 @@
+(;CA[Windows-1252]NW[33]NB[32]LT[]RR[Normal]C[
+ jer 4d?\: 70 ok
+ krabicka 5d?\: 70 have a nice game
+ jer 4d?\: 70 thanks you too
+]
+AP[MultiGo:4.4.4]SZ[19]GM[1]GN[krabicka-jer(B) IGS]EV[Internet Go Server game\: krabicka vs jer]
+DT[2015-11-11]PC[IGS\:  igs.joyjoy.net 6969]PB[jer]BR[4d?]PW[krabicka]WR[5d?]KM[6.5]
+TM[3600]RE[B+Resign]US[Brought to you by IGS PANDANET]CP[
+  Copyright (c) PANDANET Inc. 2015
+  Permission to reproduce this game is given, provided proper credit is given.
+  No warrantee, implied or explicit, is understood.
+  Use of this game is an understanding and agreement of this notice.
+]
+MULTIGOGM[0]
+;B[pd]BL[3586];W[dc]WL[3599];B[pq]BL[3568];W[dp]WL[3598];B[ce]BL[3539];W[dh]WL[3578]
+;B[jc]BL[3512];W[de]WL[3567];B[fq]BL[3457];W[hq]WL[3547];B[cq]BL[3430];W[dq]WL[3544]
+;B[cp]BL[3429];W[do]WL[3543];B[dr]BL[3428];W[er]WL[3539];B[cr]BL[3427];W[eq]WL[3537]
+;B[cn]BL[3425];W[qo]WL[3536];B[mq]BL[3416];W[qf]WL[3493];B[re]BL[3346];W[rf]WL[3377]
+;B[qj]BL[3252];W[qd]WL[3341];B[qc]BL[3224];W[qe]WL[3302];B[rc]BL[3153];W[od]WL[3239]
+;B[pc]BL[3141];W[of]WL[3230];B[pe]BL[3140];W[ng]WL[3146];B[oe]BL[3085];W[ne]WL[3145]
+;B[pf]BL[3073];W[pg]WL[3144];B[oh]BL[3072];W[og]WL[3143];B[qh]BL[3071];W[qg]WL[3141]
+;B[mc]BL[3033];W[ql]WL[3138];B[qp]BL[3014];W[po]WL[3131];B[ok]BL[2942];W[nm]WL[3095]
+;B[mk]BL[2905];W[lm]WL[3062];B[kk]BL[2865];W[oq]WL[3041];B[or]BL[2838];W[nr]WL[3039]
+;B[nq]BL[2827];W[op]WL[3037];B[qr]BL[2805];W[os]WL[3034];B[pr]BL[2802];W[kq]WL[3031]
+;B[df]BL[2736];W[ee]WL[3007];B[cc]BL[2635];W[cd]WL[2913];B[bd]BL[2632];W[dd]WL[2911]
+;B[bb]BL[2624];W[cb]WL[2895];B[bc]BL[2622];W[cf]WL[2892];B[be]BL[2620];W[ef]WL[2848]
+;B[dn]BL[2497];W[en]WL[2844];B[em]BL[2480];W[fn]WL[2839];B[cj]BL[2428];W[dm]WL[2772]
+;B[cm]BL[2421];W[dl]WL[2769];B[cl]BL[2419];W[dk]WL[2767];B[ck]BL[2244];W[dj]WL[2745]
+;B[ik]BL[2153];W[db]WL[2563];B[bf]BL[2084];W[cg]WL[2561];B[hc]BL[1927];W[ci]WL[2279]
+;B[ba]BL[1882];W[im]WL[2184];B[rh]BL[1798];W[le]WL[2021];B[md]BL[1751];W[mi]WL[1978]
+;B[ji]BL[1637];W[oi]WL[1935];B[oj]BL[1603];W[hi]WL[1834];B[gk]BL[1574];W[ig]WL[1808]
+;B[kh]BL[1516];W[kf]WL[1720];B[lg]BL[1422];W[me]WL[1716];B[pi]BL[1393];W[nh]WL[1634]
+;B[ni]BL[1378];W[nj]WL[1633];B[om]BL[1313];W[nn]WL[1569];B[nl]BL[1271];W[kc]WL[1566]
+;B[kd]BL[1205];W[jd]WL[1564];B[ld]BL[1139];W[ic]WL[1558];B[jb]BL[1138];W[id]WL[1553]
+;B[ib]BL[1136];W[hd]WL[1551];B[gc]BL[1007];W[nd]WL[1549];B[nb]BL[962];W[jl]WL[1528]
+;B[jk]BL[955];W[gd]WL[1435];B[hm]BL[788];W[hn]WL[1407];B[gm]BL[786];W[gn]WL[1403]
+;B[gi]BL[709];W[gh]WL[1372];B[gj]BL[695];W[lp]WL[1345];B[fh]BL[669];W[gg]WL[1326]
+;B[mh]BL[663];W[oi]WL[1324];B[ei]BL[660];W[di]WL[1270];B[ni]BL[657];W[co]WL[1252]
+;B[bo]BL[650];W[oi]WL[1239];B[lr]BL[635];W[kr]WL[1236];B[ni]BL[628];W[bp]WL[1231]
+;B[bn]BL[606];W[oi]WL[1229];B[ks]BL[526];W[js]WL[1221];B[ls]BL[522];W[es]WL[1110]
+;B[ni]BL[378];W[nc]WL[1088];B[mb]BL[369];W[oi]WL[1084];B[jr]BL[368];W[is]WL[1081]
+;B[ni]BL[367];W[mg]WL[983];B[lh]BL[347];W[oi]WL[960];B[ir]BL[341];W[hs]WL[958];B[ni]
+BL[341];W[ro]WL[758];B[rp]BL[288];W[oi]WL[756];B[hr]BL[271];W[gs]WL[753];B[ni]BL[269]
+;W[sp]WL[750];B[rq]BL[224];W[oi]WL[748];B[fs]BL[219];W[gr]WL[747];B[ni]BL[218];W[fc]
+WL[686];B[fb]BL[184];W[oi]WL[685];B[fr]BL[181];W[gq]WL[684];B[ni]BL[180];W[lq]WL[677]
+;B[mr]BL[173];W[oi]WL[676];B[fp]BL[170];W[eo]WL[639];B[ni]BL[169];W[rd]WL[509];B[oi]
+BL[146];W[sc]WL[505];B[sb]BL[129];W[sd]WL[503];B[ra]BL[113];W[rk]WL[501];B[fg]BL[46]
+;W[ff]WL[484];B[kl]BL[14];W[km]WL[482];B[il]BL[11];W[jm]WL[482];B[ds]BL[461];W[eb]
+WL[435];B[fa]BL[419];W[ke]WL[359];B[rj]BL[355];W[ob]WL[113];B[oc]BL[315];W[hb]WL[106]
+;B[gb]BL[296];W[ha]WL[103];B[ia]BL[287];W[kb]WL[97];B[ga]BL[285];W[la]WL[97];B[ma]
+BL[227];W[bj]WL[427];B[bk]BL[224];W[bi]WL[424];B[jg]BL[221];W[jf]WL[423];B[ih]BL[216]
+;W[hh]WL[423];B[rm]BL[205];W[qm]WL[382];B[rl]BL[198];W[qk]WL[381];B[sk]BL[193];W[fm]
+WL[377];B[fl]BL[190];W[hj]WL[376];B[hk]BL[187];W[rn]WL[322];B[sl]BL[175];W[on]WL[319]
+;B[if]BL[160];W[hg]WL[317];B[bg]BL[133];W[bh]WL[304];B[eg]BL[130];W[dg]WL[302];B[np]
+BL[87];W[no]WL[299];B[pp]BL[85];W[oo]WL[299];B[pm]BL[51];W[kg]WL[296];B[jh]BL[48]
+;W[ll]WL[295];B[lk]BL[32];W[ij]WL[290];B[el]BL[561];W[jj]WL[288];B[kj]BL[560];W[ej]
+WL[267];B[lf]BL[519];OS[ajwn4019][Antoine][BenjaminDG][Chachu][doctor][Gwendal][Hidoshito][JanHora][Jna][jusi][Laman][Lukan][M2015][mamutik][mienai][mosco][nyoshi][oragefan][Palko][puerhista][Roln][sacrilege][SlepyKrtek][ThomasD])

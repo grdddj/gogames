@@ -1,0 +1,411 @@
+(;
+GM[1]EV[Internet Go Server game: krabicka vs Wade]
+US[Brought to you by IGS PANDANET]
+CoPyright[
+  Copyright (c) PANDANET Inc. 2016
+  Permission to reproduce this game is given, provided proper credit is given.
+  No warrantee, implied or explicit, is understood.
+  Use of this game is an understanding and agreement of this notice.
+]
+GN[krabicka-Wade(B) IGS]RE[B+2.5]
+PW[krabicka]WR[5d?]NW[33]
+PB[Wade]BR[5d?]NB[33]
+PC[IGS:  igs.joyjoy.net 6969]DT[2016-11-30]
+SZ[19]TM[3600]KM[6.500000]LT[]
+RR[Normal]
+C[
+ Wade 5d?: 9 have fun
+]
+;B[qd]BL[3572]
+;W[dc]WL[3598]
+;B[pp]BL[3488]
+;W[dp]WL[3586]
+;B[de]BL[3482]
+;W[cg]WL[3582]
+;B[cc]BL[3468]
+;W[gc]WL[3502]
+;B[fd]BL[3465]
+;W[cb]WL[3477]
+;B[dd]BL[3461]
+;W[bc]WL[3473]
+;B[cd]BL[3394]
+;W[eb]WL[3469]
+;B[dh]BL[3376]
+;W[ch]WL[3453]
+;B[di]BL[3373]
+;W[dg]WL[3450]
+;B[eg]BL[3371]
+;W[ci]WL[3449]
+;B[dj]BL[3369]
+;W[ck]WL[3447]
+;B[ec]BL[3355]
+;W[db]WL[3435]
+;B[he]BL[3247]
+;W[od]WL[3381]
+;B[pf]BL[3070]
+;W[qc]WL[3376]
+;B[rc]BL[3069]
+;W[pc]WL[3373]
+;B[re]BL[2947]
+;W[ld]WL[3104]
+;B[jq]BL[2893]
+;W[qn]WL[3097]
+;B[np]BL[2880]
+;W[qj]WL[3027]
+;B[ql]BL[2824]
+;W[rl]WL[2985]
+;B[fq]BL[2803]
+;W[dn]WL[2928]C[
+ scurge10 4d?: krabicka go go!
+]
+;B[qo]BL[2748]
+;W[pn]WL[2908]
+;B[rn]BL[2746]
+;W[rm]WL[2901]
+;B[ro]BL[2745]
+;W[dr]WL[2813]C[
+ scurge10 4d?: I wonder if c8 is smth O.o
+]
+;B[pl]BL[2688]
+;W[qm]WL[2799]
+;B[qh]BL[2680]
+;W[oj]WL[2786]
+;B[nl]BL[2674]
+;W[nn]WL[2775]
+;B[ll]BL[2530]
+;W[ln]WL[2646]
+;B[lp]BL[2395]
+;W[mj]WL[2623]C[
+ Lukan 5d?: some aji there is but probably not directly
+]
+;B[nk]BL[2242]
+;W[nj]WL[2592]
+;B[pj]BL[2236]C[
+ scurge10 4d?: if b plans to p7 isnt it better to start there?
+ scurge10 4d?: ah, oops missread
+]
+;W[pi]WL[2475]
+;B[qi]BL[2164]
+;W[pk]WL[2467]
+;B[om]BL[2162]C[
+ scurge10 4d?: haha didnt missread!
+]
+;W[on]WL[2379]
+;B[rj]BL[2155]
+;W[rk]WL[2375]
+;B[qk]BL[2154]
+;W[pj]WL[2326]C[
+ Kachnak 3d?: w considering ko?
+ Lukan 5d?: can't b die?
+ Lukan 5d?: p8-m9 etc.
+]
+;B[mm]BL[2088]C[
+ Lukan 5d?: take the stone and w completely fine
+]
+;W[ri]WL[2284]
+;B[rh]BL[2085]
+;W[sj]WL[2279]
+;B[mn]BL[2083]
+;W[dk]WL[2219]
+;B[hc]BL[1969]
+;W[fc]WL[2174]
+;B[ed]BL[1763]
+;W[ef]WL[2139]
+;B[fg]BL[1746]
+;W[ff]WL[2054]
+;B[gg]BL[1727]
+;W[gd]WL[2022]
+;B[ge]BL[1720]
+;W[df]WL[2020]
+;B[fe]BL[1715]
+;W[hd]WL[1996]
+;B[id]BL[1712]
+;W[ie]WL[1995]
+;B[jd]BL[1511]C[
+ porcorosso 1d+: is B in trouble ?
+ Lukan 5d?: in a deep one
+]
+;W[gf]WL[1755]
+;B[hf]BL[1475]
+;W[hg]WL[1754]
+;B[ig]BL[1323]
+;W[hh]WL[1752]
+;B[ih]BL[1315]
+;W[hi]WL[1709]
+;B[ii]BL[1278]
+;W[hj]WL[1678]
+;B[mc]BL[1199]
+;W[lc]WL[1624]
+;B[lb]BL[1180]
+;W[md]WL[1607]
+;B[mb]BL[1159]
+;W[kb]WL[1600]
+;B[jb]BL[1153]
+;W[kd]WL[1540]
+;B[hb]BL[1143]
+;W[gb]WL[1537]
+;B[ga]BL[1077]
+;W[fb]WL[1535]
+;B[ne]BL[1029]
+;W[nd]WL[1464]C[
+ porcorosso 1d+: OK now W has to be carefull no ?
+]
+;B[kf]BL[953]C[
+ scurge10 4d?: not really
+]
+;W[jc]WL[1256]
+;B[ic]BL[944]
+;W[ja]WL[1254]
+;B[kc]BL[936]
+;W[je]WL[1253]C[
+ Lukan 5d?: what is w doing?
+ porcorosso 1d+: yeah seems wrong unless I dont undersatnd
+ porcorosso 1d+: B l19 now and W is bad no ?
+ Lukan 5d?: not needed complication ;-(
+]
+;B[ka]BL[861]
+;W[ke]WL[1251]
+;B[if]BL[860]C[
+ scurge10 4d?: lol why :D omino omg :D
+ scurge10 4d?: proc jenom nesestoupil? :)
+ Lukan 5d?: nevim
+]
+;W[of]WL[781]
+;B[ij]BL[812]C[
+ Lukan 5d?: uff, please connect the groups now
+]
+;W[pe]WL[732]
+;B[og]BL[729]
+;W[pg]WL[673]
+;B[ph]BL[692]
+;W[qf]WL[547]
+;B[nh]BL[645]
+;W[ng]WL[442]
+;B[oh]BL[641]
+;W[mo]WL[439]
+;B[lo]BL[567]
+;W[lk]WL[306]
+;B[kl]BL[514]
+;W[mh]WL[262]
+;B[mg]BL[507]C[
+ scurge10 4d?: se jeste pekne zapoti
+ Lukan 5d?: to dost, na to jaky to byl tutorial
+ scurge10 4d?: jn skoda
+ Lukan 5d?: az do toho horejsku
+ scurge10 4d?: by to urco taky rad mel za sebou
+]
+;W[lg]WL[25]
+;B[nf]BL[505]
+;W[lf]WL[24]C[
+ scurge10 4d?: jooo spojil to ;D
+ Lukan 5d?: hurray!
+ maayanb 2d?: pfft
+ scurge10 4d?: haha
+ porcorosso 1d+: B should have played n10 not o14 ...
+ scurge10 4d?: roomie you should play :P
+]
+;B[rf]BL[391]C[
+ maayanb 2d?: i wanted to :(
+]
+;W[lh]WL[578]C[
+ Lukan 5d?: checking israeli squad, many solid players in reserve
+]
+;B[hk]BL[387]
+;W[fj]WL[548]C[
+ maayanb 2d?: ya.. we seem to all get stuck around the same lvl
+]
+;B[gk]BL[383]
+;W[fi]WL[546]C[
+ maayanb 2d?: which is probably when you have to really start taking things seriously if you wanna keep improving./.
+]
+;B[fo]BL[359]
+;W[no]WL[537]
+;B[mp]BL[354]C[
+ scurge10 4d?: mhmm
+ Lukan 5d?: F2 come on
+]
+;W[rb]WL[479]
+;B[sb]BL[351]C[
+ porcorosso 1d+: B seems to have a chance in this game still no ?
+]
+;W[kj]WL[223]C[
+ porcorosso 1d+: b B16 is big sente ..
+]
+;B[jk]BL[292]
+;W[fr]WL[220]C[
+ JanHora2 6d?: white seems komi ahaed to me
+]
+;B[gr]BL[177]
+;W[eq]WL[218]
+;B[gq]BL[166]
+;W[qb]WL[210]
+;B[qg]BL[157]
+;W[gs]WL[208]C[
+ porcorosso 1d+: B q16 seems intersting ..
+]
+;B[hs]BL[145]
+;W[fs]WL[206]
+;B[hr]BL[144]C[
+ Lukan 5d?: Q16 doesnt work
+ porcorosso 1d+: what follows Q16 ?
+]
+;W[pf]WL[178]C[
+ scurge10 4d?: because of k19 porca
+]
+;B[pd]BL[137]
+;W[oe]WL[176]
+;B[ob]BL[136]C[
+ Lukan 5d?: yea
+]
+;W[oc]WL[174]
+;B[sh]BL[129]C[
+ porcorosso 1d+: yeah right R18 protected that ..
+ JanHora2 6d?: finished now
+]
+;W[fm]WL[146]
+;B[gm]BL[124]C[
+ Lukan 5d?: hopefully, we have said that once already and it didnt happen :)
+]
+;W[fn]WL[139]
+;B[gn]BL[122]C[
+ scurge10 4d?: isnt it like even? O.o
+]
+;W[fk]WL[79]
+;B[eo]BL[114]
+;W[do]WL[76]
+;B[bd]BL[112]
+;W[bb]WL[73]
+;B[bf]BL[111]
+;W[op]WL[71]
+;B[oq]BL[109]
+;W[po]WL[71]C[
+ maayanb 2d?: shouldn't g2 be at e3?
+]
+;B[qp]BL[89]C[
+ Lukan 5d?: not in this case probably
+]
+;W[qe]WL[60]
+;B[rd]BL[86]
+;W[bg]WL[58]
+;B[si]BL[83]
+;W[rj]WL[52]
+;B[kg]BL[81]
+;W[oa]WL[8]
+;B[me]BL[69]
+;W[le]WL[596]
+;B[nb]BL[59]C[
+ scurge10 4d?: t17
+]
+;W[kh]WL[532]
+;B[ji]BL[16]
+;W[ki]WL[516]
+;B[ag]BL[14]
+;W[ah]WL[512]
+;B[af]BL[13]C[
+ Lukan 5d?: actually its extremely close...
+ porcorosso 1d+: indeed .it is
+ scurge10 4d?: I think b+ 2-4 :/
+]
+;W[cf]WL[390]
+;B[ad]BL[10]
+;W[sc]WL[361]
+;B[sd]BL[3]
+;W[cj]WL[331]
+;B[ac]BL[588]
+;W[ab]WL[330]
+;B[ce]BL[576]C[
+ porcorosso 1d+: B has A17 , F10 sente no ?
+]
+;W[gl]WL[261]
+;B[hl]BL[574]
+;W[fl]WL[261]
+;B[gj]BL[566]
+;W[gi]WL[260]
+;B[ni]BL[564]
+;W[mi]WL[240]
+;B[sm]BL[494]
+;W[sl]WL[237]
+;B[sn]BL[493]
+;W[fa]WL[229]
+;B[ha]BL[490]
+;W[en]WL[229]
+;B[ep]BL[446]C[
+ porcorosso 1d+: yeah B won unless last move creates a problem that is ...
+]
+;W[pa]WL[185]
+;B[na]BL[444]
+;W[pb]WL[175]
+;B[ra]BL[421]
+;W[jf]WL[164]
+;B[jg]BL[416]
+;W[oo]WL[153]
+;B[sc]BL[414]
+;W[kk]WL[152]
+;B[jj]BL[413]
+;W[mk]WL[144]
+;B[ml]BL[412]
+;W[qa]WL[131]
+;B[sa]BL[403]
+;W[nq]WL[84]
+;B[nr]BL[380]
+;W[pm]WL[50]
+;B[ol]BL[377]
+;W[jh]WL[46]
+;B[ng]BL[375]
+;W[ok]WL[599]
+;B[sf]BL[373]
+;W[ee]WL[598]
+;B[tt]BL[371]
+;W[nm]WL[591]
+;B[tt]BL[369]C[
+ Lukan 5d?: some stuff inside? ^^
+ scurge10 4d?: a15 even if you want to pass after :P
+ porcorosso 1d+: stuff inside only chance for W .
+]
+;W[ae]WL[479]
+;B[be]BL[366]
+;W[go]WL[477]
+;B[fp]BL[365]C[
+ porcorosso 1d+: maybe k8 cut creates prolems ?
+]
+;W[hm]WL[471]
+;B[hn]BL[364]
+;W[im]WL[469]
+;B[in]BL[599]C[
+ Lukan 5d?: ah right...
+]
+;W[jm]WL[426]
+;B[jn]BL[591]C[
+ porcorosso 1d+: B just holds it together ...
+]
+;W[tt]WL[362]
+;B[tt]BL[589]
+;W[tt]WL[362]C[
+ Wade 5d?: Wade dead @ M6
+ Wade 5d?: Wade dead @ O3
+ Wade 5d?: Wade dead @ K7
+ Wade 5d?: Wade dead @ K19
+ krabicka 5d?: krabicka dead @ D12
+ Wade 5d?: Wade dead @ F13
+ Wade 5d?: Wade dead @ G5
+ Wade done
+];
+
+TW[as][ar][aq][ap][ao][an][am][al][ak][aj][ai][aa][bs][br][bq][bp][bo][bn]
+[bm][bl][bk][bj][bi][bh][ba][cs][cr][cq][cp][co][cn][cm][cl][ca][ds][dq]
+[dm][dl][dj][di][dh][da][es][er][em][el][ek][ej][ei][eh][eg][ea][fh][fg]
+[gh][gg][lj][li][sk]
+
+TB[ae][gp][go][hq][hp][ho][hm][is][ir][iq][ip][io][im][il][ik][ib][ia][js]
+[jr][jp][jo][jm][jl][jc][ja][ks][kr][kq][kp][ko][kn][km][kb][ls][lr][lq]
+[ln][lm][la][ms][mr][mq][ma][ns][nq][os][or][ps][pr][pq][qs][qr][qq][rs]
+[rr][rq][rp][rg][ss][sr][sq][sp][so][sg][se]
+
+OS[andre2][andreyl][crocus][Deadleaves][FieldMouse]
+[gerushka][hami][Hidoshito][hvkRO1][iHoldKiesi]
+[JanHora2][Jna][Kachnak][KS][Laman]
+[Lukan][m19350102h][maayanb][Milos][Nighthawk]
+[OferZivo][Palko][porcorosso][rokutaro][scurge10]
+[SlepyKrtek][Veedee][youngpro]
+
+)

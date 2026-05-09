@@ -1,0 +1,417 @@
+(;
+GM[1]EV[Internet Go Server game: JanHora vs shimamura]
+US[Brought to you by IGS PANDANET]
+CoPyright[
+ Copyright (c) PANDANET Inc. 2012
+ Permission to reproduce this game is given, provided proper credit is given.
+ No warrantee, implied or explicit, is understood.
+ Use of this game is an understanding and agreement of this notice.
+]
+GN[JanHora-shimamura(B) IGS]RE[W+6.5]
+PW[JanHora]WR[6d?]NW[34]
+PB[shimamura]BR[6d?]NB[34]
+PC[IGS:  igs.joyjoy.net 6969]DT[2012-03-14]
+SZ[19]TM[3600]KM[6.500000]LT[]
+RR[Normal]
+C[
+ shimamura 6d?: have a nice game
+]
+;B[pd]BL[3593]C[
+ JanHora 6d?: you too, njoz the game
+ JanHora 6d?: * enjoy
+]
+;W[dp]WL[3570]
+;B[pp]BL[3570]
+;W[dc]WL[3512]
+;B[cf]BL[3526]
+;W[cd]WL[3492]
+;B[dj]BL[3434]
+;W[cl]WL[3456]
+;B[ef]BL[3381]
+;W[gc]WL[3435]
+;B[cn]BL[3271]
+;W[dn]WL[3269]
+;B[do]BL[3220]
+;W[eo]WL[3244]
+;B[co]BL[3219]
+;W[dm]WL[3228]
+;B[cp]BL[3217]
+;W[dq]WL[3194]
+;B[cq]BL[3216]
+;W[cr]WL[3193]
+;B[br]BL[3214]
+;W[dr]WL[3193]
+;B[bm]BL[3213]
+;W[jq]WL[3179]
+;B[ip]BL[3175]
+;W[jp]WL[3164]
+;B[io]BL[3170]
+;W[jo]WL[3148]
+;B[in]BL[3164]
+;W[hr]WL[3114]
+;B[gq]BL[3123]
+;W[hq]WL[3098]
+;B[fo]BL[3105]
+;W[fn]WL[3070]
+;B[ep]BL[3097]
+;W[en]WL[3070]
+;B[eq]BL[2949]
+;W[er]WL[3051]
+;B[go]BL[2795]
+;W[hp]WL[3027]
+;B[fq]BL[2772]
+;W[gp]WL[3021]
+;B[fp]BL[2767]
+;W[bs]WL[3002]
+;B[ar]BL[2723]
+;W[fr]WL[3000]
+;B[gn]BL[2712]
+;W[fk]WL[2980]
+;B[hk]BL[2502]
+;W[fi]WL[2924]
+;B[nq]BL[2454]
+;W[km]WL[2882]
+;B[jk]BL[2390]
+;W[lk]WL[2847]
+;B[dk]BL[2349]
+;W[bl]WL[2701]
+;B[el]BL[2260]
+;W[ci]WL[2650]
+;B[di]BL[2251]
+;W[ch]WL[2639]
+;B[dh]BL[2246]
+;W[am]WL[2578]
+;B[an]BL[2242]
+;W[cm]WL[2576]
+;B[al]BL[2187]
+;W[ak]WL[2571]
+;B[ap]BL[2144]
+;W[am]WL[2568]
+;B[bn]BL[2142]
+;W[cg]WL[2567]
+;B[dg]BL[2054]C[
+ JanHora 6d?: sorry, conection failed
+ shimamura 6d?: np
+]
+;W[bf]WL[2411]
+;B[fm]BL[1886]
+;W[qp]WL[2368]
+;B[qq]BL[1870]
+;W[qo]WL[2362]
+;B[rq]BL[1865]
+;W[po]WL[2360]
+;B[op]BL[1862]
+;W[qf]WL[2306]
+;B[nc]BL[1706]
+;W[rd]WL[2240]
+;B[qg]BL[1658]
+;W[pg]WL[2205]
+;B[qh]BL[1655]
+;W[ph]WL[2149]
+;B[rf]BL[1648]
+;W[qe]WL[2149]
+;B[qj]BL[1646]
+;W[pi]WL[2145]
+;B[qm]BL[1581]
+;W[qc]WL[2072]
+;B[kc]BL[1571]
+;W[qi]WL[2012]
+;B[ri]BL[1569]
+;W[rh]WL[2007]
+;B[rk]BL[1551]
+;W[si]WL[1998]
+;B[om]BL[1519]
+;W[rj]WL[1961]
+;B[kh]BL[1443]
+;W[gf]WL[1898]
+;B[ed]BL[1431]
+;W[fc]WL[1801]
+;B[ec]BL[1384]
+;W[eb]WL[1787]
+;B[fb]BL[1382]
+;W[cb]WL[1764]
+;B[ea]BL[1378]
+;W[db]WL[1763]
+;B[gd]BL[1369]
+;W[hd]WL[1753]
+;B[hc]BL[1330]
+;W[ic]WL[1681]
+;B[hb]BL[1326]
+;W[fd]WL[1681]
+;B[fe]BL[1316]
+;W[ge]WL[1680]
+;B[gb]BL[1315]
+;W[gd]WL[1680]
+;B[ib]BL[1312]
+;W[kf]WL[1667]
+;B[ih]BL[1196]
+;W[ff]WL[1632]
+;B[ee]BL[1191]
+;W[jc]WL[1594]
+;B[jb]BL[1188]
+;W[kd]WL[1594]
+;B[lc]BL[1140]
+;W[hi]WL[1551]
+;B[ii]BL[1066]
+;W[hj]WL[1542]
+;B[ij]BL[955]
+;W[gk]WL[1539]
+;B[hl]BL[866]C[
+ JanHora 6d?: I am very sorry, but may happen again :(
+ shimamura 6d?: it.s ok
+]
+;W[lq]WL[1303]
+;B[bg]BL[818]
+;W[ce]WL[1275]
+;B[fg]BL[764]
+;W[gg]WL[1215]
+;B[bj]BL[754]
+;W[cj]WL[1088]
+;B[ck]BL[751]
+;W[bk]WL[1088]
+;B[bi]BL[745]
+;W[df]WL[1087]
+;B[bh]BL[743]
+;W[cf]WL[1087]
+;B[dl]BL[734]C[
+ Uberdude 2d?: b is jim?
+ Kachnak 1d+: yes
+]
+;W[ag]WL[972]
+;B[em]BL[728]
+;W[ah]WL[971]
+;B[al]BL[726]C[
+ lordik BC : this KO decides a game, right?
+ Laman 13k : something around P5?
+]
+;W[nr]WL[930]C[
+ Laman 13k : i dont like this ko for white
+]
+;B[or]BL[646]
+;W[am]WL[882]
+;B[iq]BL[642]
+;W[ir]WL[881]
+;B[al]BL[641]C[
+ lordik BC : white defends both groups, right? That is tough!
+]
+;W[nn]WL[606]
+;B[on]BL[547]
+;W[am]WL[585]
+;B[hh]BL[540]
+;W[gh]WL[550]
+;B[al]BL[536]
+;W[rl]WL[521]
+;B[rm]BL[497]
+;W[am]WL[519]
+;B[af]BL[482]
+;W[ae]WL[512]
+;B[al]BL[481]
+;W[mo]WL[511]
+;B[oo]BL[461]
+;W[am]WL[509]
+;B[gr]BL[460]
+;W[ai]WL[390]
+;B[gs]BL[407]
+;W[mr]WL[374]
+;B[pb]BL[374]
+;W[pc]WL[368]
+;B[oc]BL[368]
+;W[qk]WL[342]
+;B[qb]BL[355]
+;W[rb]WL[334]
+;B[ld]BL[216]
+;W[ke]WL[317]
+;B[sm]BL[180]
+;W[jg]WL[173]
+;B[sk]BL[123]
+;W[qa]WL[129]
+;B[ob]BL[102]
+;W[ql]WL[510]
+;B[sl]BL[89]
+;W[ok]WL[482]
+;B[kr]BL[537]
+;W[jr]WL[461]
+;B[mq]BL[532]
+;W[lr]WL[457]
+;B[mp]BL[418]
+;W[lp]WL[373]
+;B[mm]BL[405]
+;W[os]WL[372]C[
+ Koubic 1d?: medved vyhral, pisa prohral lukan hraje
+]
+;B[pr]BL[396]C[
+ Kachnak 1d+: lukan hraje?
+ Koubic 1d?: prej v jiny mistnosti
+ Koubic 1d?: ale sam ho nevidim
+ Liso 8k?: daj leave room
+ feste 5k : you said a mouthfull
+ Liso 8k?: game 107
+ Liso 8k?: do konzoly mozes napisat "observe 107"
+]
+;W[jm]WL[226]C[
+ Kachnak 1d+: sup sup dik dik
+ Koubic 1d?: O.o What kind of sorcery is that :), Diky!
+]
+;B[nm]BL[244]
+;W[im]WL[213]
+;B[hm]BL[229]
+;W[ho]WL[209]
+;B[hn]BL[228]C[
+ Liso 8k?: why catalin dont play?
+]
+;W[li]WL[111]
+;B[ln]BL[216]
+;W[lo]WL[110]
+;B[mf]BL[191]
+;W[oe]WL[87]
+;B[od]BL[182]
+;W[ne]WL[87]
+;B[pe]BL[148]
+;W[pf]WL[78]
+;B[ng]BL[138]
+;W[me]WL[68]
+;B[lg]BL[115]
+;W[mh]WL[55]
+;B[mg]BL[90]C[
+ Liso 8k?: joj
+]
+;W[ki]WL[40]
+;B[le]BL[66]
+;W[og]WL[38]
+;B[jh]BL[48]
+;W[ig]WL[33]
+;B[mj]BL[33]
+;W[mk]WL[25]
+;B[nj]BL[28]
+;W[nk]WL[20]
+;B[nh]BL[26]
+;W[lj]WL[16]
+;B[mi]BL[20]
+;W[lh]WL[14]
+;B[kg]BL[17]
+;W[oj]WL[9]
+;B[ni]BL[15]
+;W[hg]WL[6]
+;B[pl]BL[13]
+;W[pk]WL[594]
+;B[sj]BL[12]
+;W[ri]WL[581]
+;B[kn]BL[583]
+;W[jn]WL[578]C[
+ Liso 8k?: m14?
+]
+;B[lf]BL[486]C[
+ Kachnak 1d+: ;\
+]
+;W[lm]WL[469]
+;B[mn]BL[484]
+;W[no]WL[468]
+;B[pa]BL[471]
+;W[ra]WL[461]
+;B[qd]BL[458]
+;W[rc]WL[456]
+;B[ps]BL[366]
+;W[np]WL[451]
+;B[oq]BL[364]
+;W[ol]WL[451]C[
+ Liso 8k?: france won
+]
+;B[pm]BL[359]
+;W[il]WL[451]
+;B[ik]BL[351]
+;W[fh]WL[440]
+;B[eg]BL[347]
+;W[da]WL[431]
+;B[fa]BL[338]
+;W[ns]WL[414]
+;B[ej]BL[325]
+;W[fj]WL[412]
+;B[ko]BL[311]
+;W[md]WL[408]
+;B[kp]BL[307]
+;W[kq]WL[408]
+;B[mc]BL[305]
+;W[hs]WL[402]
+;B[al]BL[302]
+;W[aj]WL[400]
+;B[am]BL[297]
+;W[gl]WL[393]
+;B[gm]BL[296]
+;W[kk]WL[392]
+;B[ml]BL[291]
+;W[ll]WL[384]
+;B[jl]BL[289]
+;W[of]WL[377]
+;B[nd]BL[284]C[
+ Sur 11k+: skoda toho Lukana
+]
+;W[oi]WL[376]
+;B[nf]BL[278]C[
+ Liso 8k?: veru
+]
+;W[ji]WL[374]C[
+ justarrow 6d?: chinese counting?
+]
+;B[jj]BL[277]
+;W[kj]WL[374]
+;B[kl]BL[273]C[
+ Lukan 5d?: ja sjem fakt debil...
+]
+;W[nl]WL[596]
+;B[oh]BL[271]C[
+ Lukan 5d?: kvuli me nevyhrajeme
+]
+;W[fl]WL[593]
+;B[eh]BL[595]
+;W[dd]WL[592]C[
+ LeT 2d : mels to vyhrany?
+]
+;B[ek]BL[590]C[
+ krabicka 5d?: rem?a sta?
+]
+;W[de]WL[592]
+;B[ei]BL[589]C[
+ Lukan 5d?: podle me tak o 5
+]
+;W[tt]WL[588]
+;B[tt]BL[587]
+;W[tt]WL[588]C[
+ shimamura 6d?: shimamura dead @ R5
+ shimamura 6d?: shimamura dead @ D2
+ krabicka 5d?: jo a lukan by to vyhr?...
+ shimamura 6d?: shimamura dead @ B1
+ Liso 8k?: unava je svina
+ JanHora 6d?: JanHora dead @ R10
+ JanHora 6d?: JanHora dead @ R12
+ shimamura 6d?: shimamura dead @ S14
+ shimamura 6d?: shimamura dead @ L2
+ Pig 3d?: jeste jsem si rikal, ze po jeho m2 zahrajes f1 a je konec :(
+ JanHora done
+];
+
+TW[af][ad][ac][ab][aa][bj][bi][bh][bg][be][bd][bc][bb][ba][cc][ca][gj][gi]
+[hf][he][is][if][ie][id][js][jf][je][jd][ks][kr][ls][ms][pj][qj][qh][qg]
+[rg][rf][re][sh][sg][sf][se][sd][sc][sb][sa]
+
+TB[as][aq][ao][bs][bq][bp][bo][cs][cr][ds][dr][dq][dp][es][er][fs][fr][ga]
+[ha][ia][ja][kb][ka][lb][la][mb][ma][nb][na][oa][pq][po][pn][qs][qr][qp]
+[qo][qn][rs][rr][rp][ro][rn][ss][sr][sq][sp][so][sn]
+
+OS[a2440512][ajwn4019][Alingo][appo][artem9212]
+[bcn][BenjaminP][betterlife][Bohdan][Bojanic]
+[bombay][clam][Cornel][CPop][crocus]
+[Dika][ejlo][Eske][Fede][feste]
+[Fiktik][gogoigo][gotou27][guta57][henryg]
+[hermitek][im16455768][Jna][justarrow][Kachnak]
+[kare][karpisek][keronnpa][kidu24][Koubic]
+[krabicka][krikri][ks0116][Laman][lazer]
+[Lesio][LeT][Liso][ljkramer][lordik]
+[Lukan][MacArthur][mamutik][manocska][mareks]
+[mh01][mienai][moth][Nighthawk][Nilatarion]
+[nina][Palko][philander][Pig][pilgrim]
+[piskvorky][pogacsa][pollybis][s600][Sadiker]
+[sammyk][seichan][sk23][Sur][Tajka]
+[tyam][tymak][Uberdude][Veedee][vektor]
+[weaker][Yuki1378]
+
+)

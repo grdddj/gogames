@@ -1,0 +1,372 @@
+(;
+GM[1]EV[Internet Go Server game: prodi vs krabicka]
+US[Brought to you by IGS PANDANET]
+CoPyright[
+  Copyright (c) PANDANET Inc. 2016
+  Permission to reproduce this game is given, provided proper credit is given.
+  No warrantee, implied or explicit, is understood.
+  Use of this game is an understanding and agreement of this notice.
+]
+GN[prodi-krabicka(B) IGS]RE[B+2.5]
+PW[prodi]WR[5d?]NW[33]
+PB[krabicka]BR[5d?]NB[33]
+PC[IGS:  igs.joyjoy.net 6969]DT[2016-05-11]
+SZ[19]TM[3600]KM[6.500000]LT[]
+RR[Normal]
+C[
+ prodi 5d?: 40 have a nice game!
+]
+;B[pd]BL[3594]C[
+ krabicka 5d?: 40 have a nice game
+]
+;W[dd]WL[3593]
+;B[pq]BL[3593]
+;W[dp]WL[3564]
+;B[fq]BL[3591]
+;W[cn]WL[3558]
+;B[jp]BL[3575]
+;W[pn]WL[3493]
+;B[ql]BL[3513]
+;W[op]WL[3403]
+;B[oq]BL[3498]
+;W[pp]WL[3381]
+;B[np]BL[3434]
+;W[qq]WL[3377]
+;B[mq]BL[3428]
+;W[rp]WL[3321]
+;B[fc]BL[3395]
+;W[hc]WL[3248]
+;B[fe]BL[3368]
+;W[df]WL[3237]
+;B[id]BL[3346]
+;W[ic]WL[3216]
+;B[jd]BL[3333]
+;W[hd]WL[3213]
+;B[he]BL[3328]
+;W[jc]WL[3212]
+;B[kd]BL[3324]
+;W[lc]WL[3207]
+;B[me]BL[3312]
+;W[nc]WL[3152]
+;B[mb]BL[3267]
+;W[mc]WL[3074]
+;B[oe]BL[3120]
+;W[pk]WL[2868]
+;B[pl]BL[3097]
+;W[ol]WL[2863]
+;B[ok]BL[3071]
+;W[pj]WL[2821]
+;B[om]BL[2950]
+;W[nl]WL[2818]
+;B[pm]BL[2877]
+;W[nj]WL[2804]
+;B[ge]BL[2457]
+;W[pb]WL[2656]
+;B[ch]BL[2444]
+;W[eg]WL[2652]
+;B[ce]BL[2426]
+;W[de]WL[2617]
+;B[bf]BL[2413]
+;W[di]WL[2429]
+;B[ci]BL[2370]
+;W[dj]WL[2427]
+;B[cj]BL[2263]
+;W[dk]WL[2421]
+;B[cl]BL[2262]
+;W[dr]WL[2379]
+;B[dl]BL[2246]
+;W[el]WL[2240]
+;B[em]BL[2241]
+;W[fl]WL[2238]
+;B[cc]BL[2237]
+;W[qc]WL[2200]
+;B[qd]BL[2170]
+;W[dc]WL[2062]
+;B[cb]BL[2169]
+;W[fm]WL[1811]
+;B[fj]BL[2004]
+;W[gi]WL[1583]
+;B[fi]BL[1968]
+;W[fh]WL[1516]
+;B[gj]BL[1957]
+;W[hj]WL[1492]
+;B[eh]BL[1915]
+;W[gg]WL[1336]
+;B[hi]BL[1905]
+;W[gh]WL[1334]
+;B[dh]BL[1900]
+;W[ii]WL[1299]
+;B[ob]BL[1865]
+;W[oc]WL[1286]
+;B[pc]BL[1864]
+;W[qb]WL[1286]
+;B[kc]BL[1851]
+;W[kb]WL[1286]
+;B[lb]BL[1850]
+;W[jb]WL[1285]
+;B[nb]BL[1836]
+;W[la]WL[1283]
+;B[hh]BL[1793]
+;W[ig]WL[1274]
+;B[ij]BL[1791]
+;W[hk]WL[1273]
+;B[ih]BL[1790]
+;W[jh]WL[1273]
+;B[ji]BL[1789]
+;W[hg]WL[1271]
+;B[ii]BL[1788]
+;W[ki]WL[1259]
+;B[kj]BL[1602]
+;W[ik]WL[1054]
+;B[jj]BL[1598]
+;W[li]WL[1022]
+;B[lj]BL[1548]
+;W[mi]WL[853]
+;B[kl]BL[1211]
+;W[gk]WL[825]
+;B[ck]BL[1201]
+;W[kg]WL[821]
+;B[jf]BL[1189]
+;W[jg]WL[819]
+;B[fn]BL[1172]
+;W[gn]WL[680]
+;B[fo]BL[1163]
+;W[jn]WL[575]
+;B[lm]BL[1052]
+;W[en]WL[541]
+;B[dm]BL[1049]
+;W[go]WL[524]
+;B[gp]BL[954]
+;W[hp]WL[484]
+;B[hq]BL[897]
+;W[ip]WL[351]
+;B[iq]BL[887]
+;W[eo]WL[266]
+;B[fp]BL[885]
+;W[hm]WL[14]
+;B[jo]BL[754]
+;W[in]WL[5]
+;B[nm]BL[732]
+;W[ml]WL[570]
+;B[kn]BL[707]
+;W[cf]WL[498]
+;B[be]BL[703]
+;W[qg]WL[463]
+;B[pr]BL[670]
+;W[qr]WL[416]
+;B[rn]BL[661]
+;W[qn]WL[399]
+;B[ro]BL[647]
+;W[qo]WL[395]
+;B[rl]BL[635]
+;W[so]WL[389]
+;B[rm]BL[617]
+;W[oo]WL[381]
+;B[qi]BL[614]
+;W[pi]WL[376]
+;B[qh]BL[562]
+;W[ph]WL[365]
+;B[pg]BL[495]
+;W[rg]WL[358]
+;B[rc]BL[414]
+;W[rb]WL[329]C[
+ scurge10 4d?: krabicka for president, gogo!
+ Kissaku 2k?: prodi shall overcome
+]
+;B[rj]BL[141]
+;W[pf]WL[307]
+;B[qs]BL[137]
+;W[rs]WL[304]
+;B[ps]BL[133]
+;W[rr]WL[297]
+;B[er]BL[130]
+;W[cq]WL[258]
+;B[bm]BL[121]
+;W[bn]WL[236]
+;B[eb]BL[45]
+;W[db]WL[216]
+;B[da]BL[39]
+;W[no]WL[155]
+;B[mo]BL[24]
+;W[qk]WL[131]C[
+ Kissaku 2k?: did b just get cut
+]
+;B[rk]BL[10]C[
+ baldur 5d : living is easy
+]
+;W[rh]WL[117]
+;B[mm]BL[583]
+;W[cd]WL[100]
+;B[bd]BL[579]
+;W[rd]WL[96]
+;B[re]BL[569]
+;W[sc]WL[94]C[
+ Saimaa 4d : g18 näyttää mun silmään isolta
+ Seagall 2d?: e9 hugest
+ Kissaku 2k?: :D
+ scurge10 4d?: R14 has a problem?
+]
+;B[ld]BL[379]
+;W[ma]WL[82]
+;B[og]BL[297]
+;W[qe]WL[525]
+;B[od]BL[278]
+;W[oa]WL[522]
+;B[lg]BL[272]C[
+ Lukan 5d?: Omino trying to be a genius ? ^^
+ scurge10 4d?: how do you mean trying
+ baldur 5d : e9 please
+]
+;W[mg]WL[445]C[
+ Lukan 5d?: this doesnt work
+]
+;B[ff]BL[250]
+;W[fg]WL[441]
+;B[lf]BL[237]
+;W[of]WL[424]
+;B[ng]BL[211]
+;W[nf]WL[419]C[
+ scurge10 4d?: w lives sente thught
+ KaninSWE 4d?: Squeeze and live
+]
+;B[mh]BL[195]
+;W[nh]WL[418]C[
+ scurge10 4d?: well probably gote
+]
+;B[mf]BL[191]
+;W[oh]WL[418]C[
+ KaninSWE 4d?: How were the other games, czech vs finland?
+]
+;B[mg]BL[176]C[
+ Werfeus 5d : 1-1 with 1st board adj
+ baldur 5d : sweden lost, right?
+]
+;W[mj]WL[393]C[
+ KaninSWE 4d?: No, of course we bear russia top team 4-0
+]
+;B[io]BL[166]
+;W[ho]WL[392]
+;B[jl]BL[164]
+;W[il]WL[367]C[
+ KaninSWE 4d?: Daaaamn, finland is playing well
+ Lukan 5d?: E9 ... so huge
+ baldur 5d : so blind...
+]
+;B[ek]BL[134]
+;W[fk]WL[366]
+;B[ei]BL[132]
+;W[eq]WL[366]
+;B[fr]BL[130]C[
+ Lukan 5d?: now b ahead I believe
+]
+;W[cg]WL[338]
+;B[bg]BL[129]
+;W[gb]WL[337]
+;B[dn]BL[119]
+;W[do]WL[329]
+;B[ep]BL[112]C[
+ scurge10 4d?: I also believe T_T
+]
+;W[dq]WL[304]
+;B[an]BL[109]
+;W[ao]WL[302]
+;B[am]BL[105]C[
+ Lukan 5d?: b+1,5 I count
+]
+;W[bp]WL[301]
+;B[md]BL[70]
+;W[na]WL[299]
+;B[sh]BL[31]C[
+ Saimaa 4d : e9 lost 7 points?
+ scurge10 4d?: nice :D
+ Lukan 5d?: ominosuji
+]
+;W[kf]WL[270]
+;B[if]BL[587]C[
+ scurge10 4d?: not 7 because of gote sente difference no?
+ KaninSWE 4d?: E9 was more than 9 points
+ baldur 5d : so stupid not to play it
+]
+;W[ke]WL[215]C[
+ KaninSWE 4d?: It was Swedish lobbyists who payed him money to "miss" this move
+ Lukan 5d?: but J14 is not, so still close
+]
+;B[ri]BL[533]
+;W[cm]WL[172]
+;B[bl]BL[530]
+;W[jm]WL[143]
+;B[pe]BL[485]
+;W[qf]WL[141]
+;B[sg]BL[480]
+;W[sf]WL[599]
+;B[si]BL[479]
+;W[se]WL[599]
+;B[km]BL[439]
+;W[fb]WL[586]
+;B[ec]BL[435]
+;W[fa]WL[585]
+;B[ea]BL[435]
+;W[nn]WL[583]C[
+ scurge10 4d?: I feel this is goign to be the classic b+0.5 after w thought he can no longer lose
+]
+;B[mn]BL[425]
+;W[es]WL[567]
+;B[fs]BL[424]
+;W[ds]WL[567]
+;B[gc]BL[416]
+;W[hb]WL[566]
+;B[sn]BL[412]
+;W[sp]WL[565]C[
+ Lukan 5d?: should be more
+]
+;B[lk]BL[404]
+;W[jk]WL[552]C[
+ Palko 5d?: 2,5
+]
+;B[gd]BL[396]
+;W[ed]WL[550]C[
+ Lukan 5d?: yep
+ Werfeus 5d : oh bugger
+]
+;B[ne]BL[390]
+;W[rf]WL[549]
+;B[mk]BL[382]
+;W[nk]WL[548]C[
+ Palko 5d?: because of E9
+]
+;B[ca]BL[373]
+;W[je]WL[545]
+;B[ie]BL[372]
+;W[kh]WL[539]
+;B[tt]BL[363]C[
+ Palko 5d?: so Lukan you decide whether Finland or Sweden play relegation game?
+]
+;W[tt]WL[533]
+;B[tt]BL[363]C[
+ krabicka 5d?: krabicka dead @ D10
+ Lukan 5d?: ^^
+ prodi 5d?: prodi dead @ P9
+ krabicka done
+];
+
+TW[as][ar][aq][ap][bs][br][bq][bo][cs][cr][cp][co][gm][gl][ga][hn][hl][ha]
+[im][ib][ia][ja][ka][lb][mb][ni][nb][ok][oj][oi][ob][po][pa][qp][qa][rq]
+[re][rc][ra][ss][sr][sq][sd][sb][sa]
+
+TB[al][ak][aj][ai][ah][ag][af][ae][ad][ac][ab][aa][bk][bj][bi][bh][bc][bb]
+[ba][dk][dj][di][ej][gs][gr][gq][hs][hr][is][ir][js][jr][jq][ks][kr][kq]
+[kp][ko][ls][lr][lq][lp][lo][ln][ms][mr][mp][ns][nr][nq][os][or][sm][sl]
+[sk][sj]
+
+OS[Anryx][Avari][baldur][Bolibompa][ckilo]
+[CRcFelnr][Darchik][DaVinci][ekorn][Eske]
+[FieldMouse][Gardan][gomarine][guta57][hanabi]
+[hegethus][hhhafen1][Hidoshito][Iceape][JanHora2]
+[Janisan][jirka][jojo][Juippi][Kachnak]
+[kafusikenn][KaninSWE][keks][Kissaku][Komeetta]
+[kyy][LeT][Lukan][lvt][mamutik]
+[mdcl][MicaelSWE][Nogravity][oldfat2288][Palko]
+[pempu][puzant][Saimaa][scurge10][Seagall]
+[SlepyKrtek][Superkladd][Taksimies][Werfeus]
+
+)

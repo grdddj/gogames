@@ -1,0 +1,280 @@
+(;
+GM[1]EV[Internet Go Server game: manocska vs vaneeden]
+US[Brought to you by IGS PANDANET]
+CoPyright[
+ Copyright (c) PANDANET Inc. 2011
+ Permission to reproduce this game is given, provided proper credit is given.
+ No warrantee, implied or explicit, is understood.
+ Use of this game is an understanding and agreement of this notice.
+]
+GN[manocska-vaneeden(B) IGS]RE[W+Resign]
+PW[manocska]WR[8d ]NW[36]
+PB[vaneeden]BR[5d+]NB[33]
+PC[IGS:  igs.joyjoy.net 6969]DT[2011-10-12]
+SZ[19]TM[3600]KM[6.500000]LT[]
+RR[Normal]
+C[
+ vaneeden 5d+: hello
+ manocska 8d : hi,almost ok...but komi is wrong :(
+ vaneeden 5d+: of course :)
+ manocska 8d : perfect, have a nice game
+ vaneeden 5d+: enjoy
+]
+;B[qd]BL[3534]
+;W[dp]WL[3596]
+;B[pq]BL[3528]
+;W[dc]WL[3582]
+;B[oc]BL[3518]
+;W[po]WL[3544]
+;B[pl]BL[3499]
+;W[qj]WL[3538]
+;B[qm]BL[3491]C[
+ Laman 13k?: Mano, for the win!
+ Murugandi BC : hell no, Vaneeden!
+]
+;W[qg]WL[3483]C[
+ Murugandi BC : haha
+]
+;B[np]BL[3488]C[
+ pancake 3d?: Go Vaneeden :D
+ Murugandi BC : GO DUTCH PRIDE hahahahaha
+ Murugandi BC : ik ga stuk
+ Laman 13k?: haha, no way :)
+ pancake 3d?: Laman looking for trouble there
+]
+;W[fq]WL[3439]C[
+ pancake 3d?: it's 2 vs 1, what do you wanna do?
+ Laman 13k?: you are also playing, Murugandi?
+]
+;B[de]BL[3466]C[
+ Sur 11k+: go mano :-) 2v2
+ pancake 3d?: muru's supposed to be playing
+ pancake 3d?: but his opponent went offline
+ Murugandi BC : yes im playing
+ Murugandi BC : soon
+ Murugandi BC : hopefully
+ Laman 13k?: pancake, know you from L19 :)
+ pancake 3d?: ah, you do? what's your nickname there?
+ Laman 13k?: eh, Laman
+ pancake 3d?: lol
+]
+;W[dh]WL[3307]C[
+ pancake 3d?: don't really remember that nick o:-)
+ Laman 13k?: well, i am not that much active...
+ pancake 3d?: i see
+]
+;B[gd]BL[3392]
+;W[ee]WL[3300]
+;B[ef]BL[3383]
+;W[fe]WL[3297]C[
+ pancake 3d?: how come all strong dutch players suck on the internet?
+ pancake 3d?: Gilles is supposed to be strong 6dan, and only 5d here
+]
+;B[cc]BL[3323]
+;W[fc]WL[3202]
+;B[db]BL[3318]
+;W[cd]WL[3196]
+;B[dd]BL[3315]
+;W[ec]WL[3196]
+;B[cb]BL[3313]
+;W[ff]WL[3187]
+;B[ce]BL[3205]
+;W[eg]WL[3142]
+;B[lc]BL[3140]
+;W[co]WL[3132]
+;B[jq]BL[3106]
+;W[qq]WL[3125]C[
+ herminator 4d?: because all the strong dutch players are old
+ herminator 4d?: when are you getting to 6d?
+ pancake 3d?: dunno, hard to find time to study :3
+ pancake 3d?: would be easier with a studymate
+]
+;B[qr]BL[2985]
+;W[pr]WL[3071]C[
+ herminator 4d?: zeno...
+ pancake 3d?: he lives in bilthoven..
+ herminator 4d?: close enough
+]
+;B[or]BL[2925]
+;W[pp]WL[3041]
+;B[ps]BL[2884]
+;W[oq]WL[3023]
+;B[pr]BL[2811]C[
+ pancake 3d?: I don't feel like going there..
+]
+;W[no]WL[2999]C[
+ herminator 4d?: so make him come to you...
+]
+;B[mp]BL[2798]
+;W[mo]WL[2959]
+;B[lo]BL[2765]
+;W[op]WL[2942]
+;B[nr]BL[2737]C[
+ pancake 3d?: haha
+]
+;W[ln]WL[2859]
+;B[kn]BL[2735]C[
+ pancake 3d?: he probably doesn't want to come here either
+ pancake 3d?: they smoke inside..
+ herminator 4d?: zeno?
+]
+;W[ko]WL[2846]C[
+ herminator 4d?: not wanting to study go?
+]
+;B[lp]BL[2733]C[
+ pancake 3d?: We should find a few active players and do the same as we did in Groningen at Arnoud's place
+ pancake 3d?: that was great
+]
+;W[mm]WL[2802]C[
+ herminator 4d?: yes
+]
+;B[on]BL[2650]
+;W[oo]WL[2753]
+;B[pj]BL[2638]
+;W[pi]WL[2750]
+;B[oj]BL[2637]
+;W[qk]WL[2725]
+;B[km]BL[2632]
+;W[nl]WL[2656]
+;B[ol]BL[2622]
+;W[mj]WL[2571]
+;B[mk]BL[2267]
+;W[nk]WL[2484]
+;B[nj]BL[2248]
+;W[lk]WL[2456]
+;B[mi]BL[2246]
+;W[lj]WL[2425]
+;B[ph]BL[2194]
+;W[qh]WL[2359]
+;B[oi]BL[2152]
+;W[jo]WL[2349]
+;B[qi]BL[2150]
+;W[ri]WL[2348]
+;B[li]BL[2129]
+;W[jj]WL[2297]
+;B[ki]BL[2115]
+;W[jk]WL[2257]
+;B[gp]BL[2108]
+;W[kq]WL[2224]
+;B[kr]BL[2063]
+;W[ho]WL[1873]
+;B[go]BL[2013]
+;W[kp]WL[1851]
+;B[lr]BL[2009]
+;W[iq]WL[1847]
+;B[gq]BL[2007]
+;W[jr]WL[1826]
+;B[eq]BL[2004]
+;W[ep]WL[1773]
+;B[fp]BL[1972]
+;W[er]WL[1747]
+;B[fr]BL[1968]
+;W[dr]WL[1745]
+;B[hn]BL[1966]
+;W[in]WL[1738]
+;B[hm]BL[1902]
+;W[im]WL[1718]
+;B[em]BL[1831]
+;W[cm]WL[1677]C[
+ LeT 2d : b feels better i guess
+ herminator 4d?: B has lots of territory
+ Trump 1d : Also b seems more solid.
+ Laman 13k?: i usually feel Mano is losing
+ herminator 4d?: B needs to settle his lower left group with as little loss as possible, then it looks good to me
+ Sur 11k+: well, he usually lose
+ pancake 3d?: 'he usually lose', what's that supposed to mean?
+]
+;B[dk]BL[1589]
+;W[pg]WL[1672]C[
+ Laman 13k?: Sur: thats not true :)
+]
+;B[og]BL[1551]C[
+ LeT 2d : Sur e
+ Trump 1d : Sure
+]
+;W[qe]WL[1571]
+;B[pe]BL[1523]C[
+ pancake 3d?: did they ever played before?
+ pancake 3d?: play*
+ pancake 3d?: ah, perhaps once, at the selection tournament for the european team for the mind games
+ pancake 3d?: selection of the european team*
+]
+;W[rd]WL[1519]
+;B[re]BL[1492]C[
+ herminator 4d?: they played at the kido cup
+]
+;W[qf]WL[1509]
+;B[rc]BL[1491]
+;W[pd]WL[1507]
+;B[qc]BL[1490]C[
+ herminator 4d?: silt won
+]
+;W[of]WL[1504]C[
+ herminator 4d?: both scored 3/7 there
+]
+;B[nf]BL[1471]
+;W[ne]WL[1495]
+;B[mf]BL[1450]
+;W[me]WL[1447]C[
+ pancake 3d?: no, gilles had 1/7
+]
+;B[lf]BL[1421]C[
+ pancake 3d?: ow, different tourney
+ pancake 3d?: sorry
+]
+;W[le]WL[1409]
+;B[od]BL[1378]
+;W[oe]WL[1392]
+;B[kf]BL[1376]
+;W[ke]WL[1382]C[
+ herminator 4d?: keeping ehite without two eyes here
+]
+;B[jf]BL[1357]C[
+ LeT 2d : as w why not to cut the d9 stone?
+ pancake 3d?: he has 2 eyes..
+ pancake 3d?: cutting the d9 stone seems severe
+ pancake 3d?: I don't understand d9 to begin with, it's always been cuttable
+]
+;W[mc]WL[1323]
+;B[mb]BL[1331]
+;W[lb]WL[1316]
+;B[kb]BL[1208]
+;W[nb]WL[1299]
+;B[la]BL[1208]
+;W[nc]WL[1298]
+;B[ic]BL[1199]
+;W[rf]WL[1292]
+;B[sd]BL[1198]
+;W[dl]WL[1235]C[
+ herminator 4d?: well, there's the cut
+ herminator 4d?: but what an ugly one
+]
+;B[el]BL[1087]
+;W[ek]WL[1232]
+;B[ck]BL[1087]C[
+ pancake 3d?: haha true
+ pancake 3d?: but this seems really hard for black
+ pancake 3d?: it's not unlikely that something will die
+]
+;W[cl]WL[1026]C[
+ pancake 3d?: haha delicious move ;p
+ herminator 4d?: black can make an eye with J2, right?
+]
+;B[fk]BL[1052]C[
+ herminator 4d?: or at least ko
+]
+;W[ej]WL[1021]
+;B[bh]BL[1049]
+;W[bi]WL[928]
+;B[ci]BL[1040]
+;W[bg]WL[914]
+;B[bj]BL[1037]
+;W[be]WL[901]
+;B[bd]BL[1029]
+;W[ch]WL[848]
+;B[ai]BL[1026]
+;W[dj]WL[845]C[
+ vaneeden 5d+: you win
+];
+
+)

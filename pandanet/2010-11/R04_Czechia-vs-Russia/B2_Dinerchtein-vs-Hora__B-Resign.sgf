@@ -1,0 +1,425 @@
+(;
+GM[1]EV[Internet Go Server game: JanHora vs breakfast]
+US[Brought to you by IGS PANDANET]
+CoPyright[
+  Copyright (c) PANDANET Inc. 2011
+  Permission to reproduce this game is given, provided proper credit is given.
+  No warrantee, implied or explicit, is understood.
+  Use of this game is an understanding and agreement of this notice.
+]
+GN[JanHora-breakfast(B) IGS]RE[B+Resign]
+PW[JanHora]WR[6d?]NW[34]
+PB[breakfast]BR[3p ]NB[43]
+PC[IGS:  igs.joyjoy.net 6969]DT[2011-02-01]
+SZ[19]TM[3600]KM[6.500000]LT[]
+RR[Normal]
+C[
+ breakfast 3p : hi
+ breakfast 3p : have a nice game!
+ JanHora 6d?: hi
+]
+;B[qd]BL[3590]C[
+ JanHora 6d?: enjoy a great game
+]
+;W[dd]WL[3588]
+;B[pq]BL[3582]
+;W[dp]WL[3586]
+;B[nc]BL[3574]
+;W[po]WL[3579]
+;B[qo]BL[3565]
+;W[qn]WL[3567]
+;B[qp]BL[3564]
+;W[pn]WL[3559]
+;B[mq]BL[3529]
+;W[qj]WL[3529]
+;B[cf]BL[3497]
+;W[ch]WL[3516]
+;B[fd]BL[3491]
+;W[df]WL[3446]
+;B[dg]BL[3488]
+;W[cg]WL[3386]
+;B[dc]BL[3485]
+;W[ce]WL[3355]
+;B[cc]BL[3469]
+;W[hc]WL[3331]
+;B[bf]BL[3467]
+;W[be]WL[3319]
+;B[ef]BL[3464]
+;W[de]WL[3319]
+;B[fb]BL[3461]
+;W[kc]WL[3281]
+;B[cn]BL[3383]
+;W[co]WL[3217]
+;B[dn]BL[3377]
+;W[fp]WL[3205]
+;B[cj]BL[3331]
+;W[dh]WL[3100]
+;B[qh]BL[3207]
+;W[kq]WL[3057]
+;B[cq]BL[3126]
+;W[cp]WL[3019]C[
+ JoePerry 17k?: what happened with manocska vs Roln?
+ Helo 17k?: disconnected or same
+ Laman 13k?: they are back online
+ JoePerry 17k?: thanks
+ Laman 13k?: by the way, is N3 ok? i don't remember seeing it before
+ Marvin42 1k : It is not a typical joseki, but since a pro played it ... it is obviously ok  :-) 
+ Hudoyar 4k?: how to open Roln`s game?
+ Helo 17k?: type game 49
+ Helo 17k?: no
+ Helo 17k?: sorry(
+]
+;B[bn]BL[2859]C[
+ Hudoyar 4k?: (
+ Helo 17k?: find 58 game in list
+ Hudoyar 4k?: thank you
+ Hudoyar 4k?: )
+ Helo 17k?: u are welcome)
+]
+;W[dq]WL[2832]
+;B[ql]BL[2805]
+;W[pl]WL[2787]
+;B[rl]BL[2712]
+;W[qk]WL[2726]
+;B[rn]BL[2692]
+;W[qf]WL[2725]
+;B[rf]BL[2413]
+;W[rg]WL[2698]
+;B[qg]BL[2411]
+;W[re]WL[2696]
+;B[pf]BL[2410]
+;W[qe]WL[2695]
+;B[pe]BL[2409]
+;W[rd]WL[2695]
+;B[rh]BL[2345]
+;W[qc]WL[2679]
+;B[pd]BL[2329]
+;W[pc]WL[2673]
+;B[oc]BL[2239]C[
+ Marvin42 1k : now b is looking forward to attack two weak w groups?
+ Helo 17k?: Q6 and H17?
+ gooooo 10k?: hmm, can W play p3?
+ Helo 17k?: sure
+]
+;W[sf]WL[2510]C[
+ Helo 17k?: N6 was little overplay)
+ Laman 13k?: N6?
+ Helo 17k?: but in common variant white will be very strong in outside, but black take points. it is not good for white.
+ Helo 17k?: but he is pro, and i not)
+]
+;B[ol]BL[2016]
+;W[pk]WL[2480]
+;B[om]BL[2009]C[
+ Helo 17k?: wow)
+ Nemesis60 1k?: does anybody knows anything about the game roln-manocska?
+]
+;W[pm]WL[2426]C[
+ gooooo 10k?: n3 was overplay
+ Laman 13k?: Nemesis: i watch it, but don't know much about it
+]
+;B[mm]BL[1923]C[
+ Nemesis60 1k?: Laman: I cannot see it in EGTC room, where it is?
+ ivoszz 12k : id=58
+ Helo 17k?: game ?58
+ AkinfeevK 1d?: in beginners room
+ Nemesis60 1k?: beginners room :D:D
+]
+;W[mo]WL[2223]C[
+ betterlife 3d?: game 58 (Roln vs. manocska)
+ betterlife 3d?: type "trail Roln" in the console
+]
+;B[no]BL[1836]
+;W[nn]WL[2046]
+;B[on]BL[1779]
+;W[oo]WL[2023]
+;B[np]BL[1777]
+;W[mn]WL[2023]C[
+ gooooo 10k?: or type ob 58
+]
+;B[lm]BL[1562]
+;W[oq]WL[2017]
+;B[or]BL[1536]
+;W[nj]WL[1829]
+;B[nh]BL[1366]C[
+ breakfast 3p : ...
+ breakfast 3p : sorry
+]
+;W[mk]WL[1702]
+;B[kp]BL[1276]
+;W[ko]WL[1640]
+;B[jp]BL[1239]
+;W[jo]WL[1608]
+;B[lp]BL[1066]
+;W[km]WL[1595]
+;B[gq]BL[992]
+;W[ne]WL[1585]
+;B[nf]BL[980]C[
+ shimamura 6d?: white not bad here I think
+]
+;W[le]WL[1516]C[
+ JoePerry 17k?: Yeah, I believe white is doing well againt a pro
+ hippomanes 5d?: How strong is Jan?
+ JoePerry 17k?: amateur 6d
+ Laman 13k?: actually black is not so super strong, he is on the second board
+ Laman 13k?: but he is still among top europeans, sure
+ ilikegote 1d?: Jan is in top 20 eu too i think
+ hippomanes 5d?: Another 3p on board 1...  :) 
+ JoePerry 17k?: no, it's actually board 3
+ JoePerry 17k?: they have amateur 7d on board 1
+]
+;B[fq]BL[731]C[
+ hippomanes 5d?: Ah? Cheerws
+ ilikegote 1d?: russian board 1 and board 2 is almost equal
+]
+;W[gp]WL[1500]C[
+ ilikegote 1d?: hard to say who is stronger
+]
+;B[hq]BL[653]C[
+ Laman 13k?: hmm, just by ratings it is 2733 vs 2586; 2723 vs 2590; 2695 vs 2512... looks hard for us
+]
+;W[ip]WL[1207]
+;B[hp]BL[615]
+;W[ho]WL[1203]
+;B[iq]BL[612]
+;W[io]WL[1192]
+;B[kl]BL[545]C[
+ hippomanes 5d?: White having a good go here.
+]
+;W[jq]WL[1086]
+;B[kn]BL[465]C[
+ baldur 5d : was?
+]
+;W[lo]WL[922]
+;B[ml]BL[369]
+;W[jk]WL[863]
+;B[jl]BL[251]
+;W[kk]WL[801]
+;B[hl]BL[198]
+;W[nr]WL[758]C[
+ breakfast 3p : ..
+ breakfast 3p : hmm strange
+ breakfast 3p : no byoyomi?
+]
+;B[mp]BL[519]C[
+ JanHora 6d?: it will start counting after your first move
+ breakfast 3p : I see
+ breakfast 3p : thx
+]
+;W[mr]WL[680]
+;B[lr]BL[493]
+;W[op]WL[648]
+;B[jr]BL[482]
+;W[fn]WL[550]
+;B[pr]BL[412]
+;W[em]WL[475]
+;B[gj]BL[326]
+;W[fj]WL[143]
+;B[hi]BL[208]C[
+ Marvin42 1k : now j9?
+]
+;W[lh]WL[16]
+;B[lf]BL[162]
+;W[of]WL[510]
+;B[og]BL[94]
+;W[mf]WL[506]
+;B[mg]BL[92]
+;W[ng]WL[506]
+;B[rc]BL[91]
+;W[rb]WL[497]
+;B[nf]BL[90]
+;W[nq]WL[482]C[
+ Laman 13k?: hmm, breakfast low on time
+]
+;B[lq]BL[86]
+;W[ng]WL[481]
+;B[qb]BL[76]
+;W[pb]WL[474]
+;B[nf]BL[75]C[
+ Marvin42 1k : seems that the r18 - threat cost b a few points
+]
+;W[ik]WL[421]
+;B[gm]BL[69]
+;W[ng]WL[419]
+;B[ob]BL[63]
+;W[qa]WL[418]
+;B[nf]BL[61]
+;W[gl]WL[370]
+;B[fl]BL[42]
+;W[ng]WL[368]
+;B[ok]BL[30]
+;W[oj]WL[361]
+;B[nf]BL[29]
+;W[hm]WL[349]
+;B[il]BL[26]
+;W[ng]WL[349]
+;B[pi]BL[25]
+;W[rm]WL[331]
+;B[nf]BL[23]
+;W[ro]WL[324]
+;B[me]BL[11]
+;W[rp]WL[313]
+;B[jf]BL[8]
+;W[pj]WL[282]
+;B[gk]BL[570]C[
+ Laman 13k?: interesting exchange
+]
+;W[eo]WL[209]
+;B[rq]BL[553]C[
+ betka 2k?: is w safe on the upper side? not urgent to play there?
+ Marvin42 1k : upper b side looks huge
+ Marvin42 1k : I believe w is dead on the upper side ==> no urgent to play there  ;-) 
+]
+;W[dl]WL[131]C[
+ betka 2k?: hmmm I would definitely try to live but looks like they know better
+]
+;B[ck]BL[529]C[
+ Marvin42 1k : if you played against me - you would probably achieve life  :-)  ... but these guys are a little stronger
+]
+;W[bo]WL[98]
+;B[bi]BL[445]
+;W[bm]WL[79]
+;B[cm]BL[414]
+;W[an]WL[76]
+;B[bl]BL[412]
+;W[am]WL[75]
+;B[cl]BL[397]
+;W[md]WL[591]
+;B[rr]BL[363]C[
+ Marvin42 1k : wow ... left group already alive?
+]
+;W[mf]WL[535]
+;B[oe]BL[339]
+;W[kf]WL[534]
+;B[me]BL[323]
+;W[gb]WL[502]
+;B[ke]BL[315]
+;W[mf]WL[484]
+;B[kg]BL[309]
+;W[lg]WL[474]
+;B[me]BL[307]
+;W[ls]WL[472]
+;B[kr]BL[304]
+;W[mf]WL[472]
+;B[eg]BL[223]C[
+ Sanjuro 2k?: jf b takes top side, left group becomes not so big yose
+]
+;W[fe]WL[461]
+;B[me]BL[209]C[
+ breakfast 3p : ...
+]
+;W[bh]WL[392]
+;B[ej]BL[185]
+;W[mf]WL[387]
+;B[bd]BL[174]C[
+ Sanjuro 2k?: heh
+ Sanjuro 2k?: b wants  left group
+]
+;W[eh]WL[330]
+;B[gn]BL[132]
+;W[go]WL[286]
+;B[me]BL[107]
+;W[el]WL[268]
+;B[ek]BL[77]C[
+ bubble 3d : black t4 very big, threatens life of right group
+]
+;W[mf]WL[249]
+;B[fg]BL[48]C[
+ Marvin42 1k : it depends ... if w wins the m14-ko, his group is out of danger
+ Sanjuro 2k?: w has no eyes on left
+]
+;W[fi]WL[218]
+;B[fk]BL[45]C[
+ bubble 3d : sure the ko is most urgent
+]
+;W[gg]WL[213]
+;B[gf]BL[32]C[
+ Marvin42 1k : meanwhile w has two groups struggling for life
+ breakfast 3p : .
+]
+;W[fc]WL[46]C[
+ Sanjuro 2k?: two and a half
+]
+;B[ec]BL[27]
+;W[gd]WL[46]C[
+ Marvin42 1k : hard to believe that both of them survive
+ Marvin42 1k : something new ... for a change: A ko :---)
+]
+;B[ae]BL[481]
+;W[gh]WL[32]
+;B[ed]BL[448]
+;W[hf]WL[29]
+;B[ee]BL[425]
+;W[gi]WL[27]
+;B[me]BL[414]
+;W[bg]WL[23]
+;B[cd]BL[408]
+;W[mf]WL[23]
+;B[ei]BL[378]
+;W[fh]WL[19]
+;B[me]BL[378]
+;W[pp]WL[589]
+;B[qq]BL[373]
+;W[mf]WL[589]
+;B[hg]BL[317]C[
+ shinsei 2k+: hmm
+]
+;W[hh]WL[559]
+;B[me]BL[315]
+;W[qs]WL[489]
+;B[rs]BL[310]
+;W[mf]WL[489]
+;B[ig]BL[301]
+;W[ge]WL[479]
+;B[me]BL[297]
+;W[dk]WL[463]
+;B[dj]BL[292]
+;W[mf]WL[461]
+;B[ff]BL[279]
+;W[ii]WL[453]
+;B[me]BL[268]
+;W[os]WL[420]
+;B[ps]BL[265]
+;W[mf]WL[420]
+;B[kf]BL[224]
+;W[me]WL[394]
+;B[he]BL[209]
+;W[hd]WL[390]
+;B[ie]BL[205]
+;W[mh]WL[389]
+;B[ng]BL[202]C[
+ Laman 13k?: does the situation finally settle?
+ shinsei 2k+: K17 maybe?
+ Marvin42 1k : now w can start a ko @ E18
+ Marvin42 1k : for ko-free live, w might play j18
+]
+;W[mc]WL[290]
+;B[er]BL[200]
+;W[dr]WL[289]C[
+ Sanjuro 2k?: e18 ko is dangerous for w
+ Marvin42 1k : definitely ... but w seems to like kos  :-) 
+]
+;B[jc]BL[163]C[
+ bubble 3d : black has no weak groups, hence ko too dangerous for white
+]
+;W[jb]WL[257]
+;B[kb]BL[146]
+;W[kd]WL[255]C[
+ Sanjuro 2k?: sure
+]
+;B[ib]BL[134]
+;W[jd]WL[255]
+;B[ja]BL[597]C[
+ LeT 1d+: nooo
+]
+;W[lb]WL[243]C[
+ Sanjuro 2k?: ni what?
+ shinsei 2k+: interesting position
+ Sanjuro 2k?: another ko
+ baldur 5d : final ko, i hope
+ Sanjuro 2k?: b ignore any ko-threat
+ FieldMouse 4d?: j16, j17, k18, g18 looks good for b, no ko
+]
+;B[hb]BL[523];
+
+)
+

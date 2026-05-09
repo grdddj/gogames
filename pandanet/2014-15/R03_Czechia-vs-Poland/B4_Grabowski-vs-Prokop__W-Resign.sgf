@@ -1,0 +1,195 @@
+(;
+GM[1]EV[Internet Go Server game: krabicka vs maek]
+US[Brought to you by IGS PANDANET]
+CoPyright[
+  Copyright (c) PANDANET Inc. 2014
+  Permission to reproduce this game is given, provided proper credit is given.
+  No warrantee, implied or explicit, is understood.
+  Use of this game is an understanding and agreement of this notice.
+]
+GN[krabicka-maek(B) IGS]RE[W+Resign]
+PW[krabicka]WR[5d?]NW[33]
+PB[maek]BR[2d?]NB[30]
+PC[IGS:  igs.joyjoy.net 6969]DT[2014-11-26]
+SZ[19]TM[3600]KM[6.500000]LT[]
+RR[Normal]
+C[
+ maek 2d?: 118 Have a nice game
+]
+;B[pd]BL[3586]C[
+ krabicka 5d?: 118 you too
+]
+;W[dp]WL[3597]
+;B[qp]BL[3580]
+;W[dd]WL[3573]
+;B[oq]BL[3526]
+;W[qf]WL[3568]
+;B[nc]BL[3513]
+;W[rp]WL[3564]
+;B[qo]BL[3447]
+;W[pj]WL[3563]
+;B[fc]BL[3403]
+;W[cf]WL[3556]
+;B[fq]BL[3364]
+;W[dn]WL[3501]
+;B[ip]BL[3345]
+;W[ic]WL[3389]
+;B[dc]BL[3059]
+;W[cc]WL[3386]
+;B[cb]BL[3048]
+;W[ec]WL[3337]
+;B[db]BL[3040]
+;W[eb]WL[3263]
+;B[ed]BL[2875]
+;W[fb]WL[3256]
+;B[cd]BL[2852]
+;W[de]WL[3254]
+;B[bd]BL[2849]
+;W[ge]WL[3233]
+;B[cl]BL[2768]
+;W[cj]WL[3187]
+;B[el]BL[2655]
+;W[fn]WL[3181]
+;B[ej]BL[2619]
+;W[dh]WL[3051]
+;B[gl]BL[2599]
+;W[hn]WL[3037]
+;B[go]BL[2587]
+;W[gn]WL[3012]
+;B[il]BL[2578]
+;W[jn]WL[2917]
+;B[kp]BL[2496]
+;W[qc]WL[2747]
+;B[qd]BL[2180]C[
+ maek 2d?: 192 that shouldnt happend..
+]
+;W[rd]WL[2733]C[
+ krabicka 5d?: 192 some miss click?
+ maek 2d?: 192 yes
+]
+;B[re]BL[1659]
+;W[rc]WL[2583]
+;B[qe]BL[1650]
+;W[ob]WL[2581]
+;B[pf]BL[1647]
+;W[oc]WL[2551]
+;B[ne]BL[1505]
+;W[qg]WL[2439]
+;B[pg]BL[1333]
+;W[qh]WL[2437]
+;B[ph]BL[1331]
+;W[pi]WL[2433]
+;B[rj]BL[1321]
+;W[qi]WL[2198]
+;B[ql]BL[1063]
+;W[mi]WL[2171]
+;B[mg]BL[965]
+;W[od]WL[2132]
+;B[oe]BL[955]
+;W[le]WL[2122]
+;B[me]BL[934]
+;W[ld]WL[1951]
+;B[lf]BL[886]
+;W[mc]WL[1942]
+;B[li]BL[566]
+;W[lj]WL[1925]
+;B[ki]BL[561]
+;W[mj]WL[1843]
+;B[kj]BL[533]
+;W[qq]WL[1753]
+;B[qr]BL[379]
+;W[pq]WL[1715]
+;B[pr]BL[373]
+;W[pp]WL[1663]
+;B[rq]BL[371]
+;W[op]WL[1603]
+;B[rr]BL[330]
+;W[nq]WL[1598]
+;B[or]BL[329]
+;W[pn]WL[1245]
+;B[qn]BL[273]
+;W[pm]WL[1229]
+;B[qm]BL[235]
+;W[nn]WL[1155]
+;B[mp]BL[180]
+;W[np]WL[1150]
+;B[ln]BL[143]
+;W[fp]WL[794]
+;B[ok]BL[120]
+;W[nl]WL[484]
+;B[nk]BL[107]
+;W[ml]WL[459]
+;B[mk]BL[102]
+;W[lk]WL[455]
+;B[ol]BL[101]
+;W[kl]WL[52]
+;B[om]BL[90]
+;W[nm]WL[40]
+;B[on]BL[88]
+;W[oo]WL[500]
+;B[mo]BL[61]
+;W[lh]WL[488]
+;B[no]BL[46]
+;W[kh]WL[466]
+;B[jh]BL[576]
+;W[mh]WL[451]
+;B[nh]BL[537]
+;W[ni]WL[349]
+;B[kf]BL[520]
+;W[jg]WL[346]
+;B[jf]BL[518]
+;W[ih]WL[328]
+;B[hf]BL[514]
+;W[ie]WL[324]
+;B[if]BL[509]
+;W[gh]WL[229]
+;B[fg]BL[404]
+;W[fh]WL[217]
+;B[kd]BL[392]
+;W[kb]WL[181]
+;B[ke]BL[327]
+;W[kc]WL[164]
+;B[dg]BL[278]
+;W[cg]WL[120]
+;B[nb]BL[251]
+;W[nd]WL[117]
+;B[md]BL[250]
+;W[lc]WL[117]
+;B[he]BL[232]
+;W[hd]WL[113]
+;B[gd]BL[224]
+;W[gc]WL[103]
+;B[fe]BL[223]
+;W[fd]WL[96]
+;B[gf]BL[221]
+;W[eg]WL[82]
+;B[sh]BL[203]
+;W[si]WL[74]C[
+ maek 2d?: 192 thank you
+ krabicka 5d?: 192 no problem
+ Laman 13k : .
+ krabicka 5d?: 44 sorry for disconnections (normally it doesn't happen)
+ maek 2d?: 44 no problem :)
+ scurge10 4d?: tohle muze byt dlouha hra
+ scurge10 4d?: white managed the top well
+ scurge10 4d?: white is in deep serious trouble
+ Audun 8k : incredibily so
+ scurge10 4d?: Haha kachna nema ucet
+ scurge10 4d?: stejne vyhraje bily
+ scurge10 4d?: Is this game getting adujred just for me?
+ Audun 8k : its on
+ scurge10 4d?: I have to reload it every 10th move :/
+ gisel88 2d?: try exiting game and reentering it, I had same problem till i did that
+ scurge10 4d?: how did jan horas game finish?
+ Audun 8k : no1 knows
+ gisel88 2d?: won by resign after ending semeai
+ scurge10 4d?: ok thanks
+ gisel88 2d?: np
+];
+
+OS[Audun][BenjaminP][deemendoz][gisel88][Hidoshito]
+[JanHora2][KM902184][mayeck][Nilatarion][omelkes]
+[prodi][puerhista][Sadiker][scubakid][scurge10]
+[Shiro]
+
+)

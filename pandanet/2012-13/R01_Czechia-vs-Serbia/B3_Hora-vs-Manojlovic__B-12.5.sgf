@@ -1,0 +1,466 @@
+(;
+GM[1]EV[Internet Go Server game: Laza vs JanHora]
+US[Brought to you by IGS PANDANET]
+CoPyright[
+  Copyright (c) PANDANET Inc. 2012
+  Permission to reproduce this game is given, provided proper credit is given.
+  No warrantee, implied or explicit, is understood.
+  Use of this game is an understanding and agreement of this notice.
+]
+GN[Laza-JanHora(B) IGS]RE[B+12.5]
+PW[Laza]WR[4d+]NW[32]
+PB[JanHora]BR[6d?]NB[34]
+PC[IGS:  igs.joyjoy.net 6969]DT[2012-09-19]
+SZ[19]TM[3600]KM[6.500000]LT[]
+RR[Normal]
+C[
+ Laza 4d+: Have a good game.
+ JanHora 6d?: 90 so, enjoy the game
+]
+;B[pd]BL[3574]
+;W[dd]WL[3588]
+;B[pq]BL[3562]
+;W[dp]WL[3581]
+;B[fq]BL[3540]
+;W[cn]WL[3572]
+;B[qk]BL[3532]
+;W[np]WL[3524]
+;B[op]BL[3483]
+;W[no]WL[3448]
+;B[lp]BL[3480]
+;W[nq]WL[3376]
+;B[pn]BL[3404]
+;W[jp]WL[3331]
+;B[lo]BL[3334]
+;W[nm]WL[3123]
+;B[lm]BL[3266]
+;W[po]WL[3118]
+;B[qo]BL[3255]
+;W[oo]WL[3099]
+;B[qp]BL[3174]
+;W[pm]WL[3096]
+;B[qm]BL[3151]
+;W[on]WL[3022]
+;B[qn]BL[3134]
+;W[gp]WL[2786]
+;B[fp]BL[3006]
+;W[go]WL[2717]
+;B[fo]BL[2978]
+;W[gn]WL[2684]
+;B[do]BL[2889]
+;W[co]WL[2658]
+;B[cq]BL[2864]
+;W[dq]WL[2519]
+;B[dr]BL[2855]
+;W[dn]WL[2380]
+;B[cp]BL[2715]
+;W[eo]WL[2347]
+;B[er]BL[2711]
+;W[ll]WL[2312]
+;B[kl]BL[2688]
+;W[lk]WL[2293]
+;B[mm]BL[2650]
+;W[ml]WL[2254]
+;B[jm]BL[2502]
+;W[pk]WL[2209]
+;B[fn]BL[2453]
+;W[gm]WL[2166]
+;B[fm]BL[2390]
+;W[gl]WL[2089]
+;B[jj]BL[2364]
+;W[dj]WL[2047]
+;B[lj]BL[2129]
+;W[kk]WL[2026]
+;B[jk]BL[2103]
+;W[kn]WL[2007]
+;B[km]BL[2086]
+;W[jn]WL[1998]
+;B[kj]BL[2023]
+;W[ln]WL[1989]
+;B[mn]BL[2020]
+;W[mo]WL[1986]
+;B[nl]BL[2014]
+;W[qj]WL[1950]
+;B[ol]BL[1924]
+;W[pl]WL[1815]
+;B[om]BL[1832]
+;W[lq]WL[1804]
+;B[rk]BL[1776]
+;W[qg]WL[1704]
+;B[qe]BL[1763]
+;W[og]WL[1682]
+;B[kq]BL[1693]
+;W[kp]WL[1674]
+;B[ni]BL[1511]
+;W[mg]WL[1523]
+;B[md]BL[1436]
+;W[mi]WL[1473]
+;B[oj]BL[1242]
+;W[nh]WL[1366]
+;B[nj]BL[1116]
+;W[pj]WL[1134]
+;B[ch]BL[1029]
+;W[cj]WL[1055]
+;B[cd]BL[1002]
+;W[cc]WL[932]
+;B[ce]BL[983]
+;W[dc]WL[914]
+;B[de]BL[938]
+;W[ee]WL[889]
+;B[ef]BL[922]
+;W[fe]WL[875]
+;B[ff]BL[910]
+;W[ge]WL[832]
+;B[ei]BL[906]
+;W[kc]WL[791]
+;B[jd]BL[841]
+;W[kd]WL[785]
+;B[ke]BL[840]
+;W[je]WL[748]
+;B[he]BL[782]
+;W[le]WL[663]
+;B[gf]BL[734]
+;W[hd]WL[654]
+;B[ie]BL[732]
+;W[jf]WL[627]
+;B[hc]BL[726]
+;W[gc]WL[608]
+;B[id]BL[721]
+;W[gd]WL[607]
+;B[hb]BL[611]
+;W[qc]WL[481]
+;B[pc]BL[605]
+;W[rd]WL[479]
+;B[re]BL[547]
+;W[pb]WL[420]
+;B[rb]BL[526]
+;W[qb]WL[410]
+;B[ob]BL[523]
+;W[ra]WL[406]
+;B[rg]BL[435]
+;W[sb]WL[396]
+;B[qh]BL[423]
+;W[oi]WL[370]
+;B[nn]BL[218]
+;W[ph]WL[364]
+;B[qi]BL[215]
+;W[rh]WL[361]
+;B[ri]BL[194]
+;W[rj]WL[359]
+;B[sh]BL[150]
+;W[pi]WL[356]
+;B[gb]BL[56]
+;W[fb]WL[354]
+;B[ir]BL[564]
+;W[iq]WL[316]C[
+ Lukan 5d?: jak je to? mirne pro Heziho?
+]
+;B[hr]BL[497]
+;W[sk]WL[309]
+;B[qf]BL[472]
+;W[pg]WL[295]C[
+ scurge10 4d?: L17 N16 N16 O9 O6 J2 Q11 S12 T11 S15 N18 N18 N18
+]
+;B[mb]BL[274]
+;W[or]WL[206]
+;B[pr]BL[250]
+;W[bi]WL[168]
+;B[bc]BL[230]
+;W[bb]WL[166]
+;B[lr]BL[206]
+;W[mq]WL[163]
+;B[jq]BL[206]
+;W[hq]WL[130]
+;B[ad]BL[146]
+;W[ga]WL[120]
+;B[jb]BL[137]
+;W[gq]WL[119]
+;B[gr]BL[131]
+;W[bg]WL[95]
+;B[bh]BL[119]
+;W[ah]WL[76]
+;B[cg]BL[118]
+;W[ps]WL[71]
+;B[qs]BL[110]
+;W[os]WL[68]
+;B[rr]BL[108]
+;W[kb]WL[562]
+;B[jc]BL[72]
+;W[nc]WL[511]
+;B[mc]BL[50]
+;W[nd]WL[506]
+;B[ne]BL[44]
+;W[oe]WL[498]
+;B[od]BL[36]
+;W[me]WL[483]
+;B[nf]BL[31]
+;W[pe]WL[467]
+;B[qd]BL[30]C[
+ flashback 7d : b wwanna die?
+ flashback 7d : t11
+]
+;W[si]WL[435]
+;B[sj]BL[29]
+;W[kr]WL[431]C[
+ Lukan 5d?: i dont understand k17...
+]
+;B[sl]BL[15]
+;W[jr]WL[426]
+;B[ab]BL[13]C[
+ flashback 7d : just a yose :)
+]
+;W[ba]WL[420]C[
+ Lukan 5d?: still enough for b?
+]
+;B[bf]BL[12]
+;W[ig]WL[392]C[
+ flashback 7d : thnk so
+ flashback 7d : l2 not so big
+]
+;B[hg]BL[590]C[
+ flashback 7d : t8 big itself
+]
+;W[bp]WL[385]C[
+ flashback 7d : t8 + sente should be enough
+]
+;B[bq]BL[579]
+;W[ao]WL[382]C[
+ Lukan 5d?: sure, but L2 was about 13 pts...
+ Lukan 5d?: but t8 also maybe 7
+ flashback 7d : yea, and w lost sente, so not big loss after all
+ flashback 7d : i think
+ flashback 7d : anyway was risky
+]
+;B[dl]BL[498]C[
+ Lukan 5d?: that means k17 was really small
+ flashback 7d : of course it was
+]
+;W[cl]WL[331]
+;B[dm]BL[460]
+;W[cm]WL[324]C[
+ Lukan 5d?: instead of B14 b should have played B5 probably
+]
+;B[ih]BL[449]
+;W[jh]WL[317]
+;B[lh]BL[445]
+;W[mh]WL[292]C[
+ scurge10 4d?: proc hral h13 a ne e48????
+ scurge10 4d?: ?e19
+ scurge10 4d?: *e18
+]
+;B[kh]BL[410]C[
+ Lukan 5d?: hej to je docela cool :)
+ Lukan 5d?: to mel no
+]
+;W[lg]WL[257]C[
+ flashback 7d : pekne
+]
+;B[kg]BL[389]C[
+ scurge10 4d?: jj scurge je ve forme :D
+]
+;W[kf]WL[251]
+;B[jg]BL[388]
+;W[if]WL[250]
+;B[hf]BL[379]C[
+ Lukan 5d?: ne ze me v Apetlonu zase porazis :P
+ flashback 7d : tak ted muze
+ flashback 7d : ale to hezi vubec nechyta
+ flashback 7d : takove tesujina :)
+]
+;W[aq]WL[236]C[
+ Lukan 5d?: ale s tim co jsem predvedl dneska tak bys me vymetl solidne
+]
+;B[ar]BL[375]C[
+ Lukan 5d?: Hezi je hlavne v byoyomi ;)
+ flashback 7d : uz to chce dojet
+ Lukan 5d?: treba by to normalne videl
+]
+;W[ap]WL[191]C[
+ flashback 7d : treba jo :)
+ flashback 7d : ale kdyz nevidel ani o17 tak asi neni moc ve forme
+ Lukan 5d?: o17 tam svitilo
+]
+;B[br]BL[340]
+;W[hh]WL[189]
+;B[ii]BL[328]
+;W[li]WL[188]
+;B[ki]BL[326]
+;W[gi]WL[174]C[
+ Lukan 5d?: tohle je nejake podezrele, me prijde ze to nejde
+ Kuba 2d?: ja to taky nechapu
+ Lukan 5d?: castecne
+ Kuba 2d?: e18, na to bilej f17 a co dal?
+]
+;B[gh]BL[246]
+;W[fi]WL[596]C[
+ flashback 7d : uz vklidu vyhraje
+]
+;B[fh]BL[240]C[
+ flashback 7d : h19
+]
+;W[ql]WL[580]
+;B[rl]BL[222]C[
+ flashback 7d : k19 je zivot
+]
+;W[di]WL[577]
+;B[ej]BL[197]C[
+ Lukan 5d?: o 5 tak vyhraje?
+ flashback 7d : ono by to slo i bez toho e18
+ flashback 7d : ale vypada to lip :)
+ Kuba 2d?: jo takhle, tak ja myslel, ze to chcete nejak mrtvit nebo co :)
+ flashback 7d : :)
+ flashback 7d : usetrit tah
+]
+;W[fk]WL[547]C[
+ Lukan 5d?: nn, to bylo mnoho tahu nazpet
+]
+;B[sd]BL[192]
+;W[rc]WL[545]
+;B[ag]BL[165]C[
+ flashback 7d : hm
+]
+;W[dh]WL[534]C[
+ flashback 7d : to nebylo moc dobre
+]
+;B[ai]BL[161]
+;W[aj]WL[533]C[
+ Kuba 2d?: ja vim, jen mi prijde, ze to uz snad bylo to h13 snad i vetsi, kdyz si tim taky delal nejaky uzemicko
+ flashback 7d : ale staci
+]
+;B[dk]BL[133]C[
+ flashback 7d : f19 by bylo v tempu
+ Kuba 2d?: ale chapu, mohl mit tempo :)
+ flashback 7d : uzemicko si delal a ma ted z nej 2
+]
+;W[ck]WL[517]
+;B[fl]BL[115]
+;W[hi]WL[490]C[
+ flashback 7d : tempo by asi nemel ale zmensil by to vlevo nahore
+ flashback 7d : ale h13 nebylo nic, to je fakt
+]
+;B[ci]BL[86]
+;W[ah]WL[486]
+;B[oq]BL[66]
+;W[nr]WL[483]
+;B[ai]BL[597]
+;W[bj]WL[479]C[
+ flashback 7d : ani nepamatuju kdy jsme udelali 4:0 :)
+ Lukan 5d?: nikdy :)
+ flashback 7d : haha
+ flashback 7d : to je dost mozne
+ Lukan 5d?: ne opravdu nikdy ;)
+ flashback 7d : :D
+ flashback 7d : tak premiera
+ Kuba 2d?: Lukanovi verim :)
+ Lukan 5d?: jojo :)
+]
+;B[hj]BL[550]C[
+ justarrow 6d?: B+7
+ flashback 7d : jj
+ flashback 7d : statistik
+]
+;W[gk]WL[472]
+;B[mf]BL[533]
+;W[lf]WL[463]
+;B[nb]BL[531]C[
+ flashback 7d : ja jsem rad ze jsme to dnes dal
+]
+;W[ld]WL[463]C[
+ flashback 7d : jsem vcelku brutalne nachcipany
+ flashback 7d : uz treti den
+]
+;B[im]BL[520]C[
+ Lukan 5d?: o kolik jsi vedl kdyz vzdal?
+ flashback 7d : taky jsme podle toho hral
+]
+;W[eh]WL[460]C[
+ Lukan 5d?: komi?
+ flashback 7d : 5-10
+]
+;B[ek]BL[511]C[
+ Lukan 5d?: no videl jsem ze to nebylo idealni :)
+ flashback 7d : asi
+]
+;W[dg]WL[444]C[
+ flashback 7d : musel jsem trosku zamanevrovat
+ scurge10 4d?: hezi je v poho ze?
+ Lukan 5d?: :)
+ flashback 7d : jj
+ Lukan 5d?: jj
+]
+;B[df]BL[494]
+;W[en]WL[439]C[
+ Lukan 5d?: ja uz myslel ze ten ctverec nikdy nedame :)
+]
+;B[ep]BL[485]
+;W[in]WL[413]
+;B[ha]BL[477]
+;W[fa]WL[411]
+;B[hk]BL[471]
+;W[hl]WL[404]
+;B[il]BL[470]
+;W[ok]WL[402]
+;B[nk]BL[466]
+;W[mj]WL[400]
+;B[mk]BL[466]
+;W[ja]WL[396]
+;B[ia]BL[464]
+;W[ka]WL[396]
+;B[eg]BL[463]
+;W[em]WL[585]
+;B[el]BL[462]
+;W[an]WL[584]
+;B[hm]BL[461]
+;W[hn]WL[582]C[
+ flashback 7d : bily musi jeste pokryt seki
+ flashback 7d : vlevo
+]
+;B[js]BL[458]
+;W[ks]WL[581]
+;B[is]BL[458]
+;W[pa]WL[575]
+;B[oc]BL[447]C[
+ flashback 7d : udelal radsi hned :D
+]
+;W[ng]WL[574]
+;B[ah]BL[443]
+;W[of]WL[571]
+;B[nd]BL[442]
+;W[sc]WL[571]
+;B[se]BL[441]
+;W[do]WL[570]
+;B[eq]BL[439]
+;W[db]WL[569]
+;B[ac]BL[436]
+;W[tt]WL[564]
+;B[tt]BL[598]
+;W[tt]WL[564]C[
+ Laza 4d+: Laza dead @ M4
+ Laza 4d+: Laza dead @ M2
+ JanHora 6d?: JanHora dead @ K12
+ Lukan 5d?: :D
+ JanHora done
+];
+
+TW[am][al][ak][bo][bn][bm][bl][bk][cb][ca][da][ed][ec][eb][ea][fd][fc][hp]
+[ho][ip][io][jq][jo][kq][ko][ke][ls][lr][lp][lo][ms][mr][mp][ns][oh][qa]
+[rb][sa]
+
+TB[as][af][ae][bs][bg][be][bd][cs][cr][cf][ds][es][fs][fr][fg][gs][gg][hs]
+[ik][ij][ic][ib][jl][ji][jh][kk][ll][lk][ml][nm][nc][qr][qq][rs][rq][rp]
+[ro][rn][rm][rh][rf][ss][sr][sq][sp][so][sn][sm][sk][si][sg][sf]
+
+OS[artem9212][betterlife][Bojanic][booobby][colocolo]
+[crocus][flashback][Gagovedo][GetStrong][Goodbyeman]
+[gotou27][guta57][Hikachu][ivoszz][Jna]
+[Juka][justarrow][kater1977][keks][kidu24]
+[krabicka][kratzdrink][Kuba][Laman][Lentilka]
+[LeT][lordik][Lukan][MacArthur][malf]
+[Milos][mparker][mtczq][napcek][natasam]
+[nico][nidza92][Nighthawk][Nilatarion][Nomad]
+[nulachier][okakan106][pilgrim][pogacsa][Ron1n1990]
+[sawara123][scurge10][sheeryjay][shige12][Shirasagi]
+[SlepyKrtek][SlowThinkr][Sur][tenguyama][testejlo1]
+[tinkerBell][turikichi][yamamoto2][YinDrago][ykp07481]
+
+)

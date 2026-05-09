@@ -1,0 +1,241 @@
+(;
+GM[1]EV[Internet Go Server game: scurge10 vs grisharoot]
+US[Brought to you by IGS PANDANET]
+CoPyright[
+  Copyright (c) PANDANET Inc. 2018
+  Permission to reproduce this game is given, provided proper credit is given.
+  No warrantee, implied or explicit, is understood.
+  Use of this game is an understanding and agreement of this notice.
+]
+GN[scurge10-grisharoot(B) IGS]RE[B+Resign]
+PW[scurge10]WR[6d?]NW[34]
+PB[grisharoot]BR[6d?]NB[34]
+PC[IGS:  igs.joyjoy.net 6969]DT[2018-02-17]
+SZ[19]TM[3600]KM[6.500000]LT[]
+RR[Normal]
+
+;B[pd]BL[3596]C[
+ scurge10 6d?: 38 have a nice game
+]
+;W[dd]WL[3597]C[
+ grisharoot 6d?: 38 have a nice game
+]
+;B[qp]BL[3588]
+;W[dq]WL[3592]
+;B[do]BL[3585]
+;W[co]WL[3589]
+;B[dp]BL[3537]
+;W[cp]WL[3587]
+;B[eq]BL[3536]
+;W[dr]WL[3586]
+;B[dn]BL[3505]
+;W[cn]WL[3584]
+;B[dm]BL[3504]
+;W[cm]WL[3584]
+;B[dl]BL[3497]
+;W[op]WL[3580]
+;B[mp]BL[3424]
+;W[on]WL[3507]
+;B[qn]BL[3394]
+;W[qq]WL[3497]
+;B[rq]BL[3391]
+;W[pq]WL[3493]
+;B[ro]BL[3382]
+;W[mq]WL[3462]
+;B[lq]BL[3376]
+;W[lp]WL[3457]
+;B[mr]BL[3224]
+;W[nq]WL[3454]
+;B[kp]BL[3223]
+;W[lo]WL[3452]
+;B[kq]BL[3220]
+;W[er]WL[3384]
+;B[fq]BL[3216]
+;W[nc]WL[3367]
+;B[ko]BL[3146]
+;W[ln]WL[3348]
+;B[kn]BL[3143]
+;W[lm]WL[3345]
+;B[km]BL[3126]
+;W[ll]WL[3335]
+;B[qf]BL[3056]C[
+ LeT 2d+: L8?
+]
+;W[pc]WL[3107]
+;B[qc]BL[3048]
+;W[qb]WL[3106]C[
+ fujishuko 6d?: good fuseki for white so far, thought O6 should be at L5 I guess
+ fujishuko 6d?: *L5
+]
+;B[oc]BL[2943]
+;W[pb]WL[3104]
+;B[od]BL[2928]
+;W[ob]WL[3102]C[
+ fujishuko 6d?: P18 seems correct choice, considering the lower left corner position
+ fujishuko 6d?: i mean right ...
+]
+;B[rc]BL[2844]
+;W[nd]WL[3093]
+;B[mb]BL[2782]
+;W[lc]WL[3045]C[
+ fujishuko 6d?: white is Afpha fan, M17 to come ...
+]
+;B[lb]BL[2769]C[
+ fujishuko 6d?: I would prefer M17 to O16 personaly
+]
+;W[jc]WL[2597]
+;B[nb]BL[2680]
+;W[cf]WL[2571]C[
+ fujishuko 6d?: with solid D8 this cannot work well for white
+]
+;B[cl]BL[2562]
+;W[jk]WL[2500]
+;B[dc]BL[2326]
+;W[qd]WL[2324]
+;B[rd]BL[2291]
+;W[ec]WL[1957]C[
+ doctor 5d?: n17
+]
+;B[cd]BL[2086]
+;W[de]WL[1954]
+;B[eb]BL[1928]
+;W[db]WL[1915]
+;B[cc]BL[1925]
+;W[fb]WL[1805]
+;B[bf]BL[1881]C[
+ fujishuko 6d?: L18 now?
+]
+;W[kb]WL[1602]
+;B[mc]BL[1797]
+;W[pe]WL[1501]
+;B[oe]BL[1790]
+;W[of]WL[1476]C[
+ doctor 5d?: n13
+]
+;B[ne]BL[1627]
+;W[md]WL[1473]
+;B[ld]BL[1624]
+;W[me]WL[1471]
+;B[nf]BL[1622]
+;W[mf]WL[1383]
+;B[ng]BL[1619]
+;W[kc]WL[1382]
+;B[mg]BL[1602]
+;W[ke]WL[1379]C[
+ doctor 5d?: nc13
+]
+;B[pl]BL[1519]
+;W[ok]WL[1192]
+;B[ol]BL[1385]
+;W[nk]WL[1189]
+;B[pk]BL[1338]
+;W[kg]WL[1106]
+;B[cg]BL[1248]
+;W[dg]WL[1057]
+;B[ch]BL[1242]
+;W[be]WL[1050]
+;B[ce]BL[1238]
+;W[df]WL[1049]
+;B[bd]BL[1225]
+;W[dh]WL[960]
+;B[di]BL[1222]
+;W[ei]WL[915]
+;B[dj]BL[1220]
+;W[gj]WL[788]C[
+ Lukan 5d?: w solidly ahead
+ HappyLook 6d : around 10 pts
+ hotsand 6d+: I like black
+ hotsand 6d+: but must play F2
+]
+;B[ji]BL[1001]
+;W[li]WL[732]C[
+ doctor 5d?: j9
+]
+;B[ed]BL[811]
+;W[fc]WL[692]C[
+ andokides8 6k : paaap
+]
+;B[lj]BL[677]C[
+ andokides8 6k : papa hast du ge pupst
+ andokides8 6k : ja
+]
+;W[ki]WL[526]
+;B[jj]BL[650]
+;W[ik]WL[477]C[
+ hotsand 6d+: easy kill
+ hotsand 6d+: game over
+]
+;B[kj]BL[622]
+;W[mi]WL[443]C[
+ doctor 5d?: l8
+]
+;B[kh]BL[320]
+;W[lg]WL[415]
+;B[ml]BL[272]
+;W[mj]WL[349]C[
+ doctor 5d?: l8
+]
+;B[lh]BL[524]
+;W[mh]WL[342]
+;B[kl]BL[499]
+;W[kk]WL[283]
+;B[lk]BL[497]
+;W[mk]WL[160]
+;B[mo]BL[495]
+;W[mm]WL[151]
+;B[nl]BL[490]
+;W[nn]WL[148]
+;B[jh]BL[489]
+;W[jg]WL[144]C[
+ doctor 5d?: h12
+]
+;B[ih]BL[465]
+;W[oh]WL[89]C[
+ doctor 5d?: g12
+ neitzsche 2k+: H9?
+ neitzsche 2k+: H10?
+ doctor 5d?: q11
+]
+;B[ph]BL[106]
+;W[pi]WL[81]
+;B[qi]BL[95]
+;W[qh]WL[47]
+;B[pg]BL[94]
+;W[qj]WL[42]
+;B[pj]BL[68]
+;W[ri]WL[38]
+;B[oi]BL[67]
+;W[oj]WL[34]
+;B[qi]BL[48]
+;W[bg]WL[28]
+;B[ae]BL[28]
+;W[pi]WL[27]
+;B[ni]BL[24]
+;W[og]WL[26]
+;B[qe]BL[21]C[
+ neitzsche 2k+: B WIN!
+];
+
+OS[a0233][a12151203][acit][adavies][andokides8]
+[Angie77][Arkham][ayanetti][Batyrhan][BeHappy]
+[Beta63][Bohdan][breakfast][Butterfly][chocolat20]
+[clemens][CRettasO][CRJvtDtH][CRpYSFsg][Deity]
+[doctor][DrJekyll][eagl][Edvin][Egor75]
+[elias][Fess][Flashman][fujishuko][gurug]
+[h246834567][hallin][HansWerner][HappyLook][hasami]
+[Hidoshito][Homer78][hotsand][hwspan][idragon]
+[ioda][jannr29][JET3][jirka][jozef]
+[k18210y][Kachnak][KajinP][kater1977][King2016]
+[kk00777][krabicka][Krainov][lefab][LeT]
+[Lion2000][littlegrs][Lukan][Lyoug][MaRthasik]
+[Morziloeil][Nata][Nebilim][neitzsche][Nogravity]
+[Nowhereman][ns][okakan106][Ours][pandemonia]
+[Paprika][Pugovka][Rock888][sams1883][savl]
+[Scoun][sdc1418][Sekigahar1][siaubunas][SIoslik]
+[siskin][SlowThinkr][Sophia][sremmos][Sur]
+[Taiga123][tendril][thd23][tibx][tizu1914]
+[tyam][tyunth][valicos][Wade][wardosama]
+[wcy62][wmi543][Xandr25][yoshidtu][Zbys3K]
+[ztli][zzzxtre]
+
+)

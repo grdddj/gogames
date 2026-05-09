@@ -1,0 +1,231 @@
+(;
+GM[1]EV[Internet Go Server game: manocska vs merocsaba]
+US[Brought to you by IGS PANDANET]
+CoPyright[
+  Copyright (c) PANDANET Inc. 2014
+  Permission to reproduce this game is given, provided proper credit is given.
+  No warrantee, implied or explicit, is understood.
+  Use of this game is an understanding and agreement of this notice.
+]
+GN[manocska-merocsaba(B) IGS]RE[W+Resign]
+PW[manocska]WR[8d ]NW[36]
+PB[merocsaba]BR[6d?]NB[34]
+PC[IGS:  igs.joyjoy.net 6969]DT[2014-01-15]
+SZ[19]TM[3600]KM[6.500000]LT[]
+RR[Normal]
+C[
+ merocsaba 6d?: Are we good now?
+ manocska 8d : komi
+ merocsaba 6d?: Oh, fuck
+ manocska 8d : wait
+ merocsaba 6d?: Ok, we can add it by the end
+ merocsaba 6d?: This ipad app sux
+ merocsaba 6d?: Hi!
+]
+;B[pd]BL[3504]C[
+ manocska 8d : i try zo change it,cant u accept different komi?
+ merocsaba 6d?: Onegaishimasu
+ merocsaba 6d?: I told you, this app Sucks
+ manocska 8d : ok
+ manocska 8d : so have a nice game
+ merocsaba 6d?: Adjust it by the end
+]
+;W[dd]WL[3546]
+;B[pq]BL[3490]
+;W[dp]WL[3512]
+;B[pk]BL[3485]
+;W[jq]WL[3423]
+;B[jd]BL[3445]
+;W[qf]WL[3381]
+;B[qe]BL[3410]
+;W[pf]WL[3365]
+;B[nd]BL[3407]
+;W[qi]WL[3362]
+;B[rj]BL[3390]
+;W[ri]WL[3345]
+;B[lp]BL[3344]
+;W[jo]WL[3295]
+;B[fc]BL[3322]C[
+ Laman 13k : um, Mano should be black
+]
+;W[cf]WL[3170]
+;B[qj]BL[3278]
+;W[oi]WL[3150]
+;B[nj]BL[3272]C[
+ manocska 8d : they just told me i had to be black....
+ merocsaba 6d?: Shal we restart?
+ manocska 8d : what should i do? is there some rule?
+ merocsaba 6d?: I mean i cant even set 60 minutes with this app
+ merocsaba 6d?: Only 59
+ manocska 8d : i have no idea...for me anyway...just dont want to play again tomorrow or something :G
+ merocsaba 6d?: I dont know the rules
+ merocsaba 6d?: I wont complain anyway
+ merocsaba 6d?: I never do
+ manocska 8d : haha
+ merocsaba 6d?: So?
+ merocsaba 6d?: Up to you
+ manocska 8d : well,lets ask someone
+ manocska 8d : for mebasically anyway
+ merocsaba 6d?: I cant talk toanyone only my oponent as i see
+ manocska 8d : haha
+ manocska 8d : amazing,i discuss with lorenz trippel
+ manocska 8d : betterlife: it depends of the move number betterlife: you are in 21 betterlife: let me check the rules
+ merocsaba 6d?: :-)
+ merocsaba 6d?: But your time is going...
+ manocska 8d : betterlife: After move seven the (wrong) settings are valid for the game betterlife: so just continue betterlife: If mistakes in colours or time-settings are found within the first six moves the g
+ manocska 8d : so we continue
+ merocsaba 6d?: Fantastic
+]
+;W[mh]WL[2816]
+;B[cn]BL[3197]
+;W[cp]WL[2811]
+;B[gp]BL[3178]
+;W[en]WL[2766]
+;B[ip]BL[3162]
+;W[jp]WL[2747]
+;B[gn]BL[3158]
+;W[jm]WL[2651]
+;B[gl]BL[3121]
+;W[hm]WL[2631]
+;B[gm]BL[3042]
+;W[el]WL[2620]
+;B[ep]BL[3026]
+;W[eq]WL[2515]
+;B[eo]BL[2998]
+;W[dn]WL[2491]
+;B[fq]BL[2992]
+;W[er]WL[2489]
+;B[cl]BL[2951]
+;W[fo]WL[2322]
+;B[fp]BL[2895]
+;W[hn]WL[2252]
+;B[fn]BL[2866]
+;W[do]WL[2113]
+;B[iq]BL[2830]
+;W[ho]WL[2098]
+;B[go]BL[2827]
+;W[fr]WL[1983]
+;B[gr]BL[2799]
+;W[cj]WL[1819]
+;B[dk]BL[2755]
+;W[fk]WL[1780]
+;B[dj]BL[2747]
+;W[ci]WL[1767]
+;B[di]BL[2743]
+;W[fi]WL[1707]
+;B[gj]BL[2693]
+;W[fj]WL[1689]
+;B[cg]BL[2656]
+;W[bg]WL[1625]
+;B[dh]BL[2517]
+;W[df]WL[1540]
+;B[bh]BL[2477]
+;W[ch]WL[1534]
+;B[dg]BL[2474]
+;W[bi]WL[1462]
+;B[fg]BL[2432]
+;W[dl]WL[1397]
+;B[ck]BL[2401]
+;W[ij]WL[1363]
+;B[ir]BL[2351]
+;W[fd]WL[1205]
+;B[gd]BL[2305]
+;W[fe]WL[1159]
+;B[gh]BL[2252]
+;W[gc]WL[1024]
+;B[hl]BL[2161]
+;W[il]WL[1008]
+;B[bo]BL[2149]
+;W[bp]WL[994]
+;B[eb]BL[2124]
+;W[db]WL[864]
+;B[hc]BL[2094]
+;W[gb]WL[860]
+;B[hb]BL[2091]
+;W[po]WL[858]
+;B[np]BL[2070]
+;W[qq]WL[852]
+;B[qr]BL[2067]
+;W[qp]WL[851]
+;B[rr]BL[2064]
+;W[pm]WL[848]
+;B[nl]BL[2049]
+;W[no]WL[782]
+;B[mo]BL[2026]
+;W[mn]WL[773]
+;B[ln]BL[2023]
+;W[mm]WL[766]
+;B[oo]BL[2017]
+;W[on]WL[753]
+;B[nn]BL[2014]
+;W[nm]WL[753]
+;B[lj]BL[1775]
+;W[lm]WL[640]
+;B[ki]BL[1769]
+;W[ih]WL[411]
+;B[lg]BL[1627]
+;W[mi]WL[184]
+;B[jk]BL[1579]
+;W[ik]WL[126]
+;B[kl]BL[1571]
+;W[gi]WL[531]
+;B[hd]BL[1432]
+;W[jr]WL[511]
+;B[lr]BL[1422]
+;W[hf]WL[450]
+;B[bj]BL[1414]
+;W[ah]WL[424]
+;B[aj]BL[1410]
+;W[ai]WL[422]
+;B[bl]BL[1403]C[
+ tymak 2k+: how would b respond a8?
+]
+;W[ao]WL[305]
+;B[an]BL[1391]
+;W[bm]WL[302]
+;B[cm]BL[1372]
+;W[al]WL[298]
+;B[ap]BL[1353]
+;W[bk]WL[295]C[
+ tymak 2k+: oh, this looks cool
+]
+;B[am]BL[1332]
+;W[ak]WL[293]
+;B[bq]BL[1322]
+;W[cr]WL[277]C[
+ Lukan 5d?: royaly dead
+]
+;B[hi]BL[1280]C[
+ tymak 2k+: b may win by time :-)
+]
+;W[gk]WL[153]C[
+ Lukan 5d?: no way
+ tymak 2k+: is b really dead or is there any chance for run away / seki miai?
+]
+;B[hh]BL[1186]
+;W[ii]WL[111]C[
+ Lukan 5d?: i don't see any way how to run away
+]
+;B[ig]BL[1023]
+;W[hg]WL[103]
+;B[ge]BL[965]
+;W[ff]WL[83];
+
+OS[Anryx][ar09202][artem9212][autica][baklava]
+[belohin][BenjaminDG][betterlife][bon][boviz]
+[breakfast][bzz][chablaguy][ChWoHan][crocus]
+[Deadbones][deemendoz][DentaFix][Dexihno1][Dika]
+[enkarito][FinderHope][flashback][Gigolo][Hami]
+[JanHora][Jna][joachim][joncek][k123456]
+[Kappa][karaklis][kh5766][KiEKo][kiobama]
+[Komugi][krabicka][kurmanka][Laman][Lentilka]
+[lordik][Lukan][Milos][mpepe][mrz1225]
+[MSvreco][napalmogi][Nighthawk][Nogravity][notevenbad]
+[palaris][Palko][Pig][pompe][potentilla]
+[Procyon][Qqsh][QuickTime][R00ster][railight]
+[retesz][Ron1n1990][scurge10][sk23][SlepyKrtek]
+[tadahito][tako2720][terrapin][Tom007star][tudorus]
+[tymak][Veedee][vlado][water][wccl]
+[weaker][Yose][yosi18][Zebrfis8]
+
+)

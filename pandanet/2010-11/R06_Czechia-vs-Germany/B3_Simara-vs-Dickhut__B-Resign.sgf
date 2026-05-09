@@ -1,0 +1,290 @@
+﻿(;
+GM[1]EV[Internet Go Server game: fj vs flashback]
+US[Brought to you by IGS PANDANET]
+CoPyright[
+  Copyright (c) PANDANET Inc. 2011
+  Permission to reproduce this game is given, provided proper credit is given.
+  No warrantee, implied or explicit, is understood.
+  Use of this game is an understanding and agreement of this notice.
+]
+GN[fj-flashback(B) IGS]RE[B+Resign]
+PW[fj]WR[8d ]NW[36]
+PB[flashback]BR[7d ]NB[35]
+PC[IGS:  igs.joyjoy.net 6969]DT[2011-03-16]
+SZ[19]TM[3600]KM[6.500000]LT[]
+RR[Normal]
+C[
+flashback 7d : good game
+fj 8d : have a nice game
+]
+;B[pd]BL[3547]
+;W[dd]WL[3585]
+;B[pp]BL[3539]
+;W[eq]WL[3578]
+;B[cp]BL[3425]
+;W[kq]WL[3554]
+;B[mq]BL[3330]
+;W[do]WL[3511]
+;B[co]BL[3309]
+;W[dm]WL[3481]
+;B[dn]BL[3243]
+;W[en]WL[3476]
+;B[cn]BL[3242]
+;W[cl]WL[3475]
+;B[dq]BL[3106]
+;W[er]WL[3436]
+;B[ep]BL[3028]
+;W[fp]WL[3423]
+;B[fo]BL[3026]
+;W[eo]WL[3414]
+;B[dp]BL[3025]
+;W[gp]WL[3412]
+;B[dr]BL[2975]
+;W[go]WL[3398]
+;B[fc]BL[2971]
+;W[df]WL[3393]
+;B[jd]BL[2952]
+;W[qf]WL[3370]
+;B[nc]BL[2848]
+;W[pj]WL[3315]
+;B[qo]BL[2769]
+;W[he]WL[3275]
+;B[hc]BL[2686]
+;W[je]WL[3242]
+;B[kd]BL[2652]
+;W[ec]WL[3216]
+;B[fd]BL[2633]
+;W[ff]WL[3210]C[
+asten 4k : j10?
+]
+;B[gh]BL[2462]C[
+asten 4k : deeper
+]
+;W[ih]WL[3172]C[
+Koffein 2d : g12 probably looks a bit greedy. but there is so much aji on the lower side
+]
+;B[gf]BL[2038]
+;W[ge]WL[3160]
+;B[fe]BL[2032]
+;W[fg]WL[3150]
+;B[gg]BL[2030]
+;W[ke]WL[2992]
+;B[ig]BL[1982]
+;W[jh]WL[2934]
+;B[if]BL[1956]
+;W[ie]WL[2924]
+;B[kf]BL[1955]
+;W[ic]WL[2915]C[
+asten 4k : weird
+LeT 1d+: why?
+asten 4k : give a lot of opportunities to b
+]
+;B[ib]BL[1729]
+;W[ld]WL[2887]
+;B[kb]BL[1689]
+;W[lf]WL[2514]
+;B[kg]BL[1687]
+;W[li]WL[2512]
+;B[lg]BL[1512]
+;W[mf]WL[2494]
+;B[mg]BL[1510]
+;W[nf]WL[2488]
+;B[ng]BL[1500]
+;W[of]WL[2470]
+;B[mi]BL[1301]
+;W[lj]WL[2427]
+;B[ph]BL[1188]
+;W[hb]WL[2398]
+;B[gb]BL[1048]
+;W[jb]WL[2386]
+;B[id]BL[1036]
+;W[ia]WL[2376]
+;B[hd]BL[1029]
+;W[lc]WL[2368]
+;B[jc]BL[890]
+;W[lb]WL[2327]
+;B[ib]BL[888]
+;W[qc]WL[2307]
+;B[pc]BL[709]
+;W[qd]WL[2294]
+;B[pe]BL[685]
+;W[pf]WL[2294]
+;B[qb]BL[675]
+;W[ic]WL[2229]
+;B[eb]BL[581]
+;W[db]WL[2221]
+;B[ib]BL[559]
+;W[rb]WL[2201]
+;B[ob]BL[555]
+;W[ic]WL[2196]
+;B[mb]BL[396]
+;W[kc]WL[2173]
+;B[ib]BL[394]
+;W[qa]WL[2158]
+;B[ja]BL[367]
+;W[pb]WL[2098]C[
+LeT 1d+: n10?
+]
+;B[la]BL[228]
+;W[mj]WL[2090]
+;B[rg]BL[214]
+;W[qh]WL[2064]
+;B[pi]BL[113]
+;W[qi]WL[2018]
+;B[qj]BL[42]
+;W[pk]WL[1984]
+;B[qg]BL[10]
+;W[rj]WL[1870]
+;B[ri]BL[578]
+;W[qk]WL[1865]
+;B[rh]BL[568]
+;W[rf]WL[1842]
+;B[ni]BL[555]
+;W[nj]WL[1795]
+;B[fh]BL[552]
+;W[dh]WL[1791]
+;B[di]BL[546]
+;W[ci]WL[1782]
+;B[ch]BL[488]
+;W[cg]WL[1759]
+;B[eh]BL[486]
+;W[bh]WL[1686]
+;B[ef]BL[466]
+;W[bm]WL[1680]
+;B[mo]BL[420]
+;W[mr]WL[1650]C[
+ZIEL 5k : Guten Tag!
+WeiqiClubP 4d?: black is back
+LeT 1d+: looks like b lost
+WeiqiClubP 4d?: no
+Koffein 2d : well, he managed to live with 3 almost dead groups
+LeT 1d+: but behind isnt he?
+]
+;B[lr]BL[334]C[
+Koffein 2d : yes
+]
+;W[lq]WL[1646]
+;B[kr]BL[333]C[
+Koffein 2d : i thought atleast something would die on the upper side
+]
+;W[mp]WL[1630]
+;B[nq]BL[331]C[
+Koffein 2d : but white doesn$B!-(Bt need to kill ..
+]
+;W[nr]WL[1610]
+;B[jq]BL[313]
+;W[oq]WL[1608]
+;B[np]BL[312]
+;W[op]WL[1604]C[
+asten 4k : plus b doesn't have any reverse kmoi
+asten 4k : komi
+]
+;B[lp]BL[286]
+;W[oo]WL[1593]
+;B[pr]BL[283]
+;W[or]WL[1544]
+;B[io]BL[226]
+;W[pq]WL[1502]
+;B[qq]BL[224]
+;W[qr]WL[1502]
+;B[rr]BL[223]
+;W[ps]WL[1502]
+;B[rp]BL[144]
+;W[rn]WL[1498]
+;B[qn]BL[99]
+;W[rm]WL[1484]
+;B[ro]BL[81]
+;W[po]WL[1437]
+;B[qm]BL[54]
+;W[rl]WL[1431]
+;B[rs]BL[30]
+;W[qp]WL[1428]
+;B[om]BL[22]
+;W[nm]WL[1409]
+;B[pp]BL[596]
+;W[no]WL[1407]
+;B[kp]BL[591]
+;W[qp]WL[1406]
+;B[qe]BL[522]
+;W[re]WL[1396]
+;B[pp]BL[520]
+;W[ap]WL[1360]
+;B[qs]BL[504]
+;W[bq]WL[1329]
+;B[ao]BL[461]
+;W[bo]WL[1322]
+;B[bn]BL[457]
+;W[an]WL[1320]
+;B[br]BL[369]
+;W[em]WL[1299]
+;B[ar]BL[341]
+;W[bp]WL[1249]
+;B[cq]BL[300]
+;W[am]WL[1243]
+;B[ds]BL[296]
+;W[pr]WL[1229]
+;B[nl]BL[282]
+;W[qp]WL[1217]
+;B[rq]BL[279]
+;W[mm]WL[1207]
+;B[ok]BL[221]C[
+asten 4k : q8 ?
+]
+;W[oj]WL[1056]
+;B[ml]BL[219]
+;W[pl]WL[1044]
+;B[on]BL[209]
+;W[nn]WL[1025]
+;B[ol]BL[81]
+;W[lm]WL[1016]
+;B[ll]BL[80]
+;W[km]WL[1015]
+;B[kl]BL[78]
+;W[jm]WL[1007]
+;B[jl]BL[40]C[
+LeT 1d+: well t9 kills later..
+]
+;W[il]WL[995]
+;B[ik]BL[28]
+;W[im]WL[911]
+;B[sk]BL[23]
+;W[jj]WL[887]
+;B[hk]BL[14]
+;W[jk]WL[880]
+;B[so]BL[12]
+;W[gj]WL[870]
+;B[gk]BL[7]
+;W[fj]WL[865]C[
+asten 4k : trapped
+LeT 1d+: who
+asten 4k : ;)
+]
+;B[ek]BL[503]
+;W[fk]WL[857]
+;B[gm]BL[499]
+;W[fl]WL[850]
+;B[hn]BL[497]
+;W[gl]WL[831]
+;B[fn]BL[487]C[
+LeT 1d+: great
+]
+;W[ip]WL[820]
+;B[jo]BL[478]
+;W[ho]WL[805]
+;B[in]BL[475]
+;W[gr]WL[791]C[
+asten 4k : h3
+]
+;B[iq]BL[439]
+;W[qj]WL[738]
+;B[hm]BL[422]
+;W[pg]WL[714]
+;B[hl]BL[413]C[
+asten 4k : ?
+noldo 1d+: ? :|
+lemming 6k+: what is happening! :)
+minos BC : ???
+WeiqiClubP 4d?: haaaaaaa :D
+];
+
+)

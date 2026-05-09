@@ -1,0 +1,230 @@
+(;
+GM[1]EV[Internet Go Server game: manocska vs Roln]
+US[Brought to you by IGS PANDANET]
+CoPyright[
+  Copyright (c) PANDANET Inc. 2012
+  Permission to reproduce this game is given, provided proper credit is given.
+  No warrantee, implied or explicit, is understood.
+  Use of this game is an understanding and agreement of this notice.
+]
+GN[manocska-Roln(B) IGS]RE[B+Resign]
+PW[manocska]WR[8d ]NW[36]
+PB[Roln]BR[6d?]NB[34]
+PC[IGS:  igs.joyjoy.net 6969]DT[2012-10-10]
+SZ[19]TM[3600]KM[6.500000]LT[]
+RR[Normal]
+C[
+ manocska 8d : have a nice game
+ Roln 6d?: good game
+]
+;B[pd]BL[3573]
+;W[dp]WL[3558]
+;B[pp]BL[3545]
+;W[dd]WL[3543]
+;B[cf]BL[3431]
+;W[ch]WL[3490]
+;B[cc]BL[3377]
+;W[cd]WL[3477]
+;B[dc]BL[3375]
+;W[ed]WL[3476]
+;B[bd]BL[3374]
+;W[be]WL[3476]
+;B[bc]BL[3373]
+;W[ce]WL[3476]
+;B[fc]BL[3373]
+;W[qf]WL[3472]
+;B[qi]BL[3362]
+;W[nd]WL[3390]
+;B[pf]BL[3335]
+;W[qc]WL[3370]
+;B[pc]BL[3331]
+;W[qd]WL[3329]
+;B[qe]BL[3253]
+;W[re]WL[3324]
+;B[pe]BL[3218]
+;W[rg]WL[3321]
+;B[qg]BL[3217]
+;W[rf]WL[3318]
+;B[pb]BL[3170]
+;W[qb]WL[3215]
+;B[jd]BL[3112]C[
+ Uberdude 2d?: this shape feels a bit funny with f17
+ kibarosman 1d : i would have played k16 also
+]
+;W[ld]WL[3127]C[
+ kibarosman 1d : which means not the right move for a 6d :)
+ lordik BC : Anybody using a new client in a web-browser? In my case it takes alomst 80%CPU... is that normal?
+ kibarosman 1d : no
+ lordik BC : I thought as much ;-)
+ kibarosman 1d : no app should take up 80% cpu
+ kibarosman 1d : let alone this one
+ kibarosman 1d : unless you're using a 30-yr old pc
+ booobby 4k+: 486 CPU?
+ lordik BC : Intel core duo T5800... should have been enough
+ booobby 4k+: java troubles
+]
+;B[og]BL[2811]C[
+ Uberdude 2d?: gosh p13 looks soo slow
+ lordik BC : What is the alternative? It prevents white from cutting in :-)
+ Uberdude 2d?: yeah it just defnds first
+ Uberdude 2d?: instead of attacking with weakness
+]
+;W[lg]WL[2849]
+;B[fq]BL[2765]C[
+ kibarosman 1d : all that wall, k16 in sente, not much profit, at least not yet
+]
+;W[ip]WL[2708]C[
+ kibarosman 1d : this is one slow game
+ lordik BC : Would d6 be considered wring instead of j4?
+ lordik BC : I mean wrong
+]
+;B[fo]BL[2477]
+;W[dn]WL[2662]
+;B[kp]BL[2476]
+;W[in]WL[2637]
+;B[fm]BL[2475]
+;W[gn]WL[2636]
+;B[fn]BL[2469]
+;W[dl]WL[2631]
+;B[kn]BL[2467]
+;W[gp]WL[2612]
+;B[dq]BL[2449]
+;W[cq]WL[2429]
+;B[ep]BL[2446]
+;W[cp]WL[2423]
+;B[fk]BL[2378]C[
+ Uberdude 2d?: j9
+ Uberdude 2d?: w left side is huge
+]
+;W[ik]WL[2357]
+;B[kk]BL[2373]
+;W[gl]WL[2340]
+;B[gm]BL[2371]
+;W[hm]WL[2322]
+;B[gk]BL[2370]
+;W[hl]WL[2044]
+;B[fl]BL[2367]
+;W[ii]WL[2038]
+;B[dk]BL[2283]
+;W[ck]WL[2024]
+;B[cj]BL[2280]
+;W[dj]WL[1836]
+;B[ek]BL[2278]
+;W[bj]WL[1753]
+;B[cl]BL[2277]
+;W[bk]WL[1742]
+;B[dm]BL[2276]
+;W[cm]WL[1734]
+;B[el]BL[2274]
+;W[bm]WL[1718]C[
+ Uberdude 2d?: seems roln might lose this unless he can make a fight
+ Uberdude 2d?: r3 is so big
+ Uberdude 2d?: but l12 split or so also appealing
+]
+;B[kh]BL[1901]C[
+ lordik BC : All of this seem cool, but isn't black in danger? This f9 group
+]
+;W[dr]WL[1543]
+;B[go]BL[1536]
+;W[ho]WL[1334]
+;B[gq]BL[1529]
+;W[kg]WL[769]
+;B[jh]BL[1526]
+;W[lh]WL[767]
+;B[jg]BL[1413]
+;W[gh]WL[597]
+;B[gi]BL[1352]
+;W[hi]WL[430]
+;B[fi]BL[1305]
+;W[lj]WL[220]
+;B[kj]BL[1301]
+;W[nj]WL[149]
+;B[kf]BL[1192]
+;W[lf]WL[428]
+;B[hh]BL[1171]
+;W[kq]WL[410]
+;B[lq]BL[1161]
+;W[jq]WL[400]
+;B[lr]BL[1160]
+;W[hq]WL[394]
+;B[jo]BL[1159]
+;W[jm]WL[331]
+;B[jl]BL[1146]
+;W[km]WL[325]
+;B[il]BL[1146]
+;W[kl]WL[287]
+;B[jk]BL[1144]
+;W[lk]WL[267]
+;B[hk]BL[1143]
+;W[pj]WL[236]
+;B[mc]BL[1112]
+;W[lc]WL[224]
+;B[me]BL[1111]
+;W[md]WL[204]
+;B[le]BL[1105]
+;W[ke]WL[202]
+;B[kd]BL[1099]
+;W[ne]WL[159]
+;B[oi]BL[1030]
+;W[jf]WL[148]
+;B[pk]BL[986]
+;W[ok]WL[98]
+;B[qk]BL[982]
+;W[pi]WL[90]
+;B[ph]BL[971]
+;W[oj]WL[83]
+;B[rh]BL[970]
+;W[pm]WL[54]
+;B[im]BL[962]
+;W[hn]WL[45]
+;B[jn]BL[958]
+;W[gr]WL[23]
+;B[fr]BL[949]
+;W[ir]WL[20]
+;B[gs]BL[948]
+;W[hs]WL[16]
+;B[hr]BL[947]
+;W[ij]WL[13]
+;B[ki]BL[943]
+;W[gr]WL[12]
+;B[hg]BL[886]
+;W[fs]WL[5]
+;B[qo]BL[869]
+;W[np]WL[304]
+;B[no]BL[828]
+;W[qq]WL[181]
+;B[pq]BL[825]
+;W[pr]WL[181]
+;B[or]BL[477]
+;W[rr]WL[178]
+;B[rp]BL[465]
+;W[rq]WL[174]
+;B[qs]BL[461]
+;W[ps]WL[171]
+;B[sq]BL[457]
+;W[oo]WL[130]
+;B[nq]BL[413]
+;W[qp]WL[119]
+;B[ro]BL[377]
+;W[mp]WL[102]
+;B[po]BL[369]
+;W[lp]WL[87]
+;B[mn]BL[167];
+
+OS[aayaa627][Alingo][AltaNar][artem9212][autica]
+[Barmalei][Beo][Bohdan][booobby][boudu]
+[brona][Cheshire][Chur][clam][EasyRider]
+[eyeshield][FreshMint][GINJI][guta57][HappyLook]
+[joachim][jojoyo][jonkacz][keks][kidu24]
+[Kuba][Kupitman][Laman][lazer][Lentilka]
+[LeT][liberta][Liso][lordik][Lukan]
+[Luter][Mani][marikov][markus][maxpoint]
+[mi1][mojo][MSvreco][Nelis][ngarry]
+[Nighthawk][nikbary][Nilatarion][nina][Ortenix]
+[Palko][pilgrim][Podiceps][Procyon][RNT]
+[saitann][scurge10][Shirasagi][Shved][Siska9]
+[SlowThinkr][Sur][testejlo15][Tidohi][Tsoy]
+[tsunamigo][turpa][tyam][v1rus][veinarde]
+[weaker][weiqi72][whitefish][x0000][xgor]
+
+)

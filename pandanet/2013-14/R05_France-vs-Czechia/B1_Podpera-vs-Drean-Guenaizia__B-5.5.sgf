@@ -1,0 +1,406 @@
+(;
+GM[1]EV[Internet Go Server game: BenjaminDG vs Lukan]
+US[Brought to you by IGS PANDANET]
+CoPyright[
+  Copyright (c) PANDANET Inc. 2014
+  Permission to reproduce this game is given, provided proper credit is given.
+  No warrantee, implied or explicit, is understood.
+  Use of this game is an understanding and agreement of this notice.
+]
+GN[BenjaminDG-Lukan(B) IGS]RE[B+5.5]
+PW[BenjaminDG]WR[6d?]NW[34]
+PB[Lukan]BR[5d?]NB[33]
+PC[IGS:  igs.joyjoy.net 6969]DT[2014-02-05]
+SZ[19]TM[3600]KM[6.500000]LT[]
+RR[Normal]
+C[
+ BenjaminDG 6d?: 137 have a nice game
+ Lukan 5d?: have a nice game!
+]
+;B[qd]BL[3579]
+;W[pp]WL[3587]
+;B[dc]BL[3567]
+;W[cp]WL[3561]
+;B[ce]BL[3521]
+;W[oc]WL[3376]
+;B[kc]BL[3487]
+;W[qh]WL[3060]
+;B[pe]BL[3334]
+;W[qk]WL[3052]
+;B[pc]BL[3254]
+;W[od]WL[3031]
+;B[md]BL[3074]
+;W[oe]WL[2863]
+;B[pf]BL[3040]
+;W[of]WL[2829]
+;B[pg]BL[3004]
+;W[lf]WL[2580]
+;B[jf]BL[2864]
+;W[rf]WL[2544]
+;B[pb]BL[2809]
+;W[nh]WL[2532]
+;B[mf]BL[2711]
+;W[mg]WL[2376]
+;B[me]BL[2696]
+;W[og]WL[2359]
+;B[ph]BL[2692]
+;W[qi]WL[2353]
+;B[oj]BL[2397]
+;W[nj]WL[1974]
+;B[nk]BL[2324]
+;W[mj]WL[1968]
+;B[ok]BL[2229]
+;W[pm]WL[1914]
+;B[ll]BL[2164]
+;W[jj]WL[1904]
+;B[jl]BL[2119]
+;W[jh]WL[1897]
+;B[ii]BL[1937]
+;W[ih]WL[1845]
+;B[hf]BL[1917]
+;W[gh]WL[1801]
+;B[fg]BL[1811]
+;W[ei]WL[1755]
+;B[ep]BL[1779]
+;W[dn]WL[1489]
+;B[cq]BL[1697]
+;W[bq]WL[1486]
+;B[ip]BL[1645]
+;W[dq]WL[1030]
+;B[nq]BL[1431]
+;W[pq]WL[1015]
+;B[oo]BL[1372]
+;W[po]WL[978]
+;B[on]BL[1320]
+;W[ch]WL[737]
+;B[eq]BL[1232]
+;W[gq]WL[530]
+;B[en]BL[1141]
+;W[iq]WL[497]
+;B[jq]BL[1114]
+;W[jr]WL[476]
+;B[ir]BL[1035]
+;W[hq]WL[456]
+;B[kq]BL[1031]
+;W[io]WL[391]C[
+ pliniofilo 3d?: coup stylé
+ charlus 5d?: ouais
+]
+;B[cr]BL[973]C[
+ charlus 5d?: dommage que ce soit si mauvais
+]
+;W[dr]WL[263]
+;B[dp]BL[969]
+;W[br]WL[249]
+;B[co]BL[961]
+;W[bp]WL[248]
+;B[er]BL[951]
+;W[cs]WL[247]
+;B[dm]BL[896]
+;W[jp]WL[226]
+;B[kp]BL[823]
+;W[jo]WL[197]
+;B[go]BL[805]
+;W[ho]WL[144]C[
+ pliniofilo 3d?: c'est l'essence même des coups trop stylé
+]
+;B[gp]BL[768]C[
+ pliniofilo 3d?: l'expression adaptée est "coup comme stylé"
+]
+;W[hp]WL[137]
+;B[bm]BL[680]
+;W[cc]WL[45]
+;B[dd]BL[622]
+;W[db]WL[588]
+;B[eb]BL[521]
+;W[bd]WL[576]
+;B[hr]BL[340]
+;W[gr]WL[561]
+;B[kr]BL[336]
+;W[hl]WL[501]
+;B[or]BL[293]
+;W[pr]WL[497]
+;B[be]BL[149]
+;W[bb]WL[454]
+;B[da]BL[143]
+;W[ca]WL[416]
+;B[cb]BL[138]
+;W[dl]WL[389]
+;B[cm]BL[100]
+;W[db]WL[193]
+;B[ql]BL[78]
+;W[pl]WL[178]
+;B[cb]BL[74]
+;W[kb]WL[157]
+;B[lc]BL[26]
+;W[db]WL[155]
+;B[pk]BL[13]
+;W[qj]WL[131]
+;B[cb]BL[8]
+;W[ie]WL[108]
+;B[if]BL[583]
+;W[db]WL[107]
+;B[pn]BL[577]
+;W[qn]WL[106]
+;B[cb]BL[573]
+;W[pd]WL[80]
+;B[ba]BL[533]
+;W[qe]WL[58]
+;B[rd]BL[507]
+;W[nb]WL[37]
+;B[mb]BL[425]
+;W[ma]WL[30]
+;B[la]BL[414]
+;W[na]WL[19]
+;B[rg]BL[404]
+;W[lb]WL[18]
+;B[jb]BL[398]
+;W[mc]WL[17]
+;B[jd]BL[371]
+;W[ja]WL[14]
+;B[ia]BL[348]
+;W[ka]WL[11]
+;B[ib]BL[343]
+;W[qg]WL[595]
+;B[qf]BL[341]
+;W[rh]WL[594]
+;B[re]BL[340]
+;W[sg]WL[411]
+;B[om]BL[331]
+;W[qm]WL[401]
+;B[ps]BL[290]
+;W[qs]WL[391]
+;B[os]BL[284]
+;W[np]WL[388]
+;B[op]BL[249]
+;W[oq]WL[384]
+;B[nr]BL[247]
+;W[oi]WL[370]
+;B[rb]BL[139]
+;W[mp]WL[358]
+;B[mq]BL[137]
+;W[mn]WL[341]
+;B[lo]BL[68]
+;W[ol]WL[225]
+;B[mo]BL[40]
+;W[no]WL[219]C[
+ charlus 5d?: ça c'est bourguiba
+]
+;B[nm]BL[21]
+;W[mm]WL[144]
+;B[nl]BL[16]
+;W[ml]WL[143]
+;B[nn]BL[597]
+;W[mk]WL[142]
+;B[lp]BL[596]
+;W[kn]WL[141]
+;B[qr]BL[588]C[
+ alastar 4d : aille
+ alastar 4d : ça fait mal
+]
+;W[rq]WL[129]C[
+ Palko 5d?: w got a lot here
+]
+;B[qq]BL[582]C[
+ charlus 5d?: on n'aurait pas imaginé que ce centre devienne blanc il y a 80 coups
+]
+;W[qp]WL[117]
+;B[rr]BL[579]
+;W[sr]WL[116]
+;B[rs]BL[578]
+;W[rp]WL[114]
+;B[hn]BL[549]
+;W[hm]WL[104]C[
+ charlus 5d?: blanc est en avance, encore
+]
+;B[gn]BL[524]
+;W[in]WL[101]
+;B[cj]BL[507]
+;W[dj]WL[90]
+;B[ci]BL[493]
+;W[dh]WL[68]
+;B[fh]BL[423]
+;W[fi]WL[18]
+;B[gg]BL[410]
+;W[hh]WL[568]
+;B[el]BL[405]
+;W[ek]WL[538]
+;B[fl]BL[391]
+;W[ck]WL[528]
+;B[bk]BL[386]
+;W[fk]WL[527]
+;B[kf]BL[247]
+;W[lg]WL[521]
+;B[le]BL[236]C[
+ pliniofilo 3d?: noir gagne largement non ?
+ alastar 4d : non
+]
+;W[df]WL[462]C[
+ alastar 4d : c'est serré comme les cuisses des femmes quand elles voient fred berthomier
+ charlus 5d?: tu dis ça juste pour me contredire
+]
+;B[ef]BL[203]
+;W[bi]WL[360]C[
+ Welvang 5d : je compte lukan très légèrement en avance
+]
+;B[bj]BL[199]
+;W[de]WL[357]
+;B[cf]BL[162]
+;W[dg]WL[346]
+;B[ee]BL[159]
+;W[bg]WL[344]C[
+ charlus 5d?: pareil :(
+]
+;B[ai]BL[118]
+;W[ah]WL[289]
+;B[bh]BL[106]
+;W[pa]WL[287]
+;B[qa]BL[101]
+;W[bi]WL[286]
+;B[ln]BL[93]
+;W[lm]WL[270]
+;B[bh]BL[599]C[
+ alastar 4d : plus que tres legerement
+]
+;W[fm]WL[223]
+;B[gm]BL[574]
+;W[gl]WL[222]
+;B[em]BL[571]
+;W[bi]WL[221]
+;B[af]BL[508]
+;W[aj]WL[218]C[
+ charlus 5d?: bah genre 3 points
+ charlus 5d?: allez ça va faire nul cette histoire, bisou
+]
+;B[cl]BL[499]
+;W[dk]WL[207]C[
+ pliniofilo 3d?: t'inquiete, zlatan va marquer à la 90e
+]
+;B[bo]BL[479]
+;W[hs]WL[202]
+;B[js]BL[477]C[
+ Welvang 5d : étant nantais je devrais être malheureux je crois
+ Welvang 5d : mais là on soutient concarneau les amis
+ Antoine 6d?: bien joué tanguy
+ Antoine 6d?: on se dirige vers un nul...
+ Welvang 5d : merci :) oui je crois bien
+ ThomasD 6d?: encore une grande performance de debarre
+]
+;W[fq]WL[73]
+;B[ak]BL[467]
+;W[fp]WL[72]C[
+ Palko 5d?: b+
+]
+;B[fo]BL[466]C[
+ Welvang 5d : y
+ Palko 5d?: 5-10. so it's 2-2?
+ pliniofilo 3d?: yep
+]
+;W[ao]WL[27]
+;B[an]BL[453]
+;W[ap]WL[23]
+;B[ai]BL[449]
+;W[bh]WL[13]
+;B[kg]BL[440]
+;W[kh]WL[599]
+;B[se]BL[437]C[
+ Welvang 5d : ben0 just gave this game as a present for lukas birthday that's all :)
+]
+;W[es]WL[566]
+;B[sf]BL[422]
+;W[rg]WL[561]
+;B[nd]BL[413]
+;W[nc]WL[557]
+;B[oa]BL[405]
+;W[gs]WL[549]
+;B[is]BL[401]
+;W[fr]WL[524]
+;B[ob]BL[392]
+;W[nf]WL[518]C[
+ mamutik 1k+: pfff, heureusement que c'est vous contre qui ca sera l'egalite! Comme ca j'ai pas de seum et je suis contente egalement pour vous que pour nous ^^'
+]
+;B[bf]BL[312]
+;W[aj]WL[515]C[
+ alastar 4d : jitka ?
+]
+;B[pi]BL[300]C[
+ mamutik 1k+: ouiii
+ alastar 4d : youhouuuuuuuuuuuuuu
+]
+;W[pj]WL[506]C[
+ alastar 4d : jitkaaaaaaaaaaaa bartovaaaaaaaaaaaaaaaa
+]
+;B[qe]BL[293]
+;W[oh]WL[505]
+;B[ai]BL[292]
+;W[np]WL[504]
+;B[no]BL[292]
+;W[aj]WL[503]
+;B[eg]BL[264]
+;W[ai]WL[494]
+;B[hg]BL[257]
+;W[di]WL[490]
+;B[cd]BL[597]
+;W[sq]WL[488]
+;B[qs]BL[596]
+;W[ko]WL[486]
+;B[jg]BL[592]
+;W[eh]WL[485]
+;B[ig]BL[591]
+;W[cg]WL[484]
+;B[ne]BL[589]
+;W[ss]WL[482]
+;B[ag]BL[587]
+;W[tt]WL[477]
+;B[tt]BL[585]
+;W[tt]WL[477]C[
+ Lukan 5d?: Lukan dead @ J15
+ Lukan 5d?: Lukan dead @ K8
+ BenjaminDG 6d?: BenjaminDG dead @ M8
+ Lukan 5d?: Lukan dead @ R8
+ BenjaminDG 6d?: BenjaminDG dead @ J11
+ Lukan 5d?: Lukan dead @ B16
+ BenjaminDG 6d?: BenjaminDG dead @ C17
+ Lukan 5d?: Lukan dead @ D6
+ Lukan 5d?: Lukan dead @ F7
+ Lukan 5d?: Lukan dead @ B18
+ Lukan 5d?: Lukan dead @ O4
+ BenjaminDG done
+];
+
+TW[as][ar][aq][bs][cr][cq][ds][ej][fs][fj][gk][gj][gi][hk][hj][hi][ip][im]
+[il][ik][ij][ii][jn][jm][jl][jk][ji][km][kl][kk][kj][ki][ll][lk][lj][li]
+[lh][la][mi][mh][mb][ni][ng][qo][ql][ro][rn][rm][rl][rk][rj][ri][sp][so]
+[sn][sm][sl][sk][sj][si][sh]
+
+TB[am][al][ae][ad][ac][ab][aa][bn][bl][bd][bc][bb][cn][cc][ca][do][dn][db]
+[eo][ed][ec][ea][fn][fm][ff][fe][fd][fc][fb][fa][gf][ge][gd][gc][gb][ga]
+[he][hd][hc][hb][ha][ie][id][ic][jr][je][jc][ks][ke][kd][ls][lr][lq][ld]
+[ms][mr][mp][ns][np][pa][qc][qb][rc][ra][sd][sc][sb][sa]
+
+OS[ajax][alastar][Alingo][am7824][Anryx]
+[Antoine][ARIKA][Audun][autica][baltus]
+[betterlife][BMAN47][breakfast][BWStone][charlus]
+[Corbac][Costy][CRBGmhAW][CRkQwZbH][CRMxgQDC]
+[CRNxqOpg][crocus][Cyx][dannni][deemendoz]
+[Dika][DJJ][DPT7][dreammaker][Elias]
+[Emily888][eye2eye][EYT3515][flashback][FreddaSWE]
+[fuha][gen110][goartgo][Goodbyeman][gotirol]
+[hagedanuki][hamete][HappyLook][harborlink][Hidoshito]
+[hojo][IAmAce][itoyo][ivoszz][JanHora]
+[Jenik][jirkam80][Jna][Jr4yA][JYPPZ]
+[Kenzan][kidu24][koriyo][krabicka][kuaiyu]
+[Kuba][lagalag][Laman][Lentilka][LeT]
+[lin010][Liso][littlegrs][lordik][MacArthur]
+[mamutik][manocska][Milos][minicat][Mirop]
+[Mouyrf][mskoparan][Mycelin][NARUSHIMA][nidza92]
+[nircado][nomadic][notevenbad][ov][Palko]
+[pliniofilo][polyser][pororon][potentilla][Procyon]
+[puerhista][py99s7][qy][RedStar][Rock888]
+[Roln][s321][seiichirou][SIben][sn2026]
+[tanfutako][tavla06][tennisgolf][thd23][ThomasD]
+[train88][tymak][Veedee][weaker][weiqi72]
+[Welvang][whhebaajol][yama1727][yamanakaT][yeeee]
+[YG6356E][Yose][yu142857]
+
+)

@@ -1,0 +1,151 @@
+(;
+GM[1]EV[Internet Go Server game: krabicka vs Bautasten]
+US[Brought to you by IGS PANDANET]
+CoPyright[
+  Copyright (c) PANDANET Inc. 2015
+  Permission to reproduce this game is given, provided proper credit is given.
+  No warrantee, implied or explicit, is understood.
+  Use of this game is an understanding and agreement of this notice.
+]
+GN[krabicka-Bautasten(B) IGS]RE[W+Resign]
+PW[krabicka]WR[5d?]NW[33]
+PB[Bautasten]BR[3d?]NB[31]
+PC[IGS:  igs.joyjoy.net 6969]DT[2015-04-22]
+SZ[19]TM[3600]KM[6.500000]LT[]
+RR[Normal]
+C[
+ krabicka 5d?: 74 hello
+ Bautasten 3d?: 74 hi
+]
+;B[pd]BL[3584]C[
+ krabicka 5d?: 74 have a nice game
+]
+;W[dp]WL[3596]
+;B[pq]BL[3580]
+;W[dd]WL[3592]
+;B[qo]BL[3564]C[
+ Bautasten 3d?: 74 likewise
+]
+;W[kq]WL[3568]
+;B[cn]BL[3556]
+;W[fp]WL[3479]
+;B[dj]BL[3508]
+;W[ch]WL[3435]
+;B[cf]BL[3463]
+;W[df]WL[3393]
+;B[de]BL[3446]
+;W[ee]WL[3383]
+;B[ce]BL[3445]
+;W[dg]WL[3375]
+;B[cd]BL[3444]
+;W[dc]WL[3315]
+;B[cc]BL[3442]
+;W[cb]WL[3241]
+;B[bb]BL[3434]
+;W[db]WL[3238]
+;B[ba]BL[3430]
+;W[ff]WL[3188]
+;B[en]BL[3345]
+;W[nc]WL[3126]
+;B[pf]BL[3282]
+;W[jd]WL[3097]
+;B[lc]BL[3275]
+;W[le]WL[3023]
+;B[md]BL[3269]
+;W[kc]WL[3020]
+;B[nd]BL[3256]
+;W[bp]WL[2846]
+;B[mq]BL[3184]
+;W[cl]WL[2821]
+;B[dl]BL[3165]
+;W[cm]WL[2774]
+;B[dm]BL[3160]
+;W[bn]WL[2773]
+;B[co]BL[3157]
+;W[bo]WL[2771]
+;B[hp]BL[3131]
+;W[go]WL[2715]
+;B[jp]BL[3120]
+;W[kp]WL[2697]
+;B[ko]BL[3078]
+;W[mp]WL[2658]
+;B[jq]BL[3048]
+;W[lo]WL[2466]
+;B[kn]BL[3013]
+;W[mm]WL[2399]
+;B[gm]BL[2986]
+;W[hn]WL[2312]
+;B[kl]BL[2953]
+;W[jr]WL[2305]
+;B[ir]BL[2948]
+;W[kr]WL[2304]
+;B[eq]BL[2909]
+;W[ep]WL[2188]
+;B[fq]BL[2899]
+;W[dq]WL[2186]
+;B[gp]BL[2898]
+;W[hm]WL[2147]
+;B[gk]BL[2882]
+;W[fo]WL[2015]
+;B[nq]BL[2821]
+;W[hr]WL[2003]
+;B[is]BL[2787]
+;W[jo]WL[1987]
+;B[hq]BL[2766]
+;W[jn]WL[1896]
+;B[ln]BL[2736]
+;W[mn]WL[1895]
+;B[ll]BL[2735]
+;W[ml]WL[1813]
+;B[lj]BL[2722]
+;W[hl]WL[1552]C[
+ scurge10 4d?: why do the czech guys ALWAYS have less time then their opponents? O.o
+ scurge10 4d?: are we slow or something? :D
+]
+;B[hk]BL[2626]
+;W[ik]WL[1542]
+;B[ij]BL[2625]
+;W[jj]WL[1532]
+;B[jk]BL[2619]
+;W[il]WL[1531]
+;B[ji]BL[2617]
+;W[hj]WL[1528]
+;B[ii]BL[2617]
+;W[gl]WL[1501]C[
+ Kachnak 3d?: *cough*cough* no one cars
+ Kachnak 3d?: cares
+ Kachnak 3d?: >\
+]
+;B[fk]BL[2588]C[
+ scurge10 4d?: you are to talk, you are the thinking specialist ;)
+]
+;W[ip]WL[1281]
+;B[iq]BL[2577]
+;W[gr]WL[1277]
+;B[fr]BL[2575]
+;W[dr]WL[1266]
+;B[ho]BL[2563]C[
+ scurge10 4d?: can white really add the liberty?
+]
+;W[io]WL[1193]
+;B[jm]BL[2560]
+;W[in]WL[1192]
+;B[gn]BL[2554]
+;W[fl]WL[1191]
+;B[fm]BL[2539]
+;W[ek]WL[1189]
+;B[fj]BL[2528]C[
+ scurge10 4d?: ah very nice
+]
+;W[ej]WL[1179]
+;B[fi]BL[2525]
+;W[dk]WL[1163]C[
+ Kachnak 3d?: gg no re
+ scurge10 4d?: Good use of time :D
+];
+
+OS[Bolibompa][FreddaSWE][JanHora][Kachnak][KristianF2]
+[Laman][Lentilka][manocska][Mirop][Nogravity]
+[Pig][scurge10][SlepyKrtek]
+
+)

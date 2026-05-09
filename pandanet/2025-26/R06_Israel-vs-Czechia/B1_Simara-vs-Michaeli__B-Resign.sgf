@@ -1,0 +1,283 @@
+(;
+GM[1]EV[Internet Go Server game: iHoldKiesi vs flashback]
+US[Brought to you by IGS PANDANET]
+CoPyright[
+  Copyright (c) PANDANET Inc. 2026
+  Permission to reproduce this game is given, provided proper credit is given.
+  No warrantee, implied or explicit, is understood.
+  Use of this game is an understanding and agreement of this notice.
+]
+GN[iHoldKiesi-flashback(B) IGS]RE[B+Resign]
+PW[iHoldKiesi]WR[2d+]NW[30]
+PB[flashback]BR[7d ]NB[35]
+PC[IGS:  igs.joyjoy.net 6969]DT[2026-02-24]
+SZ[19]TM[3600]KM[6.500000]LT[]
+RR[Normal]
+C[
+ flashback 7d : 62 have fun
+]
+;B[pd]BL[3592]C[
+ iHoldKiesi 2d+: 62 Have a nice game!
+]
+;W[dd]WL[3591]
+;B[pp]BL[3587]
+;W[dp]WL[3590]
+;B[fc]BL[3580]
+;W[cf]WL[3588]
+;B[cq]BL[3573]
+;W[cp]WL[3582]
+;B[dq]BL[3572]
+;W[ep]WL[3581]
+;B[fr]BL[3570]
+;W[qn]WL[3576]
+;B[ql]BL[3549]
+;W[qq]WL[3574]
+;B[qp]BL[3548]
+;W[pq]WL[3573]
+;B[op]BL[3547]
+;W[rp]WL[3571]
+;B[ro]BL[3547]
+;W[rq]WL[3570]
+;B[rn]BL[3546]
+;W[nq]WL[3569]
+;B[nc]BL[3540]
+;W[qf]WL[3374]
+;B[qe]BL[3359]
+;W[pf]WL[3362]
+;B[qh]BL[3358]
+;W[mf]WL[3276]
+;B[oh]BL[3125]
+;W[md]WL[2632]
+;B[nd]BL[3046]
+;W[ne]WL[2623]
+;B[le]BL[3045]
+;W[me]WL[2615]
+;B[lb]BL[2799]
+;W[kc]WL[2598]
+;B[lc]BL[2351]
+;W[ld]WL[2595]
+;B[kd]BL[2351]C[
+ flashback 7d : 18 .
+]
+;W[jc]WL[2069]C[
+ scurge10 6d?: I think i played this cut once and it didnt turn out too good for me
+ nadav 5k?: n15 group seems quite heavy
+]
+;B[kf]BL[2040]
+;W[kg]WL[1548]
+;B[jf]BL[2018]C[
+ scurge10 6d?: very technical and fragile position
+]
+;W[gd]WL[1349]
+;B[jd]BL[1949]
+;W[ic]WL[1345]C[
+ nadav 5k?: i guess w should have got the atari
+]
+;B[lg]BL[1914]C[
+ nadav 5k?: m14 is not sente anyway
+]
+;W[nh]WL[1338]
+;B[lh]BL[1896]
+;W[ni]WL[1333]C[
+ nadav 5k?: now b is enjoying extra eyespace
+]
+;B[oi]BL[1847]
+;W[nj]WL[1299]C[
+ OferZivo 6d+: maybe not that bad. the push had its downside as well
+]
+;B[og]BL[1824]C[
+ OferZivo 6d+: less eyespace for that stone on top
+]
+;W[ng]WL[1257]
+;B[lj]BL[1797]C[
+ OferZivo 6d+: cutting not really working, right?
+ nadav 5k?: b will have to give up n17
+ nadav 5k?: if he cuts
+ OferZivo 6d+: might be worth it at some point... but w shouldn't protect now I feel
+ OferZivo 6d+: p10?
+ nadav 5k?: ye
+ nadav 5k?: tho i feel a bit greedy to live aji there
+ nadav 5k?: but prob better to just get it
+ nadav 5k?: leave*
+ OferZivo 6d+: the middle game is gonna be rough on Tal
+]
+;W[nl]WL[782]
+;B[ll]BL[1683]
+;W[qj]WL[436]C[
+ OferZivo 6d+: exciting!
+ nadav 5k?: ah tal was also greedy
+ nadav 5k?: hope it works out
+ OferZivo 6d+: I think he really just wants to settle in sente and finish off top left
+]
+;B[pj]BL[1066]
+;W[qm]WL[382]
+;B[ok]BL[1029]
+;W[nk]WL[119]
+;B[rm]BL[950]
+;W[pl]WL[51]
+;B[qk]BL[910]
+;W[mm]WL[535]
+;B[fd]BL[724]
+;W[ge]WL[524]
+;B[fe]BL[644]
+;W[gf]WL[462]
+;B[gc]BL[633]
+;W[id]WL[322]
+;B[eg]BL[581]
+;W[gh]WL[284]
+;B[hg]BL[491]
+;W[gg]WL[260]
+;B[dc]BL[431]
+;W[cc]WL[257]
+;B[cb]BL[430]
+;W[cd]WL[198]
+;B[eb]BL[421]
+;W[ef]WL[196]
+;B[ff]BL[417]
+;W[fg]WL[193]
+;B[eh]BL[290]
+;W[ch]WL[187]
+;B[ej]BL[255]
+;W[gj]WL[182]
+;B[cj]BL[229]
+;W[bj]WL[164]
+;B[bk]BL[497]
+;W[bi]WL[161]
+;B[kn]BL[460]
+;W[ki]WL[148]
+;B[li]BL[449]
+;W[lm]WL[141]
+;B[km]BL[446]
+;W[kk]WL[94]
+;B[kj]BL[373]
+;W[kl]WL[84]
+;B[lk]BL[363]C[
+ scurge10 6d?: seems w is collapsing_
+ scurge10 6d?: ?
+]
+;W[ik]WL[76]
+;B[hi]BL[350]
+;W[ii]WL[62]
+;B[jj]BL[309]
+;W[il]WL[60]
+;B[hj]BL[278]
+;W[ij]WL[37]
+;B[hh]BL[277]
+;W[gi]WL[31]
+;B[hk]BL[274]
+;W[fk]WL[14]C[
+ OferZivo 6d+: It's a mess, to be sure
+ nadav 5k?: question is can black just cut N5
+]
+;B[gl]BL[152]
+;W[in]WL[5]
+;B[gn]BL[120]
+;W[dl]WL[269]
+;B[np]BL[109]
+;W[mq]WL[266]
+;B[lo]BL[104]C[
+ nadav 5k?: um
+ nadav 5k?: what is the plan
+]
+;W[ho]WL[243]
+;B[go]BL[100]C[
+ nadav 5k?: got it
+]
+;W[if]WL[221]C[
+ OferZivo 6d+: L12 something?
+]
+;B[jh]BL[68]C[
+ nadav 5k?: wow
+ nadav 5k?: nice
+]
+;W[je]WL[197]
+;B[ke]BL[62]C[
+ nadav 5k?: caught tal off guard with that connection
+]
+;W[gp]WL[181]
+;B[hp]BL[58]
+;W[ip]WL[172]
+;B[fp]BL[49]
+;W[hq]WL[167]
+;B[fq]BL[44]
+;W[fo]WL[115]
+;B[em]BL[32]C[
+ nadav 5k?: drive through
+ nadav 5k?: ah no?
+ OferZivo 6d+: this is more natural
+]
+;W[eo]WL[85]
+;B[dm]BL[22]C[
+ nadav 5k?: can resign here
+]
+;W[cm]WL[63]
+;B[el]BL[20]
+;W[ek]WL[58]
+;B[cl]BL[16]
+;W[dk]WL[47]C[
+ OferZivo 6d+: g7 is something?
+]
+;B[hm]BL[570]
+;W[jn]WL[40]
+;B[cn]BL[528]
+;W[ck]WL[22]C[
+ nadav 5k?: hm
+ nadav 5k?: n5 is something
+]
+;B[ol]BL[452]
+;W[nn]WL[17]
+;B[mp]BL[450]
+;W[qo]WL[11]C[
+ nadav 5k?: םי
+ nadav 5k?: oh
+ OferZivo 6d+: 11 seconds 8 moves
+]
+;B[om]BL[401]
+;W[mo]WL[10]C[
+ nadav 5k?: crazy
+ OferZivo 6d+: k13 soon?
+ OferZivo 6d+: n17..
+ nadav 5k?: tal actually found something but he has no time
+ OferZivo 6d+: He has Jan's time...
+]
+;B[on]BL[220]
+;W[bl]WL[8]C[
+ nadav 5k?: meh
+]
+;B[kp]BL[197]
+;W[bn]WL[5]
+;B[jq]BL[189]
+;W[jg]WL[2]
+;B[lf]BL[187]
+;W[ig]WL[2]
+;B[ih]BL[187]
+;W[ji]WL[2]
+;B[kh]BL[186]
+;W[lq]WL[2]
+;B[lp]BL[184]C[
+ nadav 5k?: oh what
+]
+;W[jr]WL[1]C[
+ scurge10 6d?: epic
+ nadav 5k?: is he gaining a second?
+]
+;B[ir]BL[175]C[
+ scurge10 6d?: 2s for 5 moves??? :D
+ nadav 5k?: it looked like the time was increasing
+ nadav 5k?: confused i am
+ OferZivo 6d+: cheating!
+ nadav 5k?: i guess he was too fast for the server
+ nadav 5k?: shame he is dying
+]
+;W[iq]WL[437]
+;B[im]BL[163]
+;W[kq]WL[407]
+;B[jm]BL[152];
+
+OS[achilles][adavies][brinchi][CantorS][DamirM]
+[eranB][gerushka][goal99][GoSlinger][Hidoshito]
+[hvk3][KrtekHonza][kvasir][lax][Lukan]
+[maligo][nadav][nuborn][OferZivo][scurge10]
+[searose][tirand12][Triangle][Wade][Werfeus]
+
+)
