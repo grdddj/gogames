@@ -1,0 +1,714 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[2025-07-26_EuroCh-2025_SF_Krushelnytskyi-Frejlak]
+PC[https://online-go.com/review/1508180]
+PB[Krushelnytskyi Valerii]
+PW[Frejlak Stanislaw]
+BR[7d]
+WR[2p]
+OT[Error: time control missing]
+RE[B+9.5]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+C[
+
+-- chat --
+EGF1: Semi Final games of European Championship are played with longer thinking time: 80 minutes + 40 seconds increment from the move 1
+EGF1: More information, with the complete tree and links to games transmitted to OGS:https://eurogofed.org/egc/2025.html
+MyBlizzAcc: In the stream they are already playing but no updates here?
+]
+;B[pd]
+;W[dp]
+;B[qp]
+;W[dc]
+;B[op]
+;W[df]
+;B[nc]
+;W[np]
+;B[no]
+;W[oq]
+;B[oo]
+;W[pq]
+;B[mp]
+;W[pp]
+;B[po]
+;W[qq]
+;B[nq]
+;W[qo]
+;B[qn]
+;W[rp]
+;B[ro]
+;W[qh]
+;B[qf]
+;W[pj]C[
+
+-- chat --
+EGF1: it is fine now
+]
+;B[cq]C[
+
+-- chat --
+EGF1: the "upload" button
+]
+;W[cp]
+;B[dq]
+;W[ep]
+;B[eq]C[
+
+-- chat --
+MyBlizzAcc: thank you!
+]
+;W[fp]
+;B[fq]
+;W[di]
+;B[id]
+;W[gq]
+;B[gp]
+;W[hq]
+;B[go]
+;W[bq]
+;B[br]
+;W[bp]
+;B[gr]
+;W[hr]
+;B[fs]
+;W[io]
+;B[gm]C[
+
+-- chat --
+EGF1: Parings for the EGC Weekend tournament: https://roundsboard.com/tournaments/5th-china-town-weiqi-cup/parings
+]
+;W[ar]
+;B[bs]C[
+
+-- chat --
+EGF1: Top four boards will be streamed as well - the round 1 should start at 10:30
+]
+;W[im]
+;B[ip]
+;W[fn]
+;B[gn]
+;W[hp]
+;B[ho]
+;W[jp]
+;B[in]
+;W[jo]
+;B[jn]
+;W[kn]
+;B[jm]
+;W[lo]
+;B[kq]
+;W[jq]
+;B[kp]
+;W[ko]
+;B[kr]
+;W[kl]
+;B[jl]
+;W[kk]
+;B[jk]
+;W[kj]
+;B[km]
+;W[lm]
+;B[mn]
+;W[ln]
+;B[ml]
+;W[ll]
+;B[nj]
+;W[jj]
+;B[ij]
+;W[ii]
+;B[hj]
+;W[hi]
+;B[gi]
+;W[gj]
+;B[gk]
+;W[fj]
+;B[fk]
+;W[ej]
+;B[dl]
+;W[cl]C[
+
+-- chat --
+Radziol: i don't likie g11 for black, looks like outside loss for a promise of attack white on bottom, but hardto kill w, and b is still not alive
+]
+;B[cm]
+;W[dm]C[
+
+-- chat --
+megabyte0: yup, g11 should have been d8
+]
+;B[dk]
+;W[bm]
+;B[cn]
+;W[dn]
+;B[ci]
+;W[ek]
+;B[el]
+;W[fl]C[
+
+-- chat --
+megabyte0: f8 is likely a game over, w wins although b lives
+]
+;B[em]
+;W[fm]
+;B[en]C[
+
+-- chat --
+Tanukki: f8 is a mistake? how bad?
+]
+;W[fo]
+;B[hm]C[
+
+-- chat --
+Tanukki: eh I'll just load it up too
+]
+;W[gl]
+;B[ik]
+;W[ck]C[
+
+-- chat --
+Tanukki: ok, black was supposed to let four stones die in the center
+Tanukki: like this, he is down by about 7 points
+]
+;B[do]
+;W[cj]
+;B[dj]
+;W[hk]
+;B[bn]
+;W[bi]
+;B[ch]
+;W[bl]
+;B[bh]C[
+
+-- chat --
+tryk8: white B10 and he has more liberties and wins the semeai
+]
+;W[aj]
+;B[cf]
+;W[de]
+;B[ei]
+;W[dh]
+;B[dg]
+;W[eh]
+;B[eg]
+;W[fh]
+;B[bd]
+;W[bc]
+;B[cd]
+;W[cc]
+;B[fg]
+;W[gg]
+;B[dd]
+;W[ed]
+;B[ee]
+;W[fe]
+;B[gf]
+;W[hg]
+;B[ff]
+;W[fc]
+;B[oh]C[
+
+-- chat --
+serban_mihai: why not A9?
+]
+;W[pg]
+;B[nf]C[
+
+-- chat --
+tryk8: A9 doesn't work
+tryk8: white can A6
+tryk8: and squeeze black
+tryk8: A9-A6-A5-A8-B9-B5
+tryk8: so white is safe
+]
+;W[ql]C[
+
+-- chat --
+tryk8: but black have at least 7 ko threats there
+pancake: I would've liked to see R9 instead of O14. Keep the pressure up and aim for the cut at K11 later. If white easily lives on the right the game does not feel interesting for black. 
+tryk8: Why are there no new moves on the board?
+]
+;B[ak]
+;W[an]C[
+
+-- chat --
+Mrrr: maybe you have to synchronize the board
+tryk8: the last move that I see is white A6
+Mrrr: yeah, same
+]
+;B[qp]C[
+
+-- chat --
+tryk8: hard figlt starts
+tryk8: white have two weak groups
+tryk8: if white S7 black can start a ko 
+balthahar: If w wins this, he has a chance to become an european champion
+tryk8: I think I think the game is very close. Both players are very strong.
+balthahar: Whoever wins this, is the winner of this game
+tryk8: :)
+]
+;W[rm]C[
+
+-- chat --
+yahel.or.3: S7 This move was bad.
+]
+(;B[rn]C[
+
+-- chat --
+dartagaluc: Is there something with black s6 now?
+]
+(;W[nr]
+;B[mr]
+;W[os]
+;B[rq]
+;W[rr]
+;B[sp]
+;W[sr]
+;B[ri]C[
+
+-- chat --
+dartagaluc: 1. From move 0: Q16 D4 R4 D17 P4 D14 O17 O4 O5 P3 P5 Q3 N4 Q4 Q5 R3 O3 R5 R6 S4 S5 R12 R14 Q10 C3 C4 D3 E4 E3 F4 F3 D11 J16 G3 G4 H3 G5 B3 B2 B4 G2 H2 F1 J5 G7 A2 B1 J7 J4 F6 G6 H4 H5 K4 J6 K5 K6 L6 K7 M5 L3 K3 L4 L5 L2 L8 K8 L9 K9 L10 L7 M7 N6 M6 N8 M8 O10 K10 J10 J11 H10 H11 G11 G10 G9 F10 F9 E10 D8 C8 C7 D7 D9 B7 C6 D6 C11 E9 E8 F8 E7 F7 E6 F5 H7 G8 J9 C9 D5 C10 D10 H9 B6 B11 C12 B8 B12 A10 C14 D15 E11 D12 D13 E12 E13 F12 B16 B17 C16 C17 F13 G13 D16 E16 E15 F15 G14 H13 F14 F17 P12 Q13 O14 R8 A9 A6 R4 S7 S6 O2 N2 P1 S3 S2 T4 T2 S11 
+tryk8: Where is the last move of the actual game? I only see some sequences.
+tryk8: no
+tryk8: it is not possible
+]
+)(;W[rg]
+;B[or]
+;W[pr]
+;B[rr]
+;W[rq]
+;B[nr]
+;W[sr]
+;B[rs]C[
+
+-- chat --
+dartagaluc: This should be the way to kill it clean. From move 0: Q16 D4 R4 D17 P4 D14 O17 O4 O5 P3 P5 Q3 N4 Q4 Q5 R3 O3 R5 R6 S4 S5 R12 R14 Q10 C3 C4 D3 E4 E3 F4 F3 D11 J16 G3 G4 H3 G5 B3 B2 B4 G2 H2 F1 J5 G7 A2 B1 J7 J4 F6 G6 H4 H5 K4 J6 K5 K6 L6 K7 M5 L3 K3 L4 L5 L2 L8 K8 L9 K9 L10 L7 M7 N6 M6 N8 M8 O10 K10 J10 J11 H10 H11 G11 G10 G9 F10 F9 E10 D8 C8 C7 D7 D9 B7 C6 D6 C11 E9 E8 F8 E7 F7 E6 F5 H7 G8 J9 C9 D5 C10 D10 H9 B6 B11 C12 B8 B12 A10 C14 D15 E11 D12 D13 E12 E13 F12 B16 B17 C16 C17 F13 G13 D16 E16 E15 F15 G14 H13 F14 F17 P12 Q13 O14 R8 A9 A6 R4 S7 S6 S13 P2 Q2 S2 S3 O2 T2 S1 
+yahel.or.3: Ben was wrong on this point. Give him something like that to start with.
+]
+))(;B[rq]C[
+
+-- chat --
+tryk8: where is the last move?
+]
+(;W[sp]
+;B[rr]
+;W[qo]
+(;B[rn]
+;W[qr]
+;B[or]
+;W[rs]
+;B[sr]
+;W[pr]
+;B[qp]
+;W[nr]
+;B[mr]
+(;W[qo]
+;B[ns]
+;W[ps]
+;B[qp]C[
+
+-- chat --
+yahel.or.3: This can't work?. From move 0: Q16 D4 R4 D17 P4 D14 O17 O4 O5 P3 P5 Q3 N4 Q4 Q5 R3 O3 R5 R6 S4 S5 R12 R14 Q10 C3 C4 D3 E4 E3 F4 F3 D11 J16 G3 G4 H3 G5 B3 B2 B4 G2 H2 F1 J5 G7 A2 B1 J7 J4 F6 G6 H4 H5 K4 J6 K5 K6 L6 K7 M5 L3 K3 L4 L5 L2 L8 K8 L9 K9 L10 L7 M7 N6 M6 N8 M8 O10 K10 J10 J11 H10 H11 G11 G10 G9 F10 F9 E10 D8 C8 C7 D7 D9 B7 C6 D6 C11 E9 E8 F8 E7 F7 E6 F5 H7 G8 J9 C9 D5 C10 D10 H9 B6 B11 C12 B8 B12 A10 C14 D15 E11 D12 D13 E12 E13 F12 B16 B17 C16 C17 F13 G13 D16 E16 E15 F15 G14 H13 F14 F17 P12 Q13 O14 R8 A9 A6 R4 S7 S3 T4 S2 R5 S6 R2 P2 S1 T2 Q2 R4 O2 N2 R5 O1 Q1 R4 
+]
+)(;W[os]
+;B[qs]
+;W[qo]C[
+
+-- chat --
+dartagaluc: 2. From move 0: Q16 D4 R4 D17 P4 D14 O17 O4 O5 P3 P5 Q3 N4 Q4 Q5 R3 O3 R5 R6 S4 S5 R12 R14 Q10 C3 C4 D3 E4 E3 F4 F3 D11 J16 G3 G4 H3 G5 B3 B2 B4 G2 H2 F1 J5 G7 A2 B1 J7 J4 F6 G6 H4 H5 K4 J6 K5 K6 L6 K7 M5 L3 K3 L4 L5 L2 L8 K8 L9 K9 L10 L7 M7 N6 M6 N8 M8 O10 K10 J10 J11 H10 H11 G11 G10 G9 F10 F9 E10 D8 C8 C7 D7 D9 B7 C6 D6 C11 E9 E8 F8 E7 F7 E6 F5 H7 G8 J9 C9 D5 C10 D10 H9 B6 B11 C12 B8 B12 A10 C14 D15 E11 D12 D13 E12 E13 F12 B16 B17 C16 C17 F13 G13 D16 E16 E15 F15 G14 H13 F14 F17 P12 Q13 O14 R8 A9 A6 R4 S7 S3 T4 S2 R5 S6 R2 P2 S1 T2 Q2 R4 O2 N2 P1 R1 R5 
+]
+))(;B[ao]
+;W[ah]
+;B[ag]C[
+
+-- chat --
+pancake: Doesn't white lose a liberty this way? 
+tryk8: A12 was very strange
+]
+;W[qp]
+;B[ai]
+;W[qc]C[
+
+-- chat --
+TangJieHao: apparently taking was -3 points
+TangJieHao: thats rough
+TangJieHao: this ko threat is sus
+]
+(;B[qd]
+;W[ah]
+;B[gh]
+;W[fi]
+;B[ai]
+;W[pc]
+;B[oc]
+;W[ah]C[
+
+-- chat --
+WarszawskiKlubGo: 166 - A12
+]
+(;B[bf]C[
+
+-- chat --
+Piwh: :0
+WarszawskiKlubGo: 167 B14 is correct
+matias.pankoke: did that actually happen or is the order wrong maybe?
+]
+(;W[al]
+;B[ai]
+;W[hl]
+;B[il]
+;W[ah]
+;B[rn]C[
+
+-- chat --
+Piwh: What is the time situation ?
+kronecker: I see about 19 minutes each on the stream
+WarszawskiKlubGo: you can check time situation on this stream https://www.twitch.tv/egf_games
+WarszawskiKlubGo: remember to check two other streams in GO category, all 3 from EGC2025
+Sadiker: why A8? A7 was better
+]
+;W[pn]
+;B[pm]
+;W[sn]
+;B[ai]
+;W[rd]C[
+
+-- chat --
+tryk8: now black have a clear lead
+paulolops: I would not say that
+paulolops: He has a potential lead if he finishes the ko and white live in the corner
+EGF1: https://www.twitch.tv/egf_games
+paulolops: But none of them seems to like finishing kos for now
+EGF1: cameras live, with clock
+ben0: Nothing is clear in this game
+Radziol: almost the same as a8
+Radziol: well b14 was worse
+]
+;B[bj]C[
+
+-- chat --
+tryk8: game over
+]
+;W[re]
+;B[hc]C[
+
+-- chat --
+Radziol: lol
+Mbrez: it really happened I think, Stas considered a long moment after B14 what to play
+tryk8: R15?
+]
+;W[kd]C[
+
+-- chat --
+dartagaluc: White still has a weakness around k11 now the question is how to use it
+]
+;B[ke]
+;W[le]
+;B[kf]
+;W[lf]
+;B[ld]
+;W[md]
+;B[lc]
+;W[mc]
+;B[lb]
+;W[mb]
+;B[me]C[
+
+-- chat --
+tryk8: nothing works for white
+]
+;W[la]C[
+
+-- chat --
+balthahar: K18 works, no? ;)
+kronecker: b k18 w l18
+kronecker: ?
+paulolops: That's why it works for white 👀
+paulolops: Black doesn't seem to like to be squeezed
+paulolops: But it should be okay anyway
+]
+;B[kb]
+;W[jb]
+;B[jc]
+;W[ka]
+;B[kc]
+;W[ob]
+;B[nb]
+;W[nd]
+;B[od]
+;W[ne]
+;B[mf]
+;W[oe]
+;B[pf]
+;W[na]
+;B[pb]
+;W[oa]
+;B[qb]
+;W[rc]
+;B[of]
+;W[rb]
+;B[ib]
+;W[qa]
+(;B[rg]C[
+
+-- chat --
+kronecker: I don't understand why j18 instead of q15 ?
+balthahar: F18
+]
+;W[lg]
+;B[ja]
+;W[ma]C[
+
+-- chat --
+paulolops: r7 still on the board
+]
+;B[rh]
+;W[ri]C[
+
+-- chat --
+paulolops: Hmm I would not say that
+paulolops: If white gets R7 it's even game
+Blindspot.: katago says %95 B+
+paulolops: Black +5 because he has sente
+paulolops: If he uses his sente poorly and white get r7 it's 1 pts game
+matias.pankoke: there is still a lot going on on this board. If he starts being slack he loses.
+paulolops: Yep
+]
+;B[on]
+;W[qm]
+;B[rj]
+;W[qi]
+;B[si]C[
+
+-- chat --
+matias.pankoke: before s9 that was ^^
+]
+;W[rk]C[
+
+-- chat --
+matias.pankoke:  and it's basically even already
+paulolops: S9 is slack too
+paulolops: L13 is urgent
+]
+;B[oj]C[
+
+-- chat --
+megabyte0: katago says p10 was even worse than all that before
+Panda37: i wonder was w p9 sente after p10
+]
+;W[gb]
+;B[kg]C[
+
+-- chat --
+matias.pankoke: what about r10 though?
+]
+;W[lh]
+;B[qj]
+;W[qk]
+;B[sj]
+;W[sk]
+;B[sh]
+;W[pk]
+;B[pi]C[
+
+-- chat --
+dartagaluc: This is so big at this stage
+]
+;W[or]
+;B[nr]C[
+
+-- chat --
+mikach27: 3. From move 0: Q16 D4 R4 D17 P4 D14 O17 O4 O5 P3 P5 Q3 N4 Q4 Q5 R3 O3 R5 R6 S4 S5 R12 R14 Q10 C3 C4 D3 E4 E3 F4 F3 D11 J16 G3 G4 H3 G5 B3 B2 B4 G2 H2 F1 J5 G7 A2 B1 J7 J4 F6 G6 H4 H5 K4 J6 K5 K6 L6 K7 M5 L3 K3 L4 L5 L2 L8 K8 L9 K9 L10 L7 M7 N6 M6 N8 M8 O10 K10 J10 J11 H10 H11 G11 G10 G9 F10 F9 E10 D8 C8 C7 D7 D9 B7 C6 D6 C11 E9 E8 F8 E7 F7 E6 F5 H7 G8 J9 C9 D5 C10 D10 H9 B6 B11 C12 B8 B12 A10 C14 D15 E11 D12 D13 E12 E13 F12 B16 B17 C16 C17 F13 G13 D16 E16 E15 F15 G14 H13 F14 F17 P12 Q13 O14 R8 A9 A6 R4 S7 S3 T4 S2 R5 A5 A12 A13 R4 A11 R17 R16 A12 G12 F11 A11 Q17 P17 A12 B14 A8 A11 H8 J8 A12 S6 Q6 Q7 T6 A11 S16 B10 S15 H17 L16 L15 M15 L14 M14 M16 N16 M17 N17 M18 N18 N15 M19 L18 K18 K17 L19 L17 P18 O18 O16 P16 O15 N14 P15 Q14 O19 Q18 P19 R18 S17 P14 S18 J18 R19 S13 M13 K19 N19 S12 S11 P6 R7 S10 R11 T11 S9 P10 G18 L13 M12 R10 R9 T10 T9 T12 Q9 Q11 P2 O2 
+]
+;W[kh]
+;B[ce]C[
+
+-- chat --
+tryk8: B +10.5
+]
+;W[jg]
+;B[if]
+;W[jr]
+;B[ac]
+;W[ab]
+;B[ad]
+;W[cb]
+;B[ig]
+;W[ks]
+;B[lr]
+;W[lp]
+;B[lq]
+;W[rf]
+;B[qg]
+;W[jh]
+;B[hf]
+;W[hh]
+;B[ge]
+;W[fd]
+;B[mi]
+;W[mg]
+;B[ng]
+;W[mh]
+;B[nh]
+;W[mk]
+;B[li]
+;W[nl]
+;B[mm]
+;W[nm]
+;B[mo]
+;W[gd]C[
+
+-- chat --
+matias.pankoke: p1 is sente 
+]
+;B[hb]
+;W[hs]
+;B[ds]
+;W[gs]
+;B[fr]
+;W[jf]
+;B[je]
+;W[hd]
+;B[gc]
+;W[fb]
+;B[nk]
+;W[ol]
+;B[js]
+;W[is]
+;B[ki]
+;W[ji]
+;B[mj]
+;W[he]
+;B[os]
+;W[ps]
+;B[ns]
+;W[ie]
+;B[jd]
+;W[ha]
+;B[bo]
+;W[co]
+;B[dn]
+;W[lk]C[
+
+-- chat --
+gor: Isn't p1 working
+]
+;B[qs]
+;W[pr]
+;B[pn]
+;W[so]
+;B[sm]
+;W[sl]
+;B[sq]
+;W[sm]
+;B[ss]
+;W[qr]
+;B[ls]
+;W[sf]
+;B[js]
+;W[ga]
+;B[ia]
+;W[ks]
+;B[ok]
+;W[pl]
+;B[js]
+;W[cr]
+;B[cs]
+;W[ks]
+;B[bk]
+;W[js]
+;B[am]
+;W[rs]
+;B[eo]
+;W[sr]C[
+
+-- chat --
+Radziol: damn
+]
+;B[as]
+;W[aq]
+;B[sg]
+;W[pa]
+;B[lj]
+;W[qe]
+;B[pe]
+;W[ih]
+;B[om]
+;W[ap]
+;B[nn]C[
+
+-- chat --
+EGF1: B+9.5
+matias.pankoke: Congrats Valerii!
+matias.pankoke: after all that happened it seems like g18 was the losing move
+]
+)(;B[fb]
+;W[gb]
+;B[eb]
+;W[gc]
+;B[ec]
+;W[ef]
+;B[bb]
+;W[db]
+;B[ac]C[
+
+-- chat --
+balthahar: In prder to lose, Valerii would have to beat himself
+]
+))(;W[am]
+;B[bo]
+;W[eo]
+;B[ai]
+;W[dn]
+;B[dm]
+;W[co]
+;B[bj]
+;W[ap]C[
+
+-- chat --
+dartagaluc: Yeah there was no ko on the left side. From move 0: Q16 D4 R4 D17 P4 D14 O17 O4 O5 P3 P5 Q3 N4 Q4 Q5 R3 O3 R5 R6 S4 S5 R12 R14 Q10 C3 C4 D3 E4 E3 F4 F3 D11 J16 G3 G4 H3 G5 B3 B2 B4 G2 H2 F1 J5 G7 A2 B1 J7 J4 F6 G6 H4 H5 K4 J6 K5 K6 L6 K7 M5 L3 K3 L4 L5 L2 L8 K8 L9 K9 L10 L7 M7 N6 M6 N8 M8 O10 K10 J10 J11 H10 H11 G11 G10 G9 F10 F9 E10 D8 C8 C7 D7 D9 B7 C6 D6 C11 E9 E8 F8 E7 F7 E6 F5 H7 G8 J9 C9 D5 C10 D10 H9 B6 B11 C12 B8 B12 A10 C14 D15 E11 D12 D13 E12 E13 F12 B16 B17 C16 C17 F13 G13 D16 E16 E15 F15 G14 H13 F14 F17 P12 Q13 O14 R8 A9 A6 R4 S7 S3 T4 S2 R5 A5 A12 A13 R4 A11 R17 R16 A12 G12 F11 A11 Q17 P17 A12 B14 A7 B5 E5 A11 D6 D7 C5 B10 A4 
+]
+))(;B[am]
+;W[bg]
+;B[ai]
+;W[hl]
+;B[il]
+;W[ah]
+;B[cg]
+;W[af]
+;B[al]C[
+
+-- chat --
+matias.pankoke: what was b14? I really don't get it
+]
+))(;B[bj]
+;W[re]
+;B[rf]
+;W[qe]
+;B[pf]
+;W[ob]
+;B[nb]
+;W[oc]
+;B[od]
+;W[rb]C[
+
+-- chat --
+yahel.or.3: This is part of what would have happened if he had taken the stones.. From move 0: Q16 D4 R4 D17 P4 D14 O17 O4 O5 P3 P5 Q3 N4 Q4 Q5 R3 O3 R5 R6 S4 S5 R12 R14 Q10 C3 C4 D3 E4 E3 F4 F3 D11 J16 G3 G4 H3 G5 B3 B2 B4 G2 H2 F1 J5 G7 A2 B1 J7 J4 F6 G6 H4 H5 K4 J6 K5 K6 L6 K7 M5 L3 K3 L4 L5 L2 L8 K8 L9 K9 L10 L7 M7 N6 M6 N8 M8 O10 K10 J10 J11 H10 H11 G11 G10 G9 F10 F9 E10 D8 C8 C7 D7 D9 B7 C6 D6 C11 E9 E8 F8 E7 F7 E6 F5 H7 G8 J9 C9 D5 C10 D10 H9 B6 B11 C12 B8 B12 A10 C14 D15 E11 D12 D13 E12 E13 F12 B16 B17 C16 C17 F13 G13 D16 E16 E15 F15 G14 H13 F14 F17 P12 Q13 O14 R8 A9 A6 R4 S7 S3 T4 S2 R5 A5 A12 A13 R4 A11 R17 B10 S15 S14 R15 Q14 P18 O18 P17 P16 S18 
+]
+)))(;W[rr]
+;B[sp]
+;W[nr]
+;B[mr]
+;W[sr]
+;B[ps]
+;W[os]
+;B[qr]
+;W[or]
+;B[rs]C[
+
+-- chat --
+yahel.or.3: This also works.. From move 0: Q16 D4 R4 D17 P4 D14 O17 O4 O5 P3 P5 Q3 N4 Q4 Q5 R3 O3 R5 R6 S4 S5 R12 R14 Q10 C3 C4 D3 E4 E3 F4 F3 D11 J16 G3 G4 H3 G5 B3 B2 B4 G2 H2 F1 J5 G7 A2 B1 J7 J4 F6 G6 H4 H5 K4 J6 K5 K6 L6 K7 M5 L3 K3 L4 L5 L2 L8 K8 L9 K9 L10 L7 M7 N6 M6 N8 M8 O10 K10 J10 J11 H10 H11 G11 G10 G9 F10 F9 E10 D8 C8 C7 D7 D9 B7 C6 D6 C11 E9 E8 F8 E7 F7 E6 F5 H7 G8 J9 C9 D5 C10 D10 H9 B6 B11 C12 B8 B12 A10 C14 D15 E11 D12 D13 E12 E13 F12 B16 B17 C16 C17 F13 G13 D16 E16 E15 F15 G14 H13 F14 F17 P12 Q13 O14 R8 A9 A6 R4 S7 S3 S2 T4 O2 N2 T2 Q1 P1 R2 P2 S1 
+]
+)))

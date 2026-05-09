@@ -1,0 +1,447 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[2025-05-03_Prague-53_R3_Kim-Podpera]
+PC[https://online-go.com/review/1460173]
+PB[Kim, Dohyup (8d)]
+PW[Podpera, Lukas (7d)]
+BR[8d]
+WR[7d]
+OT[Error: time control missing]
+RE[W+4.5]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+
+;B[cp]
+;W[pd]
+;B[pq]
+;W[cd]
+;B[pn]
+;W[ep]
+;B[eq]
+;W[fq]
+;B[dq]
+;W[fp]
+;B[cn]
+;W[jp]
+;B[lp]
+;W[dp]
+;B[cq]
+;W[qp]
+;B[pp]
+;W[lq]
+;B[hr]
+;W[hq]
+;B[iq]
+;W[ip]
+;B[gq]
+;W[hp]
+;B[fr]
+;W[gp]
+;B[gr]
+;W[fc]
+;B[qc]
+;W[pc]
+;B[qd]
+;W[pe]
+;B[rf]
+;W[mp]
+;B[ld]
+;W[jd]
+;B[qg]
+;W[pg]
+;B[lf]
+;W[ph]
+;B[lh]
+;W[qh]
+;B[qo]
+;W[ci]
+;B[fe]
+;W[hd]
+;B[ig]
+;W[de]
+;B[ie]
+;W[id]
+;B[eg]
+;W[dh]
+;B[ed]
+;W[db]
+;B[dc]
+;W[cc]
+;B[fi]
+;W[gf]
+;B[ff]
+;W[gg]
+;B[eh]
+;W[gi]
+;B[gj]
+;W[hi]
+;B[dg]
+;W[cg]
+;B[cf]
+;W[df]
+;B[eb]
+;W[cb]
+;B[dk]
+;W[bk]
+;B[hj]
+;W[ii]
+;B[lj]
+;W[ij]
+;B[hl]
+;W[jl]
+;B[cl]
+;W[qm]
+;B[pm]
+;W[qk]
+;B[ql]
+;W[rl]
+;B[pl]
+;W[rn]
+;B[ro]
+;W[rh]
+;B[ec]
+;W[ki]
+;B[li]
+;W[qe]
+;B[re]
+;W[qb]
+;B[rb]
+;W[rc]
+;B[rd]
+;W[ra]
+;B[sb]
+;W[ob]
+;B[rg]
+;W[ke]
+;B[le]
+;W[jg]
+;B[jh]
+;W[jf]
+;B[pk]
+;W[qj]
+;B[lo]
+;W[kq]
+;B[mo]
+;W[ir]
+;B[di]
+;W[ch]
+;B[cj]
+;W[bj]
+;B[bg]
+;W[bh]
+;B[ah]
+;W[bi]
+;B[bl]
+;W[nq]
+;B[bf]
+;W[be]
+;B[ak]
+;W[ce]
+;B[or]
+;W[no]
+;B[nn]
+;W[kh]
+;B[mr]
+;W[mq]
+;B[nr]C[
+
+-- chat --
+Mrrr: white is happy to have l12
+Mrrr: isn`t he leading now?
+GoDave89: it does look like a lukan-button move ^^
+]
+;W[ll]C[
+
+-- chat --
+GoDave89: A quick count gives me W+komi
+GoDave89: without giving black too much in the center, but also not giving white anything on the top side
+]
+;B[kn]C[
+
+-- chat --
+GoDave89: hmm, is there a profitable way to harass the M10-stick?
+GoDave89: ofc white also has to not die on the bottom side ^^
+Mrrr: it should live even locally
+Mrrr: if unexpected things not happen ;)
+GoDave89: not if the center space is blocked
+GoDave89: it doesn't even have one eye on the bottom side yet
+]
+;W[gn]
+;B[in]C[
+
+-- chat --
+Mrrr: k2 gives 1.5 eye
+]
+(;W[il]C[
+
+-- chat --
+GoDave89: but K2 also makes it 0 for white
+GoDave89: if black gets it
+Mrrr: yes, i am surprised with j8
+]
+;B[hm]C[
+
+-- chat --
+Mrrr: couldnt black ignore it?
+]
+;W[en]
+;B[fm]
+;W[fn]
+;B[lr]
+;W[jr]C[
+
+-- chat --
+GoDave89: hmm, black got more in the center than I expected
+Mrrr: and white got m8
+]
+;B[kj]
+;W[jj]
+;B[kg]
+;W[ji]
+;B[kd]C[
+
+-- chat --
+GoDave89: yes but I already assumed that white could destroy that area more or less with the herassment of the black stick
+GoDave89: so compared to my earlier evaluation, black gained more
+]
+;W[kf]
+;B[lg]
+;W[fd]
+;B[ee]
+;W[lb]
+;B[kb]
+;W[mc]
+;B[lc]
+;W[mb]
+;B[ml]
+;W[mm]
+;B[mk]
+;W[lm]
+;B[nm]
+;W[oj]
+;B[pj]
+;W[pi]
+;B[je]
+;W[ih]C[
+
+-- chat --
+lol nerdnation: tight game
+]
+;B[ge]
+;W[he]
+;B[oi]C[
+
+-- chat --
+Mrrr: what was white plan fo p10?
+]
+;W[ni]
+;B[oh]
+;W[nh]
+;B[og]
+;W[nf]
+;B[of]
+;W[oe]
+;B[nj]
+;W[ng]
+;B[ok]
+;W[pf]
+;B[oj]
+;W[em]
+;B[aj]
+;W[af]
+;B[fl]
+;W[el]
+;B[ek]
+;W[so]C[
+
+-- chat --
+dan225: I dont get T5. I would play just T6. What is the plan after T4 T6 S7?
+Mrrr: it looks like a mistake
+]
+;B[sp]
+;W[sn]
+(;B[rm]
+;W[sm]
+;B[qn]
+;W[rp]C[
+
+-- chat --
+dan225: oh, I see, he just takes and black cannot atari because White S4
+]
+)(;B[rp]
+;W[jc]C[
+
+-- chat --
+dan225: Lukan strong
+]
+;B[kc]
+;W[oo]
+;B[md]
+;W[nd]
+;B[gd]
+;W[gc]
+;B[hb]
+;W[hc]
+;B[ib]
+;W[jb]
+;B[ja]
+;W[fg]
+;B[ef]
+;W[hs]
+;B[fb]
+;W[gb]
+;B[ga]
+;W[la]
+;B[ka]
+;W[do]
+;B[sj]
+;W[sk]
+;B[qn]
+;W[rm]
+;B[sh]
+;W[ri]
+;B[si]
+;W[rj]
+;B[sg]
+;W[co]
+;B[bo]
+;W[fh]C[
+
+-- chat --
+Welvang: convincing win by Lukan
+Welvang: solid clean game
+]
+;B[hn]C[
+
+-- chat --
+Peikai Xue: let's go Lukan😆😆
+]
+;W[er]
+;B[dr]
+;W[ag]
+;B[kr]
+;W[ck]
+;B[dj]
+;W[gm]
+;B[gl]
+;W[ea]
+;B[al]
+;W[ai]
+;B[ho]
+;W[go]C[
+
+-- chat --
+yaolingyang1998: W+2.5-3.5
+Peikai Xue: 😅😅
+]
+;B[on]
+;W[hk]
+;B[gk]
+;W[ik]
+;B[kk]
+;W[jm]
+;B[if]
+;W[jh]
+;B[jn]
+;W[gs]
+;B[es]
+;W[is]
+;B[fs]
+;W[ks]
+;B[kp]
+;W[mn]
+;B[ln]
+;W[jo]
+;B[oq]
+;W[jq]
+;B[ls]
+;W[mi]
+;B[fa]
+;W[da]
+;B[js]
+;W[fj]
+;B[ei]
+;W[ks]
+;B[kl]
+;W[km]
+;B[js]
+;W[dn]
+;B[cm]
+;W[ks]
+;B[po]
+;W[np]
+;B[js]
+;W[bn]
+;B[an]
+;W[ks]
+;B[sl]
+;W[sm]
+;B[js]
+;W[bp]
+;B[bm]
+;W[ks]
+;B[nc]C[
+
+-- chat --
+shinjitsuwaitsumo111: let’s go Lukas let’s go!!!!!!!!!
+]
+;W[nb]
+;B[js]
+;W[bq]
+;B[br]
+;W[ks]
+;B[pb]
+;W[pa]
+;B[js]
+;W[cs]
+;B[ds]
+;W[ks]
+;B[me]
+;W[ne]
+;B[js]
+;W[cr]
+;B[bs]
+(;W[cs]
+)(;W[ks]
+;B[lk]
+;W[js]
+;B[jk]
+;W[hf]
+;B[sc]
+;W[qa]
+;B[dl]
+;W[io]
+;B[fk]
+;W[ic]
+;B[sa]
+;W[mf]
+;B[qf]
+;W[mg]
+;B[mj]
+;W[mh]
+;B[dm]
+;W[ko]
+;B[dd]C[
+
+-- chat --
+Peikai Xue: ☺️☺️
+]
+;W[op]
+;B[im]C[
+
+-- chat --
+shinjitsuwaitsumo111: A cheering victory
+lol nerdnation: W+4.5
+Peikai Xue: A cheering victory🤪🤪
+simba5: is this the  final ?
+yahel.or.3: Who won on board 7?
+]
+)))(;W[jq]
+;B[kk]C[
+
+-- chat --
+GoDave89: black was eyeing this. From move 0: C4 Q16 Q3 C16 Q6 E4 E3 F3 D3 F4 C6 K4 M4 D4 C3 R4 Q4 M3 H2 H3 J3 J4 G3 H4 F2 G4 G2 F17 R17 Q17 R16 Q15 S14 N4 M16 K16 R13 Q13 M14 Q12 M12 R12 R5 C11 F15 H16 J13 D15 J15 J16 E13 D12 E16 D18 D17 C17 F11 G14 F14 G13 E12 G11 G10 H11 D13 C13 C14 D14 E18 C18 D9 B9 H10 J11 M10 J10 H8 K8 C8 R7 Q7 R9 R8 S8 Q8 S6 S5 S12 E17 L11 M11 R15 S15 R18 S18 S17 S16 S19 T18 P18 S13 L15 M15 K13 K12 K14 Q9 R10 M5 L3 N5 J2 D11 C12 C10 B10 B13 B12 A12 B11 B8 O3 B14 B15 A9 C15 P2 O5 O6 L12 N2 N3 O2 M8 L6 G6 J6 K3 L9 
+]
+))

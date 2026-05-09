@@ -1,0 +1,78 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[2020-04-01_Demo_R6_Crni-Bijeli]
+PC[https://online-go.com/review/456780]
+PB[Crni]
+PW[Bijeli]
+BR[18k]
+WR[19k]
+OT[Error: time control missing]
+RE[?]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+
+;B[pc]
+;W[dp]
+;B[pp]
+;W[cd]
+;B[qj]
+;W[jc]
+;B[jp]
+;W[dj]
+;B[jj]
+;W[qq]
+(;B[qp]
+)(;B[pq]
+;W[qp]
+;B[qo]
+;W[ro]
+(;B[rp]
+;W[rq]
+)(;B[rn]
+)(;B[qn]MA[kl]MA[ol]TR[qn]MA[ko]MA[oo]TR[qo]TR[jp]TR[pp]MA[kq]MA[oq]TR[pq]C[R6 za "zid"]
+(;W[rn]SQ[rn]SQ[ro]MA[so]TR[jp]SQ[qp]MA[rp]MA[sp]SQ[qq]MA[rq]MA[sq]MA[rr]MA[sr]MA[rs]MA[ss]
+(;B[qm]
+;W[rm]
+;B[ql]
+;W[rl]
+;B[rk]MA[mk]MA[nk]MA[ok]MA[pk]MA[qk]MA[ml]MA[nl]MA[ol]MA[pl]TR[ql]SQ[rl]MA[mm]MA[nm]MA[om]MA[pm]TR[qm]SQ[rm]MA[sm]MA[mn]MA[nn]MA[on]MA[pn]MA[sn]
+)(;B[rm]
+;W[qm]TR[rm]
+;B[ql]
+;W[pm]LB[rl:1]TR[qn]TR[qo]C[Crni je na potezu i ne može spriječiti obje bijele prijetnje: S8 i ]
+;AB[rl]C[Traži se potez za bijelog
+
+-- chat --
+Lorena l: q
+Lorena l: Q5 MOŽDA
+]
+;AE[rl]C[
+
+-- chat --
+antun.derencin: q5. From move 0: Q17 D4 Q4 C16 R10 K17 K4 D10 K10 R3 Q3 R4 R5 S5 R6 S6 S7 R7 R8 Q7 S8 S8 
+]
+(;B[rl]
+;W[po]TR[pm]TR[qm]TR[rn]TR[ro]TR[qp]TR[qq]C[
+
+-- chat --
+dmedak: Bravo!!
+Lorena l: hvala
+]
+;B[pn]
+;W[on]
+)(;B[po]TR[pm]TR[qm]TR[rn]TR[ro]
+;W[rl]
+;B[rk]
+;W[sm]
+;B[rp]
+;W[rq]C[
+
+-- chat --
+Anja19Q: Nije bilo tako?.
+Lorena l: crni možda može ići na R2
+]
+)))(;W[ec]
+;B[rn]MA[rj]MA[pk]MA[qk]MA[rk]MA[sk]MA[pl]MA[ql]MA[rl]MA[sl]MA[pm]MA[qm]MA[rm]
+))))

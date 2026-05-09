@@ -1,0 +1,267 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[2023-08-05_EGC-Open-2023_R28_Campagnie-Daehwi]
+PC[https://online-go.com/review/1118810]
+PB[Campagnie Remi]
+PW[Daehwi Kim]
+BR[6d]
+WR[7d]
+OT[Error: time control missing]
+RE[?]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+
+;B[dp]
+;W[pd]
+;B[qc]
+;W[pc]
+;B[qd]
+;W[pe]
+;B[qf]C[
+
+-- chat --
+Zaphodian: R14 is possible because pf a favorite ladder
+]
+(;W[qe]
+;B[re]
+;W[rd]
+;B[rc]
+;W[rf]
+;B[sd]
+;W[qg]C[
+
+-- chat --
+Zaphodian: ladder bad for W. From move 0: D4 Q16 R17 Q17 R16 Q15 R14 R15 S15 S16 S17 S14 T16 R13 
+]
+)(;W[pp]
+;B[dd]
+;W[cc]
+;B[dc]
+;W[cd]
+;B[de]
+;W[bf]
+;B[rg]
+;W[pf]
+;B[pg]
+;W[og]
+;B[ph]
+;W[kc]
+;B[cb]
+;W[bb]
+;B[be]
+;W[ce]
+;B[cf]
+(;W[df]
+;B[cg]
+;W[bd]C[
+
+-- chat --
+awaytoplay: ladder bad for B. From move 0: D4 Q16 R17 Q17 R16 Q15 R14 Q4 D16 C17 D17 C16 D15 B14 S13 Q14 Q13 P13 Q12 L17 C18 B18 B15 C15 C14 D14 C13 B16 
+]
+)(;W[bd]
+;B[bg]
+;W[df]
+;B[cg]
+;W[ef]
+;B[eh]
+;W[fd]
+;B[eb]
+;W[ca]
+;B[fc]
+;W[cj]
+(;B[da]
+;W[ba]
+;B[af]
+;W[ad]C[
+
+-- chat --
+Zaphodian: Ideal position for B. How to get to that position?. From move 0: D4 Q16 R17 Q17 R16 Q15 R14 Q4 D16 C17 D17 C16 D15 B14 S13 Q14 Q13 P13 Q12 L17 C18 B18 B15 C15 C14 B16 B13 D14 C13 E14 E12 F16 E18 C19 F17 C10 D19 B19 A14 A16 
+]
+)(;B[gd]C[
+
+-- chat --
+Zaphodian: let's start with this. From move 0: D4 Q16 R17 Q17 R16 Q15 R14 Q4 D16 C17 D17 C16 D15 B14 S13 Q14 Q13 P13 Q12 L17 C18 B18 B15 C15 C14 B16 B13 D14 C13 E14 E12 F16 E18 C19 F17 C10 G16 
+]
+;W[dh]
+;B[af]
+;W[db]
+;B[dg]
+;W[eg]
+;B[fh]C[
+
+-- chat --
+Zaphodian: looks ok for B. From move 0: D4 Q16 R17 Q17 R16 Q15 R14 Q4 D16 C17 D17 C16 D15 B14 S13 Q14 Q13 P13 Q12 L17 C18 B18 B15 C15 C14 B16 B13 D14 C13 E14 E12 F16 E18 C19 F17 C10 G16 D12 A14 D18 D13 E13 F12 
+]
+)(;B[fe]
+;W[ff]
+;B[ge]
+;W[gf]
+;B[db]
+;W[ae]
+;B[dj]
+;W[he]C[
+
+-- chat --
+Zaphodian: This looks bad for B. From move 0: D4 Q16 R17 Q17 R16 Q15 R14 Q4 D16 C17 D17 C16 D15 B14 S13 Q14 Q13 P13 Q12 L17 C18 B18 B15 C15 C14 B16 B13 D14 C13 E14 E12 F16 E18 C19 F17 C10 F15 F14 G15 G14 D18 A15 D10 H15 
+]
+;B[gd]
+;W[dk]
+;B[ci]
+;W[ej]
+;B[di]
+;W[ck]C[
+
+-- chat --
+Zaphodian: B is far behind now
+Zaphodian: If B had played 1, W 2 - that's normal. But the marked exchanges are great for W. From move 0: D4 Q16 R17 Q17 R16 Q15 R14 Q4 D16 C17 D17 C16 D15 B14 S13 Q14 Q13 P13 Q12 L17 C18 B18 B15 C15 C14 B16 B13 D14 C13 E14 E12 F16 E18 C19 F17 C10 F15 F14 G15 G14 D18 A15 D10 H15 G16 D9 C11 E10 D11 C9 
+]
+;B[ek]
+;W[fj]
+;B[el]
+;W[fh]
+;B[bj]
+;W[bk]
+;B[aj]
+;W[cn]C[
+
+-- chat --
+ronin3b: so tiny C11 but I think it's alive
+]
+;B[dg]
+;W[eo]
+;B[ep]
+;W[fo]
+;B[fp]
+;W[go]
+;B[gl]C[
+
+-- chat --
+EGF3: Ai thinks white is clearly better
+]
+;W[bp]
+;B[hq]
+;W[cq]C[
+
+-- chat --
+Zaphodian: I concur
+Zaphodian: marked exchange was terrible for B
+]
+;B[gj]
+;W[gi]
+;B[hj]
+;W[fk]
+;B[fl]
+;W[ip]
+;B[iq]
+;W[jp]
+;B[jq]
+;W[gp]
+;B[gq]
+;W[er]
+;B[fr]
+;W[eq]
+;B[fq]
+;W[lp]
+;B[kp]
+;W[ko]
+;B[kq]
+;W[ic]
+;B[hi]
+;W[hf]
+;B[cp]
+;W[bo]C[
+
+-- chat --
+Sadaharu: White seems to be playing very safely
+]
+;B[hp]
+;W[gb]
+;B[ed]C[
+
+-- chat --
+Sadaharu: This is so painful
+]
+;W[oh]C[
+
+-- chat --
+serban_mihai: I would play R6 with white
+]
+;B[oi]
+;W[ni]
+;B[nj]
+;W[mi]C[
+
+-- chat --
+Sadaharu: White probably thinks this is enough
+]
+;B[oj]C[
+
+-- chat --
+EGF3: he is probably correct ;-)
+Sadaharu: Oh and he gets sente
+Sadaharu: Now still can play R6
+]
+;W[qn]
+;B[ho]C[
+
+-- chat --
+Zaphodian: W is cruising
+]
+(;W[ki]C[
+
+-- chat --
+Zaphodian: enough. From move 0: D4 Q16 R17 Q17 R16 Q15 R14 Q4 D16 C17 D17 C16 D15 B14 S13 Q14 Q13 P13 Q12 L17 C18 B18 B15 C15 C14 B16 B13 D14 C13 E14 E12 F16 E18 C19 F17 C10 F15 F14 G15 G14 D18 A15 D10 H15 G16 D9 C11 E10 D11 C9 E9 F10 E8 F12 B10 B9 A10 C6 D13 E5 E4 F5 F4 G5 G8 B4 H3 C3 G10 G11 H10 F9 F8 J4 J3 K4 K3 G4 G3 E2 F2 E3 F3 M4 L4 L5 L3 J17 H11 H14 C4 B5 H4 G18 E16 P12 P11 O11 O10 N11 P10 R6 H5 L11 
+]
+)(;W[nq]
+;B[ki]
+;W[kh]
+;B[jh]
+;W[kg]
+;B[lo]
+;W[li]
+;B[ln]
+;W[ql]
+;B[qb]
+;W[pb]
+;B[pa]
+;W[oa]
+;B[qa]
+;W[ob]
+;B[oq]
+;W[op]
+;B[or]
+;W[qr]
+;B[nr]
+;W[mp]
+;B[lq]
+;W[ll]
+;B[kj]
+(;W[mk]
+)(;W[km]
+;B[kn]
+;W[mk]
+;B[rk]
+;W[qk]
+;B[rj]
+;W[qj]
+;B[qi]
+;W[im]
+;B[no]
+;W[mo]
+;B[np]
+;W[mn]
+;B[mq]
+;W[jn]
+;B[jo]
+;W[lm]
+;B[ko]
+;W[fi]
+;B[jl]
+;W[jm]C[
+
+-- chat --
+EGF3: w+R
+]
+))))))

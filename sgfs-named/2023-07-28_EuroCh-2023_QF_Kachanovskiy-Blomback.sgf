@@ -1,0 +1,763 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[2023-07-28_EuroCh-2023_QF_Kachanovskiy-Blomback]
+PC[https://online-go.com/review/1114212]
+PB[Artem Kachanovskiy]
+PW[Fredrik Blomback]
+BR[2p]
+WR[7d]
+OT[Error: time control missing]
+RE[w+res]
+SZ[19]
+KM[7.5]
+RU[Chinese]
+
+;B[cp]
+;W[pd]
+;B[dc]
+;W[pq]
+;B[qo]
+;W[op]
+;B[fq]
+;W[de]
+;B[ce]
+;W[cf]
+;B[cd]
+;W[df]
+;B[fc]
+;W[dp]
+;B[do]
+;W[cq]
+;B[eo]
+;W[bp]
+;B[co]
+;W[bo]
+;B[bn]
+(;W[bm]
+(;B[cm]
+;W[an]
+;B[cn]
+;W[dq]
+;B[bl]C[
+
+-- chat --
+Spandam: haven't seen e5 before
+Talpa Iute: my thoughts exactly
+Whirly: I've seen some article about e5
+]
+;W[jp]C[
+
+-- chat --
+Talpa Iute: K4 has to be a bit annoying for B
+Talpa Iute: It expands W's territory, it also looks at F4 aji and it also has a natural development move at Q6. 
+]
+;B[ql]
+;W[nc]
+;B[qf]C[
+
+-- chat --
+Domie: can the sequence at bottom left be considered as joseki ?
+]
+;W[rd]
+;B[lp]C[
+
+-- chat --
+Talpa Iute: E2 was sent only before M4. After M4 no chance.
+]
+;W[qp]
+;B[po]
+;W[oo]
+;B[ln]
+;W[jn]
+;B[ll]
+;W[jl]
+;B[on]
+;W[nn]
+;B[om]C[
+
+-- chat --
+Whirly: I know it is with slight variation
+]
+;W[mo]
+;B[lo]
+;W[nm]
+;B[nl]C[
+
+-- chat --
+Whirly: But kind of situational
+Whirly: Black would need something to attack or build
+]
+;W[mm]
+;B[lm]
+;W[ml]
+;B[mk]
+(;W[lk]
+;B[nk]
+;W[kk]C[
+
+-- chat --
+johan.nevstedt: O3?
+]
+;B[nq]
+;W[oq]
+;B[im]
+;W[jm]
+;B[jq]
+;W[iq]
+;B[jr]C[
+
+-- chat --
+Kanin: Go Fredrik!
+Domie: Go Fredrik !
+johan.nevstedt: Go Fredrik!
+redreoicy: Go Fredrick!
+gooooo: Go Fredrik!
+]
+;W[ip]
+;B[nr]
+;W[or]
+;B[ir]
+;W[hr]
+;B[gr]
+;W[hq]
+;B[hs]C[
+
+-- chat --
+Kanin: does white want to get e2 or something?
+]
+;W[er]C[
+
+-- chat --
+Spandam: does it threaten anything?
+Kanin: it threatens to cut
+Kanin: but I suppose black can live locally, so not a big concern
+Kanin: for that reason, I find this variation a bit surprising, as I believe black will tenuki to a big point now
+Spandam: artem might play some thick local move though
+Kanin: this I believe Fredrik's desire, because then he will have more info on where to play the next move
+Kanin: honestly think it's very difficult to know where the next big place is, if not simply adding a move to the center group. The right side? the top? the left side?
+Kanin: I think the left side, though, because black is so thick there and white's three stones are floating. If I'm playing black I will play D12 now
+]
+;B[ep]C[
+
+-- chat --
+Talpa Iute: can B ignore the cutting point at F4?
+Spandam: heh
+Spandam: e4 is very artem
+Kanin: I think he could have ignored, if white cuts he can just play m2. But yeah, now at least there is some chance to attack white later in the center
+]
+;W[li]C[
+
+-- chat --
+Domie: Spandam what do you mean with "e4 is very artem" ?
+Kanin: e2 e4 exchange is definitely a point gain for white
+Spandam: it's 100% his style
+]
+;B[rp]C[
+
+-- chat --
+Kanin: e2 wasw black's sente earlier
+Domie: but in what ?
+]
+;W[rq]
+;B[ro]
+;W[qr]
+(;B[dh]C[
+
+-- chat --
+Domie: Spandam thinking hard to explain what is artem styl 
+Qinglong: R11 pretty big?
+Spandam: he likes to play very thick
+Kanin: artem's style is famously slow and solid, relying on endgame to win most of his games
+Domie: OK thx
+]
+;W[qh]C[
+
+-- chat --
+johan.nevstedt: woa
+johan.nevstedt: didn't expect that at all
+]
+;B[nh]C[
+
+-- chat --
+Spandam: i like this for w, grab cash, endure the attacks
+johan.nevstedt: so at this point w can live for sure even after one more attack vs D14?
+Talpa Iute: Why? W has 25p + komi. B has 30p and more thickness. 
+Kanin: can we just close with p13?
+Domie: I wonder how you can count this Talpa
+Talpa Iute: One can only estimate parts of the board. But it seems like B has more cash and a bit more thickness. Am I wrong?
+johan.nevstedt: I thought q13 would be a safer way to close
+Spandam: q13 looks normal
+]
+(;W[og]
+;B[ng]
+;W[of]
+;B[gf]
+;W[ch]C[
+
+-- chat --
+Kanin: I would be a bit worried that black can make a lot of territory on the top with A, later. From move 0: C4 Q16 D17 Q3 R5 P4 F3 D15 C15 C14 C16 D14 F17 D4 D5 C3 E5 B4 C5 B5 B6 B7 C7 A6 C6 D3 B8 K4 R8 O17 R14 S16 M4 R4 Q5 P5 M6 K6 M8 K8 P6 O6 P7 N5 M5 O7 O8 N7 M7 N8 N9 M9 O9 L9 O3 P3 J7 K7 K3 J3 K2 J4 O2 P2 J2 H2 G2 H3 H1 E2 E4 M11 S4 S3 S5 R2 D12 R12 O12 P13 O13 P14 G14 C12 
+]
+)(;W[gf]
+;B[qe]C[
+
+-- chat --
+Spandam: seems fredda was too, but this feels weird
+Kanin: oh, so white doesn't fear R15??
+Domie: for me except top left corner, this is very hard to count B points
+johan.nevstedt: are they short on time?
+Kanin: I really can't understand ignoring O12
+Spandam: yeah
+Domie: Go Fredrik !
+]
+;W[qd]
+;B[of]C[
+
+-- chat --
+Domie: now O12 is fine, don't you think ?
+]
+;W[qk]C[
+
+-- chat --
+johan.nevstedt: tsumego!
+]
+;B[pk]
+(;W[ni]
+;B[oi]
+;W[oh]C[
+
+-- chat --
+Kanin: he is looking for this?. From move 0: C4 Q16 D17 Q3 R5 P4 F3 D15 C15 C14 C16 D14 F17 D4 D5 C3 E5 B4 C5 B5 B6 B7 C7 A6 C6 D3 B8 K4 R8 O17 R14 S16 M4 R4 Q5 P5 M6 K6 M8 K8 P6 O6 P7 N5 M5 O7 O8 N7 M7 N8 N9 M9 O9 L9 O3 P3 J7 K7 K3 J3 K2 J4 O2 P2 J2 H2 G2 H3 H1 E2 E4 M11 S4 S3 S5 R2 D12 R12 O12 G14 R15 R16 P14 R9 Q9 O11 P11 P12 
+]
+)(;W[qj]
+;B[rl]C[
+
+-- chat --
+Kanin: if white can live without a hitch, G14 is excellent
+]
+(;W[rg]
+;B[sf]C[
+
+-- chat --
+Kanin: but it truly looks difficult :/
+tap1998: W has 6 groups already
+tap1998: B 3
+tap1998: Looks so difficult
+]
+(;W[ni]
+;B[oi]
+;W[oh]
+;B[oj]
+;W[ng]
+;B[ph]
+;W[mh]
+;B[pg]
+;W[pi]
+;B[rk]
+;W[rf]
+;B[re]
+;W[rj]
+;B[pj]
+;W[qi]
+;B[sg]C[
+
+-- chat --
+Zaphodian: white dies. From move 0: C4 Q16 D17 Q3 R5 P4 F3 D15 C15 C14 C16 D14 F17 D4 D5 C3 E5 B4 C5 B5 B6 B7 C7 A6 C6 D3 B8 K4 R8 O17 R14 S16 M4 R4 Q5 P5 M6 K6 M8 K8 P6 O6 P7 N5 M5 O7 O8 N7 M7 N8 N9 M9 O9 L9 O3 P3 J7 K7 K3 J3 K2 J4 O2 P2 J2 H2 G2 H3 H1 E2 E4 M11 S4 S3 S5 R2 D12 R12 O12 G14 R15 R16 P14 R9 Q9 R10 S8 S13 T14 O11 P11 P12 P10 O13 Q12 N12 Q13 Q11 S9 S14 S15 S10 Q10 R11 T13 
+]
+)(;W[oh]C[
+
+-- chat --
+serban_mihai: and that's why one should practice life and death problems
+Zaphodian: So W choose my move
+]
+(;B[oi]
+;W[og]
+;B[ng]
+;W[pi]
+(;B[oj]
+;W[nf]
+;B[oe]
+;W[ne]
+;B[rf]
+;W[ri]
+;B[rk]
+;W[rj]
+;B[sg]
+;W[sh]
+;B[qg]
+;W[rh]
+;B[ph]
+;W[pg]
+;B[pf]
+;W[ph]
+;B[sj]
+;W[od]C[
+
+-- chat --
+Zaphodian: White wins If B tries to kill. From move 0: C4 Q16 D17 Q3 R5 P4 F3 D15 C15 C14 C16 D14 F17 D4 D5 C3 E5 B4 C5 B5 B6 B7 C7 A6 C6 D3 B8 K4 R8 O17 R14 S16 M4 R4 Q5 P5 M6 K6 M8 K8 P6 O6 P7 N5 M5 O7 O8 N7 M7 N8 N9 M9 O9 L9 O3 P3 J7 K7 K3 J3 K2 J4 O2 P2 J2 H2 G2 H3 H1 E2 E4 M11 S4 S3 S5 R2 D12 R12 O12 G14 R15 R16 P14 R9 Q9 R10 S8 S13 T14 P12 P11 P13 O13 Q11 P10 O14 P15 O15 S14 S11 S9 S10 T13 T12 R13 S12 Q12 Q13 Q14 Q12 T10 P16 
+]
+)(;B[nf]
+;W[sg]
+;B[se]
+;W[ri]C[
+
+-- chat --
+Zaphodian: W can live. From move 0: C4 Q16 D17 Q3 R5 P4 F3 D15 C15 C14 C16 D14 F17 D4 D5 C3 E5 B4 C5 B5 B6 B7 C7 A6 C6 D3 B8 K4 R8 O17 R14 S16 M4 R4 Q5 P5 M6 K6 M8 K8 P6 O6 P7 N5 M5 O7 O8 N7 M7 N8 N9 M9 O9 L9 O3 P3 J7 K7 K3 J3 K2 J4 O2 P2 J2 H2 G2 H3 H1 E2 E4 M11 S4 S3 S5 R2 D12 R12 O12 G14 R15 R16 P14 R9 Q9 R10 S8 S13 T14 P12 P11 P13 O13 Q11 O14 T13 T15 S11 
+]
+))(;B[ng]
+;W[oi]
+;B[ni]
+;W[sg]
+;B[se]
+;W[ri]
+;B[rk]
+;W[rj]C[
+
+-- chat --
+Zaphodian: W lives again. From move 0: C4 Q16 D17 Q3 R5 P4 F3 D15 C15 C14 C16 D14 F17 D4 D5 C3 E5 B4 C5 B5 B6 B7 C7 A6 C6 D3 B8 K4 R8 O17 R14 S16 M4 R4 Q5 P5 M6 K6 M8 K8 P6 O6 P7 N5 M5 O7 O8 N7 M7 N8 N9 M9 O9 L9 O3 P3 J7 K7 K3 J3 K2 J4 O2 P2 J2 H2 G2 H3 H1 E2 E4 M11 S4 S3 S5 R2 D12 R12 O12 G14 R15 R16 P14 R9 Q9 R10 S8 S13 T14 P12 O13 P11 O11 T13 T15 S11 S9 S10 
+]
+)(;B[og]
+;W[ni]
+;B[oi]
+;W[ph]
+(;B[mi]
+;W[mh]
+;B[nj]
+;W[ng]
+;B[ni]
+;W[rf]
+;B[re]
+;W[nf]
+;B[ne]
+;W[oe]C[
+
+-- chat --
+Zaphodian: B dies. From move 0: C4 Q16 D17 Q3 R5 P4 F3 D15 C15 C14 C16 D14 F17 D4 D5 C3 E5 B4 C5 B5 B6 B7 C7 A6 C6 D3 B8 K4 R8 O17 R14 S16 M4 R4 Q5 P5 M6 K6 M8 K8 P6 O6 P7 N5 M5 O7 O8 N7 M7 N8 N9 M9 O9 L9 O3 P3 J7 K7 K3 J3 K2 J4 O2 P2 J2 H2 G2 H3 H1 E2 E4 M11 S4 S3 S5 R2 D12 R12 O12 G14 R15 R16 P14 R9 Q9 R10 S8 S13 T14 P12 P13 O11 P11 Q12 N11 N12 O10 O13 O11 S14 S15 O14 O15 P15 
+]
+)(;B[mh]
+;W[mi]
+;B[pi]C[
+
+-- chat --
+Spandam: if w gets the outside it seems quite fair
+Spandam: since he also got g14
+]
+(;W[qi]
+;B[rk]
+;W[pl]
+;B[ok]
+;W[mf]
+;B[ng]
+;W[rf]
+;B[re]
+;W[lh]
+;B[qg]
+;W[rh]
+;B[rj]
+;W[sd]
+;B[se]
+;W[oe]
+;B[ri]
+;W[nf]
+;B[pj]
+;W[mg]
+;B[sh]C[
+
+-- chat --
+Zaphodian: B wins the capturing race now. From move 0: C4 Q16 D17 Q3 R5 P4 F3 D15 C15 C14 C16 D14 F17 D4 D5 C3 E5 B4 C5 B5 B6 B7 C7 A6 C6 D3 B8 K4 R8 O17 R14 S16 M4 R4 Q5 P5 M6 K6 M8 K8 P6 O6 P7 N5 M5 O7 O8 N7 M7 N8 N9 M9 O9 L9 O3 P3 J7 K7 K3 J3 K2 J4 O2 P2 J2 H2 G2 H3 H1 E2 E4 M11 S4 S3 S5 R2 D12 R12 O12 G14 R15 R16 P14 R9 Q9 R10 S8 S13 T14 P12 P13 O11 P11 Q12 N12 N11 Q11 R11 S9 Q8 P9 N14 O13 S14 S15 M12 R13 S12 S10 T16 T15 P15 S11 O14 Q10 N13 T12 
+]
+)(;W[mf]
+;B[ng]C[
+
+-- chat --
+Talpa Iute: looks like B wins the capturing race while W squeeze's on the outside. 
+]
+(;W[oe]
+;B[qg]
+;W[lh]C[
+
+-- chat --
+Zaphodian: Yes, still a game even if W loses
+Zaphodian: ... loses the capturing race on the right
+]
+)(;W[lh]
+;B[qi]
+;W[ri]C[
+
+-- chat --
+Talpa Iute: Personally, I'd rather have the squeeze with W
+]
+;B[oe]
+;W[ne]
+;B[od]
+;W[oc]
+;B[pj]C[
+
+-- chat --
+antonTobi: beautiful outside shape for W!
+]
+;W[hc]C[
+
+-- chat --
+Sampi: lots of territory in the upper center, although w is dead on the right
+Zaphodian: OK, basically this was according to the game plan.
+]
+;B[hd]
+(;W[ed]
+;B[fd]
+;W[ec]
+;B[eb]C[
+
+-- chat --
+Sampi: F18, i guess?
+Sampi: or is d18 better? i imagine w wants to cut if he pushed, right?
+]
+;W[fb]
+;B[gb]
+;W[db]
+;B[fa]
+;W[cb]
+;B[bc]
+;W[bb]
+;B[ab]
+;W[be]
+;B[cc]
+;W[bd]
+;B[bf]
+;W[bg]
+;B[da]
+;W[id]
+;B[he]
+;W[cj]
+;B[ie]
+;W[ic]
+;B[je]
+;W[kc]
+(;B[bh]
+;W[bi]
+;B[cg]
+;W[af]
+;B[ah]
+;W[dd]
+;B[ac]
+;W[ad]C[
+
+-- chat --
+Zaphodian: Oopsydaisy. From move 0: C4 Q16 D17 Q3 R5 P4 F3 D15 C15 C14 C16 D14 F17 D4 D5 C3 E5 B4 C5 B5 B6 B7 C7 A6 C6 D3 B8 K4 R8 O17 R14 S16 M4 R4 Q5 P5 M6 K6 M8 K8 P6 O6 P7 N5 M5 O7 O8 N7 M7 N8 N9 M9 O9 L9 O3 P3 J7 K7 K3 J3 K2 J4 O2 P2 J2 H2 G2 H3 H1 E2 E4 M11 S4 S3 S5 R2 D12 R12 O12 G14 R15 R16 P14 R9 Q9 R10 S8 S13 T14 P12 P13 O11 P11 Q12 N12 N11 Q11 N14 O13 M12 R11 S11 P15 O15 P16 P17 Q10 H17 H16 E16 F16 E17 E18 F18 G18 D18 F19 C18 B17 B18 A18 B15 C17 B16 B14 B13 D19 J16 H15 C10 J15 J17 K15 L17 B12 B11 C13 A14 A12 D16 A17 A16 
+]
+)(;B[kd]
+;W[nd]
+;B[rj]
+;W[ek]
+;B[lc]
+;W[kb]
+;B[le]
+;W[lb]
+;B[dj]
+;W[dk]
+;B[ci]
+;W[bk]
+;B[bi]
+;W[ej]
+;B[ei]C[
+
+-- chat --
+Kanin: I was away for lunch. The upper left must be considered a failure for white, no?
+Kanin: Right side turned out great, though
+]
+;W[di]C[
+
+-- chat --
+Spandam: upper left maybe not so bad for w
+vanju: According to computer estimation w wins easy. Is it true?
+Kanin: Go Fredrik!
+Spandam: easy for ai maybe, seems like hard game for both still
+Kanin: Yeah, this kind of situation is anything but easy, haha
+gooooo: kanin, whats your feel for whos ahead?
+]
+;B[af]
+;W[ag]
+;B[dj]
+;W[fe]C[
+
+-- chat --
+Kanin: I would prefer to play black I think, but I don't understand anything about this shape, so I hope it's good for white
+Kanin: I can see that white has some kind of potential in the center if he can only live well here
+gooooo: SE seems to like white (W+13.9)
+]
+;B[ge]
+;W[di]
+;B[fi]C[
+
+-- chat --
+Kanin: f13 now?
+Kanin: attack the whole of black's rather than cutting
+]
+;W[ch]
+;B[dj]
+;W[dd]
+;B[ac]
+;W[di]C[
+
+-- chat --
+Kanin: I suppose white simply had too many local ko threats for this fight to work for black
+Kanin: yayyy
+gooooo: Go fredda! :)
+]
+;B[os]
+;W[ps]
+;B[dj]
+;W[ba]
+;B[ea]
+;W[di]
+;B[sq]
+;W[sr]
+;B[dj]
+;W[ae]C[
+
+-- chat --
+Kanin: is g19 a reasonable ko threat instead of a15?
+Kanin: to have one more threat, I mean
+Kanin: of course loses a few points
+]
+;B[ca]
+;W[di]
+;B[mc]
+;W[mb]
+;B[dj]
+;W[lr]C[
+
+-- chat --
+Spandam: probably b should ignore here and try to create chaos in upper left
+johan.nevstedt: What does b lose by ignoring?
+gooooo: I wonder what B is reading on
+Spandam: he loses the 5+3 stones i believe
+johan.nevstedt: Okay thanks, I think I see it now
+gooooo: whats the L&D situation on the e4 group if the 5+3 stones die?
+]
+;B[lq]
+;W[di]C[
+
+-- chat --
+Spandam: d9 stones would be weak too then, so complicated but looks ok for black
+Spandam: since w group above also not alive
+]
+;B[bh]
+;W[fg]
+;B[dj]
+;W[gk]
+;B[bj]
+;W[di]
+;B[eg]
+;W[ef]
+;B[dj]
+;W[mg]
+;B[qg]
+;W[di]
+;B[gm]
+;W[ak]C[
+
+-- chat --
+Spandam: looks over now
+]
+;B[dj]
+;W[ck]
+;B[hh]
+;W[ig]
+;B[hj]
+;W[hk]
+;B[hg]
+;W[hf]
+;B[if]
+;W[jg]
+;B[cg]C[
+
+-- chat --
+💖 KoBa 💖: semeai between d12 and d14 stones?
+Spandam: w can just live
+Spandam: b14
+💖 KoBa 💖: ahh right right 
+Spandam: f12 and d13 miai to kill
+]
+;W[fh]
+;B[fj]
+;W[fk]
+;B[bf]
+;W[eh]
+;B[dg]
+;W[di]
+;B[bq]C[
+
+-- chat --
+Domie: Go Fredrik !
+Spandam: fredda too strong
+]
+;W[br]
+;B[dj]
+;W[gi]C[
+
+-- chat --
+serban_mihai: L3 
+]
+;B[gj]
+;W[di]
+;B[rr]
+;W[sp]
+;B[dj]
+;W[hi]
+(;B[gg]
+;W[ff]
+;B[ii]C[
+
+-- chat --
+Zaphodian: This is not gonna happen. From move 0: C4 Q16 D17 Q3 R5 P4 F3 D15 C15 C14 C16 D14 F17 D4 D5 C3 E5 B4 C5 B5 B6 B7 C7 A6 C6 D3 B8 K4 R8 O17 R14 S16 M4 R4 Q5 P5 M6 K6 M8 K8 P6 O6 P7 N5 M5 O7 O8 N7 M7 N8 N9 M9 O9 L9 O3 P3 J7 K7 K3 J3 K2 J4 O2 P2 J2 H2 G2 H3 H1 E2 E4 M11 S4 S3 S5 R2 D12 R12 O12 G14 R15 R16 P14 R9 Q9 R10 S8 S13 T14 P12 P13 O11 P11 Q12 N12 N11 Q11 N14 O13 M12 R11 S11 P15 O15 P16 P17 Q10 H17 H16 E16 F16 E17 E18 F18 G18 D18 F19 C18 B17 B18 A18 B15 C17 B16 B14 B13 D19 J16 H15 C10 J15 J17 K15 L17 L16 O16 S10 E9 M17 L18 M15 M18 D10 D9 C11 B9 B11 E10 E11 D11 A14 A13 D10 F15 G15 D11 F11 C12 D10 D16 A17 D11 P1 Q1 D10 B19 E19 D11 T3 T2 D10 A15 C19 D11 N17 N18 D10 M2 M3 D11 B12 F13 D10 G9 B10 D11 E13 E14 D10 N13 R13 D11 G7 A9 D10 C9 H12 J13 H10 H9 H13 H14 J14 K13 C13 F12 F10 F9 B14 E12 D13 D11 B3 B2 D10 G11 G10 D11 S2 T4 D10 H11 G13 F14 J11 
+]
+;W[di]
+;B[gh]
+;W[ch]
+;B[ik]
+;W[il]C[
+
+-- chat --
+Zaphodian: actually why not? B still dies. From move 0: C4 Q16 D17 Q3 R5 P4 F3 D15 C15 C14 C16 D14 F17 D4 D5 C3 E5 B4 C5 B5 B6 B7 C7 A6 C6 D3 B8 K4 R8 O17 R14 S16 M4 R4 Q5 P5 M6 K6 M8 K8 P6 O6 P7 N5 M5 O7 O8 N7 M7 N8 N9 M9 O9 L9 O3 P3 J7 K7 K3 J3 K2 J4 O2 P2 J2 H2 G2 H3 H1 E2 E4 M11 S4 S3 S5 R2 D12 R12 O12 G14 R15 R16 P14 R9 Q9 R10 S8 S13 T14 P12 P13 O11 P11 Q12 N12 N11 Q11 N14 O13 M12 R11 S11 P15 O15 P16 P17 Q10 H17 H16 E16 F16 E17 E18 F18 G18 D18 F19 C18 B17 B18 A18 B15 C17 B16 B14 B13 D19 J16 H15 C10 J15 J17 K15 L17 L16 O16 S10 E9 M17 L18 M15 M18 D10 D9 C11 B9 B11 E10 E11 D11 A14 A13 D10 F15 G15 D11 F11 C12 D10 D16 A17 D11 P1 Q1 D10 B19 E19 D11 T3 T2 D10 A15 C19 D11 N17 N18 D10 M2 M3 D11 B12 F13 D10 G9 B10 D11 E13 E14 D10 N13 R13 D11 G7 A9 D10 C9 H12 J13 H10 H9 H13 H14 J14 K13 C13 F12 F10 F9 B14 E12 D13 D11 B3 B2 D10 G11 G10 D11 S2 T4 D10 H11 G13 F14 J11 D11 G12 C12 J9 J8 
+]
+)(;B[di]
+(;W[ii]
+;B[ah]
+;W[af]
+;B[aj]C[
+
+-- chat --
+Zaphodian: W screwed up. From move 0: C4 Q16 D17 Q3 R5 P4 F3 D15 C15 C14 C16 D14 F17 D4 D5 C3 E5 B4 C5 B5 B6 B7 C7 A6 C6 D3 B8 K4 R8 O17 R14 S16 M4 R4 Q5 P5 M6 K6 M8 K8 P6 O6 P7 N5 M5 O7 O8 N7 M7 N8 N9 M9 O9 L9 O3 P3 J7 K7 K3 J3 K2 J4 O2 P2 J2 H2 G2 H3 H1 E2 E4 M11 S4 S3 S5 R2 D12 R12 O12 G14 R15 R16 P14 R9 Q9 R10 S8 S13 T14 P12 P13 O11 P11 Q12 N12 N11 Q11 N14 O13 M12 R11 S11 P15 O15 P16 P17 Q10 H17 H16 E16 F16 E17 E18 F18 G18 D18 F19 C18 B17 B18 A18 B15 C17 B16 B14 B13 D19 J16 H15 C10 J15 J17 K15 L17 L16 O16 S10 E9 M17 L18 M15 M18 D10 D9 C11 B9 B11 E10 E11 D11 A14 A13 D10 F15 G15 D11 F11 C12 D10 D16 A17 D11 P1 Q1 D10 B19 E19 D11 T3 T2 D10 A15 C19 D11 N17 N18 D10 M2 M3 D11 B12 F13 D10 G9 B10 D11 E13 E14 D10 N13 R13 D11 G7 A9 D10 C9 H12 J13 H10 H9 H13 H14 J14 K13 C13 F12 F10 F9 B14 E12 D13 D11 B3 B2 D10 G11 G10 D11 S2 T4 D10 H11 D11 J11 A12 A14 A10 
+]
+;W[ns]
+;B[ms]
+;W[mr]
+;B[np]
+;W[no]
+;B[os]C[
+
+-- chat --
+Zaphodian: But W is still ahead
+]
+;W[is]
+;B[js]
+;W[ns]
+;B[aq]
+;W[ar]
+;B[os]
+;W[fn]LB[kk:W+]LB[lk:res]C[
+
+-- chat --
+Zaphodian: If W wins this ko, he can cut at L3
+gooooo: W+Res (according to twitch stream)
+Gornador: W ahead by a lot! He still attacks only because it's easiest way to finish the game, not cause he needs. 
+EGF2: w+res
+Domie: Bravo Fred !!
+Domie: thanks EGF for broadcast
+gooooo: thanks for the relay EGF
+Moggetyrael: Congrats!
+pbisotc: Grattis Fredda!
+Staffan: Impressive, gratis Freddan!
+Domie: do they review the game ?
+johan.nevstedt: Grattis Fredrik!
+Kanin: GG Fredrik
+]
+)(;W[ij]
+;B[gg]
+;W[ff]
+;B[ii]C[
+
+-- chat --
+Zaphodian: This would be a super blunder by W. From move 0: C4 Q16 D17 Q3 R5 P4 F3 D15 C15 C14 C16 D14 F17 D4 D5 C3 E5 B4 C5 B5 B6 B7 C7 A6 C6 D3 B8 K4 R8 O17 R14 S16 M4 R4 Q5 P5 M6 K6 M8 K8 P6 O6 P7 N5 M5 O7 O8 N7 M7 N8 N9 M9 O9 L9 O3 P3 J7 K7 K3 J3 K2 J4 O2 P2 J2 H2 G2 H3 H1 E2 E4 M11 S4 S3 S5 R2 D12 R12 O12 G14 R15 R16 P14 R9 Q9 R10 S8 S13 T14 P12 P13 O11 P11 Q12 N12 N11 Q11 N14 O13 M12 R11 S11 P15 O15 P16 P17 Q10 H17 H16 E16 F16 E17 E18 F18 G18 D18 F19 C18 B17 B18 A18 B15 C17 B16 B14 B13 D19 J16 H15 C10 J15 J17 K15 L17 L16 O16 S10 E9 M17 L18 M15 M18 D10 D9 C11 B9 B11 E10 E11 D11 A14 A13 D10 F15 G15 D11 F11 C12 D10 D16 A17 D11 P1 Q1 D10 B19 E19 D11 T3 T2 D10 A15 C19 D11 N17 N18 D10 M2 M3 D11 B12 F13 D10 G9 B10 D11 E13 E14 D10 N13 R13 D11 G7 A9 D10 C9 H12 J13 H10 H9 H13 H14 J14 K13 C13 F12 F10 F9 B14 E12 D13 D11 B3 B2 D10 G11 G10 D11 S2 T4 D10 H11 D11 J10 G13 F14 J11 
+]
+))))(;W[gd]
+;B[gc]
+;W[id]
+;B[he]
+;W[ge]
+;B[ic]
+;W[hb]
+;B[ie]
+;W[ib]
+;B[jd]
+;W[kc]
+;B[ig]
+;W[hh]
+;B[jc]
+;W[jb]
+;B[kd]
+;W[lc]
+;B[kf]C[
+
+-- chat --
+Zaphodian: If W cuts violently. From move 0: C4 Q16 D17 Q3 R5 P4 F3 D15 C15 C14 C16 D14 F17 D4 D5 C3 E5 B4 C5 B5 B6 B7 C7 A6 C6 D3 B8 K4 R8 O17 R14 S16 M4 R4 Q5 P5 M6 K6 M8 K8 P6 O6 P7 N5 M5 O7 O8 N7 M7 N8 N9 M9 O9 L9 O3 P3 J7 K7 K3 J3 K2 J4 O2 P2 J2 H2 G2 H3 H1 E2 E4 M11 S4 S3 S5 R2 D12 R12 O12 G14 R15 R16 P14 R9 Q9 R10 S8 S13 T14 P12 P13 O11 P11 Q12 N12 N11 Q11 N14 O13 M12 R11 S11 P15 O15 P16 P17 Q10 H17 H16 G16 G17 J16 H15 G15 J17 H18 J15 J18 K16 L17 J13 H12 K17 K18 L16 M17 L14 
+]
+))))(;B[ng]
+;W[oj]
+;B[mi]
+;W[nj]
+;B[pj]
+;W[pi]
+;B[mj]
+;W[ri]
+;B[ok]
+;W[oi]
+;B[rk]
+;W[rj]
+;B[lh]C[
+
+-- chat --
+Zaphodian: W lives but great for B. From move 0: C4 Q16 D17 Q3 R5 P4 F3 D15 C15 C14 C16 D14 F17 D4 D5 C3 E5 B4 C5 B5 B6 B7 C7 A6 C6 D3 B8 K4 R8 O17 R14 S16 M4 R4 Q5 P5 M6 K6 M8 K8 P6 O6 P7 N5 M5 O7 O8 N7 M7 N8 N9 M9 O9 L9 O3 P3 J7 K7 K3 J3 K2 J4 O2 P2 J2 H2 G2 H3 H1 E2 E4 M11 S4 S3 S5 R2 D12 R12 O12 G14 R15 R16 P14 R9 Q9 R10 S8 S13 T14 P12 P13 O11 P11 Q12 O13 P10 N11 O10 Q10 Q11 N10 S11 P9 P11 S9 S10 M12 
+]
+))))(;W[ni]
+;B[oi]
+;W[oh]
+;B[mi]
+;W[ng]
+;B[nj]
+;W[og]C[
+
+-- chat --
+Zaphodian: This is too good for W. From move 0: C4 Q16 D17 Q3 R5 P4 F3 D15 C15 C14 C16 D14 F17 D4 D5 C3 E5 B4 C5 B5 B6 B7 C7 A6 C6 D3 B8 K4 R8 O17 R14 S16 M4 R4 Q5 P5 M6 K6 M8 K8 P6 O6 P7 N5 M5 O7 O8 N7 M7 N8 N9 M9 O9 L9 O3 P3 J7 K7 K3 J3 K2 J4 O2 P2 J2 H2 G2 H3 H1 E2 E4 M11 S4 S3 S5 R2 D12 R12 O12 G14 R15 R16 P14 R9 Q9 R10 S8 O11 P11 P12 N11 O13 O10 P13 
+]
+)))(;W[rf]
+;B[gf]C[
+
+-- chat --
+Zaphodian: I was just preparing this diagram. From move 0: C4 Q16 D17 Q3 R5 P4 F3 D15 C15 C14 C16 D14 F17 D4 D5 C3 E5 B4 C5 B5 B6 B7 C7 A6 C6 D3 B8 K4 R8 O17 R14 S16 M4 R4 Q5 P5 M6 K6 M8 K8 P6 O6 P7 N5 M5 O7 O8 N7 M7 N8 N9 M9 O9 L9 O3 P3 J7 K7 K3 J3 K2 J4 O2 P2 J2 H2 G2 H3 H1 E2 E4 M11 S4 S3 S5 R2 D12 R12 O12 S14 G14 
+]
+))(;B[of]
+;W[nh]
+;B[pi]C[
+
+-- chat --
+filip.diloom: yeah and he gets to help the running group too
+]
+))(;W[ro]
+;B[rn]
+;W[pn]
+;B[pm]
+;W[nk]
+;B[ol]
+;W[lk]
+;B[mj]
+;W[kk]C[
+
+-- chat --
+Zaphodian: I thought this would be the order of play . From move 0: C4 Q16 D17 Q3 R5 P4 F3 D15 C15 C14 C16 D14 F17 D4 D5 C3 E5 B4 C5 B5 B6 B7 C7 A6 C6 D3 B8 K4 R8 O17 R14 S16 M4 R4 Q5 P5 M6 K6 M8 K8 P6 O6 P7 N5 M5 O7 O8 N7 M7 N8 N9 S5 S6 Q6 Q7 O9 P8 M9 N10 L9 
+]
+))(;B[cn]
+;W[an]
+;B[cl]
+;W[dr]C[
+
+-- chat --
+Whirly: Like this. From move 0: C4 Q16 D17 Q3 R5 P4 F3 D15 C15 C14 C16 D14 F17 D4 D5 C3 E5 B4 C5 B5 B6 B7 C6 A6 C8 D2 
+]
+))(;W[dr]C[
+
+-- chat --
+jvandenbusken: usual continuation iirc. From move 0: C4 Q16 D17 Q3 R5 P4 F3 D15 C15 C14 C16 D14 F17 D4 D5 C3 E5 B4 C5 B5 B6 D2 
+]
+))

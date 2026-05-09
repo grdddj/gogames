@@ -1,0 +1,440 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[2023-01-25_EGPF-2022_R2_Calve-Burzo]
+PC[https://online-go.com/review/1011469]
+PB[Tanguy Le Calvé]
+PW[Cornel Burzo]
+BR[1p]
+WR[6d]
+OT[Error: time control missing]
+RE[?]
+SZ[19]
+KM[7.5]
+RU[Chinese]
+
+;B[qe]
+;W[dp]
+;B[pq]
+;W[dc]
+;B[nc]
+;W[po]
+;B[ql]C[
+
+
+-- chat --
+EGF1: 1. From move 0: R15 D4 Q3 D17 O17 Q5 R8 
+EGF1: all information can be found here: https://www.eurogofed.org/grandprix/egpf2022.html
+Ludovik: Allez Tanguy☺
+apfelholz: why are the games transmitted on ogs and not on kgs?
+]
+;W[oq]C[
+
+-- chat --
+Von Zilla ੴ: Maybe ogs has become more popular these days? It’s also web based so it’s more accessible 
+apfelholz: anybody can download a client...
+Von Zilla ੴ: Definitely 
+]
+;B[or]
+;W[op]
+;B[nr]
+;W[qq]C[
+
+-- chat --
+apfelholz: I can't figure out how to get the sound of stones put on the board on ogs
+]
+;B[qr]
+;W[pp]C[
+
+-- chat --
+Von Zilla ੴ: Volume bar
+]
+;B[pr]C[
+
+-- chat --
+Von Zilla ੴ: Is on the left side 
+apfelholz: all the settings are the correct ones but it does not work
+Von Zilla ੴ: Sorry right
+apfelholz: haha
+Von Zilla ੴ: Oh
+]
+;W[lo]C[
+
+-- chat --
+apfelholz: tried in different browsers and with different (internal/external spieakers) ...
+Von Zilla ੴ: I see 
+apfelholz: every other page (youtube...) does work just fine
+]
+;B[de]C[
+
+-- chat --
+ben0: Dragon Shimari
+ben0: signature move by Tanguy
+apfelholz: that is actually a shimari?
+ben0: if you believe in it hard enough, then yes
+]
+;W[ce]C[
+
+-- chat --
+apfelholz: :)
+apfelholz: a human one or an AI one?
+ben0: definitely human
+]
+;B[dd]
+;W[cd]
+;B[ec]C[
+
+-- chat --
+ben0: AI would never play such crap
+]
+;W[db]
+;B[df]
+;W[cf]
+;B[dg]
+;W[cg]C[
+
+-- chat --
+apfelholz: I wonder why I never saw this before
+NicelyManifest: You are correct
+NicelyManifest: Just checked
+]
+;B[dh]
+;W[fc]C[
+
+-- chat --
+ben0: it is very french localized
+apfelholz: I see but isn't splitting with q16 sthg. obvious?
+]
+;B[cq]
+;W[cp]
+;B[dq]
+;W[ep]
+;B[eq]
+;W[fq]
+;B[fr]
+;W[fd]C[
+
+-- chat --
+OndraKruml: this kind of move feels good
+ben0: Cornel is having is kind of game so far
+ben0: he must feel ok
+]
+;B[fp]
+;W[gq]
+;B[gr]
+;W[fo]
+;B[gp]
+;W[hq]
+;B[go]
+;W[lq]
+;B[fn]
+;W[bq]
+;B[br]C[
+
+-- chat --
+Alter and Go: Aller tanguy !!!
+]
+;W[bo]
+;B[aq]
+;W[eo]
+;B[gn]
+;W[dl]C[
+
+-- chat --
+alkar: j3
+Anthe: the ogs online estimator is pretty accurate
+Anthe: no
+Anthe: it uses katago since a year or so
+Anthe: see in the forum
+Anthe: but not currently
+Anthe: https://forums.online-go.com/t/poll-balancing-the-new-ai-score-estimator/36399
+Anthe: before it was heuristic (=bad)
+Anthe: but still I guess it does not know the used game rules
+Anthe: it always goes w china 7.5
+Anthe: but not sure
+]
+;B[jq]
+;W[gh]
+;B[ch]
+;W[cj]C[
+
+-- chat --
+ben0: I feel Cornel is playing so far
+ben0: well*
+ben0: but I guess the previous statement was also correct
+ST3bis: Aller tanguy !!!
+]
+;B[dj]
+;W[dk]
+;B[fj]C[
+
+-- chat --
+Anthe: is it possible to set sound on for following a rezension? self put stones make a sound but not the played moves. same with own games
+]
+;W[rq]
+;B[lr]
+;W[pi]
+;B[ol]
+;W[od]
+;B[nd]
+;W[pf]
+;B[pd]
+;W[qf]
+;B[oe]
+;W[ml]C[
+
+-- chat --
+OndraKruml: I see white's point that black has an additional move in top right, but the minus of p16 p15 can actually be worth a move too
+]
+;B[oj]
+;W[nh]
+;B[mq]C[
+
+-- chat --
+ben0: it is actually a "common" sequence with this shimari
+ben0: AI approved, but that's for the early game, not sure about now
+]
+;W[pm]
+;B[qj]C[
+
+-- chat --
+NicelyManifest: But also wildly wrong too often
+]
+;W[hj]C[
+
+-- chat --
+NicelyManifest: well I have had games where it just gives no points for clearly owned territory
+]
+;B[gk]
+;W[nk]
+;B[rh]
+;W[re]
+;B[rd]
+;W[pe]
+;B[qd]
+;W[of]
+;B[ne]
+;W[pj]
+;B[pk]
+;W[ok]
+;B[pl]
+;W[fh]
+;B[ei]
+;W[ip]
+;B[cc]
+;W[cb]
+;B[bc]
+;W[bb]
+;B[bg]
+;W[bd]
+;B[bj]
+;W[bk]
+;B[ci]
+;W[ck]
+;B[ph]
+;W[oi]
+;B[qi]
+;W[nf]
+;B[hk]
+;W[kq]
+;B[kr]
+;W[jp]
+;B[jc]
+;W[qm]
+;B[rl]
+;W[jd]
+;B[kd]
+;W[ic]
+;B[je]
+;W[id]
+;B[kc]
+;W[ie]
+;B[ij]
+;W[bp]
+;B[mi]
+;W[mh]
+;B[li]
+;W[nj]
+;B[ir]
+;W[iq]
+;B[jr]
+;W[in]
+;B[hi]
+;W[rg]
+;B[rn]
+;W[rm]
+;B[sm]
+;W[ro]
+;B[qn]
+;W[pn]
+;B[lm]
+;W[kl]
+(;B[jb]
+)(;B[ib]
+;W[hb]
+;B[mm]
+;W[nl]
+;B[en]
+;W[dn]
+;B[nm]
+;W[om]
+;B[ll]
+;W[lk]
+;B[km]
+;W[jl]
+;B[jm]
+;W[im]
+;B[kk]
+;W[ik]
+;B[mk]
+;W[mj]
+;B[lj]
+;W[ni]
+;B[mk]
+;W[jj]
+;B[ii]
+;W[lk]
+;B[mp]
+;W[gi]
+;B[mk]
+;W[gj]
+;B[jk]
+;W[il]C[
+
+-- chat --
+OndraKruml: how will b get out of this one O.o
+]
+;B[ek]
+;W[ji]
+;B[lk]C[
+
+-- chat --
+ben0: yeah
+ben0: looks over
+]
+;W[ih]
+;B[lh]
+;W[lg]
+(;B[mo]
+;W[qo]
+;B[bi]C[
+
+-- chat --
+Piwh: white got stronk shapes
+]
+;W[sn]
+;B[rk]
+;W[bf]
+;B[em]
+;W[ar]
+;B[as]
+;W[dm]C[
+
+-- chat --
+Von Zilla ੴ: Very stronk
+]
+;B[se]
+;W[jb]
+;B[kb]
+;W[ia]
+;B[lf]
+;W[kg]
+;B[mf]
+;W[mg]
+;B[jf]
+;W[ka]
+;B[mb]
+;W[sf]
+;B[rf]
+;W[kf]
+;B[ke]
+;W[re]
+;B[sd]
+;W[sl]
+;B[ed]
+;W[sh]
+;B[si]
+;W[sj]
+;B[sg]
+;W[nn]
+;B[mn]
+;W[sh]
+;B[hg]
+;W[hh]
+;B[sg]C[
+
+-- chat --
+OndraKruml: blacks middle group?
+becere: enough liberties, white group falls first. but O7 gives life, or connecxts, I see now
+]
+;W[fl]
+;B[el]
+;W[sh]C[
+
+-- chat --
+becere: o6 sorry
+]
+;B[ri]
+;W[sk]
+;B[rf]
+;W[hr]
+;B[sg]
+;W[gs]C[
+
+-- chat --
+ben0: game over
+]
+;B[cs]
+;W[er]
+;B[dr]
+;W[fs]
+;B[gl]
+;W[eb]
+;B[fe]
+;W[ge]
+;B[ff]
+;W[qg]
+;B[qh]
+;W[la]
+;B[ak]
+;W[al]
+;B[aj]
+;W[bl]
+;B[rr]
+;W[kp]
+;B[af]
+;W[ae]
+;B[ag]
+;W[ds]
+;B[es]
+;W[ah]
+;B[bh]
+;W[ds]
+;B[jg]
+;W[kh]
+;B[es]
+;W[ma]
+;B[na]
+;W[ds]
+;B[ad]
+;W[ac]
+;B[es]
+;W[nb]
+;B[ob]
+;W[ds]
+;B[jh]
+;W[ki]
+;B[es]
+;W[le]
+;B[fr]
+;W[me]C[
+
+-- chat --
+EGF1: Black resigns
+]
+)(;B[rr]C[
+
+-- chat --
+becere: I see a kill at 177 Black S2. What I am missing?
+]
+)))

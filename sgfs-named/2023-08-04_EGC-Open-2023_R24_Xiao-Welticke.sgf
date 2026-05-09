@@ -1,0 +1,741 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[2023-08-04_EGC-Open-2023_R24_Xiao-Welticke]
+PC[https://online-go.com/review/1118127]
+PB[Xiao Yicheng]
+PW[Jonas Welticke]
+BR[6d]
+WR[6d]
+OT[Error: time control missing]
+RE[?]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+
+;B[dp]
+;W[pd]
+;B[dc]
+;W[pq]
+;B[qo]
+;W[ce]
+;B[dh]
+;W[pl]
+;B[op]
+;W[pp]
+;B[po]
+;W[oo]
+;B[oq]
+;W[or]
+;B[nr]
+;W[pr]
+;B[on]
+;W[no]
+;B[mp]C[
+
+-- chat --
+Zaphodian: I have more or less collapsed multiple times as W in this position. 
+jvandenbusken: I have collapsed 95% of the times as b in this position
+Zaphodian: OK, I have played it only a few times. So I have few bragging rights.
+]
+(;W[om]
+;B[nn]
+;W[mo]
+;B[lp]
+;W[lo]
+;B[kp]
+;W[rp]
+;B[qp]
+;W[qq]
+;B[ro]
+;W[pn]
+;B[rq]
+;W[rr]
+;B[sp]
+;W[sr]
+;B[ql]
+;W[qk]
+;B[qm]
+;W[pk]
+;B[mm]
+;W[ko]
+;B[jp]
+;W[pm]
+;B[os]
+;W[ps]
+;B[ns]
+;W[qs]
+;B[rk]
+;W[rj]
+;B[sl]
+;W[jo]
+;B[io]C[
+
+-- chat --
+Zaphodian: My AI thinks this is a funky sequence. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 P7 O6 N5 M4 M5 L4 S4 R4 R3 S5 Q6 S3 S2 T4 T2 R8 R9 R7 Q9 N7 L5 K4 Q7 P1 Q1 O1 R1 S9 S10 T8 K5 J5 
+jvandenbusken: oh no, funkiness has conquered you also
+]
+)(;W[pn]
+;B[qn]
+;W[pm]
+;B[mn]
+;W[mo]
+;B[lo]
+;W[nn]
+;B[nm]
+;W[om]
+;B[np]
+;W[on]
+;B[rq]
+;W[rr]
+;B[qq]
+;W[qr]
+;B[rl]
+;W[rk]
+;B[rm]
+;W[qk]
+;B[sr]
+;W[mr]C[
+
+-- chat --
+Zaphodian: Now she likes this, but mostly for B. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 Q6 R6 Q7 N6 N5 M5 O6 O7 P7 O4 P6 S3 S2 R3 R2 S8 S9 S7 R9 T2 N2 
+]
+)(;W[mo]
+;B[lp]
+;W[lo]
+;B[kp]
+;W[ko]
+;B[jp]
+;W[rp]
+;B[ro]
+;W[mr]
+;B[np]
+;W[qp]
+;B[ql]C[
+
+-- chat --
+Zaphodian: What about playing 'safely' and this seems ok too. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 N5 M4 M5 L4 L5 K4 S4 S5 N2 O4 R4 R8 
+]
+)(;W[rp]
+;B[mn]
+;W[nn]
+;B[nm]
+;W[om]
+;B[mo]
+;W[pn]
+;B[np]
+;W[on]
+;B[nl]
+;W[pj]
+;B[fq]
+;W[gp]
+;B[nc]C[
+
+-- chat --
+Zaphodian: So what about if W defends the corner an B just squeezes?. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 S4 N6 O6 O7 P7 N5 Q6 O4 P6 O8 Q10 F3 G4 O17 
+Zaphodian: Marked moves are important. F3 is good and G4 too. And then tenuki, of course. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 S4 N6 O6 O7 P7 N5 Q6 O4 P6 O8 Q10 F3 G4 O17 
+]
+)(;W[ed]
+;B[dd]
+;W[de]
+;B[ee]
+;W[ec]
+;B[db]
+;W[bc]
+;B[eb]
+;W[gc]
+;B[gd]
+;W[fc]
+;B[ef]
+;W[fe]
+;B[bb]
+;W[cc]
+;B[cd]
+;W[bd]
+;B[cb]
+;W[cg]
+;B[ch]
+;W[bh]
+;B[bi]C[
+
+-- chat --
+Sadaharu: Surprisingly no mirror go here
+jvandenbusken: Maybe Jonas has decided to change his playstyle for good suddenly
+jvandenbusken: and we will never see his mirror go again :(
+Sadaharu: Or maybe he knows that mirror go in this situation will just lead to disaster
+]
+;W[eg]
+;B[df]
+;W[dg]
+;B[cf]
+;W[be]
+;B[bf]
+;W[bg]
+;B[ff]
+;W[af]
+;B[gf]
+;W[ab]
+;B[hc]
+;W[hb]
+;B[ib]
+;W[hd]
+;B[ic]
+;W[ge]
+;B[he]
+;W[fd]
+;B[ie]
+;W[fb]
+;B[ba]C[
+
+-- chat --
+Zaphodian: OMG, what a situation!
+]
+;W[ea]
+;B[da]
+;W[ga]
+;B[ia]C[
+
+-- chat --
+Zaphodian: This ends badly for W
+Zaphodian: hahaha, I think he will start doing mirror again, once he's seen this game.
+Zaphodian: I think this game is done. But Jonas will never resign
+]
+(;W[ci]
+;B[cj]
+;W[di]
+;B[bk]C[
+
+-- chat --
+Zaphodian: Cutting at C10 - B just keeps up the attack . From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 E16 D16 D15 E15 E17 D18 B17 E18 G17 G16 F17 E14 F15 B18 C17 C16 B16 C18 C13 C12 B12 B11 E13 D14 D13 C14 B15 B14 B13 F14 A14 G14 A18 H17 H18 J18 H16 J17 G15 H15 F16 J15 F18 B19 E19 D19 G19 J19 C11 C10 D11 B9 
+]
+)(;W[dj]
+;B[rq]
+;W[pn]
+;B[qn]
+;W[nn]
+;B[pm]
+;W[om]
+;B[mq]
+;W[pn]
+;B[qm]
+;W[ql]
+;B[rl]
+;W[rk]
+;B[rm]
+;W[rr]
+;B[qq]
+;W[qr]
+;B[qk]
+;W[lo]
+;B[jq]
+;W[rj]
+;B[ol]
+;W[pk]
+;B[qj]
+;W[qi]
+;B[pj]
+;W[ok]
+;B[pi]
+;W[qh]
+;B[nl]
+;W[nk]
+;B[ml]
+;W[mk]
+;B[ll]
+;W[kn]
+(;B[sr]
+;W[qp]
+;B[rp]
+;W[sq]
+;B[so]
+;W[sl]
+;B[sm]
+;W[rn]
+;B[sk]
+;W[ri]
+;B[sp]
+;W[rs]
+;B[os]
+;W[ps]
+;B[ns]
+;W[sj]
+;B[sq]
+;W[sn]
+;B[ro]C[
+
+-- chat --
+Zaphodian: Black wins. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 E16 D16 D15 E15 E17 D18 B17 E18 G17 G16 F17 E14 F15 B18 C17 C16 B16 C18 C13 C12 B12 B11 E13 D14 D13 C14 B15 B14 B13 F14 A14 G14 A18 H17 H18 J18 H16 J17 G15 H15 F16 J15 F18 B19 E19 D19 G19 J19 D10 S3 Q6 R6 O6 Q7 P7 N3 Q6 R7 R8 S8 S9 S7 S2 R3 R2 R9 M5 K3 S10 P8 Q9 R10 R11 Q10 P9 Q11 R12 O8 O9 N8 N9 M8 L6 T2 R4 S4 T3 T5 T8 T7 S6 T9 S11 T4 S1 P1 Q1 O1 T10 T3 T6 S5 
+]
+)(;B[km]
+;W[jo]
+;B[ln]
+;W[mn]
+;B[lm]
+;W[mo]
+;B[kp]
+;W[ko]
+;B[on]
+;W[nm]
+;B[im]
+;W[iq]
+;B[ir]
+;W[ip]
+;B[hr]
+;W[kr]
+;B[kq]
+;W[fo]
+;B[gp]
+;W[in]
+;B[fh]
+;W[eh]
+;B[ph]
+(;W[sq]
+;B[rp]
+(;W[ns]
+;B[ms]
+(;W[os]
+;B[sr]
+;W[ss]
+;B[qs]
+;W[ls]
+;B[mr]
+;W[np]
+;B[nq]
+;W[lp]
+;B[lq]
+;W[jr]C[
+
+-- chat --
+Zaphodian: what exactly is going on here?. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 E16 D16 D15 E15 E17 D18 B17 E18 G17 G16 F17 E14 F15 B18 C17 C16 B16 C18 C13 C12 B12 B11 E13 D14 D13 C14 B15 B14 B13 F14 A14 G14 A18 H17 H18 J18 H16 J17 G15 H15 F16 J15 F18 B19 E19 D19 G19 J19 D10 S3 Q6 R6 O6 Q7 P7 N3 Q6 R7 R8 S8 S9 S7 S2 R3 R2 R9 M5 K3 S10 P8 Q9 R10 R11 Q10 P9 Q11 R12 O8 O9 N8 N9 M8 L6 L7 K5 M6 N6 M7 N5 L4 L5 P6 O7 J7 J3 J2 J4 H2 L2 L3 F5 G4 J6 F12 E12 Q12 T3 S4 O1 N1 P1 T2 T1 R1 M1 N2 O4 O3 M4 M3 K2 
+]
+)(;W[sr]
+;B[rs]
+;W[sp]
+;B[so]
+;W[sn]
+;B[ro]
+;W[sk]
+;B[os]
+;W[sl]
+;B[sm]
+;W[ri]
+;B[ps]
+;W[qs]
+;B[ns]C[
+
+-- chat --
+Zaphodian: bad ko for W. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 E16 D16 D15 E15 E17 D18 B17 E18 G17 G16 F17 E14 F15 B18 C17 C16 B16 C18 C13 C12 B12 B11 E13 D14 D13 C14 B15 B14 B13 F14 A14 G14 A18 H17 H18 J18 H16 J17 G15 H15 F16 J15 F18 B19 E19 D19 G19 J19 D10 S3 Q6 R6 O6 Q7 P7 N3 Q6 R7 R8 S8 S9 S7 S2 R3 R2 R9 M5 K3 S10 P8 Q9 R10 R11 Q10 P9 Q11 R12 O8 O9 N8 N9 M8 L6 L7 K5 M6 N6 M7 N5 L4 L5 P6 O7 J7 J3 J2 J4 H2 L2 L3 F5 G4 J6 F12 E12 Q12 T3 S4 O1 N1 T2 S1 T4 T5 T6 S5 T9 P1 T8 T7 S11 Q1 R1 O1 
+]
+))(;W[sr]
+;B[os]
+;W[ps]
+;B[rs]
+;W[ns]
+;B[ms]
+;W[ls]
+;B[os]
+;W[sp]
+;B[ro]
+;W[ns]C[
+
+-- chat --
+Zaphodian: tricky. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 E16 D16 D15 E15 E17 D18 B17 E18 G17 G16 F17 E14 F15 B18 C17 C16 B16 C18 C13 C12 B12 B11 E13 D14 D13 C14 B15 B14 B13 F14 A14 G14 A18 H17 H18 J18 H16 J17 G15 H15 F16 J15 F18 B19 E19 D19 G19 J19 D10 S3 Q6 R6 O6 Q7 P7 N3 Q6 R7 R8 S8 S9 S7 S2 R3 R2 R9 M5 K3 S10 P8 Q9 R10 R11 Q10 P9 Q11 R12 O8 O9 N8 N9 M8 L6 L7 K5 M6 N6 M7 N5 L4 L5 P6 O7 J7 J3 J2 J4 H2 L2 L3 F5 G4 J6 F12 E12 Q12 T3 S4 T2 P1 Q1 S1 O1 N1 M1 P1 T4 S5 O1 
+]
+))(;W[qp]
+;B[rp]
+;W[sr]
+;B[os]
+;W[ro]
+;B[so]
+;W[sp]
+;B[rn]
+;W[sq]
+;B[ro]
+;W[sl]
+;B[sm]
+;W[ri]
+;B[sk]
+;W[sj]
+;B[ps]
+;W[pn]
+;B[qs]
+;W[on]C[
+
+-- chat --
+Zaphodian: W loses like this. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 E16 D16 D15 E15 E17 D18 B17 E18 G17 G16 F17 E14 F15 B18 C17 C16 B16 C18 C13 C12 B12 B11 E13 D14 D13 C14 B15 B14 B13 F14 A14 G14 A18 H17 H18 J18 H16 J17 G15 H15 F16 J15 F18 B19 E19 D19 G19 J19 D10 S3 Q6 R6 O6 Q7 P7 N3 Q6 R7 R8 S8 S9 S7 S2 R3 R2 R9 M5 K3 S10 P8 Q9 R10 R11 Q10 P9 Q11 R12 O8 O9 N8 N9 M8 L6 L7 K5 M6 N6 M7 N5 L4 L5 P6 O7 J7 J3 J2 J4 H2 L2 L3 F5 G4 J6 F12 E12 Q12 R4 S4 T2 P1 S5 T5 T4 S6 T3 S5 T8 T7 S11 T9 T10 Q1 Q6 R1 P6 
+]
+)(;W[pg]
+;B[nh]
+;W[ni]
+;B[qg]
+;W[rg]
+;B[og]
+;W[qf]
+;B[lh]
+;W[kj]
+;B[hm]
+;W[go]
+;B[ij]
+;W[hf]
+;B[hg]
+;W[if]
+;B[jf]C[
+
+-- chat --
+Zaphodian: Jonas ahs been lying in wait for J14 ever since the disaster in the top left
+]
+(;W[id]
+(;B[je]
+;W[jd]
+;B[ha]
+(;W[kd]
+;B[gb]C[
+
+-- chat --
+Zaphodian: and now wat?. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 E16 D16 D15 E15 E17 D18 B17 E18 G17 G16 F17 E14 F15 B18 C17 C16 B16 C18 C13 C12 B12 B11 E13 D14 D13 C14 B15 B14 B13 F14 A14 G14 A18 H17 H18 J18 H16 J17 G15 H15 F16 J15 F18 B19 E19 D19 G19 J19 D10 S3 Q6 R6 O6 Q7 P7 N3 Q6 R7 R8 S8 S9 S7 S2 R3 R2 R9 M5 K3 S10 P8 Q9 R10 R11 Q10 P9 Q11 R12 O8 O9 N8 N9 M8 L6 L7 K5 M6 N6 M7 N5 L4 L5 P6 O7 J7 J3 J2 J4 H2 L2 L3 F5 G4 J6 F12 E12 Q12 Q13 O12 O11 R13 S13 P13 R14 M12 L10 H7 G5 J10 H14 H13 J14 K14 J16 K15 K16 H19 L16 G18 
+Zaphodian: always double ko - B is connected. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 E16 D16 D15 E15 E17 D18 B17 E18 G17 G16 F17 E14 F15 B18 C17 C16 B16 C18 C13 C12 B12 B11 E13 D14 D13 C14 B15 B14 B13 F14 A14 G14 A18 H17 H18 J18 H16 J17 G15 H15 F16 J15 F18 B19 E19 D19 G19 J19 D10 S3 Q6 R6 O6 Q7 P7 N3 Q6 R7 R8 S8 S9 S7 S2 R3 R2 R9 M5 K3 S10 P8 Q9 R10 R11 Q10 P9 Q11 R12 O8 O9 N8 N9 M8 L6 L7 K5 M6 N6 M7 N5 L4 L5 P6 O7 J7 J3 J2 J4 H2 L2 L3 F5 G4 J6 F12 E12 Q12 Q13 O12 O11 R13 S13 P13 R14 M12 L10 H7 G5 J10 H14 H13 J14 K14 J16 K15 K16 H19 L16 G18 
+]
+)(;W[gd]
+;B[gb]
+;W[fa]
+;B[kd]
+;W[jc]
+;B[kb]C[
+
+-- chat --
+Zaphodian: nope. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 E16 D16 D15 E15 E17 D18 B17 E18 G17 G16 F17 E14 F15 B18 C17 C16 B16 C18 C13 C12 B12 B11 E13 D14 D13 C14 B15 B14 B13 F14 A14 G14 A18 H17 H18 J18 H16 J17 G15 H15 F16 J15 F18 B19 E19 D19 G19 J19 D10 S3 Q6 R6 O6 Q7 P7 N3 Q6 R7 R8 S8 S9 S7 S2 R3 R2 R9 M5 K3 S10 P8 Q9 R10 R11 Q10 P9 Q11 R12 O8 O9 N8 N9 M8 L6 L7 K5 M6 N6 M7 N5 L4 L5 P6 O7 J7 J3 J2 J4 H2 L2 L3 F5 G4 J6 F12 E12 Q12 Q13 O12 O11 R13 S13 P13 R14 M12 L10 H7 G5 J10 H14 H13 J14 K14 J16 K15 K16 H19 G16 G18 F19 L16 K17 L18 
+]
+)(;W[ig]
+;B[ih]
+;W[jg]
+;B[kg]
+;W[gd]
+;B[kd]
+;W[jc]
+;B[gb]
+;W[ke]
+;B[jh]
+;W[hb]C[
+
+-- chat --
+Zaphodian: what???. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 E16 D16 D15 E15 E17 D18 B17 E18 G17 G16 F17 E14 F15 B18 C17 C16 B16 C18 C13 C12 B12 B11 E13 D14 D13 C14 B15 B14 B13 F14 A14 G14 A18 H17 H18 J18 H16 J17 G15 H15 F16 J15 F18 B19 E19 D19 G19 J19 D10 S3 Q6 R6 O6 Q7 P7 N3 Q6 R7 R8 S8 S9 S7 S2 R3 R2 R9 M5 K3 S10 P8 Q9 R10 R11 Q10 P9 Q11 R12 O8 O9 N8 N9 M8 L6 L7 K5 M6 N6 M7 N5 L4 L5 P6 O7 J7 J3 J2 J4 H2 L2 L3 F5 G4 J6 F12 E12 Q12 Q13 O12 O11 R13 S13 P13 R14 M12 L10 H7 G5 J10 H14 H13 J14 K14 J16 K15 K16 H19 J13 J12 K13 L13 G16 L16 K17 G18 L15 K12 H18 
+]
+))(;B[ig]
+;W[jd]
+;B[kc]
+;W[kd]
+;B[lc]
+;W[ld]
+;B[mc]
+;W[jc]
+;B[jb]
+;W[kb]
+;B[ka]
+;W[ha]
+;B[lb]
+;W[fa]
+;B[md]
+;W[ae]
+;B[ac]
+;W[ad]
+;B[le]
+;W[ag]
+;B[ke]
+;W[ac]
+;B[je]C[
+
+-- chat --
+Zaphodian: so W easily wins this capturing race now. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 E16 D16 D15 E15 E17 D18 B17 E18 G17 G16 F17 E14 F15 B18 C17 C16 B16 C18 C13 C12 B12 B11 E13 D14 D13 C14 B15 B14 B13 F14 A14 G14 A18 H17 H18 J18 H16 J17 G15 H15 F16 J15 F18 B19 E19 D19 G19 J19 D10 S3 Q6 R6 O6 Q7 P7 N3 Q6 R7 R8 S8 S9 S7 S2 R3 R2 R9 M5 K3 S10 P8 Q9 R10 R11 Q10 P9 Q11 R12 O8 O9 N8 N9 M8 L6 L7 K5 M6 N6 M7 N5 L4 L5 P6 O7 J7 J3 J2 J4 H2 L2 L3 F5 G4 J6 F12 E12 Q12 Q13 O12 O11 R13 S13 P13 R14 M12 L10 H7 G5 J10 H14 H13 J14 K14 J16 J13 K16 L17 L16 M17 M16 N17 K17 K18 L18 L19 H19 M18 F19 N16 A15 A17 A16 M15 A13 L15 A17 K15 
+]
+))(;W[ik]
+;B[hk]
+;W[hj]
+;B[hi]
+;W[id]
+;B[ig]
+;W[jd]
+;B[gj]
+;W[gq]
+;B[fa]
+;W[gd]
+;B[kc]
+;W[kd]
+;B[ld]
+;W[le]
+;B[lc]
+(;W[ke]
+;B[me]
+;W[mf]
+;B[lf]
+;W[md]
+;B[ne]
+;W[nd]
+;B[oe]
+;W[jc]
+;B[jb]
+;W[mb]
+;B[kb]
+;W[mc]
+;B[ha]
+;W[ea]
+;B[kf]
+;W[lb]
+;B[gb]C[
+
+-- chat --
+Zaphodian: still double ko and W dies. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 E16 D16 D15 E15 E17 D18 B17 E18 G17 G16 F17 E14 F15 B18 C17 C16 B16 C18 C13 C12 B12 B11 E13 D14 D13 C14 B15 B14 B13 F14 A14 G14 A18 H17 H18 J18 H16 J17 G15 H15 F16 J15 F18 B19 E19 D19 G19 J19 D10 S3 Q6 R6 O6 Q7 P7 N3 Q6 R7 R8 S8 S9 S7 S2 R3 R2 R9 M5 K3 S10 P8 Q9 R10 R11 Q10 P9 Q11 R12 O8 O9 N8 N9 M8 L6 L7 K5 M6 N6 M7 N5 L4 L5 P6 O7 J7 J3 J2 J4 H2 L2 L3 F5 G4 J6 F12 E12 Q12 Q13 O12 O11 R13 S13 P13 R14 M12 L10 H7 G5 J10 H14 H13 J14 K14 J9 H9 H10 H11 J16 J13 K16 G10 G3 F19 G16 L17 L16 M16 M15 M17 L15 N15 N14 M14 N16 O15 O16 P15 K17 K18 N18 L18 N17 H19 E19 L14 M18 G18 
+]
+)(;W[kf]
+;B[me]
+;W[lg]
+;B[kh]
+;W[mf]
+;B[ne]
+;W[mh]
+;B[mi]
+;W[mg]
+;B[ke]
+;W[je]
+;B[kg]
+;W[li]
+;B[mj]
+;W[lk]
+;B[jm]
+;W[oh]
+;B[ng]
+;W[oi]
+;B[nf]
+;W[qp]
+;B[rp]
+;W[sr]
+;B[ro]C[
+
+-- chat --
+Zaphodian: I get heavily punished for not watching this game for 20 minutes
+Zaphodian: less, only 13 mnutes
+Volker_S_Halstenbek: yeah. w managed to get from -40 to -30 :-)
+Zaphodian: But W's top left just remains dead.
+Zaphodian: hahaha
+c.j.bloo: I'm glad you also have trouble keeping up with this game
+]
+(;W[lr]
+;B[jr]
+;W[np]
+;B[nq]
+)(;W[np]
+;B[sq]
+;W[lr]
+;B[jr]C[
+
+-- chat --
+Zaphodian: Nah, I was watching Davide Bernandis's game - he is doing so well. 
+]
+;W[cn]
+;B[nq]
+;W[os]C[
+
+-- chat --
+Zaphodian: he is getting really strong.
+]
+;B[dn]C[
+
+-- chat --
+Volker_S_Halstenbek: what?
+Volker_S_Halstenbek: ah b kills k5 :-)
+Zaphodian: I was thinking 'what is going on?' But it was the wrong question.
+Zaphodian: The question should be 'what is not going on?'
+]
+;W[ns]
+;B[hq]
+;W[hp]
+;B[eq]
+(;W[fq]
+;B[fr]
+;W[gr]
+;B[gs]
+;W[fp]
+(;B[dr]
+;W[dm]
+;B[en]
+;W[co]
+;B[cp]
+;W[em]
+;B[fn]
+;W[hn]C[
+
+-- chat --
+Zaphodian: like this?. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 E16 D16 D15 E15 E17 D18 B17 E18 G17 G16 F17 E14 F15 B18 C17 C16 B16 C18 C13 C12 B12 B11 E13 D14 D13 C14 B15 B14 B13 F14 A14 G14 A18 H17 H18 J18 H16 J17 G15 H15 F16 J15 F18 B19 E19 D19 G19 J19 D10 S3 Q6 R6 O6 Q7 P7 N3 Q6 R7 R8 S8 S9 S7 S2 R3 R2 R9 M5 K3 S10 P8 Q9 R10 R11 Q10 P9 Q11 R12 O8 O9 N8 N9 M8 L6 L7 K5 M6 N6 M7 N5 L4 L5 P6 O7 J7 J3 J2 J4 H2 L2 L3 F5 G4 J6 F12 E12 Q12 Q13 O12 O11 R13 S13 P13 R14 M12 L10 H7 G5 J10 H14 H13 J14 K14 J9 H9 H10 H11 J16 J13 K16 G10 G3 F19 G16 L17 L16 M16 M15 M17 L14 N15 M13 L12 N14 O15 N12 N11 N13 L15 K15 L13 M11 N10 M9 K7 P12 O13 P11 O14 R4 S4 T2 S5 O4 T3 M2 K2 C6 O3 P1 D6 O1 H3 H4 E3 F3 F2 G2 G1 F4 D2 D7 E6 C5 C4 E7 F6 H6 
+]
+)(;B[co]
+;W[er]
+;B[fs]
+;W[hs]
+;B[is]
+;W[dr]
+;B[cq]
+;W[cr]
+;B[bq]
+;W[br]
+;B[ar]
+;W[es]
+;B[hs]
+;W[lp]
+;B[lq]
+;W[mr]C[
+
+-- chat --
+Zaphodian: B D2 is kinda necessary. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 E16 D16 D15 E15 E17 D18 B17 E18 G17 G16 F17 E14 F15 B18 C17 C16 B16 C18 C13 C12 B12 B11 E13 D14 D13 C14 B15 B14 B13 F14 A14 G14 A18 H17 H18 J18 H16 J17 G15 H15 F16 J15 F18 B19 E19 D19 G19 J19 D10 S3 Q6 R6 O6 Q7 P7 N3 Q6 R7 R8 S8 S9 S7 S2 R3 R2 R9 M5 K3 S10 P8 Q9 R10 R11 Q10 P9 Q11 R12 O8 O9 N8 N9 M8 L6 L7 K5 M6 N6 M7 N5 L4 L5 P6 O7 J7 J3 J2 J4 H2 L2 L3 F5 G4 J6 F12 E12 Q12 Q13 O12 O11 R13 S13 P13 R14 M12 L10 H7 G5 J10 H14 H13 J14 K14 J9 H9 H10 H11 J16 J13 K16 G10 G3 F19 G16 L17 L16 M16 M15 M17 L14 N15 M13 L12 N14 O15 N12 N11 N13 L15 K15 L13 M11 N10 M9 K7 P12 O13 P11 O14 R4 S4 T2 S5 O4 T3 M2 K2 C6 O3 P1 D6 O1 H3 H4 E3 F3 F2 G2 G1 F4 C5 E2 F1 H1 J1 D2 C3 C2 B3 B2 A2 E1 H1 M4 M3 N2 
+]
+))(;W[do]
+;B[co]
+;W[eo]
+;B[cp]
+(;W[cm]
+;B[fp]
+;W[gl]C[
+
+-- chat --
+Zaphodian: why not?. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 E16 D16 D15 E15 E17 D18 B17 E18 G17 G16 F17 E14 F15 B18 C17 C16 B16 C18 C13 C12 B12 B11 E13 D14 D13 C14 B15 B14 B13 F14 A14 G14 A18 H17 H18 J18 H16 J17 G15 H15 F16 J15 F18 B19 E19 D19 G19 J19 D10 S3 Q6 R6 O6 Q7 P7 N3 Q6 R7 R8 S8 S9 S7 S2 R3 R2 R9 M5 K3 S10 P8 Q9 R10 R11 Q10 P9 Q11 R12 O8 O9 N8 N9 M8 L6 L7 K5 M6 N6 M7 N5 L4 L5 P6 O7 J7 J3 J2 J4 H2 L2 L3 F5 G4 J6 F12 E12 Q12 Q13 O12 O11 R13 S13 P13 R14 M12 L10 H7 G5 J10 H14 H13 J14 K14 J9 H9 H10 H11 J16 J13 K16 G10 G3 F19 G16 L17 L16 M16 M15 M17 L14 N15 M13 L12 N14 O15 N12 N11 N13 L15 K15 L13 M11 N10 M9 K7 P12 O13 P11 O14 R4 S4 T2 S5 O4 T3 M2 K2 C6 O3 P1 D6 O1 H3 H4 E3 D5 C5 E5 C4 C7 F4 G8 
+]
+)(;W[fq]
+;B[fr]
+;W[gr]
+;B[gs]
+;W[fp]
+(;B[cm]
+;W[bn]
+;B[dm]
+;W[er]
+;B[fs]
+;W[dr]
+;B[br]
+;W[dq]
+;B[ep]
+;W[cq]C[
+
+-- chat --
+Zaphodian: not quite.. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 E16 D16 D15 E15 E17 D18 B17 E18 G17 G16 F17 E14 F15 B18 C17 C16 B16 C18 C13 C12 B12 B11 E13 D14 D13 C14 B15 B14 B13 F14 A14 G14 A18 H17 H18 J18 H16 J17 G15 H15 F16 J15 F18 B19 E19 D19 G19 J19 D10 S3 Q6 R6 O6 Q7 P7 N3 Q6 R7 R8 S8 S9 S7 S2 R3 R2 R9 M5 K3 S10 P8 Q9 R10 R11 Q10 P9 Q11 R12 O8 O9 N8 N9 M8 L6 L7 K5 M6 N6 M7 N5 L4 L5 P6 O7 J7 J3 J2 J4 H2 L2 L3 F5 G4 J6 F12 E12 Q12 Q13 O12 O11 R13 S13 P13 R14 M12 L10 H7 G5 J10 H14 H13 J14 K14 J9 H9 H10 H11 J16 J13 K16 G10 G3 F19 G16 L17 L16 M16 M15 M17 L14 N15 M13 L12 N14 O15 N12 N11 N13 L15 K15 L13 M11 N10 M9 K7 P12 O13 P11 O14 R4 S4 T2 S5 O4 T3 M2 K2 C6 O3 P1 D6 O1 H3 H4 E3 D5 C5 E5 C4 F3 F2 G2 G1 F4 C7 B6 D7 E2 F1 D2 B2 D3 E4 C3 
+]
+)(;B[dm]
+;W[er]
+;B[fs]
+;W[dr]
+;B[br]
+;W[hs]
+;B[is]
+;W[cr]
+;B[cq]
+;W[bq]
+;B[aq]
+;W[bs]
+;B[ar]
+;W[es]
+;B[hs]
+;W[cs]
+;B[bp]
+;W[lp]
+;B[lq]
+;W[mr]
+;B[dq]
+;W[jp]C[
+
+-- chat --
+Zaphodian: great fun. From move 0: D4 Q16 D17 Q3 R5 C15 D12 Q8 P4 Q4 Q5 P5 P3 P2 O2 Q2 P6 O5 N4 E16 D16 D15 E15 E17 D18 B17 E18 G17 G16 F17 E14 F15 B18 C17 C16 B16 C18 C13 C12 B12 B11 E13 D14 D13 C14 B15 B14 B13 F14 A14 G14 A18 H17 H18 J18 H16 J17 G15 H15 F16 J15 F18 B19 E19 D19 G19 J19 D10 S3 Q6 R6 O6 Q7 P7 N3 Q6 R7 R8 S8 S9 S7 S2 R3 R2 R9 M5 K3 S10 P8 Q9 R10 R11 Q10 P9 Q11 R12 O8 O9 N8 N9 M8 L6 L7 K5 M6 N6 M7 N5 L4 L5 P6 O7 J7 J3 J2 J4 H2 L2 L3 F5 G4 J6 F12 E12 Q12 Q13 O12 O11 R13 S13 P13 R14 M12 L10 H7 G5 J10 H14 H13 J14 K14 J9 H9 H10 H11 J16 J13 K16 G10 G3 F19 G16 L17 L16 M16 M15 M17 L14 N15 M13 L12 N14 O15 N12 N11 N13 L15 K15 L13 M11 N10 M9 K7 P12 O13 P11 O14 R4 S4 T2 S5 O4 T3 M2 K2 C6 O3 P1 D6 O1 H3 H4 E3 D5 C5 E5 C4 F3 F2 G2 G1 F4 D7 E2 F1 D2 B2 H1 J1 C2 C3 B3 A3 B1 A2 E1 H1 C1 B4 M4 M3 N2 D3 K4 
+]
+))(;W[bn]
+(;B[fm]
+)(;B[fp]
+;W[gl]
+;B[hn]
+;W[ho]
+;B[fm]C[
+
+-- chat --
+Zaphodian: that's why B decided to play F4
+Zaphodian: oops no... I think Jonas should have played F3...
+Zaphodian: at least 10 pnts in endgame too
+Zaphodian: well, the other move I predicted was G8 
+Zaphodian: Of course, it's overplay, especially with W C7 at B6
+]
+;W[em]
+;B[el]
+;W[gm]
+;B[gn]
+;W[fn]
+;B[fl]
+;W[dl]
+;B[ej]
+;W[ei]
+;B[fj]
+;W[dk]
+;B[pb]C[
+
+-- chat --
+Zaphodian: I think it's about time. There is no way W can do anything
+]
+;W[mb]
+;B[nc]
+;W[ea]
+;B[ha]
+;W[ob]
+;B[oc]
+;W[pc]
+;B[nb]
+;W[qb]
+;B[oa]
+;W[bq]
+;B[cr]
+;W[cq]
+;B[dq]
+;W[br]
+;B[dr]
+;W[bp]
+;B[bo]
+;W[ao]
+;B[bs]
+;W[fg]
+;B[gg]
+;W[jk]
+;B[qc]
+;W[rb]
+;B[pe]
+;W[qd]
+;B[qe]
+;W[od]
+;B[re]
+;W[oe]
+;B[pf]
+;W[of]
+;B[qg]
+;W[jc]
+;B[fa]
+;W[pg]
+;B[rd]
+;W[rc]
+;B[qg]
+;W[ea]
+;B[gb]
+;W[pg]
+;B[nd]
+;W[qc]
+;B[qg]
+;W[hb]
+;B[rf]
+;W[jb]
+;B[gb]
+;W[fa]
+;B[kb]
+;W[ja]
+;B[ka]
+;W[hb]
+;B[lf]C[
+
+-- chat --
+Volker_S_Halstenbek: top left is alive :-P
+serban_mihai: good exchange, now resign 
+EGF3: B#R
+Volker_S_Halstenbek: thx for relay
+Zaphodian: thx
+Zaphodian: one-sided rollercoaster
+]
+)))))))))))

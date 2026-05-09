@@ -1,0 +1,419 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[2025-06-21_LankeVienna-2025_R3_Chi-Min-Frejlak]
+PC[https://online-go.com/review/1488721]
+PB[Oh Chi-Min (8D)]
+PW[Frejlak Stanislaw (2P)]
+BR[8d]
+WR[2p]
+OT[Error: time control missing]
+RE[W+1.5]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+C[
+
+-- chat --
+dmedak: https://forums.online-go.com/t/lanke-cup-vienna-open-grand-prix-bonus-c-june-21-22-2025/56966
+]
+;B[cp]
+;W[pd]
+;B[cd]
+;W[pq]
+;B[fd]
+;W[ep]
+;B[eq]
+;W[fq]
+;B[dq]
+;W[fp]
+;B[pp]
+;W[qp]
+;B[oq]
+;W[po]
+;B[op]
+;W[qq]
+;B[oo]
+;W[pn]
+;B[kq]
+;W[co]
+;B[bo]
+;W[bn]
+;B[do]
+;W[cn]
+;B[dp]
+;W[em]
+;B[dn]
+;W[cl]
+;B[hp]
+;W[mq]
+;B[dm]
+;W[dl]
+;B[el]
+;W[fm]
+;B[ek]
+;W[bp]
+;B[bq]
+;W[ao]
+;B[fn]
+;W[ip]
+;B[iq]C[
+
+-- chat --
+lyke: 1. From move 0: C4 Q16 C16 Q3 F16 E4 E3 F3 D3 F4 Q4 R4 P3 Q5 P4 R3 P5 Q6 L3 C5 B5 B6 D5 C6 D4 E7 D6 C8 H4 N3 D7 D8 E8 F7 E9 B4 B3 A5 F6 J4 J3 
+]
+;W[hq]
+;B[hr]C[
+
+-- chat --
+Uberdude: Not convinved of W plan here
+]
+;W[gq]
+;B[ho]C[
+
+-- chat --
+Uberdude: after b4 capture white would like to make black spend a move to live in the corner, but black fightback here is much more efficient way to defend
+]
+;W[gn]
+;B[fo]
+;W[go]
+;B[gp]
+;W[jq]
+;B[ir]
+(;W[jo]
+;B[hn]
+;W[jr]
+;B[fr]
+;W[mo]
+;B[kp]
+;W[jp]
+;B[nn]
+;W[mn]
+;B[nm]
+;W[ll]
+;B[ol]
+;W[ql]
+;B[pk]
+;W[rj]C[
+
+-- chat --
+nadoss: fun fact, Chi-Min Oh earned the nickname "Killer" during his time playing in Korea and Europe, and did research on the impact of AI on the Go Community at Oxford
+Moin9: înteresting
+]
+;B[mk]
+;W[lk]
+;B[mi]
+;W[lj]
+;B[qi]
+;W[qj]
+;B[pi]
+;W[kh]
+;B[mp]
+;W[lp]C[
+
+-- chat --
+Leareki: Hi
+]
+;B[ko]
+;W[kr]
+;B[jn]
+;W[kn]
+;B[km]
+;W[ln]
+;B[mr]
+;W[lr]
+;B[nd]
+;W[pf]
+;B[nq]
+;W[np]
+;B[nf]
+;W[kd]
+;B[ic]
+;W[og]C[
+
+-- chat --
+yahel.or.3: There is a results table.?
+]
+;B[lg]
+;W[kg]C[
+
+-- chat --
+MedakMirta: https://docs.google.com/spreadsheets/d/1gd3tQKVD-9T-rQvqwD6fXGM6hmQUFtJ_VWGOgF-5W7w/edit?gid=912096206#gid=912096206
+]
+;B[ng]
+;W[oh]
+;B[oi]
+;W[mj]
+;B[ni]
+;W[id]
+;B[jd]C[
+
+-- chat --
+yahel.or.3: ty
+]
+;W[je]
+;B[jc]
+;W[kc]
+;B[ke]
+;W[le]
+;B[kf]
+;W[hc]
+;B[hb]
+;W[lf]
+;B[jf]
+;W[ie]
+;B[if]
+;W[hf]
+;B[ig]
+;W[gc]
+;B[gb]
+;W[kb]
+;B[jb]
+;W[ja]
+;B[ib]
+;W[md]
+;B[nc]
+;W[fc]
+;B[ec]
+;W[fb]
+;B[eb]
+;W[ge]
+;B[gd]
+;W[hh]
+;B[ih]
+;W[he]
+;B[hg]
+;W[fe]
+;B[fa]
+;W[gg]
+;B[gh]
+;W[hi]
+;B[fg]
+;W[ff]
+;B[gf]
+;W[mg]
+;B[nh]
+;W[gg]
+;B[pb]
+;W[qc]
+;B[gf]
+;W[li]
+;B[qb]
+;W[qg]
+;B[of]
+;W[gg]
+;B[qe]
+;W[pe]
+;B[rc]
+;W[rd]
+;B[qd]
+;W[pc]
+;B[re]
+;W[ob]
+;B[rb]
+;W[nb]
+;B[rh]
+;W[mc]
+;B[rg]
+;W[fh]
+;B[gf]
+;W[rf]
+;B[sf]
+;W[gg]
+;B[cm]
+;W[bm]
+;B[gf]
+;W[qf]
+;B[sd]
+;W[gg]
+;B[qm]
+;W[eg]
+;B[pm]
+;W[gm]
+;B[hm]
+;W[gk]
+;B[hk]
+;W[hj]
+;B[hl]
+;W[gl]
+;B[cg]
+;W[ci]
+;B[ro]
+;W[rn]
+;B[qn]
+;W[qo]
+;B[rm]
+;W[rp]
+;B[sn]
+;W[rr]
+;B[ch]
+;W[bi]
+;B[bk]
+;W[bl]
+;B[ij]
+;W[ii]
+;B[ji]
+;W[gi]
+;B[pr]C[
+
+-- chat --
+nadoss: I had stepped away, B+R yeah?
+nadoss: (i'm giving a final)
+lol nerdnation: tight endgame rn
+nadoss: oh ok, just saw the review going further back in the game and assumed it had ended
+nadoss: (I'm also distracted because New England is coming back against Chicago in Major League Rugby)
+nadoss: Do the players have extremely long time controls? I can't imagine Chi-Min still has a ton of time on his clock
+Mrrr: there is a 20 seconds increment with each move
+nadoss: fischer time??
+Mrrr: has the scribe stopped or it is just a lag?
+lol nerdnation: lag prob 
+Mrrr: wow
+Mrrr: ok, thx
+nadoss: to answer my own question 45m + 20s Fischer. (I despise Fischer timing)
+tryk8: the game is very close
+Mrrr: yes, nadoss, so the added around 4000 seconds so far, not sure when they started :)
+Mrrr: *they
+nadoss: I just don't like that taking my time in the opening limits my time in the endgame. Byo-yomi is perfect for go, Fischer is not.
+Yaka_Go: sounds like that would be the case in both time settings
+nadoss: in byo yomi, in the end game, you have a fixed amount of time per move. In fischer, if you spent longer in the opening you have less time in the endgame
+Mrrr: yes, the scenario you described would ended up similarly, regardless of byo or Fischer
+Yaka_Go: sorry, I'm assuming that there's some main time as well which you could save up
+nadoss: I am assuming that players are using their time in the opening and middle game and entering overtime in the late midgame as is common
+nadoss: well if this recording isn't going to progress I guess I'll just check out the sgf later. Have a good one y'all
+lol nerdnation: at this point the scribe gave up xd
+]
+;W[sp]
+;B[jk]
+;W[hd]
+;B[ed]
+;W[jh]
+;B[bh]
+;W[ai]C[
+
+-- chat --
+wade: the board is frozen... you can watch live on twitch:
+wade: https://www.twitch.tv/egf_live
+wade: it is one of those digital boards which record the game
+]
+;B[fj]
+;W[gj]
+;B[di]
+;W[dh]
+;B[cj]
+;W[dj]
+;B[ei]
+;W[ck]
+;B[ah]
+;W[bj]
+;B[aq]
+;W[df]
+;B[cf]
+;W[de]
+;B[ce]
+;W[dd]
+;B[dc]
+;W[jm]
+;B[dg]
+;W[eh]
+;B[ee]
+;W[ef]
+;B[qh]
+;W[pg]
+;B[mf]
+;W[lh]
+;B[me]
+;W[oc]
+;B[aj]
+;W[ak]
+;B[nr]
+;W[qr]
+;B[ps]
+;W[nk]
+;B[no]
+;W[ok]
+;B[pj]
+;W[so]
+;B[mp]
+;W[lq]
+;B[ml]
+;W[nj]
+;B[rn]
+;W[mm]
+;B[kl]
+;W[in]
+;B[nl]
+;W[jl]
+;B[kk]
+;W[io]
+;B[ik]
+;W[is]
+;B[gr]
+;W[en]
+;B[eo]
+;W[od]C[
+
+-- chat --
+dmedak: Not really
+dmedak: This is the actual position
+dmedak: It is not polite to disturb players when they are both under 20 seconds all the time
+]
+;B[ne]
+;W[ms]
+;B[ns]
+;W[ls]
+;B[mh]
+;W[lg]
+;B[oa]
+;W[na]
+;B[qs]
+;W[rs]
+;B[pa]
+;W[on]
+;B[om]C[
+
+-- chat --
+dmedak: W+1.5
+]
+;W[js]
+;B[ap]
+;W[hs]
+;B[ga]
+;W[ia]
+;B[bo]
+;W[cc]
+;B[cb]
+;W[bp]
+;B[gs]
+;W[im]
+;B[bo]
+;W[bc]
+;B[bb]
+;W[bp]
+;B[np]
+;W[ka]
+;B[bo]
+;W[bd]
+;B[be]
+;W[bp]
+;B[ea]
+;W[bo]
+;B[lm]
+;W[ki]
+;B[jj]
+;W[mb]
+;B[ph]
+;W[oj]
+;B[il]
+;W[kj]
+;B[oe]
+;W[ha]
+)(;W[jr]
+;B[hn]
+;W[jo]
+;B[gm]C[
+
+-- chat --
+Uberdude: trade?. From move 0: C4 Q16 C16 Q3 F16 E4 E3 F3 D3 F4 Q4 R4 P3 Q5 P4 R3 P5 Q6 L3 C5 B5 B6 D5 C6 D4 E7 D6 C8 H4 N3 D7 D8 E8 F7 E9 B4 B3 A5 F6 J4 J3 H3 H2 G3 H5 G6 F5 G5 G4 K3 J2 K2 H6 K5 G7 
+Uberdude: He's still at Oxford I believe
+]
+))

@@ -36,7 +36,9 @@ PARENS_RE = re.compile(r"\s*\([^)]*\)\s*$")
 
 
 def ascii_fold(s: str) -> str:
-    return "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn")
+    return "".join(
+        c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn"
+    )
 
 
 def slugify(s: str) -> str:
@@ -227,9 +229,67 @@ def h_handler(name: str, created_year: str) -> tuple[str, str | None]:
     ):
         m = re.search(r"\b(20\d{2})\b", n)
         return f"EGF-ProQ-{m.group(1) if m else created_year}", find_round(n)
-    if re.search(r"Croatian\s+Open", n, re.I):
+    if re.search(r"Croatian\s+(?:Go\s+)?O+pen", n, re.I):
         m = re.search(r"\b(20\d{2})\b", n)
         return f"CroatianOpen-{m.group(1) if m else created_year}", find_round(n)
+
+    # Croatian Championship — "Croatian Ch T6", "Cro Ch T6 R3"
+    if re.search(r"\bCro(?:atian)?\s+Ch\b", n, re.I):
+        m = re.search(r"\b(20\d{2})\b", n)
+        return f"CroatianCh-{m.group(1) if m else created_year}", find_round(n)
+
+    # European Pro Championship: "7th European Pro Championship", "9th European Pro Champ"
+    if re.search(r"European\s+Pro\s+Champ", n, re.I):
+        m = re.search(r"\b(20\d{2})\b", n)
+        return f"EuroProCh-{m.group(1) if m else created_year}", find_round(n)
+    # "Pro Championship R3, Vienna" / "Pro Championship Rd 5"
+    if re.search(r"\bPro\s+Championship\b", n, re.I):
+        m = re.search(r"\b(20\d{2})\b", n)
+        return f"EuroProCh-{m.group(1) if m else created_year}", find_round(n)
+
+    # European Women's Go Championship — many apostrophe variants
+    if re.search(r"European\s+Wom[ae]n", n, re.I):
+        m = re.search(r"\b(20\d{2})\b", n)
+        return f"EuroWomenCh-{m.group(1) if m else created_year}", find_round(n)
+
+    # European Youth Championship: EYGC, EYC
+    if re.search(r"\bEYGC\b|\bEYC\b|European\s+Youth", n, re.I):
+        m = re.search(r"\b(20\d{2})\b", n)
+        return f"EYC-{m.group(1) if m else created_year}", find_round(n)
+
+    # Czech and Slovak (Students) Championship
+    if re.search(r"Czech\s+and\s+Slov[aá]k", n, re.I):
+        m = re.search(r"\b(20\d{2})\b", n)
+        return f"CZ-SK-Champ-{m.group(1) if m else created_year}", find_round(n)
+
+    # Frýdek-Místek tournament
+    if re.search(r"Fr[yý]dek", n, re.I):
+        m = re.search(r"\b(20\d{2})\b", n)
+        return f"Frydek-{m.group(1) if m else created_year}", find_round(n)
+
+    # MEJ (Czech: Mistrovství Evropy Juniorů or similar)
+    if re.search(r"\bMEJ\b", n, re.I):
+        m = re.search(r"\b(20\d{2})\b", n)
+        return f"MEJ-{m.group(1) if m else created_year}", find_round(n)
+
+    # BBaron — sibling of Czech Go Baron (probably amateur edition)
+    if re.search(r"BBaron", n, re.I):
+        m = re.search(r"\b(20\d{2})\b", n)
+        return f"BBaron-{m.group(1) if m else created_year}", find_round(n)
+
+    # Demo / placeholder boards: "Demo Board", "Demo-ploča", "Demobrett",
+    # "Plateau de démonstration", "test", "Zkušební hrací deska", "Vježba"
+    if re.search(
+        r"^(?:demo|demobrett|test|vje?ž?ba|uvodni|jakov|karlo|anja|roko)\b",
+        n,
+        re.I,
+    ) or re.search(
+        r"demo[\s\-]?(?:board|plo[čc]a|ploca)|plateau\s+de\s+d[eé]monstration|"
+        r"zkušebn[ií]\s+hrac[ií]\s+deska",
+        n,
+        re.I,
+    ):
+        return "Demo", None
     if re.search(r"Velika\s+Gorica", n, re.I):
         m = re.search(r"\b(20\d{2})\b", n)
         return f"VelikaGorica-{m.group(1) if m else created_year}", find_round(n)
@@ -259,7 +319,12 @@ def h_handler(name: str, created_year: str) -> tuple[str, str | None]:
     if re.search(r"\bEGC\b", n, re.I) or re.search(r"\bweekend\b", n, re.I):
         m = re.search(r"\b(20\d{2})\b", n)
         year = m.group(1) if m else created_year
-        flavor = "Open" if re.search(r"\bopen\b", n, re.I) else "Weekend"
+        if re.search(r"\brapid\b", n, re.I):
+            flavor = "Rapid"
+        elif re.search(r"\bopen\b", n, re.I):
+            flavor = "Open"
+        else:
+            flavor = "Weekend"
         return f"EGC-{flavor}-{year}", find_round(n)
     if re.search(r"\bPETC\b", n, re.I):
         m = re.search(r"\b(20\d{2})\b", n)
@@ -305,10 +370,13 @@ def categorize(name: str, created: str | None) -> tuple[str, str | None]:
 def categorize_with_recorder_fallback(
     name: str, created: str | None, recorder: str | None
 ) -> tuple[str, str | None]:
+    # Empty name → "Misc-<recorder>"
+    if not (name or "").strip():
+        return f"Misc-{recorder or 'unknown'}", None
     key, rnd = categorize(name, created)
     is_fallback = key == slugify(ascii_fold(name).strip())[:32]
     if is_fallback and recorder:
-        return recorder, rnd
+        return f"Misc-{recorder}", rnd
     return key, rnd
 
 
@@ -345,7 +413,9 @@ def main() -> int:
 
     enriched: list[dict] = []
     for r in rows:
-        key, rnd = categorize_with_recorder_fallback(r["name"], r["created"], r.get("recorder"))
+        key, rnd = categorize_with_recorder_fallback(
+            r["name"], r["created"], r.get("recorder")
+        )
         enriched.append({**r, "tourney_key": key, "round": rnd})
 
     # Fill missing rounds via within-tournament chronological order

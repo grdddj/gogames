@@ -1,0 +1,253 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[2024-01-27_Misc-EGF2_R4_Drean-Guenaizia-Kim]
+PC[https://online-go.com/review/1210840]
+PB[Bemjamin Drean-Guenaizia]
+PW[Kim Dohyup]
+BR[6d]
+WR[7d]
+OT[Error: time control missing]
+RE[?]
+SZ[19]
+KM[7.5]
+RU[AGA]
+
+;B[dd]
+;W[pp]
+;B[pd]
+;W[cp]
+;B[ep]
+;W[eq]
+;B[fq]
+;W[dq]
+;B[fp]
+;W[cn]
+;B[nq]
+;W[qn]C[
+
+-- chat --
+Sadaharu: Oh nice match-up
+]
+;B[pq]
+;W[qq]
+;B[qr]
+;W[oq]
+;B[pr]
+;W[op]
+;B[or]
+;W[rq]
+;B[np]
+;W[ip]
+;B[kq]
+;W[mr]
+;B[lr]
+;W[hr]
+;B[gr]
+;W[jr]C[
+
+-- chat --
+EGF2: Indeed !
+]
+;B[fm]
+;W[lp]
+;B[kp]
+;W[in]
+;B[ho]C[
+
+-- chat --
+OndraKruml: Feels a bit strange for white
+]
+;W[ko]
+;B[lo]C[
+
+-- chat --
+Trevoke: I've seen this joseki before, it's called the "Europe nation state moving boundaries" joseki, it recreates how the territories evolved over the past thousand years
+]
+;W[mo]C[
+
+-- chat --
+Trevoke: True story
+]
+;B[ln]
+;W[mp]C[
+
+-- chat --
+hypergeometric: this just looks so weird
+Trevoke: And have you _looked_ at a map of Europe? Ok I'll be quiet
+]
+;B[mq]
+;W[mn]
+;B[mm]
+;W[lm]
+;B[kn]
+;W[km]
+;B[jo]
+;W[jn]
+;B[ko]
+;W[io]C[
+
+-- chat --
+EGF1: Standings after round 2 and pairings of round 3 can be seen here : https://tiggre-elliecup.jeudego.org/tirage-et-resultats/
+]
+;B[ml]
+;W[on]
+;B[rr]
+;W[lk]
+;B[lq]
+;W[no]
+;B[pm]
+;W[ql]
+;B[nj]
+;W[ik]
+;B[hm]
+;W[hn]
+;B[gn]
+;W[gl]
+;B[gm]
+;W[jl]
+;B[qm]
+;W[rm]
+;B[pl]
+;W[qk]
+;B[rn]
+;W[ro]
+;B[rl]
+;W[sn]
+;B[qj]
+;W[rk]
+;B[pj]
+;W[ek]
+;B[dm]
+;W[dn]
+;B[en]
+;W[el]
+;B[em]
+;W[bl]C[
+
+-- chat --
+Jkbleepbloop: who's doing the scribing? :)
+]
+;B[gk]
+;W[fl]
+;B[cl]
+;W[ck]
+;B[bk]
+;W[bj]
+;B[dk]
+;W[ak]
+;B[hk]
+;W[dj]
+;B[hl]
+;W[ii]
+;B[gh]C[
+
+-- chat --
+EGF2: Time left - B 21 / W 33
+Trko: Thanks, what's the time format?
+]
+;W[lh]
+;B[pf]
+;W[pc]
+;B[oc]
+;W[qd]C[
+
+-- chat --
+parabole: 50 mn Fischer time + 15s per additional move
+EGF2: correct
+]
+;B[qc]
+;W[pb]
+;B[od]
+;W[rc]
+;B[qe]
+;W[qb]
+;B[rd]
+;W[ob]
+;B[nb]
+;W[re]
+;B[qc]
+;W[mb]
+;B[nc]
+;W[sd]
+;B[qd]
+;W[ra]
+;B[ig]
+;W[gi]
+;B[fi]
+;W[hh]
+;B[hg]
+;W[fh]
+;B[gg]
+;W[fj]
+;B[ei]C[
+
+-- chat --
+EGF2: Augustin at the moment
+]
+;W[ej]C[
+
+-- chat --
+Jkbleepbloop: nice
+]
+;B[hi]
+;W[hj]
+;B[gj]
+;W[hi]
+;B[eh]
+;W[hp]
+;B[ji]
+;W[mk]
+;B[ll]
+;W[jj]
+;B[ih]
+;W[ij]C[
+
+-- chat --
+EGF2: Black resigns
+]
+;B[mc]
+;W[lb]
+;B[lc]
+;W[kc]
+;B[kd]
+;W[jc]
+;B[kb]
+;W[nm]
+;B[nl]
+;W[ol]
+;B[ok]
+;W[om]
+;B[pk]
+;W[nk]
+;B[kl]
+;W[jm]
+;B[kk]
+;W[kj]
+;B[lj]
+;W[mj]
+;B[mi]
+;W[jk]
+;B[ki]
+;W[il]
+;B[im]
+;W[jp]
+;B[iq]
+;W[jq]
+;B[ir]
+;W[js]
+;B[hq]
+;W[hs]
+;B[gq]
+;W[gp]
+;B[go]
+;W[is]
+;B[gs]
+;W[kr]
+;B[ks]C[
+
+-- chat --
+Alpha Go Deep Mind: 1. From move 0: D16 Q4 Q16 C4 E4 E3 F3 D3 F4 C6 O3 R6 Q3 R3 R2 P3 Q2 P4 P2 S3 O4 J4 L3 N2 M2 H2 G2 K2 F7 M4 L4 J6 H5 L5 M5 N5 M6 N4 N3 N6 N7 M7 L6 L7 K5 K6 L5 J5 N8 P6 S2 M9 M3 O5 Q7 R8 O10 J9 H7 H6 G6 G8 G7 K8 R7 S7 Q8 R9 S6 S5 S8 T6 R10 S9 Q10 E9 D7 D6 E6 E8 E7 B8 G9 F8 C8 C9 B9 B10 D9 A9 H9 D10 H8 J11 G12 M12 Q14 Q17 P17 R16 R17 Q18 P16 S17 R15 R18 S16 P18 O18 S15 R17 N18 O17 T16 R16 S19 J13 G11 F11 H12 H13 F12 G13 F10 E11 E10 H11 H10 G10 H11 E12 H4 K11 N9 M8 K10 J12 J10 N17 M18 M17 L17 L16 K17 L18 O7 O8 P8 P9 P7 Q9 O9 L8 K7 L9 L10 M10 N10 N11 K9 L11 J8 J7 K4 J3 K3 J2 K1 H3 H1 G3 G4 G5 J1 G1 L2 L1 
+Alpha Go Deep Mind: a. From move 0: D16 Q4 Q16 C4 E4 E3 F3 D3 F4 C6 O3 R6 Q3 R3 R2 P3 Q2 P4 P2 S3 O4 J4 L3 N2 M2 H2 G2 K2 F7 M4 L4 J6 H5 L5 M5 N5 M6 N4 N3 N6 N7 M7 L6 L7 K5 K6 L5 J5 N8 P6 S2 M9 M3 O5 Q7 R8 O10 J9 H7 H6 G6 G8 G7 K8 R7 S7 Q8 R9 S6 S5 S8 T6 R10 S9 Q10 E9 D7 D6 E6 E8 E7 B8 G9 F8 C8 C9 B9 B10 D9 A9 H9 D10 H8 J11 G12 M12 Q14 Q17 P17 R16 R17 Q18 P16 S17 R15 R18 S16 P18 O18 S15 R17 N18 O17 T16 R16 S19 J13 G11 F11 H12 H13 F12 G13 F10 E11 E10 H11 H10 G10 H11 E12 H4 K11 N9 M8 K10 J12 J10 N17 M18 M17 L17 L16 K17 L18 O7 O8 P8 P9 P7 Q9 O9 L8 K7 L9 L10 M10 N10 N11 K9 L11 J8 J7 K4 J3 K3 J2 K1 H3 H1 G3 G4 G5 J1 G1 L2 L1 
+]
+)

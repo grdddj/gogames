@@ -1,0 +1,337 @@
+(;FF[4]
+CA[UTF-8]
+GM[1]
+GN[2025-07-26_EuroCh-2025_SF_Surma-Artem]
+PC[https://online-go.com/review/1508181]
+PB[Surma Mateusz]
+PW[Kachanovskyi Artem (3p)]
+BR[3p]
+WR[3p]
+OT[Error: time control missing]
+RE[B+R]
+SZ[19]
+KM[6.5]
+RU[Japanese]
+C[
+
+-- chat --
+EGF1: Semi Final games of European Championship are played with longer thinking time: 80 minutes + 40 seconds increment from the move 1
+EGF1: More information, with the complete tree and links to games transmitted to OGS:https://eurogofed.org/egc/2025.html
+MyBlizzAcc: in the stream they are already playing?
+Uberdude: Artem vs Mateusz, a classic matchup
+Uberdude: is all the kibitz on twitch?
+]
+;B[pd]
+;W[dp]
+;B[pq]
+;W[dd]
+;B[pn]
+;W[qc]
+;B[qd]
+;W[pc]
+;B[nc]
+;W[oc]
+;B[od]
+;W[nb]
+;B[fq]
+;W[cn]
+;B[jp]
+;W[fc]C[
+
+-- chat --
+EGF1: It is fine now
+]
+;B[gd]
+;W[fd]
+;B[gf]C[
+
+-- chat --
+MyBlizzAcc: thank you!
+]
+;W[ql]
+;B[qj]
+;W[ol]
+;B[qm]
+;W[rm]
+;B[rn]
+;W[op]
+;B[nm]
+;W[pp]
+;B[qq]
+;W[qp]C[
+
+-- chat --
+EGF1: Parings for the EGC Weekend tournament: https://roundsboard.com/tournaments/5th-china-town-weiqi-cup/parings
+EGF1: Top four boards will be streamed as well - the round 1 should start at 10:30
+]
+;B[oq]
+;W[np]
+;B[nq]
+;W[ro]
+;B[rl]
+;W[rq]
+;B[mq]
+;W[mp]
+;B[rr]
+;W[sr]
+;B[qr]
+;W[kp]
+;B[kq]
+;W[ko]
+;B[mn]C[
+
+-- chat --
+Radziol: super ruch
+]
+;W[km]
+;B[cf]C[
+
+-- chat --
+Sadaharu: Twitch still talking about next year's congress in Turkiye
+]
+;W[ce]
+;B[df]
+;W[ff]
+;B[fg]
+;W[ge]
+;B[he]
+;W[fe]
+;B[gg]C[
+
+-- chat --
+Uberdude: oh that's why they were talking about air conditioning
+Uberdude: this game I feel like Mateusz getting what he wants, but Artem patient and not sad either
+]
+;W[dj]C[
+
+-- chat --
+gor: We will have a new european champion, none of them ever won it
+]
+;B[dk]C[
+
+-- chat --
+Radziol: Mateusz's answers are never subimissive ;)
+]
+;W[ej]C[
+
+-- chat --
+megabyte0: the AI (katago ai sensei, free) move for w was s9
+Uberdude: to be meaningful you need to give continuation for a random sente like that, does katago continue locally?
+]
+;B[dm]C[
+
+-- chat --
+Uberdude: I predict artem will e13
+]
+;W[fp]C[
+
+-- chat --
+Mrrr: f4 is also nice
+Uberdude: I'm not sure, you might end up losing base in corner for potential attack on d7, when maybe later you would prefer corner
+Uberdude: whereas e13 is guarnateed value exploiting a weakness black didn't defend and was aim of d10 earlier
+Uberdude: if black gets to defend at d12 say, the now e10 is also weak
+Radziol: maybe b can answer c12 on e13 thus not so afraid of it
+Uberdude: yeah sure e13 doesn't make c14 dead, but if black does that white is connecting to e10 and making strong groups
+Uberdude: and if e10 strong d7 weaker
+Mrrr: ok, but would you ignore then f7 as black?
+Mrrr: *f$
+Mrrr: f4 i meant, sorry
+Uberdude: not immediatly, but stronger favour variations to get sente
+Mrrr: white might get both e13 and sweet fruits of f4
+Mrrr: :)
+megabyte0: rather complicated for me, not sure it read the variation right -- anyway, s9-t7-r9-q10-s10-r12-q12-q13-p10-o9-p11-q11-q8-p9-p6-p7-q7-s11-r6, double checked
+]
+;B[eq]
+;W[ep]
+;B[fm]
+;W[gj]C[
+
+-- chat --
+Mrrr: i think this sequence starting with f4 might feel suboptimal, but is also suprising for Mateusz that white actually decided to counterattack
+Mrrr: *surprising
+]
+;B[im]
+;W[jo]C[
+
+-- chat --
+megabyte0: do human players read b h5 now? or the move is ai-only-like?
+Mrrr: they probably read such moves too
+]
+;B[ip]
+;W[io]
+;B[hp]
+;W[ho]
+;B[hk]
+;W[hj]
+;B[ik]
+;W[gp]
+;B[lq]C[
+
+-- chat --
+DutchOpen1: 1. From move 0: Q16 D4 Q3 D16 Q6 R17 R16 Q17 O17 P17 P16 O18 F3 C6 K4 F17 G16 F16 G14 R8 R10 P8 R7 S7 S6 P4 O7 Q4 R3 R4 P3 O4 O3 S5 S8 S3 N3 N4 S2 T2 R2 L4 L3 L5 N6 L7 C14 C15 D14 F14 F13 G15 H15 F15 G13 D10 D9 E10 D7 F4 E3 E4 F7 G10 J7 K5 J4 J5 H4 H5 H9 H10 J9 G4 M3 
+]
+;W[mo]
+;B[gq]
+;W[dq]
+;B[dn]
+;W[do]
+;B[bn]
+;W[co]
+;B[fi]
+;W[fj]
+;B[cj]
+;W[ci]
+;B[bi]
+;W[ck]
+;B[bj]
+;W[bl]
+;B[cl]
+;W[bm]
+;B[bk]
+;W[dh]
+;B[eg]
+;W[ij]
+;B[jk]C[
+
+-- chat --
+Uberdude: white e13 to make e10 strong looking better now eh
+]
+;W[ig]C[
+
+-- chat --
+balthahar: Ladder is good for w
+]
+;B[bg]
+;W[jj]
+;B[kj]
+;W[ki]
+;B[li]
+;W[kh]
+;B[if]
+;W[mg]
+;B[lj]
+;W[jf]
+;B[mb]
+;W[mc]
+;B[nd]
+;W[lb]
+;B[md]
+;W[ma]C[
+
+-- chat --
+pancake: I find it hard to agree with J14. Pushing on with M12 instead would've built something on a large scale. Now white already reduced black's potential with N13. 
+]
+;B[lc]C[
+
+-- chat --
+balthahar: R11 seems interesting
+]
+;W[kc]
+;B[mb]
+;W[bh]
+;B[ah]
+;W[mc]
+;B[ld]
+;W[ie]
+;B[hf]
+;W[je]
+;B[mb]
+;W[jb]
+;B[ob]
+;W[mc]
+;B[id]
+;W[pb]
+;B[nh]
+;W[rk]
+;B[sm]
+;W[ng]
+;B[og]
+;W[oh]
+;B[pg]
+;W[ml]
+;B[nl]
+;W[nk]
+;B[ll]
+;W[mj]C[
+
+-- chat --
+Radziol: m7 looks good
+]
+;B[mh]
+;W[lh]
+;B[mi]
+;W[om]
+;B[on]
+;W[mm]
+;B[nn]
+;W[lm]
+;B[oj]
+;W[ok]
+;B[pk]
+;W[pl]
+;B[qk]C[
+
+-- chat --
+EGF1: https://www.twitch.tv/egf_games
+EGF1: cameras live, with time on clocks shown
+]
+;W[nj]
+;B[oi]
+;W[er]
+;B[be]
+;W[bd]
+;B[ad]
+;W[ac]
+;B[ae]
+;W[bc]
+;B[fr]
+;W[dr]
+;B[de]
+;W[cd]
+;B[fs]
+;W[gc]
+;B[hd]
+;W[rc]
+;B[rd]
+;W[rj]
+;B[qi]
+;W[sd]
+;B[se]
+;W[sc]
+;B[ri]
+;W[hh]
+;B[cm]
+;W[bo]
+;B[mb]
+;W[oa]
+;B[lf]
+;W[lg]
+;B[ib]
+;W[of]
+;B[pf]
+;W[hb]
+;B[jd]
+;W[kf]
+;B[ke]
+;W[mf]
+;B[le]
+;W[gi]
+;B[ia]
+;W[hc]
+;B[ic]
+;W[ch]
+;B[ei]
+;W[di]
+;B[gn]
+;W[go]
+;B[en]C[
+
+-- chat --
+EGF1: White resigned
+Uberdude: Congrats Mateusz, thanks for the broadcast
+Radziol: Nice! 
+EGF1: thanks
+EGF1: 5 hours of playing - it was not easy for them
+EGF1: and the second game is still on
+]
+)
